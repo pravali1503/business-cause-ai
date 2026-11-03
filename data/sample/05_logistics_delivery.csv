@@ -1,0 +1,1151 @@
+Delivery_ID,Delivery_Date,Region,City,Vehicle_Type,Distance_KM,Delivery_Time_Min,On_Time,Delivery_Status,Delivery_Fee,Fuel_Cost,Delivery_Margin,Service_Level
+DLV00001,2025-11-30,East,Bhubaneswar,Van,6.8,11.7,Yes,Delivered,116.6,37.4,79.2,Same Day
+DLV00002,2025-03-28,Central,Bhopal,Bike,7.1,21.5,Yes,Delivered,91.8,15.62,76.18,Standard
+DLV00003,2025-07-05,North,Chandigarh,Bike,35.7,81.7,Yes,Delivered,320.6,78.54,242.06,Standard
+DLV00004,2025-03-06,East,Patna,Bike,20.3,56.1,Yes,Delivered,197.4,44.66,152.74,Standard
+DLV00005,2025-10-08,East,Kolkata,Bike,21.8,56.5,Yes,Delivered,209.4,47.96,161.44,Express
+DLV00006,2025-11-06,South,Hyderabad,Bike,32.9,65.8,Yes,Delayed,298.2,72.38,225.82,Express
+DLV00007,2025-11-22,South,Bengaluru,Van,9.4,28.0,Yes,Delayed,147.8,51.7,96.1,Standard
+DLV00008,2025-10-05,West,Ahmedabad,Bike,33.5,80.7,Yes,Delivered,303.0,73.7,229.3,Standard
+DLV00009,2025-02-05,South,Chennai,Truck,53.2,73.7,Yes,Delivered,992.6,585.2,407.4,Standard
+DLV00010,2025-02-15,East,Bhubaneswar,Bike,17.7,43.9,Yes,Delivered,176.6,38.94,137.66,Express
+DLV00011,2025-02-15,East,Patna,Van,22.5,45.6,Yes,Delivered,305.0,123.75,181.25,Standard
+DLV00012,2025-07-05,West,Pune,Bike,26.7,70.7,Yes,Delivered,248.6,58.74,189.86,Standard
+DLV00013,2025-11-10,West,Mumbai,Bike,32.2,71.4,Yes,Delivered,292.6,70.84,221.76,Express
+DLV00014,2025-01-04,South,Hyderabad,Van,2.4,19.4,Yes,Delivered,63.8,13.2,50.6,Standard
+DLV00015,2025-02-18,East,Bhubaneswar,Bike,12.5,34.2,Yes,Delivered,135.0,27.5,107.5,Standard
+DLV00016,2025-11-15,West,Mumbai,Bike,26.7,82.0,Yes,Delivered,248.6,58.74,189.86,Same Day
+DLV00017,2025-05-13,North,Chandigarh,Truck,174.1,206.4,Yes,Delivered,3168.8,1915.1,1253.7,Standard
+DLV00018,2025-10-07,North,Delhi,Bike,26.5,64.9,Yes,Delivered,247.0,58.3,188.7,Same Day
+DLV00019,2025-07-26,East,Kolkata,Van,5.4,46.3,No,Delayed,99.8,29.7,70.1,Standard
+DLV00020,2025-02-24,North,Jaipur,Bike,15.5,52.5,Yes,Delivered,159.0,34.1,124.9,Standard
+DLV00021,2025-01-27,South,Chennai,Bike,10.5,34.8,Yes,Delivered,119.0,23.1,95.9,Standard
+DLV00022,2025-06-08,East,Patna,Van,29.1,53.8,Yes,Delivered,384.2,160.05,224.15,Standard
+DLV00023,2025-07-18,Central,Nagpur,Bike,26.1,62.7,Yes,Delivered,243.8,57.42,186.38,Standard
+DLV00024,2025-07-15,South,Bengaluru,Van,15.5,64.7,No,Delayed,221.0,85.25,135.75,Same Day
+DLV00025,2025-05-24,South,Hyderabad,Bike,10.6,38.6,Yes,Delivered,119.8,23.32,96.48,Express
+DLV00026,2025-10-03,North,Delhi,Van,15.5,36.7,Yes,Delivered,221.0,85.25,135.75,Same Day
+DLV00027,2025-10-11,Central,Bhopal,Van,23.7,62.5,Yes,Delivered,319.4,130.35,189.05,Same Day
+DLV00028,2025-10-18,West,Ahmedabad,Van,31.0,55.4,Yes,Delivered,407.0,170.5,236.5,Express
+DLV00029,2025-12-02,Central,Bhopal,Truck,158.3,188.7,Yes,Delivered,2884.4,1741.3,1143.1,Standard
+DLV00030,2025-08-22,Central,Bhopal,Van,14.1,40.0,Yes,Delayed,204.2,77.55,126.65,Express
+DLV00031,2025-01-08,South,Chennai,Van,25.9,56.4,Yes,Delivered,345.8,142.45,203.35,Same Day
+DLV00032,2025-07-11,North,Delhi,Van,39.7,66.9,Yes,Delayed,511.4,218.35,293.05,Express
+DLV00033,2025-11-04,East,Patna,Van,2.4,15.1,Yes,Delivered,63.8,13.2,50.6,Standard
+DLV00034,2025-04-11,East,Patna,Bike,13.5,36.5,Yes,Delivered,143.0,29.7,113.3,Standard
+DLV00035,2025-04-09,North,Chandigarh,Van,28.9,47.0,Yes,Delivered,381.8,158.95,222.85,Standard
+DLV00036,2025-09-22,East,Bhubaneswar,Bike,5.2,8.0,Yes,Delivered,76.6,11.44,65.16,Standard
+DLV00037,2025-02-20,North,Chandigarh,Truck,100.3,143.0,Yes,Delivered,1840.4,1103.3,737.1,Same Day
+DLV00038,2025-01-21,Central,Bhopal,Van,30.3,56.4,Yes,Delivered,398.6,166.65,231.95,Express
+DLV00039,2025-03-26,Central,Indore,Van,10.4,32.6,Yes,Delivered,159.8,57.2,102.6,Express
+DLV00040,2025-05-18,Central,Bhopal,Truck,175.7,208.0,Yes,Delivered,3197.6,1932.7,1264.9,Standard
+DLV00041,2025-08-28,North,Delhi,Bike,40.6,96.6,Yes,Delivered,359.8,89.32,270.48,Standard
+DLV00042,2025-06-04,Central,Nagpur,Van,18.4,35.2,Yes,Delayed,255.8,101.2,154.6,Express
+DLV00043,2025-04-22,East,Bhubaneswar,Bike,24.7,48.0,Yes,Delivered,232.6,54.34,178.26,Express
+DLV00044,2025-05-31,North,Jaipur,Van,26.0,59.9,Yes,Delivered,347.0,143.0,204.0,Express
+DLV00045,2025-06-08,North,Jaipur,Truck,169.5,202.0,Yes,Delivered,3086.0,1864.5,1221.5,Standard
+DLV00046,2025-08-27,West,Mumbai,Bike,32.9,81.9,Yes,Delivered,298.2,72.38,225.82,Standard
+DLV00047,2025-10-24,East,Bhubaneswar,Van,22.0,32.1,Yes,Delivered,299.0,121.0,178.0,Express
+DLV00048,2025-01-24,East,Bhubaneswar,Van,19.9,39.6,Yes,Delivered,273.8,109.45,164.35,Standard
+DLV00049,2025-05-14,East,Kolkata,Van,6.1,22.1,Yes,Delivered,108.2,33.55,74.65,Standard
+DLV00050,2025-05-23,North,Delhi,Bike,33.1,79.6,Yes,Delivered,299.8,72.82,226.98,Express
+DLV00051,2025-12-25,North,Chandigarh,Truck,139.8,166.9,Yes,Delivered,2551.4,1537.8,1013.6,Express
+DLV00052,2025-05-26,Central,Bhopal,Van,14.3,37.0,Yes,Failed,206.6,78.65,127.95,Standard
+DLV00053,2025-12-14,East,Bhubaneswar,Van,25.2,45.7,Yes,Delivered,337.4,138.6,198.8,Same Day
+DLV00054,2025-09-22,North,Jaipur,Van,11.3,21.4,Yes,Delivered,170.6,62.15,108.45,Express
+DLV00055,2025-06-20,Central,Indore,Bike,8.6,20.2,Yes,Delivered,103.8,18.92,84.88,Standard
+DLV00056,2025-04-24,North,Delhi,Bike,15.9,34.1,Yes,Delivered,162.2,34.98,127.22,Standard
+DLV00057,2025-06-14,West,Pune,Van,41.7,85.4,Yes,Delivered,535.4,229.35,306.05,Same Day
+DLV00058,2025-03-13,North,Jaipur,Van,25.8,43.7,Yes,Delivered,344.6,141.9,202.7,Standard
+DLV00059,2025-11-09,North,Delhi,Bike,26.0,72.9,Yes,Delivered,243.0,57.2,185.8,Standard
+DLV00060,2025-12-12,North,Jaipur,Van,26.8,52.7,Yes,Delivered,356.6,147.4,209.2,Same Day
+DLV00061,2025-02-16,West,Mumbai,Van,2.6,24.5,No,Delayed,66.2,14.3,51.9,Standard
+DLV00062,2025-11-09,Central,Bhopal,Bike,7.1,24.4,Yes,Delivered,91.8,15.62,76.18,Express
+DLV00063,2025-11-19,East,Kolkata,Truck,170.9,193.6,Yes,Delivered,3111.2,1879.9,1231.3,Standard
+DLV00064,2025-02-01,West,Mumbai,Bike,30.2,82.1,Yes,Delivered,276.6,66.44,210.16,Standard
+DLV00065,2025-12-29,West,Ahmedabad,Van,39.3,62.3,Yes,Delivered,506.6,216.15,290.45,Standard
+DLV00066,2025-07-11,South,Hyderabad,Van,41.2,81.0,Yes,Delivered,529.4,226.6,302.8,Standard
+DLV00067,2025-10-06,Central,Bhopal,Van,34.3,65.8,Yes,Delivered,446.6,188.65,257.95,Express
+DLV00068,2025-05-13,North,Delhi,Van,20.5,59.6,No,Delayed,281.0,112.75,168.25,Standard
+DLV00069,2025-08-18,Central,Bhopal,Bike,33.6,83.4,Yes,Delivered,303.8,73.92,229.88,Standard
+DLV00070,2025-01-30,West,Mumbai,Bike,6.6,26.8,Yes,Delivered,87.8,14.52,73.28,Standard
+DLV00071,2025-06-15,East,Kolkata,Bike,31.7,81.1,Yes,Delivered,288.6,69.74,218.86,Express
+DLV00072,2025-12-15,South,Bengaluru,Van,19.7,35.3,Yes,Delivered,271.4,108.35,163.05,Express
+DLV00073,2025-08-20,Central,Indore,Van,17.6,43.7,Yes,Delivered,246.2,96.8,149.4,Standard
+DLV00074,2025-04-01,West,Mumbai,Bike,34.6,76.2,Yes,Delivered,311.8,76.12,235.68,Standard
+DLV00075,2025-09-04,North,Jaipur,Van,26.9,49.7,Yes,Delivered,357.8,147.95,209.85,Standard
+DLV00076,2025-10-26,North,Chandigarh,Bike,33.8,84.9,Yes,Delivered,305.4,74.36,231.04,Standard
+DLV00077,2025-03-22,West,Ahmedabad,Bike,29.8,65.5,Yes,Delivered,273.4,65.56,207.84,Same Day
+DLV00078,2025-07-30,North,Delhi,Bike,28.5,60.0,Yes,Delivered,263.0,62.7,200.3,Express
+DLV00079,2025-04-15,East,Bhubaneswar,Van,4.4,8.8,Yes,Delivered,87.8,24.2,63.6,Standard
+DLV00080,2025-12-30,South,Hyderabad,Van,5.5,15.5,Yes,Delayed,101.0,30.25,70.75,Express
+DLV00081,2025-05-02,South,Chennai,Bike,27.1,70.9,Yes,Delivered,251.8,59.62,192.18,Express
+DLV00082,2025-02-27,South,Bengaluru,Van,9.4,35.7,Yes,Delivered,147.8,51.7,96.1,Standard
+DLV00083,2025-05-14,West,Mumbai,Bike,38.7,79.6,Yes,Delivered,344.6,85.14,259.46,Same Day
+DLV00084,2025-07-31,North,Chandigarh,Bike,36.2,84.5,Yes,Delivered,324.6,79.64,244.96,Standard
+DLV00085,2025-10-11,West,Pune,Bike,1.9,25.2,No,Delayed,50.2,4.18,46.02,Standard
+DLV00086,2025-09-14,East,Kolkata,Van,43.7,81.9,Yes,Delivered,559.4,240.35,319.05,Express
+DLV00087,2025-04-13,North,Chandigarh,Van,20.4,47.9,Yes,Delivered,279.8,112.2,167.6,Standard
+DLV00088,2025-01-02,West,Pune,Van,42.0,71.4,Yes,Delivered,539.0,231.0,308.0,Standard
+DLV00089,2025-09-15,North,Jaipur,Van,4.8,26.2,Yes,Delivered,92.6,26.4,66.2,Express
+DLV00090,2025-12-03,West,Mumbai,Truck,141.2,174.0,Yes,Delivered,2576.6,1553.2,1023.4,Standard
+DLV00091,2025-05-08,South,Hyderabad,Van,26.9,53.4,Yes,Delivered,357.8,147.95,209.85,Express
+DLV00092,2025-07-09,South,Hyderabad,Van,44.8,115.0,No,Delayed,572.6,246.4,326.2,Standard
+DLV00093,2025-10-18,North,Chandigarh,Bike,2.4,9.1,Yes,Delivered,54.2,5.28,48.92,Express
+DLV00094,2025-09-21,West,Pune,Bike,14.4,39.1,Yes,Delayed,150.2,31.68,118.52,Standard
+DLV00095,2025-02-02,North,Jaipur,Bike,27.9,59.5,Yes,Failed,258.2,61.38,196.82,Standard
+DLV00096,2025-04-16,South,Chennai,Bike,15.5,42.2,Yes,Delivered,159.0,34.1,124.9,Standard
+DLV00097,2025-06-15,Central,Nagpur,Bike,1.9,8.0,Yes,Delivered,50.2,4.18,46.02,Express
+DLV00098,2025-05-29,East,Patna,Van,41.7,71.8,Yes,Delivered,535.4,229.35,306.05,Standard
+DLV00099,2025-01-02,East,Kolkata,Bike,5.7,27.5,Yes,Delivered,80.6,12.54,68.06,Standard
+DLV00100,2025-09-28,Central,Indore,Van,11.3,21.9,Yes,Delivered,170.6,62.15,108.45,Express
+DLV00101,2025-10-02,South,Bengaluru,Bike,3.0,20.3,Yes,Delayed,59.0,6.6,52.4,Standard
+DLV00102,2025-03-04,Central,Nagpur,Van,4.6,26.3,Yes,Delivered,90.2,25.3,64.9,Standard
+DLV00103,2025-11-23,North,Chandigarh,Van,20.4,45.5,Yes,Delivered,279.8,112.2,167.6,Standard
+DLV00104,2025-05-18,North,Delhi,Bike,26.3,61.2,Yes,Delivered,245.4,57.86,187.54,Express
+DLV00105,2025-11-30,West,Ahmedabad,Van,3.8,26.1,No,Delayed,80.6,20.9,59.7,Express
+DLV00106,2025-04-23,East,Patna,Truck,71.7,78.0,Yes,Delivered,1325.6,788.7,536.9,Express
+DLV00107,2025-09-13,South,Bengaluru,Truck,156.6,185.8,Yes,Delivered,2853.8,1722.6,1131.2,Standard
+DLV00108,2025-03-20,West,Mumbai,Van,6.1,20.4,Yes,Delivered,108.2,33.55,74.65,Express
+DLV00109,2025-08-19,East,Patna,Van,10.2,57.8,No,Delayed,157.4,56.1,101.3,Same Day
+DLV00110,2025-06-13,West,Mumbai,Bike,41.7,94.7,Yes,Delivered,368.6,91.74,276.86,Standard
+DLV00111,2025-01-06,East,Bhubaneswar,Van,12.2,24.3,Yes,Delivered,181.4,67.1,114.3,Same Day
+DLV00112,2025-03-06,Central,Bhopal,Truck,97.3,126.1,Yes,Delivered,1786.4,1070.3,716.1,Standard
+DLV00113,2025-10-18,South,Hyderabad,Bike,33.1,79.7,Yes,Delivered,299.8,72.82,226.98,Standard
+DLV00114,2025-11-10,East,Bhubaneswar,Truck,135.8,161.0,Yes,Delivered,2479.4,1493.8,985.6,Standard
+DLV00115,2025-05-15,South,Bengaluru,Van,42.9,81.9,Yes,Delivered,549.8,235.95,313.85,Same Day
+DLV00116,2025-02-23,North,Delhi,Bike,25.3,68.6,Yes,Delivered,237.4,55.66,181.74,Standard
+DLV00117,2025-06-18,East,Bhubaneswar,Bike,19.3,41.6,Yes,Delivered,189.4,42.46,146.94,Standard
+DLV00118,2025-12-31,South,Bengaluru,Van,25.1,53.4,Yes,Delivered,336.2,138.05,198.15,Same Day
+DLV00119,2025-08-29,East,Kolkata,Bike,1.9,27.0,No,Failed,50.2,4.18,46.02,Standard
+DLV00120,2025-12-10,West,Pune,Bike,6.7,14.0,Yes,Delivered,88.6,14.74,73.86,Standard
+DLV00121,2025-07-04,Central,Indore,Van,41.8,87.2,Yes,Delivered,536.6,229.9,306.7,Standard
+DLV00122,2025-05-26,North,Chandigarh,Van,20.0,44.3,Yes,Delivered,275.0,110.0,165.0,Same Day
+DLV00123,2025-07-18,North,Chandigarh,Van,41.9,71.2,Yes,Delivered,537.8,230.45,307.35,Standard
+DLV00124,2025-09-10,South,Chennai,Van,1.0,8.0,Yes,Delivered,47.0,5.5,41.5,Standard
+DLV00125,2025-11-07,Central,Bhopal,Truck,123.6,160.2,Yes,Delivered,2259.8,1359.6,900.2,Standard
+DLV00126,2025-01-14,Central,Nagpur,Van,22.0,39.3,Yes,Delayed,299.0,121.0,178.0,Standard
+DLV00127,2025-11-22,South,Hyderabad,Bike,15.5,32.1,Yes,Delivered,159.0,34.1,124.9,Standard
+DLV00128,2025-08-07,South,Chennai,Van,39.8,104.5,No,Delayed,512.6,218.9,293.7,Standard
+DLV00129,2025-04-18,South,Chennai,Van,17.7,32.8,Yes,Delivered,247.4,97.35,150.05,Standard
+DLV00130,2025-10-11,South,Chennai,Bike,37.8,94.8,Yes,Delivered,337.4,83.16,254.24,Standard
+DLV00131,2025-10-01,West,Mumbai,Van,7.0,12.5,Yes,Delivered,119.0,38.5,80.5,Standard
+DLV00132,2025-03-29,South,Chennai,Bike,4.0,15.3,Yes,Delivered,67.0,8.8,58.2,Express
+DLV00133,2025-06-19,North,Delhi,Van,16.8,36.0,Yes,Delivered,236.6,92.4,144.2,Express
+DLV00134,2025-04-18,East,Kolkata,Truck,178.9,227.5,Yes,Delivered,3255.2,1967.9,1287.3,Express
+DLV00135,2025-04-20,North,Chandigarh,Bike,44.1,99.9,Yes,Delivered,387.8,97.02,290.78,Standard
+DLV00136,2025-08-07,West,Pune,Truck,21.7,30.2,Yes,Delivered,425.6,238.7,186.9,Express
+DLV00137,2025-05-09,East,Bhubaneswar,Van,35.9,85.1,Yes,Delivered,465.8,197.45,268.35,Standard
+DLV00138,2025-10-24,East,Kolkata,Bike,18.6,47.4,Yes,Delivered,183.8,40.92,142.88,Express
+DLV00139,2025-06-12,North,Chandigarh,Bike,42.3,90.4,Yes,Delivered,373.4,93.06,280.34,Standard
+DLV00140,2025-03-15,Central,Nagpur,Bike,11.5,40.3,Yes,Delayed,127.0,25.3,101.7,Standard
+DLV00141,2025-03-29,West,Mumbai,Bike,30.9,87.4,Yes,Delivered,282.2,67.98,214.22,Same Day
+DLV00142,2025-09-16,West,Pune,Truck,97.7,120.9,Yes,Delivered,1793.6,1074.7,718.9,Express
+DLV00143,2025-09-12,East,Kolkata,Van,29.6,53.0,Yes,Delivered,390.2,162.8,227.4,Standard
+DLV00144,2025-08-15,East,Bhubaneswar,Bike,35.2,101.6,Yes,Delivered,316.6,77.44,239.16,Standard
+DLV00145,2025-10-13,Central,Indore,Truck,48.8,73.6,Yes,Delivered,913.4,536.8,376.6,Same Day
+DLV00146,2025-12-02,South,Bengaluru,Truck,99.3,121.6,Yes,Delivered,1822.4,1092.3,730.1,Standard
+DLV00147,2025-01-27,South,Chennai,Bike,28.4,76.4,Yes,Delivered,262.2,62.48,199.72,Same Day
+DLV00148,2025-11-25,West,Ahmedabad,Truck,50.3,56.5,Yes,Delivered,940.4,553.3,387.1,Standard
+DLV00149,2025-08-11,South,Hyderabad,Bike,43.5,123.7,No,Delayed,383.0,95.7,287.3,Same Day
+DLV00150,2025-04-28,South,Hyderabad,Van,42.8,72.9,Yes,Delivered,548.6,235.4,313.2,Standard
+DLV00151,2025-04-23,East,Kolkata,Bike,17.6,46.7,Yes,Delivered,175.8,38.72,137.08,Express
+DLV00152,2025-12-14,West,Ahmedabad,Van,9.4,34.7,Yes,Delivered,147.8,51.7,96.1,Standard
+DLV00153,2025-07-27,Central,Bhopal,Bike,13.7,40.7,Yes,Delivered,144.6,30.14,114.46,Express
+DLV00154,2025-03-20,East,Bhubaneswar,Van,40.2,58.4,Yes,Delivered,517.4,221.1,296.3,Standard
+DLV00155,2025-05-18,North,Delhi,Bike,15.3,33.0,Yes,Delivered,157.4,33.66,123.74,Standard
+DLV00156,2025-11-21,Central,Nagpur,Van,5.4,17.0,Yes,Delivered,99.8,29.7,70.1,Same Day
+DLV00157,2025-10-05,Central,Bhopal,Bike,39.8,81.1,Yes,Delivered,353.4,87.56,265.84,Standard
+DLV00158,2025-03-09,East,Kolkata,Bike,41.5,80.5,Yes,Delayed,367.0,91.3,275.7,Standard
+DLV00159,2025-09-08,West,Ahmedabad,Van,22.8,37.9,Yes,Delayed,308.6,125.4,183.2,Express
+DLV00160,2025-10-16,North,Delhi,Bike,27.3,70.1,Yes,Delayed,253.4,60.06,193.34,Standard
+DLV00161,2025-08-21,North,Delhi,Truck,91.7,116.4,Yes,Delayed,1685.6,1008.7,676.9,Express
+DLV00162,2025-10-01,Central,Bhopal,Van,20.8,35.5,Yes,Delivered,284.6,114.4,170.2,Standard
+DLV00163,2025-05-25,South,Chennai,Van,23.0,57.4,Yes,Delayed,311.0,126.5,184.5,Standard
+DLV00164,2025-05-03,North,Chandigarh,Van,17.6,38.0,Yes,Delivered,246.2,96.8,149.4,Standard
+DLV00165,2025-02-17,South,Chennai,Van,24.6,50.9,Yes,Delivered,330.2,135.3,194.9,Same Day
+DLV00166,2025-01-24,West,Pune,Van,13.6,31.4,Yes,Delivered,198.2,74.8,123.4,Same Day
+DLV00167,2025-10-28,North,Chandigarh,Van,35.8,60.1,Yes,Delivered,464.6,196.9,267.7,Standard
+DLV00168,2025-11-29,East,Kolkata,Truck,6.9,15.0,Yes,Delivered,159.2,75.9,83.3,Standard
+DLV00169,2025-01-13,South,Bengaluru,Truck,7.6,21.6,Yes,Delivered,171.8,83.6,88.2,Standard
+DLV00170,2025-02-04,Central,Nagpur,Van,14.7,21.4,Yes,Delivered,211.4,80.85,130.55,Standard
+DLV00171,2025-06-02,South,Chennai,Truck,40.5,60.4,Yes,Delivered,764.0,445.5,318.5,Express
+DLV00172,2025-04-28,East,Patna,Bike,38.7,83.7,Yes,Delivered,344.6,85.14,259.46,Express
+DLV00173,2025-01-16,West,Mumbai,Bike,16.6,47.6,Yes,Delivered,167.8,36.52,131.28,Standard
+DLV00174,2025-07-14,West,Pune,Van,4.0,12.6,Yes,Delivered,83.0,22.0,61.0,Express
+DLV00175,2025-06-07,West,Ahmedabad,Van,26.8,56.3,Yes,Delivered,356.6,147.4,209.2,Express
+DLV00176,2025-12-01,South,Chennai,Truck,37.2,51.5,Yes,Delivered,704.6,409.2,295.4,Standard
+DLV00177,2025-08-01,Central,Indore,Bike,8.1,30.0,Yes,Delivered,99.8,17.82,81.98,Standard
+DLV00178,2025-05-28,South,Hyderabad,Van,27.5,59.4,Yes,Delivered,365.0,151.25,213.75,Same Day
+DLV00179,2025-05-13,North,Chandigarh,Van,40.1,73.0,Yes,Delivered,516.2,220.55,295.65,Express
+DLV00180,2025-04-12,East,Bhubaneswar,Van,18.6,35.3,Yes,Delayed,258.2,102.3,155.9,Express
+DLV00181,2025-09-20,Central,Bhopal,Van,9.6,24.1,Yes,Delivered,150.2,52.8,97.4,Standard
+DLV00182,2025-06-29,East,Bhubaneswar,Bike,34.1,82.6,Yes,Delivered,307.8,75.02,232.78,Express
+DLV00183,2025-04-18,North,Jaipur,Van,41.9,80.0,Yes,Delivered,537.8,230.45,307.35,Standard
+DLV00184,2025-12-16,North,Chandigarh,Van,1.3,8.0,Yes,Delivered,50.6,7.15,43.45,Standard
+DLV00185,2025-08-26,South,Chennai,Van,15.3,59.6,No,Delayed,218.6,84.15,134.45,Express
+DLV00186,2025-07-12,Central,Indore,Bike,19.4,45.0,Yes,Delayed,190.2,42.68,147.52,Express
+DLV00187,2025-04-23,South,Chennai,Bike,40.9,106.9,Yes,Delivered,362.2,89.98,272.22,Same Day
+DLV00188,2025-11-01,North,Chandigarh,Van,15.4,30.0,Yes,Delivered,219.8,84.7,135.1,Standard
+DLV00189,2025-06-29,East,Kolkata,Truck,39.7,66.6,Yes,Delivered,749.6,436.7,312.9,Standard
+DLV00190,2025-05-08,West,Mumbai,Truck,114.3,132.3,Yes,Delayed,2092.4,1257.3,835.1,Express
+DLV00191,2025-12-06,East,Kolkata,Bike,30.6,70.6,Yes,Delivered,279.8,67.32,212.48,Standard
+DLV00192,2025-11-25,West,Pune,Van,41.1,69.7,Yes,Delivered,528.2,226.05,302.15,Standard
+DLV00193,2025-01-22,Central,Nagpur,Bike,18.5,54.2,Yes,Delivered,183.0,40.7,142.3,Standard
+DLV00194,2025-03-01,South,Bengaluru,Van,1.4,19.6,Yes,Delayed,51.8,7.7,44.1,Express
+DLV00195,2025-03-16,East,Patna,Bike,15.8,31.8,Yes,Delivered,161.4,34.76,126.64,Express
+DLV00196,2025-04-11,South,Hyderabad,Bike,11.1,31.5,Yes,Delivered,123.8,24.42,99.38,Standard
+DLV00197,2025-04-17,East,Kolkata,Truck,36.0,59.6,Yes,Delivered,683.0,396.0,287.0,Standard
+DLV00198,2025-11-09,Central,Bhopal,Van,7.3,14.0,Yes,Delivered,122.6,40.15,82.45,Express
+DLV00199,2025-09-02,East,Kolkata,Van,41.9,66.9,Yes,Delivered,537.8,230.45,307.35,Standard
+DLV00200,2025-12-30,Central,Bhopal,Bike,16.3,50.1,Yes,Delivered,165.4,35.86,129.54,Standard
+DLV00201,2025-09-30,East,Bhubaneswar,Truck,22.1,30.6,Yes,Delayed,432.8,243.1,189.7,Standard
+DLV00202,2025-01-27,North,Delhi,Van,19.4,36.9,Yes,Delivered,267.8,106.7,161.1,Express
+DLV00203,2025-05-21,Central,Bhopal,Bike,35.5,93.4,Yes,Delivered,319.0,78.1,240.9,Standard
+DLV00204,2025-08-21,Central,Nagpur,Van,34.9,64.5,Yes,Delivered,453.8,191.95,261.85,Same Day
+DLV00205,2025-07-04,North,Jaipur,Bike,15.5,35.0,Yes,Delivered,159.0,34.1,124.9,Express
+DLV00206,2025-04-13,West,Ahmedabad,Van,19.5,25.0,Yes,Delivered,269.0,107.25,161.75,Express
+DLV00207,2025-07-20,South,Chennai,Van,4.1,17.6,Yes,Delivered,84.2,22.55,61.65,Standard
+DLV00208,2025-01-08,West,Pune,Bike,17.2,57.0,Yes,Delayed,172.6,37.84,134.76,Same Day
+DLV00209,2025-01-01,West,Ahmedabad,Bike,4.3,27.1,Yes,Delayed,69.4,9.46,59.94,Standard
+DLV00210,2025-03-23,Central,Nagpur,Van,18.8,60.5,No,Failed,260.6,103.4,157.2,Standard
+DLV00211,2025-11-12,East,Patna,Bike,17.2,42.8,Yes,Delivered,172.6,37.84,134.76,Standard
+DLV00212,2025-04-04,South,Hyderabad,Bike,20.9,55.7,Yes,Delivered,202.2,45.98,156.22,Same Day
+DLV00213,2025-02-26,East,Bhubaneswar,Van,8.5,19.2,Yes,Delivered,137.0,46.75,90.25,Express
+DLV00214,2025-05-31,South,Chennai,Van,13.6,23.9,Yes,Delivered,198.2,74.8,123.4,Standard
+DLV00215,2025-05-18,East,Kolkata,Van,15.9,34.5,Yes,Delivered,225.8,87.45,138.35,Standard
+DLV00216,2025-07-28,North,Chandigarh,Bike,28.4,59.6,Yes,Delivered,262.2,62.48,199.72,Standard
+DLV00217,2025-07-03,North,Jaipur,Bike,24.4,62.1,Yes,Delivered,230.2,53.68,176.52,Standard
+DLV00218,2025-04-13,East,Kolkata,Truck,100.4,123.8,Yes,Delivered,1842.2,1104.4,737.8,Same Day
+DLV00219,2025-05-08,East,Kolkata,Bike,32.4,80.9,Yes,Delayed,294.2,71.28,222.92,Express
+DLV00220,2025-03-03,West,Ahmedabad,Van,39.6,76.7,Yes,Delivered,510.2,217.8,292.4,Standard
+DLV00221,2025-05-01,South,Hyderabad,Van,27.3,64.3,Yes,Delivered,362.6,150.15,212.45,Standard
+DLV00222,2025-05-21,East,Bhubaneswar,Bike,19.6,57.4,Yes,Failed,191.8,43.12,148.68,Standard
+DLV00223,2025-01-10,South,Hyderabad,Van,22.5,42.0,Yes,Failed,305.0,123.75,181.25,Standard
+DLV00224,2025-04-30,West,Pune,Truck,144.0,164.6,Yes,Delivered,2627.0,1584.0,1043.0,Same Day
+DLV00225,2025-03-27,West,Mumbai,Bike,24.7,65.2,Yes,Delivered,232.6,54.34,178.26,Express
+DLV00226,2025-07-16,North,Chandigarh,Bike,13.2,42.5,Yes,Delivered,140.6,29.04,111.56,Standard
+DLV00227,2025-09-11,East,Bhubaneswar,Bike,23.5,70.4,Yes,Delivered,223.0,51.7,171.3,Standard
+DLV00228,2025-04-11,North,Chandigarh,Van,38.9,71.6,Yes,Delivered,501.8,213.95,287.85,Standard
+DLV00229,2025-08-13,East,Kolkata,Bike,19.6,71.0,No,Delayed,191.8,43.12,148.68,Same Day
+DLV00230,2025-04-02,South,Bengaluru,Van,27.9,44.3,Yes,Delivered,369.8,153.45,216.35,Standard
+DLV00231,2025-09-19,South,Chennai,Truck,81.8,107.3,Yes,Delivered,1507.4,899.8,607.6,Same Day
+DLV00232,2025-05-02,West,Pune,Bike,31.6,70.9,Yes,Delivered,287.8,69.52,218.28,Standard
+DLV00233,2025-04-04,West,Ahmedabad,Van,29.8,62.1,Yes,Delivered,392.6,163.9,228.7,Standard
+DLV00234,2025-07-20,North,Jaipur,Bike,22.4,64.5,Yes,Delivered,214.2,49.28,164.92,Express
+DLV00235,2025-06-21,South,Chennai,Bike,32.4,77.9,Yes,Delivered,294.2,71.28,222.92,Standard
+DLV00236,2025-03-30,North,Jaipur,Van,9.1,30.6,Yes,Delivered,144.2,50.05,94.15,Standard
+DLV00237,2025-11-03,Central,Bhopal,Van,12.0,30.5,Yes,Failed,179.0,66.0,113.0,Express
+DLV00238,2025-11-19,South,Chennai,Bike,39.6,78.0,Yes,Delivered,351.8,87.12,264.68,Standard
+DLV00239,2025-05-01,North,Delhi,Van,40.5,73.1,Yes,Delivered,521.0,222.75,298.25,Standard
+DLV00240,2025-10-03,West,Ahmedabad,Bike,12.6,39.0,Yes,Delayed,135.8,27.72,108.08,Standard
+DLV00241,2025-11-24,South,Chennai,Van,33.6,67.6,Yes,Delivered,438.2,184.8,253.4,Express
+DLV00242,2025-11-03,East,Kolkata,Van,14.8,44.2,Yes,Delivered,212.6,81.4,131.2,Standard
+DLV00243,2025-05-01,Central,Nagpur,Truck,81.9,103.9,Yes,Failed,1509.2,900.9,608.3,Express
+DLV00244,2025-02-02,East,Kolkata,Van,5.5,27.1,Yes,Delivered,101.0,30.25,70.75,Standard
+DLV00245,2025-11-14,Central,Bhopal,Bike,41.8,104.1,Yes,Delivered,369.4,91.96,277.44,Standard
+DLV00246,2025-09-26,South,Bengaluru,Van,26.8,54.2,Yes,Delivered,356.6,147.4,209.2,Standard
+DLV00247,2025-12-08,North,Chandigarh,Truck,72.8,94.4,Yes,Delivered,1345.4,800.8,544.6,Standard
+DLV00248,2025-10-02,North,Delhi,Truck,168.1,196.5,Yes,Delivered,3060.8,1849.1,1211.7,Standard
+DLV00249,2025-04-25,North,Delhi,Bike,27.9,57.7,Yes,Delivered,258.2,61.38,196.82,Express
+DLV00250,2025-07-29,North,Delhi,Truck,82.6,108.4,Yes,Delayed,1521.8,908.6,613.2,Standard
+DLV00251,2025-04-20,Central,Bhopal,Van,44.7,80.6,Yes,Delivered,571.4,245.85,325.55,Express
+DLV00252,2025-01-06,South,Hyderabad,Bike,44.4,108.1,Yes,Delivered,390.2,97.68,292.52,Express
+DLV00253,2025-01-03,South,Chennai,Van,7.9,31.8,Yes,Delivered,129.8,43.45,86.35,Standard
+DLV00254,2025-10-10,North,Delhi,Truck,149.5,172.3,Yes,Delayed,2726.0,1644.5,1081.5,Standard
+DLV00255,2025-04-26,East,Kolkata,Truck,103.0,128.3,Yes,Delivered,1889.0,1133.0,756.0,Standard
+DLV00256,2025-02-20,West,Ahmedabad,Bike,3.2,18.1,Yes,Delivered,60.6,7.04,53.56,Standard
+DLV00257,2025-06-06,West,Ahmedabad,Van,32.4,52.5,Yes,Delivered,423.8,178.2,245.6,Standard
+DLV00258,2025-12-19,East,Kolkata,Truck,74.6,86.3,Yes,Delivered,1377.8,820.6,557.2,Express
+DLV00259,2025-04-23,South,Hyderabad,Van,34.3,61.8,Yes,Delivered,446.6,188.65,257.95,Express
+DLV00260,2025-01-30,South,Chennai,Bike,17.5,41.8,Yes,Delivered,175.0,38.5,136.5,Same Day
+DLV00261,2025-09-21,West,Mumbai,Bike,34.8,71.1,Yes,Delivered,313.4,76.56,236.84,Standard
+DLV00262,2025-06-30,Central,Bhopal,Truck,16.9,29.6,Yes,Delivered,339.2,185.9,153.3,Standard
+DLV00263,2025-10-01,East,Kolkata,Bike,30.7,81.1,Yes,Delivered,280.6,67.54,213.06,Standard
+DLV00264,2025-12-22,Central,Bhopal,Van,13.1,28.5,Yes,Delivered,192.2,72.05,120.15,Standard
+DLV00265,2025-10-23,West,Ahmedabad,Bike,32.3,74.3,Yes,Delivered,293.4,71.06,222.34,Standard
+DLV00266,2025-07-22,East,Kolkata,Van,40.1,93.5,Yes,Delivered,516.2,220.55,295.65,Standard
+DLV00267,2025-05-21,West,Mumbai,Bike,19.6,56.2,Yes,Delivered,191.8,43.12,148.68,Standard
+DLV00268,2025-10-01,North,Jaipur,Truck,166.3,200.6,Yes,Delivered,3028.4,1829.3,1199.1,Standard
+DLV00269,2025-11-24,West,Pune,Van,44.2,74.7,Yes,Delivered,565.4,243.1,322.3,Express
+DLV00270,2025-11-02,Central,Bhopal,Van,27.1,51.9,Yes,Delayed,360.2,149.05,211.15,Express
+DLV00271,2025-08-11,Central,Nagpur,Bike,3.5,19.0,Yes,Delivered,63.0,7.7,55.3,Express
+DLV00272,2025-11-01,West,Pune,Van,44.9,80.7,Yes,Delivered,573.8,246.95,326.85,Express
+DLV00273,2025-02-10,West,Mumbai,Bike,2.4,15.2,Yes,Delivered,54.2,5.28,48.92,Standard
+DLV00274,2025-01-21,South,Hyderabad,Bike,34.5,79.2,Yes,Delivered,311.0,75.9,235.1,Standard
+DLV00275,2025-08-02,North,Delhi,Van,4.9,27.0,Yes,Delivered,93.8,26.95,66.85,Same Day
+DLV00276,2025-04-16,West,Pune,Bike,17.9,57.6,Yes,Delivered,178.2,39.38,138.82,Express
+DLV00277,2025-01-17,Central,Indore,Truck,36.3,54.1,Yes,Delivered,688.4,399.3,289.1,Standard
+DLV00278,2025-12-16,South,Hyderabad,Bike,9.0,41.9,No,Delayed,107.0,19.8,87.2,Same Day
+DLV00279,2025-09-12,West,Mumbai,Van,44.8,80.7,Yes,Delivered,572.6,246.4,326.2,Standard
+DLV00280,2025-02-15,Central,Bhopal,Van,13.0,37.8,Yes,Delivered,191.0,71.5,119.5,Standard
+DLV00281,2025-06-29,East,Bhubaneswar,Bike,34.1,74.4,Yes,Delivered,307.8,75.02,232.78,Express
+DLV00282,2025-07-12,South,Bengaluru,Bike,20.2,73.1,No,Delayed,196.6,44.44,152.16,Same Day
+DLV00283,2025-07-24,Central,Indore,Bike,5.4,30.2,Yes,Delivered,78.2,11.88,66.32,Standard
+DLV00284,2025-03-25,South,Bengaluru,Bike,42.0,101.3,Yes,Delivered,371.0,92.4,278.6,Standard
+DLV00285,2025-10-23,Central,Nagpur,Truck,6.9,12.6,Yes,Delivered,159.2,75.9,83.3,Standard
+DLV00286,2025-01-28,Central,Nagpur,Bike,25.5,65.6,Yes,Delayed,239.0,56.1,182.9,Same Day
+DLV00287,2025-11-11,South,Chennai,Van,30.9,50.5,Yes,Delivered,405.8,169.95,235.85,Standard
+DLV00288,2025-03-28,East,Bhubaneswar,Van,4.5,21.6,Yes,Delivered,89.0,24.75,64.25,Standard
+DLV00289,2025-01-17,East,Bhubaneswar,Van,24.3,37.8,Yes,Delivered,326.6,133.65,192.95,Same Day
+DLV00290,2025-06-13,South,Hyderabad,Bike,22.8,50.7,Yes,Delivered,217.4,50.16,167.24,Standard
+DLV00291,2025-02-27,East,Patna,Bike,25.1,57.4,Yes,Delivered,235.8,55.22,180.58,Standard
+DLV00292,2025-08-11,West,Pune,Truck,89.0,105.0,Yes,Delivered,1637.0,979.0,658.0,Express
+DLV00293,2025-07-07,South,Chennai,Truck,39.5,73.1,Yes,Delivered,746.0,434.5,311.5,Express
+DLV00294,2025-08-14,East,Kolkata,Van,8.3,42.1,No,Delayed,134.6,45.65,88.95,Standard
+DLV00295,2025-01-31,West,Mumbai,Truck,95.4,119.1,Yes,Delivered,1752.2,1049.4,702.8,Standard
+DLV00296,2025-08-16,North,Jaipur,Van,19.1,43.1,Yes,Delivered,264.2,105.05,159.15,Express
+DLV00297,2025-03-27,East,Bhubaneswar,Bike,5.1,26.2,Yes,Delivered,75.8,11.22,64.58,Standard
+DLV00298,2025-11-09,Central,Indore,Van,10.7,29.6,Yes,Delivered,163.4,58.85,104.55,Standard
+DLV00299,2025-09-05,East,Kolkata,Van,30.3,65.8,Yes,Delivered,398.6,166.65,231.95,Standard
+DLV00300,2025-10-16,West,Pune,Bike,21.5,68.2,Yes,Delivered,207.0,47.3,159.7,Standard
+DLV00301,2025-06-07,South,Chennai,Bike,21.1,70.0,No,Delayed,203.8,46.42,157.38,Standard
+DLV00302,2025-01-22,North,Chandigarh,Van,36.2,83.9,Yes,Delivered,469.4,199.1,270.3,Standard
+DLV00303,2025-02-21,Central,Indore,Van,6.8,37.0,No,Failed,116.6,37.4,79.2,Standard
+DLV00304,2025-04-15,South,Bengaluru,Bike,32.5,86.4,Yes,Delivered,295.0,71.5,223.5,Standard
+DLV00305,2025-04-17,Central,Nagpur,Truck,88.6,104.3,Yes,Delivered,1629.8,974.6,655.2,Same Day
+DLV00306,2025-06-02,Central,Nagpur,Van,13.3,30.9,Yes,Delayed,194.6,73.15,121.45,Same Day
+DLV00307,2025-06-24,East,Bhubaneswar,Bike,43.4,103.2,Yes,Delivered,382.2,95.48,286.72,Standard
+DLV00308,2025-01-30,Central,Nagpur,Truck,170.1,203.9,Yes,Failed,3096.8,1871.1,1225.7,Standard
+DLV00309,2025-08-14,North,Chandigarh,Bike,35.1,85.1,Yes,Delivered,315.8,77.22,238.58,Standard
+DLV00310,2025-12-09,South,Chennai,Bike,34.7,81.7,Yes,Delivered,312.6,76.34,236.26,Standard
+DLV00311,2025-10-24,South,Bengaluru,Truck,106.1,125.7,Yes,Delayed,1944.8,1167.1,777.7,Standard
+DLV00312,2025-05-14,South,Chennai,Bike,20.6,42.1,Yes,Delivered,199.8,45.32,154.48,Standard
+DLV00313,2025-06-06,North,Jaipur,Truck,95.3,126.5,Yes,Delivered,1750.4,1048.3,702.1,Standard
+DLV00314,2025-03-15,North,Chandigarh,Van,25.1,51.8,Yes,Delivered,336.2,138.05,198.15,Standard
+DLV00315,2025-11-18,Central,Bhopal,Van,30.1,66.9,Yes,Delivered,396.2,165.55,230.65,Standard
+DLV00316,2025-09-26,North,Jaipur,Van,30.3,56.9,Yes,Delayed,398.6,166.65,231.95,Same Day
+DLV00317,2025-07-17,South,Chennai,Van,40.9,95.4,Yes,Delayed,525.8,224.95,300.85,Same Day
+DLV00318,2025-06-27,Central,Indore,Van,21.0,52.6,Yes,Delayed,287.0,115.5,171.5,Express
+DLV00319,2025-05-28,Central,Nagpur,Bike,44.7,96.9,Yes,Delivered,392.6,98.34,294.26,Standard
+DLV00320,2025-05-31,East,Kolkata,Truck,172.8,201.0,Yes,Delivered,3145.4,1900.8,1244.6,Standard
+DLV00321,2025-01-21,Central,Nagpur,Van,25.9,58.3,Yes,Delayed,345.8,142.45,203.35,Standard
+DLV00322,2025-04-11,South,Bengaluru,Truck,128.1,154.5,Yes,Delayed,2340.8,1409.1,931.7,Standard
+DLV00323,2025-06-05,West,Pune,Truck,19.1,31.2,Yes,Delivered,378.8,210.1,168.7,Standard
+DLV00324,2025-10-27,South,Bengaluru,Van,25.5,57.0,Yes,Delivered,341.0,140.25,200.75,Same Day
+DLV00325,2025-11-20,Central,Bhopal,Van,1.4,17.7,Yes,Delivered,51.8,7.7,44.1,Standard
+DLV00326,2025-03-02,North,Chandigarh,Bike,23.8,64.0,Yes,Delivered,225.4,52.36,173.04,Standard
+DLV00327,2025-10-24,East,Kolkata,Bike,2.2,9.6,Yes,Delivered,52.6,4.84,47.76,Standard
+DLV00328,2025-05-30,North,Delhi,Bike,30.1,71.3,Yes,Delivered,275.8,66.22,209.58,Standard
+DLV00329,2025-12-18,Central,Bhopal,Bike,28.0,52.0,Yes,Delivered,259.0,61.6,197.4,Standard
+DLV00330,2025-10-12,North,Delhi,Bike,44.8,97.1,Yes,Delivered,393.4,98.56,294.84,Standard
+DLV00331,2025-09-30,North,Chandigarh,Van,9.3,22.8,Yes,Delivered,146.6,51.15,95.45,Express
+DLV00332,2025-04-04,East,Patna,Van,30.7,59.7,Yes,Delivered,403.4,168.85,234.55,Express
+DLV00333,2025-01-28,Central,Bhopal,Truck,124.5,155.8,Yes,Delivered,2276.0,1369.5,906.5,Same Day
+DLV00334,2025-12-22,Central,Bhopal,Van,23.1,50.8,Yes,Delivered,312.2,127.05,185.15,Standard
+DLV00335,2025-06-14,East,Kolkata,Bike,44.7,103.3,Yes,Delivered,392.6,98.34,294.26,Standard
+DLV00336,2025-11-09,South,Hyderabad,Bike,42.1,96.8,Yes,Delivered,371.8,92.62,279.18,Standard
+DLV00337,2025-07-02,East,Patna,Van,24.8,64.2,Yes,Delayed,332.6,136.4,196.2,Standard
+DLV00338,2025-08-22,North,Jaipur,Bike,33.3,72.1,Yes,Delayed,301.4,73.26,228.14,Standard
+DLV00339,2025-02-20,Central,Indore,Van,11.0,22.6,Yes,Delivered,167.0,60.5,106.5,Standard
+DLV00340,2025-01-15,East,Patna,Bike,24.8,65.7,Yes,Delivered,233.4,54.56,178.84,Standard
+DLV00341,2025-09-16,North,Chandigarh,Truck,39.5,59.3,Yes,Delivered,746.0,434.5,311.5,Standard
+DLV00342,2025-10-09,West,Mumbai,Van,31.6,59.7,Yes,Delivered,414.2,173.8,240.4,Express
+DLV00343,2025-05-12,North,Jaipur,Van,25.4,49.8,Yes,Delayed,339.8,139.7,200.1,Standard
+DLV00344,2025-08-21,South,Hyderabad,Van,38.0,92.5,No,Delayed,491.0,209.0,282.0,Standard
+DLV00345,2025-11-03,East,Bhubaneswar,Van,9.1,27.6,Yes,Delivered,144.2,50.05,94.15,Same Day
+DLV00346,2025-01-03,North,Delhi,Bike,40.2,107.1,Yes,Delivered,356.6,88.44,268.16,Standard
+DLV00347,2025-10-08,West,Mumbai,Van,35.0,73.1,Yes,Delivered,455.0,192.5,262.5,Express
+DLV00348,2025-04-11,North,Chandigarh,Van,28.6,63.1,Yes,Delayed,378.2,157.3,220.9,Express
+DLV00349,2025-01-11,North,Jaipur,Truck,37.6,57.3,Yes,Delivered,711.8,413.6,298.2,Standard
+DLV00350,2025-09-07,South,Hyderabad,Bike,28.2,61.0,Yes,Delivered,260.6,62.04,198.56,Standard
+DLV00351,2025-12-25,Central,Nagpur,Bike,20.4,57.0,Yes,Delivered,198.2,44.88,153.32,Standard
+DLV00352,2025-10-11,North,Jaipur,Van,40.9,75.8,Yes,Delivered,525.8,224.95,300.85,Standard
+DLV00353,2025-05-17,East,Bhubaneswar,Van,40.4,73.0,Yes,Delivered,519.8,222.2,297.6,Same Day
+DLV00354,2025-11-13,Central,Nagpur,Bike,10.3,41.1,Yes,Delivered,117.4,22.66,94.74,Standard
+DLV00355,2025-11-24,East,Kolkata,Bike,10.0,30.5,Yes,Delivered,115.0,22.0,93.0,Standard
+DLV00356,2025-07-08,North,Delhi,Bike,21.4,61.6,Yes,Delayed,206.2,47.08,159.12,Standard
+DLV00357,2025-02-14,South,Hyderabad,Van,28.7,61.0,Yes,Delivered,379.4,157.85,221.55,Standard
+DLV00358,2025-02-20,Central,Indore,Van,31.3,53.8,Yes,Delivered,410.6,172.15,238.45,Standard
+DLV00359,2025-07-27,West,Mumbai,Van,26.9,62.7,Yes,Delivered,357.8,147.95,209.85,Standard
+DLV00360,2025-09-13,South,Chennai,Van,22.0,34.1,Yes,Delivered,299.0,121.0,178.0,Standard
+DLV00361,2025-08-06,South,Bengaluru,Bike,30.4,92.2,No,Delayed,278.2,66.88,211.32,Same Day
+DLV00362,2025-05-05,South,Chennai,Truck,120.5,140.2,Yes,Delivered,2204.0,1325.5,878.5,Express
+DLV00363,2025-08-04,South,Bengaluru,Bike,42.5,115.6,Yes,Delivered,375.0,93.5,281.5,Express
+DLV00364,2025-06-18,West,Ahmedabad,Bike,3.7,36.2,No,Delayed,64.6,8.14,56.46,Express
+DLV00365,2025-06-05,East,Patna,Bike,12.3,39.0,Yes,Delivered,133.4,27.06,106.34,Same Day
+DLV00366,2025-08-06,East,Kolkata,Truck,40.4,55.8,Yes,Delivered,762.2,444.4,317.8,Standard
+DLV00367,2025-12-11,South,Chennai,Van,35.4,55.3,Yes,Delivered,459.8,194.7,265.1,Same Day
+DLV00368,2025-09-24,West,Mumbai,Truck,74.4,100.6,Yes,Delivered,1374.2,818.4,555.8,Standard
+DLV00369,2025-12-21,North,Jaipur,Bike,34.9,88.0,Yes,Delivered,314.2,76.78,237.42,Express
+DLV00370,2025-04-06,South,Bengaluru,Bike,17.9,37.3,Yes,Delivered,178.2,39.38,138.82,Standard
+DLV00371,2025-06-14,North,Delhi,Van,12.0,35.0,Yes,Delayed,179.0,66.0,113.0,Standard
+DLV00372,2025-04-18,West,Mumbai,Truck,93.5,109.3,Yes,Delivered,1718.0,1028.5,689.5,Same Day
+DLV00373,2025-02-13,Central,Nagpur,Bike,25.8,70.7,Yes,Delivered,241.4,56.76,184.64,Same Day
+DLV00374,2025-10-08,Central,Indore,Van,26.9,54.2,Yes,Delivered,357.8,147.95,209.85,Express
+DLV00375,2025-08-24,Central,Indore,Truck,38.6,68.7,Yes,Delivered,729.8,424.6,305.2,Same Day
+DLV00376,2025-08-04,North,Jaipur,Van,28.8,54.1,Yes,Delivered,380.6,158.4,222.2,Standard
+DLV00377,2025-05-17,North,Jaipur,Van,3.7,18.6,Yes,Delivered,79.4,20.35,59.05,Standard
+DLV00378,2025-01-16,West,Mumbai,Bike,29.0,62.2,Yes,Delivered,267.0,63.8,203.2,Express
+DLV00379,2025-06-16,West,Ahmedabad,Van,27.4,47.4,Yes,Delivered,363.8,150.7,213.1,Standard
+DLV00380,2025-04-05,North,Jaipur,Bike,43.2,92.2,Yes,Delivered,380.6,95.04,285.56,Standard
+DLV00381,2025-02-25,Central,Bhopal,Van,28.3,74.5,No,Delayed,374.6,155.65,218.95,Express
+DLV00382,2025-10-28,Central,Bhopal,Van,31.8,64.1,Yes,Delivered,416.6,174.9,241.7,Same Day
+DLV00383,2025-01-09,Central,Indore,Bike,32.5,75.3,Yes,Delivered,295.0,71.5,223.5,Standard
+DLV00384,2025-08-23,East,Kolkata,Van,42.9,93.9,Yes,Delivered,549.8,235.95,313.85,Standard
+DLV00385,2025-02-10,Central,Bhopal,Van,31.5,64.4,Yes,Failed,413.0,173.25,239.75,Same Day
+DLV00386,2025-06-25,West,Pune,Truck,89.6,110.9,Yes,Delivered,1647.8,985.6,662.2,Express
+DLV00387,2025-03-13,West,Mumbai,Van,23.1,50.4,Yes,Delayed,312.2,127.05,185.15,Standard
+DLV00388,2025-06-15,South,Chennai,Van,3.0,22.7,Yes,Delivered,71.0,16.5,54.5,Express
+DLV00389,2025-09-30,South,Bengaluru,Bike,33.4,88.5,Yes,Delayed,302.2,73.48,228.72,Same Day
+DLV00390,2025-10-16,West,Pune,Bike,26.7,67.7,Yes,Delivered,248.6,58.74,189.86,Standard
+DLV00391,2025-12-18,East,Kolkata,Bike,13.5,28.9,Yes,Delivered,143.0,29.7,113.3,Express
+DLV00392,2025-04-22,Central,Nagpur,Van,41.2,70.0,Yes,Delivered,529.4,226.6,302.8,Standard
+DLV00393,2025-03-17,West,Ahmedabad,Van,4.1,15.7,Yes,Delivered,84.2,22.55,61.65,Standard
+DLV00394,2025-11-25,Central,Indore,Bike,16.9,56.3,Yes,Delivered,170.2,37.18,133.02,Same Day
+DLV00395,2025-03-17,East,Kolkata,Van,12.5,38.4,Yes,Delayed,185.0,68.75,116.25,Standard
+DLV00396,2025-09-03,East,Kolkata,Van,37.6,69.5,Yes,Delivered,486.2,206.8,279.4,Standard
+DLV00397,2025-11-29,South,Hyderabad,Van,25.1,47.7,Yes,Delivered,336.2,138.05,198.15,Standard
+DLV00398,2025-05-26,Central,Nagpur,Van,38.8,69.6,Yes,Delivered,500.6,213.4,287.2,Express
+DLV00399,2025-02-20,Central,Nagpur,Bike,9.7,30.4,Yes,Delivered,112.6,21.34,91.26,Standard
+DLV00400,2025-07-18,Central,Bhopal,Van,20.2,25.4,Yes,Delivered,277.4,111.1,166.3,Standard
+DLV00401,2025-02-23,North,Jaipur,Bike,13.7,32.0,Yes,Delivered,144.6,30.14,114.46,Express
+DLV00402,2025-03-03,Central,Nagpur,Bike,29.9,62.7,Yes,Delayed,274.2,65.78,208.42,Standard
+DLV00403,2025-04-01,North,Chandigarh,Bike,7.8,36.5,Yes,Delivered,97.4,17.16,80.24,Standard
+DLV00404,2025-08-30,North,Delhi,Truck,50.0,61.7,Yes,Delivered,935.0,550.0,385.0,Standard
+DLV00405,2025-12-30,Central,Nagpur,Bike,6.8,22.4,Yes,Delivered,89.4,14.96,74.44,Standard
+DLV00406,2025-09-26,South,Bengaluru,Truck,86.5,103.1,Yes,Delivered,1592.0,951.5,640.5,Express
+DLV00407,2025-11-13,North,Delhi,Truck,153.7,175.1,Yes,Delayed,2801.6,1690.7,1110.9,Standard
+DLV00408,2025-10-15,West,Pune,Van,34.0,56.0,Yes,Delivered,443.0,187.0,256.0,Same Day
+DLV00409,2025-01-19,North,Delhi,Van,25.9,46.3,Yes,Delivered,345.8,142.45,203.35,Standard
+DLV00410,2025-07-11,North,Chandigarh,Van,28.4,60.3,Yes,Delivered,375.8,156.2,219.6,Express
+DLV00411,2025-03-15,Central,Nagpur,Van,2.0,15.7,Yes,Delivered,59.0,11.0,48.0,Standard
+DLV00412,2025-07-04,Central,Nagpur,Truck,15.6,30.2,Yes,Delivered,315.8,171.6,144.2,Same Day
+DLV00413,2025-03-18,South,Hyderabad,Bike,27.3,52.4,Yes,Delivered,253.4,60.06,193.34,Standard
+DLV00414,2025-12-11,South,Hyderabad,Bike,9.8,14.4,Yes,Delivered,113.4,21.56,91.84,Standard
+DLV00415,2025-03-21,East,Kolkata,Bike,27.3,82.0,Yes,Failed,253.4,60.06,193.34,Standard
+DLV00416,2025-06-02,Central,Nagpur,Bike,35.2,88.2,Yes,Delivered,316.6,77.44,239.16,Standard
+DLV00417,2025-02-05,Central,Indore,Van,32.2,46.9,Yes,Delivered,421.4,177.1,244.3,Standard
+DLV00418,2025-04-18,East,Kolkata,Van,5.5,21.8,Yes,Delivered,101.0,30.25,70.75,Standard
+DLV00419,2025-09-17,West,Ahmedabad,Van,33.1,56.2,Yes,Delivered,432.2,182.05,250.15,Standard
+DLV00420,2025-08-02,North,Chandigarh,Bike,39.5,79.2,Yes,Delivered,351.0,86.9,264.1,Standard
+DLV00421,2025-05-29,South,Chennai,Truck,30.2,48.7,Yes,Delivered,578.6,332.2,246.4,Express
+DLV00422,2025-04-26,West,Pune,Bike,40.3,87.9,Yes,Delivered,357.4,88.66,268.74,Express
+DLV00423,2025-07-12,West,Mumbai,Van,16.9,30.2,Yes,Delivered,237.8,92.95,144.85,Standard
+DLV00424,2025-06-19,East,Bhubaneswar,Van,5.3,17.7,Yes,Delivered,98.6,29.15,69.45,Standard
+DLV00425,2025-02-26,South,Hyderabad,Van,22.4,38.0,Yes,Delivered,303.8,123.2,180.6,Express
+DLV00426,2025-03-06,East,Patna,Bike,34.4,77.3,Yes,Failed,310.2,75.68,234.52,Express
+DLV00427,2025-08-16,South,Hyderabad,Van,30.1,88.2,No,Delayed,396.2,165.55,230.65,Standard
+DLV00428,2025-12-18,West,Mumbai,Bike,41.8,98.0,Yes,Delivered,369.4,91.96,277.44,Same Day
+DLV00429,2025-07-02,South,Hyderabad,Bike,6.7,52.8,No,Delayed,88.6,14.74,73.86,Standard
+DLV00430,2025-05-23,East,Bhubaneswar,Van,8.1,25.9,Yes,Delivered,132.2,44.55,87.65,Express
+DLV00431,2025-01-03,East,Patna,Van,43.3,78.7,Yes,Delivered,554.6,238.15,316.45,Standard
+DLV00432,2025-11-07,South,Bengaluru,Van,19.9,42.2,Yes,Delivered,273.8,109.45,164.35,Standard
+DLV00433,2025-06-23,North,Chandigarh,Van,12.9,28.5,Yes,Delayed,189.8,70.95,118.85,Standard
+DLV00434,2025-03-09,West,Pune,Bike,3.4,21.8,Yes,Delivered,62.2,7.48,54.72,Standard
+DLV00435,2025-11-25,West,Mumbai,Bike,22.5,59.3,Yes,Delayed,215.0,49.5,165.5,Standard
+DLV00436,2025-10-10,Central,Nagpur,Bike,4.6,28.1,Yes,Delivered,71.8,10.12,61.68,Standard
+DLV00437,2025-05-29,East,Patna,Van,40.4,70.1,Yes,Delivered,519.8,222.2,297.6,Standard
+DLV00438,2025-08-18,South,Bengaluru,Van,5.9,36.9,No,Delayed,105.8,32.45,73.35,Express
+DLV00439,2025-09-13,South,Chennai,Van,16.1,37.6,Yes,Delivered,228.2,88.55,139.65,Standard
+DLV00440,2025-12-31,Central,Indore,Bike,21.4,48.5,Yes,Delivered,206.2,47.08,159.12,Same Day
+DLV00441,2025-04-23,North,Chandigarh,Van,31.4,62.2,Yes,Delivered,411.8,172.7,239.1,Standard
+DLV00442,2025-09-06,East,Bhubaneswar,Van,5.8,24.6,Yes,Delivered,104.6,31.9,72.7,Standard
+DLV00443,2025-02-04,West,Pune,Bike,28.5,65.4,Yes,Delivered,263.0,62.7,200.3,Standard
+DLV00444,2025-04-03,South,Bengaluru,Van,41.8,66.1,Yes,Delivered,536.6,229.9,306.7,Standard
+DLV00445,2025-07-06,South,Hyderabad,Van,40.6,106.5,No,Delayed,522.2,223.3,298.9,Same Day
+DLV00446,2025-11-12,West,Pune,Bike,10.1,24.6,Yes,Delivered,115.8,22.22,93.58,Same Day
+DLV00447,2025-07-03,West,Ahmedabad,Bike,11.7,37.6,Yes,Delivered,128.6,25.74,102.86,Standard
+DLV00448,2025-02-04,South,Chennai,Bike,42.4,103.9,Yes,Delivered,374.2,93.28,280.92,Express
+DLV00449,2025-09-24,Central,Indore,Bike,10.5,34.4,Yes,Delivered,119.0,23.1,95.9,Express
+DLV00450,2025-02-26,Central,Indore,Truck,147.2,158.2,Yes,Delivered,2684.6,1619.2,1065.4,Standard
+DLV00451,2025-01-12,North,Delhi,Bike,41.2,85.0,Yes,Delivered,364.6,90.64,273.96,Standard
+DLV00452,2025-10-17,South,Chennai,Truck,11.2,12.0,Yes,Delivered,236.6,123.2,113.4,Standard
+DLV00453,2025-12-10,Central,Indore,Bike,42.2,107.0,Yes,Delivered,372.6,92.84,279.76,Standard
+DLV00454,2025-05-11,East,Bhubaneswar,Bike,1.9,24.1,No,Delayed,50.2,4.18,46.02,Standard
+DLV00455,2025-06-23,West,Pune,Bike,15.6,44.8,Yes,Delivered,159.8,34.32,125.48,Standard
+DLV00456,2025-03-24,East,Bhubaneswar,Bike,14.4,35.8,Yes,Delivered,150.2,31.68,118.52,Standard
+DLV00457,2025-11-28,Central,Indore,Van,27.7,54.5,Yes,Delivered,367.4,152.35,215.05,Standard
+DLV00458,2025-05-31,Central,Nagpur,Truck,21.1,44.2,Yes,Delivered,414.8,232.1,182.7,Express
+DLV00459,2025-10-02,Central,Indore,Bike,18.6,40.7,Yes,Delivered,183.8,40.92,142.88,Express
+DLV00460,2025-09-16,South,Chennai,Bike,30.9,83.6,Yes,Delivered,282.2,67.98,214.22,Standard
+DLV00461,2025-04-18,West,Ahmedabad,Truck,91.6,113.3,Yes,Delivered,1683.8,1007.6,676.2,Express
+DLV00462,2025-08-08,Central,Nagpur,Bike,16.3,51.6,Yes,Delivered,165.4,35.86,129.54,Express
+DLV00463,2025-12-17,East,Patna,Bike,28.8,77.4,Yes,Delivered,265.4,63.36,202.04,Standard
+DLV00464,2025-03-07,West,Mumbai,Bike,33.9,70.5,Yes,Delivered,306.2,74.58,231.62,Standard
+DLV00465,2025-02-27,East,Patna,Van,12.3,33.3,Yes,Delivered,182.6,67.65,114.95,Standard
+DLV00466,2025-08-16,East,Kolkata,Bike,38.1,100.2,Yes,Delivered,339.8,83.82,255.98,Standard
+DLV00467,2025-12-22,South,Chennai,Van,6.5,18.9,Yes,Delivered,113.0,35.75,77.25,Standard
+DLV00468,2025-09-06,Central,Nagpur,Van,15.7,23.2,Yes,Delayed,223.4,86.35,137.05,Express
+DLV00469,2025-01-24,North,Chandigarh,Van,16.9,40.4,Yes,Delivered,237.8,92.95,144.85,Standard
+DLV00470,2025-12-20,North,Chandigarh,Bike,40.5,105.4,Yes,Delayed,359.0,89.1,269.9,Standard
+DLV00471,2025-11-26,North,Jaipur,Van,8.3,35.7,No,Delayed,134.6,45.65,88.95,Express
+DLV00472,2025-09-03,West,Mumbai,Van,22.6,39.5,Yes,Delivered,306.2,124.3,181.9,Express
+DLV00473,2025-03-05,North,Jaipur,Van,26.1,35.8,Yes,Delivered,348.2,143.55,204.65,Standard
+DLV00474,2025-09-17,West,Pune,Van,37.8,76.4,Yes,Delivered,488.6,207.9,280.7,Express
+DLV00475,2025-04-08,West,Mumbai,Van,11.7,24.6,Yes,Delivered,175.4,64.35,111.05,Standard
+DLV00476,2025-07-20,North,Jaipur,Truck,149.2,169.5,Yes,Delivered,2720.6,1641.2,1079.4,Express
+DLV00477,2025-07-28,South,Chennai,Truck,51.1,66.0,Yes,Delivered,954.8,562.1,392.7,Express
+DLV00478,2025-04-27,Central,Nagpur,Bike,6.0,22.1,Yes,Delivered,83.0,13.2,69.8,Express
+DLV00479,2025-10-05,Central,Nagpur,Van,2.4,8.0,Yes,Delayed,63.8,13.2,50.6,Express
+DLV00480,2025-05-15,West,Mumbai,Truck,38.3,51.3,Yes,Delivered,724.4,421.3,303.1,Same Day
+DLV00481,2025-02-04,East,Patna,Bike,6.9,11.5,Yes,Delivered,90.2,15.18,75.02,Express
+DLV00482,2025-08-11,South,Chennai,Van,2.7,25.1,No,Delayed,67.4,14.85,52.55,Standard
+DLV00483,2025-06-15,Central,Bhopal,Truck,56.5,79.0,Yes,Delivered,1052.0,621.5,430.5,Standard
+DLV00484,2025-12-16,South,Bengaluru,Bike,16.3,50.9,Yes,Delivered,165.4,35.86,129.54,Standard
+DLV00485,2025-02-01,West,Mumbai,Bike,15.4,52.0,Yes,Delivered,158.2,33.88,124.32,Same Day
+DLV00486,2025-09-01,West,Pune,Bike,7.1,26.7,Yes,Delivered,91.8,15.62,76.18,Same Day
+DLV00487,2025-12-03,East,Bhubaneswar,Van,38.9,77.3,Yes,Delivered,501.8,213.95,287.85,Standard
+DLV00488,2025-07-12,North,Chandigarh,Bike,24.6,47.9,Yes,Delivered,231.8,54.12,177.68,Standard
+DLV00489,2025-03-02,North,Chandigarh,Truck,41.1,57.5,Yes,Delivered,774.8,452.1,322.7,Standard
+DLV00490,2025-09-27,West,Ahmedabad,Bike,13.2,37.5,Yes,Delayed,140.6,29.04,111.56,Standard
+DLV00491,2025-04-30,Central,Bhopal,Van,36.5,69.3,Yes,Delivered,473.0,200.75,272.25,Standard
+DLV00492,2025-08-29,East,Patna,Truck,14.0,44.5,No,Delayed,287.0,154.0,133.0,Standard
+DLV00493,2025-05-02,North,Jaipur,Van,20.5,36.9,Yes,Delivered,281.0,112.75,168.25,Standard
+DLV00494,2025-04-03,Central,Nagpur,Van,29.7,51.3,Yes,Failed,391.4,163.35,228.05,Standard
+DLV00495,2025-01-18,North,Jaipur,Bike,33.5,73.3,Yes,Delivered,303.0,73.7,229.3,Express
+DLV00496,2025-07-13,South,Hyderabad,Van,17.8,46.2,Yes,Failed,248.6,97.9,150.7,Express
+DLV00497,2025-03-07,North,Jaipur,Bike,4.5,15.0,Yes,Delivered,71.0,9.9,61.1,Same Day
+DLV00498,2025-01-21,East,Bhubaneswar,Bike,6.7,26.6,Yes,Delivered,88.6,14.74,73.86,Standard
+DLV00499,2025-07-30,West,Mumbai,Bike,15.0,38.8,Yes,Delivered,155.0,33.0,122.0,Standard
+DLV00500,2025-02-05,Central,Nagpur,Van,3.4,15.9,Yes,Delivered,75.8,18.7,57.1,Express
+DLV00501,2025-02-21,Central,Indore,Bike,43.4,96.6,Yes,Delivered,382.2,95.48,286.72,Express
+DLV00502,2025-08-17,South,Hyderabad,Bike,13.6,50.8,No,Failed,143.8,29.92,113.88,Express
+DLV00503,2025-07-09,Central,Indore,Bike,4.3,19.4,Yes,Delivered,69.4,9.46,59.94,Standard
+DLV00504,2025-08-20,West,Ahmedabad,Van,17.2,37.6,Yes,Delivered,241.4,94.6,146.8,Standard
+DLV00505,2025-02-12,Central,Nagpur,Van,4.5,22.2,Yes,Delivered,89.0,24.75,64.25,Express
+DLV00506,2025-12-04,East,Bhubaneswar,Truck,67.7,96.8,Yes,Delivered,1253.6,744.7,508.9,Express
+DLV00507,2025-06-13,Central,Nagpur,Van,8.8,30.0,Yes,Delivered,140.6,48.4,92.2,Standard
+DLV00508,2025-03-23,East,Bhubaneswar,Bike,41.0,93.8,Yes,Delivered,363.0,90.2,272.8,Standard
+DLV00509,2025-10-03,Central,Bhopal,Bike,9.6,23.8,Yes,Delivered,111.8,21.12,90.68,Standard
+DLV00510,2025-12-23,North,Chandigarh,Bike,6.2,23.4,Yes,Delivered,84.6,13.64,70.96,Express
+DLV00511,2025-04-06,North,Delhi,Bike,26.6,58.1,Yes,Delivered,247.8,58.52,189.28,Express
+DLV00512,2025-10-16,West,Ahmedabad,Bike,40.8,96.7,Yes,Delivered,361.4,89.76,271.64,Standard
+DLV00513,2025-05-16,North,Delhi,Van,35.3,79.5,Yes,Delivered,458.6,194.15,264.45,Standard
+DLV00514,2025-12-28,Central,Nagpur,Van,30.2,65.4,Yes,Failed,397.4,166.1,231.3,Standard
+DLV00515,2025-05-04,East,Kolkata,Truck,30.9,37.0,Yes,Delivered,591.2,339.9,251.3,Same Day
+DLV00516,2025-10-22,South,Hyderabad,Van,25.1,51.3,Yes,Delivered,336.2,138.05,198.15,Standard
+DLV00517,2025-02-16,East,Kolkata,Bike,32.5,72.5,Yes,Delayed,295.0,71.5,223.5,Express
+DLV00518,2025-11-11,Central,Nagpur,Truck,139.7,165.7,Yes,Delivered,2549.6,1536.7,1012.9,Express
+DLV00519,2025-02-18,West,Pune,Van,23.0,56.9,Yes,Delivered,311.0,126.5,184.5,Standard
+DLV00520,2025-11-17,South,Hyderabad,Truck,32.9,31.6,Yes,Delivered,627.2,361.9,265.3,Standard
+DLV00521,2025-03-20,North,Delhi,Bike,26.4,65.0,Yes,Delivered,246.2,58.08,188.12,Express
+DLV00522,2025-12-21,East,Bhubaneswar,Van,7.9,17.1,Yes,Delivered,129.8,43.45,86.35,Same Day
+DLV00523,2025-01-26,West,Mumbai,Bike,19.1,46.8,Yes,Delivered,187.8,42.02,145.78,Express
+DLV00524,2025-05-09,South,Hyderabad,Truck,104.0,124.8,Yes,Delivered,1907.0,1144.0,763.0,Same Day
+DLV00525,2025-12-05,West,Mumbai,Bike,25.2,64.6,Yes,Delivered,236.6,55.44,181.16,Standard
+DLV00526,2025-10-13,Central,Bhopal,Truck,153.2,181.1,Yes,Delivered,2792.6,1685.2,1107.4,Standard
+DLV00527,2025-12-02,South,Chennai,Truck,132.8,147.6,Yes,Delivered,2425.4,1460.8,964.6,Standard
+DLV00528,2025-05-25,East,Patna,Bike,14.8,46.2,Yes,Delivered,153.4,32.56,120.84,Standard
+DLV00529,2025-11-10,West,Ahmedabad,Bike,19.0,56.0,Yes,Delayed,187.0,41.8,145.2,Standard
+DLV00530,2025-11-14,East,Bhubaneswar,Van,15.3,33.5,Yes,Delivered,218.6,84.15,134.45,Standard
+DLV00531,2025-06-02,Central,Bhopal,Bike,2.8,18.6,Yes,Delayed,57.4,6.16,51.24,Express
+DLV00532,2025-06-02,North,Jaipur,Bike,29.8,78.8,Yes,Delivered,273.4,65.56,207.84,Same Day
+DLV00533,2025-11-13,Central,Indore,Van,4.3,14.8,Yes,Delivered,86.6,23.65,62.95,Express
+DLV00534,2025-02-20,North,Jaipur,Bike,13.1,30.1,Yes,Delayed,139.8,28.82,110.98,Standard
+DLV00535,2025-09-08,North,Jaipur,Bike,23.3,54.1,Yes,Delivered,221.4,51.26,170.14,Express
+DLV00536,2025-01-03,South,Chennai,Van,14.4,32.6,Yes,Delivered,207.8,79.2,128.6,Standard
+DLV00537,2025-11-21,West,Mumbai,Van,37.6,70.6,Yes,Delivered,486.2,206.8,279.4,Express
+DLV00538,2025-04-08,Central,Indore,Van,42.2,72.3,Yes,Delivered,541.4,232.1,309.3,Express
+DLV00539,2025-10-19,East,Patna,Van,15.0,41.5,Yes,Delivered,215.0,82.5,132.5,Standard
+DLV00540,2025-09-18,East,Bhubaneswar,Truck,121.1,143.4,Yes,Delivered,2214.8,1332.1,882.7,Standard
+DLV00541,2025-04-27,West,Pune,Bike,7.2,30.8,Yes,Delivered,92.6,15.84,76.76,Standard
+DLV00542,2025-02-24,West,Pune,Van,7.7,21.5,Yes,Delivered,127.4,42.35,85.05,Standard
+DLV00543,2025-11-04,North,Delhi,Bike,40.6,91.7,Yes,Delivered,359.8,89.32,270.48,Standard
+DLV00544,2025-08-13,East,Patna,Truck,115.8,161.2,Yes,Delivered,2119.4,1273.8,845.6,Standard
+DLV00545,2025-12-13,North,Chandigarh,Bike,13.5,46.2,Yes,Delivered,143.0,29.7,113.3,Standard
+DLV00546,2025-08-08,Central,Indore,Bike,7.9,36.1,Yes,Delivered,98.2,17.38,80.82,Standard
+DLV00547,2025-09-17,West,Ahmedabad,Truck,111.6,134.4,Yes,Delivered,2043.8,1227.6,816.2,Standard
+DLV00548,2025-06-22,Central,Indore,Van,35.7,63.6,Yes,Delivered,463.4,196.35,267.05,Express
+DLV00549,2025-06-17,West,Mumbai,Van,12.1,28.2,Yes,Failed,180.2,66.55,113.65,Standard
+DLV00550,2025-02-08,South,Hyderabad,Van,15.3,22.9,Yes,Delivered,218.6,84.15,134.45,Standard
+DLV00551,2025-06-14,North,Delhi,Bike,38.4,90.1,Yes,Delivered,342.2,84.48,257.72,Standard
+DLV00552,2025-11-08,South,Bengaluru,Bike,40.9,93.6,Yes,Delivered,362.2,89.98,272.22,Express
+DLV00553,2025-02-07,South,Chennai,Bike,19.0,50.8,Yes,Delivered,187.0,41.8,145.2,Express
+DLV00554,2025-02-23,North,Delhi,Van,9.1,21.2,Yes,Delivered,144.2,50.05,94.15,Express
+DLV00555,2025-01-23,West,Mumbai,Van,39.7,68.0,Yes,Failed,511.4,218.35,293.05,Standard
+DLV00556,2025-04-27,North,Jaipur,Bike,34.8,81.2,Yes,Delivered,313.4,76.56,236.84,Standard
+DLV00557,2025-08-18,Central,Bhopal,Van,8.1,24.8,Yes,Delivered,132.2,44.55,87.65,Standard
+DLV00558,2025-11-17,East,Bhubaneswar,Bike,33.1,72.0,Yes,Delayed,299.8,72.82,226.98,Express
+DLV00559,2025-07-14,Central,Nagpur,Van,10.6,31.8,Yes,Delivered,162.2,58.3,103.9,Standard
+DLV00560,2025-03-24,West,Ahmedabad,Van,27.0,36.5,Yes,Delivered,359.0,148.5,210.5,Standard
+DLV00561,2025-11-23,South,Chennai,Truck,126.5,154.4,Yes,Delivered,2312.0,1391.5,920.5,Standard
+DLV00562,2025-07-20,North,Delhi,Bike,36.7,77.2,Yes,Delivered,328.6,80.74,247.86,Standard
+DLV00563,2025-02-20,South,Chennai,Bike,13.5,29.0,Yes,Delivered,143.0,29.7,113.3,Standard
+DLV00564,2025-01-08,North,Delhi,Van,35.2,79.6,Yes,Failed,457.4,193.6,263.8,Express
+DLV00565,2025-03-09,West,Pune,Van,36.4,67.5,Yes,Delivered,471.8,200.2,271.6,Standard
+DLV00566,2025-05-03,West,Pune,Truck,108.9,135.8,Yes,Delivered,1995.2,1197.9,797.3,Express
+DLV00567,2025-12-16,Central,Nagpur,Van,1.1,28.6,No,Delayed,48.2,6.05,42.15,Standard
+DLV00568,2025-09-02,East,Patna,Bike,7.6,26.8,Yes,Delivered,95.8,16.72,79.08,Express
+DLV00569,2025-01-25,West,Pune,Bike,29.3,58.3,Yes,Delivered,269.4,64.46,204.94,Standard
+DLV00570,2025-02-27,South,Hyderabad,Van,28.6,37.8,Yes,Delivered,378.2,157.3,220.9,Express
+DLV00571,2025-07-03,West,Ahmedabad,Van,6.5,32.4,No,Delayed,113.0,35.75,77.25,Standard
+DLV00572,2025-10-03,East,Bhubaneswar,Bike,16.1,38.6,Yes,Delivered,163.8,35.42,128.38,Standard
+DLV00573,2025-12-29,Central,Indore,Bike,10.3,23.7,Yes,Delivered,117.4,22.66,94.74,Express
+DLV00574,2025-09-12,East,Bhubaneswar,Truck,46.3,75.6,Yes,Delivered,868.4,509.3,359.1,Standard
+DLV00575,2025-09-25,South,Hyderabad,Van,37.7,76.1,Yes,Delivered,487.4,207.35,280.05,Express
+DLV00576,2025-11-20,South,Chennai,Bike,16.0,58.6,No,Delayed,163.0,35.2,127.8,Standard
+DLV00577,2025-07-20,West,Ahmedabad,Van,3.6,24.9,No,Delayed,78.2,19.8,58.4,Standard
+DLV00578,2025-11-30,West,Mumbai,Truck,152.2,173.6,Yes,Delivered,2774.6,1674.2,1100.4,Standard
+DLV00579,2025-07-30,Central,Bhopal,Van,16.7,33.4,Yes,Delivered,235.4,91.85,143.55,Same Day
+DLV00580,2025-01-16,South,Bengaluru,Bike,1.7,10.7,Yes,Delivered,48.6,3.74,44.86,Standard
+DLV00581,2025-03-21,East,Bhubaneswar,Bike,20.3,68.8,No,Delayed,197.4,44.66,152.74,Standard
+DLV00582,2025-05-06,South,Hyderabad,Truck,5.2,33.4,No,Delayed,128.6,57.2,71.4,Standard
+DLV00583,2025-10-28,North,Jaipur,Van,39.9,73.4,Yes,Failed,513.8,219.45,294.35,Standard
+DLV00584,2025-05-05,North,Delhi,Truck,134.9,160.7,Yes,Delivered,2463.2,1483.9,979.3,Standard
+DLV00585,2025-04-23,East,Patna,Bike,21.9,64.9,Yes,Delivered,210.2,48.18,162.02,Same Day
+DLV00586,2025-03-19,West,Ahmedabad,Van,37.8,80.0,Yes,Delivered,488.6,207.9,280.7,Standard
+DLV00587,2025-11-29,North,Chandigarh,Van,3.5,22.0,Yes,Delivered,77.0,19.25,57.75,Express
+DLV00588,2025-03-04,Central,Nagpur,Van,5.0,17.4,Yes,Delivered,95.0,27.5,67.5,Express
+DLV00589,2025-10-30,South,Bengaluru,Truck,45.9,56.5,Yes,Delivered,861.2,504.9,356.3,Standard
+DLV00590,2025-11-01,West,Ahmedabad,Truck,57.0,64.8,Yes,Failed,1061.0,627.0,434.0,Same Day
+DLV00591,2025-04-23,West,Mumbai,Bike,6.9,21.1,Yes,Delivered,90.2,15.18,75.02,Standard
+DLV00592,2025-02-25,Central,Nagpur,Van,31.5,54.6,Yes,Delivered,413.0,173.25,239.75,Standard
+DLV00593,2025-10-14,Central,Nagpur,Truck,4.7,8.5,Yes,Delivered,119.6,51.7,67.9,Standard
+DLV00594,2025-02-10,South,Hyderabad,Van,5.7,20.0,Yes,Delivered,103.4,31.35,72.05,Standard
+DLV00595,2025-10-03,Central,Nagpur,Van,34.1,63.5,Yes,Delivered,444.2,187.55,256.65,Express
+DLV00596,2025-10-12,North,Chandigarh,Van,25.9,61.0,Yes,Delivered,345.8,142.45,203.35,Standard
+DLV00597,2025-04-30,East,Patna,Bike,21.6,50.8,Yes,Delayed,207.8,47.52,160.28,Same Day
+DLV00598,2025-04-13,West,Ahmedabad,Bike,13.3,36.9,Yes,Delivered,141.4,29.26,112.14,Standard
+DLV00599,2025-03-10,East,Bhubaneswar,Bike,28.7,76.7,Yes,Delivered,264.6,63.14,201.46,Standard
+DLV00600,2025-05-22,North,Delhi,Van,36.6,65.3,Yes,Delayed,474.2,201.3,272.9,Express
+DLV00601,2025-10-24,North,Delhi,Bike,30.0,58.4,Yes,Delayed,275.0,66.0,209.0,Standard
+DLV00602,2025-01-02,East,Patna,Truck,84.1,97.8,Yes,Delivered,1548.8,925.1,623.7,Standard
+DLV00603,2025-02-26,West,Mumbai,Truck,47.9,66.9,Yes,Delayed,897.2,526.9,370.3,Standard
+DLV00604,2025-06-04,Central,Indore,Van,11.8,40.9,No,Delayed,176.6,64.9,111.7,Standard
+DLV00605,2025-05-05,East,Bhubaneswar,Truck,95.8,128.1,Yes,Delivered,1759.4,1053.8,705.6,Standard
+DLV00606,2025-05-16,West,Ahmedabad,Van,35.5,50.9,Yes,Delayed,461.0,195.25,265.75,Express
+DLV00607,2025-10-18,Central,Nagpur,Bike,1.3,8.0,Yes,Delivered,45.4,2.86,42.54,Standard
+DLV00608,2025-10-12,South,Bengaluru,Bike,23.6,61.1,Yes,Delayed,223.8,51.92,171.88,Standard
+DLV00609,2025-03-23,East,Kolkata,Bike,7.9,44.1,No,Delayed,98.2,17.38,80.82,Same Day
+DLV00610,2025-09-23,North,Jaipur,Bike,22.8,52.1,Yes,Delivered,217.4,50.16,167.24,Express
+DLV00611,2025-07-18,North,Chandigarh,Bike,37.4,89.3,Yes,Delivered,334.2,82.28,251.92,Standard
+DLV00612,2025-12-13,South,Chennai,Bike,43.4,101.6,Yes,Delivered,382.2,95.48,286.72,Same Day
+DLV00613,2025-08-16,North,Jaipur,Truck,126.2,158.2,Yes,Delivered,2306.6,1388.2,918.4,Standard
+DLV00614,2025-01-05,West,Pune,Bike,37.3,88.4,Yes,Delivered,333.4,82.06,251.34,Express
+DLV00615,2025-03-07,North,Jaipur,Truck,154.6,173.3,Yes,Delivered,2817.8,1700.6,1117.2,Standard
+DLV00616,2025-04-28,East,Bhubaneswar,Bike,25.3,54.8,Yes,Delivered,237.4,55.66,181.74,Express
+DLV00617,2025-09-13,South,Chennai,Van,14.7,49.7,No,Delayed,211.4,80.85,130.55,Standard
+DLV00618,2025-04-29,North,Delhi,Bike,21.5,60.1,Yes,Delivered,207.0,47.3,159.7,Standard
+DLV00619,2025-02-07,North,Delhi,Bike,16.7,46.2,Yes,Delayed,168.6,36.74,131.86,Standard
+DLV00620,2025-11-28,South,Hyderabad,Van,26.9,41.3,Yes,Delivered,357.8,147.95,209.85,Same Day
+DLV00621,2025-10-31,East,Patna,Truck,177.9,203.3,Yes,Delivered,3237.2,1956.9,1280.3,Standard
+DLV00622,2025-04-29,Central,Nagpur,Truck,31.4,43.7,Yes,Delivered,600.2,345.4,254.8,Standard
+DLV00623,2025-10-11,West,Mumbai,Bike,8.0,26.6,Yes,Delivered,99.0,17.6,81.4,Standard
+DLV00624,2025-05-21,East,Bhubaneswar,Van,3.1,16.0,Yes,Delivered,72.2,17.05,55.15,Express
+DLV00625,2025-03-16,South,Hyderabad,Van,1.5,16.8,Yes,Delayed,53.0,8.25,44.75,Express
+DLV00626,2025-02-11,North,Jaipur,Bike,3.7,32.1,No,Delayed,64.6,8.14,56.46,Express
+DLV00627,2025-09-18,Central,Nagpur,Van,35.5,68.4,Yes,Delivered,461.0,195.25,265.75,Express
+DLV00628,2025-12-19,West,Mumbai,Van,10.4,43.8,No,Delayed,159.8,57.2,102.6,Standard
+DLV00629,2025-09-14,South,Hyderabad,Van,40.3,53.9,Yes,Delivered,518.6,221.65,296.95,Standard
+DLV00630,2025-12-31,North,Chandigarh,Bike,42.3,94.7,Yes,Delayed,373.4,93.06,280.34,Same Day
+DLV00631,2025-03-03,Central,Indore,Van,33.6,57.8,Yes,Delivered,438.2,184.8,253.4,Standard
+DLV00632,2025-10-23,North,Chandigarh,Bike,44.8,95.7,Yes,Delivered,393.4,98.56,294.84,Express
+DLV00633,2025-11-06,West,Pune,Bike,25.6,64.5,Yes,Delayed,239.8,56.32,183.48,Standard
+DLV00634,2025-12-16,South,Hyderabad,Van,22.5,57.4,Yes,Delivered,305.0,123.75,181.25,Standard
+DLV00635,2025-09-19,Central,Bhopal,Bike,43.7,91.1,Yes,Delivered,384.6,96.14,288.46,Standard
+DLV00636,2025-03-14,West,Mumbai,Van,42.5,63.3,Yes,Delivered,545.0,233.75,311.25,Standard
+DLV00637,2025-10-17,Central,Indore,Bike,28.8,71.5,Yes,Delivered,265.4,63.36,202.04,Standard
+DLV00638,2025-05-19,East,Kolkata,Van,12.0,25.3,Yes,Delivered,179.0,66.0,113.0,Same Day
+DLV00639,2025-09-26,South,Bengaluru,Van,20.9,40.9,Yes,Delivered,285.8,114.95,170.85,Standard
+DLV00640,2025-04-30,East,Bhubaneswar,Truck,38.1,50.3,Yes,Delivered,720.8,419.1,301.7,Standard
+DLV00641,2025-04-11,Central,Bhopal,Van,42.9,75.3,Yes,Delivered,549.8,235.95,313.85,Express
+DLV00642,2025-08-26,North,Delhi,Bike,9.6,29.9,Yes,Delivered,111.8,21.12,90.68,Express
+DLV00643,2025-03-27,North,Delhi,Truck,69.9,80.8,Yes,Delivered,1293.2,768.9,524.3,Standard
+DLV00644,2025-04-25,East,Bhubaneswar,Bike,25.1,51.7,Yes,Delayed,235.8,55.22,180.58,Standard
+DLV00645,2025-08-01,East,Kolkata,Van,35.4,83.4,Yes,Delayed,459.8,194.7,265.1,Standard
+DLV00646,2025-06-10,Central,Bhopal,Truck,22.1,35.7,Yes,Delayed,432.8,243.1,189.7,Same Day
+DLV00647,2025-05-06,East,Kolkata,Bike,26.7,68.5,Yes,Delivered,248.6,58.74,189.86,Same Day
+DLV00648,2025-03-05,South,Chennai,Bike,40.8,87.9,Yes,Delayed,361.4,89.76,271.64,Standard
+DLV00649,2025-02-10,East,Kolkata,Van,18.9,50.0,Yes,Delivered,261.8,103.95,157.85,Standard
+DLV00650,2025-08-10,Central,Indore,Van,28.6,50.7,Yes,Delivered,378.2,157.3,220.9,Standard
+DLV00651,2025-12-31,Central,Indore,Van,28.0,58.2,Yes,Delivered,371.0,154.0,217.0,Standard
+DLV00652,2025-06-13,Central,Indore,Bike,6.4,19.8,Yes,Delivered,86.2,14.08,72.12,Same Day
+DLV00653,2025-04-30,West,Pune,Van,10.5,36.2,Yes,Delivered,161.0,57.75,103.25,Standard
+DLV00654,2025-07-20,East,Bhubaneswar,Bike,5.8,40.1,No,Delayed,81.4,12.76,68.64,Same Day
+DLV00655,2025-09-28,Central,Indore,Bike,20.1,53.8,Yes,Delivered,195.8,44.22,151.58,Standard
+DLV00656,2025-07-15,West,Mumbai,Van,14.6,37.4,Yes,Delivered,210.2,80.3,129.9,Standard
+DLV00657,2025-09-20,Central,Bhopal,Van,23.1,35.5,Yes,Delivered,312.2,127.05,185.15,Standard
+DLV00658,2025-09-06,North,Delhi,Van,34.4,52.9,Yes,Delivered,447.8,189.2,258.6,Express
+DLV00659,2025-09-15,East,Kolkata,Van,16.1,26.8,Yes,Delivered,228.2,88.55,139.65,Express
+DLV00660,2025-12-15,South,Bengaluru,Van,36.4,63.4,Yes,Delivered,471.8,200.2,271.6,Standard
+DLV00661,2025-08-30,West,Mumbai,Bike,6.8,32.9,Yes,Failed,89.4,14.96,74.44,Standard
+DLV00662,2025-01-19,North,Jaipur,Truck,62.2,73.3,Yes,Delivered,1154.6,684.2,470.4,Standard
+DLV00663,2025-06-04,East,Patna,Van,34.8,65.1,Yes,Delayed,452.6,191.4,261.2,Standard
+DLV00664,2025-09-26,East,Kolkata,Van,32.4,55.4,Yes,Delivered,423.8,178.2,245.6,Express
+DLV00665,2025-03-08,North,Chandigarh,Van,11.0,22.7,Yes,Delivered,167.0,60.5,106.5,Express
+DLV00666,2025-06-24,North,Delhi,Bike,4.4,29.8,No,Delayed,70.2,9.68,60.52,Standard
+DLV00667,2025-06-27,West,Ahmedabad,Truck,40.6,56.5,Yes,Failed,765.8,446.6,319.2,Express
+DLV00668,2025-08-17,Central,Indore,Bike,43.2,103.9,Yes,Delivered,380.6,95.04,285.56,Standard
+DLV00669,2025-11-13,North,Chandigarh,Van,41.7,80.0,Yes,Delivered,535.4,229.35,306.05,Standard
+DLV00670,2025-11-01,West,Pune,Bike,3.9,19.3,Yes,Delivered,66.2,8.58,57.62,Express
+DLV00671,2025-07-02,South,Bengaluru,Van,26.8,84.9,No,Delayed,356.6,147.4,209.2,Express
+DLV00672,2025-06-11,East,Patna,Van,1.3,15.7,Yes,Delivered,50.6,7.15,43.45,Standard
+DLV00673,2025-09-07,West,Ahmedabad,Van,23.2,37.6,Yes,Delivered,313.4,127.6,185.8,Standard
+DLV00674,2025-02-03,East,Patna,Van,5.1,15.1,Yes,Delivered,96.2,28.05,68.15,Express
+DLV00675,2025-02-07,South,Hyderabad,Van,16.8,27.5,Yes,Delivered,236.6,92.4,144.2,Standard
+DLV00676,2025-11-04,North,Delhi,Bike,8.3,18.0,Yes,Delivered,101.4,18.26,83.14,Express
+DLV00677,2025-03-31,Central,Bhopal,Van,16.7,27.2,Yes,Delivered,235.4,91.85,143.55,Standard
+DLV00678,2025-08-30,North,Jaipur,Bike,12.8,36.9,Yes,Delivered,137.4,28.16,109.24,Same Day
+DLV00679,2025-08-27,West,Pune,Truck,171.2,195.8,Yes,Delivered,3116.6,1883.2,1233.4,Standard
+DLV00680,2025-11-27,South,Hyderabad,Bike,28.4,66.8,Yes,Delivered,262.2,62.48,199.72,Express
+DLV00681,2025-03-27,West,Ahmedabad,Bike,31.0,65.6,Yes,Delivered,283.0,68.2,214.8,Express
+DLV00682,2025-05-22,Central,Indore,Bike,38.6,92.7,Yes,Delivered,343.8,84.92,258.88,Same Day
+DLV00683,2025-06-14,West,Ahmedabad,Bike,17.8,57.7,Yes,Delivered,177.4,39.16,138.24,Standard
+DLV00684,2025-11-28,East,Kolkata,Van,40.3,79.4,Yes,Delivered,518.6,221.65,296.95,Standard
+DLV00685,2025-08-15,Central,Nagpur,Van,37.4,61.6,Yes,Delivered,483.8,205.7,278.1,Standard
+DLV00686,2025-12-24,West,Mumbai,Bike,33.4,86.9,Yes,Delivered,302.2,73.48,228.72,Express
+DLV00687,2025-09-10,West,Mumbai,Bike,42.6,94.7,Yes,Delivered,375.8,93.72,282.08,Express
+DLV00688,2025-08-14,East,Bhubaneswar,Van,35.8,88.5,No,Delayed,464.6,196.9,267.7,Express
+DLV00689,2025-04-03,East,Patna,Van,1.3,8.0,Yes,Delayed,50.6,7.15,43.45,Standard
+DLV00690,2025-09-04,Central,Indore,Bike,36.6,75.0,Yes,Delivered,327.8,80.52,247.28,Express
+DLV00691,2025-05-09,East,Bhubaneswar,Bike,35.9,78.9,Yes,Delivered,322.2,78.98,243.22,Express
+DLV00692,2025-04-08,Central,Indore,Bike,20.8,56.3,Yes,Delivered,201.4,45.76,155.64,Same Day
+DLV00693,2025-02-05,West,Pune,Bike,15.9,35.8,Yes,Delivered,162.2,34.98,127.22,Same Day
+DLV00694,2025-08-07,North,Chandigarh,Bike,27.3,52.9,Yes,Delivered,253.4,60.06,193.34,Standard
+DLV00695,2025-05-22,South,Bengaluru,Bike,22.3,60.4,Yes,Delayed,213.4,49.06,164.34,Standard
+DLV00696,2025-04-06,East,Patna,Truck,153.1,167.5,Yes,Delivered,2790.8,1684.1,1106.7,Express
+DLV00697,2025-08-07,North,Delhi,Bike,42.2,91.2,Yes,Delivered,372.6,92.84,279.76,Standard
+DLV00698,2025-08-30,West,Ahmedabad,Bike,16.3,38.7,Yes,Delivered,165.4,35.86,129.54,Same Day
+DLV00699,2025-05-10,Central,Indore,Bike,13.3,34.6,Yes,Delivered,141.4,29.26,112.14,Standard
+DLV00700,2025-07-13,South,Hyderabad,Truck,137.3,178.6,Yes,Delivered,2506.4,1510.3,996.1,Express
+DLV00701,2025-04-26,East,Patna,Bike,21.2,68.4,Yes,Delivered,204.6,46.64,157.96,Express
+DLV00702,2025-08-17,East,Patna,Truck,20.5,61.2,No,Delayed,404.0,225.5,178.5,Same Day
+DLV00703,2025-02-05,West,Mumbai,Bike,41.8,91.3,Yes,Delivered,369.4,91.96,277.44,Standard
+DLV00704,2025-09-29,Central,Indore,Bike,24.2,61.7,Yes,Delivered,228.6,53.24,175.36,Standard
+DLV00705,2025-02-28,North,Chandigarh,Van,19.2,40.8,Yes,Delivered,265.4,105.6,159.8,Express
+DLV00706,2025-01-15,Central,Nagpur,Van,2.5,13.4,Yes,Delivered,65.0,13.75,51.25,Express
+DLV00707,2025-10-16,North,Jaipur,Van,43.3,65.3,Yes,Delayed,554.6,238.15,316.45,Standard
+DLV00708,2025-01-28,East,Kolkata,Van,32.1,43.3,Yes,Failed,420.2,176.55,243.65,Same Day
+DLV00709,2025-09-22,South,Bengaluru,Truck,159.2,178.2,Yes,Delivered,2900.6,1751.2,1149.4,Standard
+DLV00710,2025-03-10,Central,Bhopal,Bike,4.2,21.0,Yes,Delivered,68.6,9.24,59.36,Standard
+DLV00711,2025-05-01,Central,Nagpur,Bike,18.4,48.9,Yes,Delivered,182.2,40.48,141.72,Express
+DLV00712,2025-04-27,North,Chandigarh,Bike,20.9,51.2,Yes,Delayed,202.2,45.98,156.22,Standard
+DLV00713,2025-05-22,North,Jaipur,Van,32.7,56.8,Yes,Failed,427.4,179.85,247.55,Standard
+DLV00714,2025-07-02,North,Jaipur,Truck,48.0,64.2,Yes,Delivered,899.0,528.0,371.0,Express
+DLV00715,2025-08-25,South,Bengaluru,Truck,31.0,76.1,No,Delayed,593.0,341.0,252.0,Express
+DLV00716,2025-01-11,West,Pune,Van,23.1,30.2,Yes,Delivered,312.2,127.05,185.15,Standard
+DLV00717,2025-05-14,East,Patna,Truck,138.1,165.5,Yes,Failed,2520.8,1519.1,1001.7,Same Day
+DLV00718,2025-03-09,South,Hyderabad,Bike,38.8,78.0,Yes,Delayed,345.4,85.36,260.04,Express
+DLV00719,2025-01-08,North,Delhi,Bike,20.7,48.9,Yes,Delivered,200.6,45.54,155.06,Standard
+DLV00720,2025-03-19,North,Chandigarh,Bike,20.3,49.3,Yes,Delivered,197.4,44.66,152.74,Express
+DLV00721,2025-09-14,North,Jaipur,Van,22.7,47.9,Yes,Delivered,307.4,124.85,182.55,Same Day
+DLV00722,2025-05-24,North,Delhi,Van,10.5,34.4,Yes,Delivered,161.0,57.75,103.25,Standard
+DLV00723,2025-07-10,North,Jaipur,Van,19.0,45.8,Yes,Delivered,263.0,104.5,158.5,Same Day
+DLV00724,2025-11-24,West,Mumbai,Truck,172.6,195.3,Yes,Delivered,3141.8,1898.6,1243.2,Standard
+DLV00725,2025-05-23,North,Delhi,Bike,4.5,31.5,No,Delayed,71.0,9.9,61.1,Standard
+DLV00726,2025-03-25,Central,Nagpur,Van,2.4,19.2,Yes,Delivered,63.8,13.2,50.6,Express
+DLV00727,2025-12-20,Central,Indore,Van,11.5,40.5,No,Delayed,173.0,63.25,109.75,Standard
+DLV00728,2025-07-31,North,Chandigarh,Van,4.7,22.9,Yes,Delivered,91.4,25.85,65.55,Standard
+DLV00729,2025-04-18,East,Bhubaneswar,Bike,20.0,67.9,No,Delayed,195.0,44.0,151.0,Express
+DLV00730,2025-01-01,West,Pune,Van,28.4,60.1,Yes,Delivered,375.8,156.2,219.6,Standard
+DLV00731,2025-12-12,West,Pune,Van,35.8,68.4,Yes,Delivered,464.6,196.9,267.7,Express
+DLV00732,2025-11-30,East,Bhubaneswar,Van,21.6,49.8,Yes,Delivered,294.2,118.8,175.4,Standard
+DLV00733,2025-01-17,South,Bengaluru,Bike,2.1,27.7,No,Failed,51.8,4.62,47.18,Standard
+DLV00734,2025-07-18,East,Kolkata,Bike,17.0,77.4,No,Delayed,171.0,37.4,133.6,Standard
+DLV00735,2025-05-22,West,Pune,Truck,80.4,91.0,Yes,Failed,1482.2,884.4,597.8,Express
+DLV00736,2025-12-31,North,Jaipur,Bike,24.7,63.7,Yes,Delivered,232.6,54.34,178.26,Express
+DLV00737,2025-09-11,South,Hyderabad,Van,35.1,77.9,Yes,Delivered,456.2,193.05,263.15,Standard
+DLV00738,2025-10-11,West,Mumbai,Bike,1.3,25.6,No,Delayed,45.4,2.86,42.54,Express
+DLV00739,2025-11-18,North,Jaipur,Van,17.0,54.3,No,Delayed,239.0,93.5,145.5,Same Day
+DLV00740,2025-07-09,Central,Indore,Truck,74.8,79.4,Yes,Delivered,1381.4,822.8,558.6,Standard
+DLV00741,2025-11-11,West,Mumbai,Bike,34.3,86.8,Yes,Delivered,309.4,75.46,233.94,Express
+DLV00742,2025-09-26,West,Pune,Van,26.8,47.1,Yes,Delivered,356.6,147.4,209.2,Standard
+DLV00743,2025-08-08,West,Pune,Van,40.6,65.3,Yes,Delivered,522.2,223.3,298.9,Express
+DLV00744,2025-07-19,South,Bengaluru,Bike,35.3,99.4,Yes,Delivered,317.4,77.66,239.74,Same Day
+DLV00745,2025-01-04,South,Hyderabad,Bike,39.5,84.6,Yes,Delivered,351.0,86.9,264.1,Express
+DLV00746,2025-07-18,North,Jaipur,Van,37.5,73.6,Yes,Delivered,485.0,206.25,278.75,Standard
+DLV00747,2025-03-12,East,Kolkata,Van,1.8,11.2,Yes,Delivered,56.6,9.9,46.7,Standard
+DLV00748,2025-02-02,Central,Bhopal,Bike,35.6,90.0,Yes,Delivered,319.8,78.32,241.48,Standard
+DLV00749,2025-04-16,West,Ahmedabad,Van,11.3,28.5,Yes,Delivered,170.6,62.15,108.45,Standard
+DLV00750,2025-06-04,Central,Bhopal,Van,24.2,44.1,Yes,Failed,325.4,133.1,192.3,Standard
+DLV00751,2025-09-09,West,Mumbai,Bike,34.1,65.3,Yes,Delivered,307.8,75.02,232.78,Express
+DLV00752,2025-08-19,West,Ahmedabad,Bike,16.9,38.0,Yes,Delivered,170.2,37.18,133.02,Standard
+DLV00753,2025-11-15,Central,Indore,Truck,92.8,111.6,Yes,Delivered,1705.4,1020.8,684.6,Same Day
+DLV00754,2025-07-08,East,Kolkata,Bike,40.5,122.2,No,Delayed,359.0,89.1,269.9,Same Day
+DLV00755,2025-01-09,South,Chennai,Van,3.1,33.1,No,Delayed,72.2,17.05,55.15,Standard
+DLV00756,2025-12-19,West,Pune,Van,44.8,66.3,Yes,Failed,572.6,246.4,326.2,Same Day
+DLV00757,2025-01-21,West,Mumbai,Bike,24.6,68.9,Yes,Delivered,231.8,54.12,177.68,Standard
+DLV00758,2025-04-16,South,Chennai,Van,25.9,46.2,Yes,Delivered,345.8,142.45,203.35,Standard
+DLV00759,2025-04-02,East,Bhubaneswar,Van,34.4,69.1,Yes,Delivered,447.8,189.2,258.6,Standard
+DLV00760,2025-10-22,South,Chennai,Van,42.4,66.3,Yes,Delayed,543.8,233.2,310.6,Express
+DLV00761,2025-03-25,South,Bengaluru,Van,10.9,36.0,Yes,Delivered,165.8,59.95,105.85,Express
+DLV00762,2025-10-19,North,Jaipur,Bike,44.9,98.0,Yes,Delivered,394.2,98.78,295.42,Standard
+DLV00763,2025-01-11,South,Hyderabad,Bike,28.1,79.5,Yes,Delivered,259.8,61.82,197.98,Standard
+DLV00764,2025-09-01,East,Patna,Bike,24.1,56.8,Yes,Delivered,227.8,53.02,174.78,Standard
+DLV00765,2025-10-06,Central,Bhopal,Van,39.0,78.6,Yes,Delivered,503.0,214.5,288.5,Express
+DLV00766,2025-10-14,East,Patna,Van,35.9,71.0,Yes,Delivered,465.8,197.45,268.35,Express
+DLV00767,2025-07-21,Central,Bhopal,Bike,4.5,11.5,Yes,Delivered,71.0,9.9,61.1,Standard
+DLV00768,2025-01-07,East,Patna,Truck,59.3,74.8,Yes,Delivered,1102.4,652.3,450.1,Standard
+DLV00769,2025-03-14,West,Pune,Bike,19.8,37.2,Yes,Delivered,193.4,43.56,149.84,Same Day
+DLV00770,2025-05-19,South,Bengaluru,Van,13.5,44.7,No,Failed,197.0,74.25,122.75,Standard
+DLV00771,2025-03-28,East,Bhubaneswar,Bike,7.0,33.9,Yes,Delivered,91.0,15.4,75.6,Express
+DLV00772,2025-03-14,Central,Nagpur,Van,34.7,69.2,Yes,Delayed,451.4,190.85,260.55,Express
+DLV00773,2025-03-10,Central,Bhopal,Bike,36.7,78.8,Yes,Delivered,328.6,80.74,247.86,Same Day
+DLV00774,2025-07-06,East,Bhubaneswar,Van,33.9,86.2,No,Delayed,441.8,186.45,255.35,Standard
+DLV00775,2025-06-20,North,Chandigarh,Van,38.5,76.3,Yes,Delayed,497.0,211.75,285.25,Standard
+DLV00776,2025-12-30,North,Chandigarh,Bike,30.8,80.0,Yes,Delivered,281.4,67.76,213.64,Standard
+DLV00777,2025-08-19,East,Kolkata,Bike,37.7,108.2,Yes,Delayed,336.6,82.94,253.66,Standard
+DLV00778,2025-04-01,East,Patna,Van,27.6,46.9,Yes,Delivered,366.2,151.8,214.4,Standard
+DLV00779,2025-01-30,Central,Bhopal,Bike,44.9,100.6,Yes,Delayed,394.2,98.78,295.42,Standard
+DLV00780,2025-12-12,Central,Indore,Van,28.1,54.5,Yes,Delivered,372.2,154.55,217.65,Same Day
+DLV00781,2025-04-18,East,Kolkata,Bike,24.1,64.8,Yes,Delivered,227.8,53.02,174.78,Express
+DLV00782,2025-02-27,North,Chandigarh,Van,41.0,68.4,Yes,Delivered,527.0,225.5,301.5,Standard
+DLV00783,2025-12-06,Central,Indore,Bike,20.3,54.6,Yes,Delivered,197.4,44.66,152.74,Standard
+DLV00784,2025-02-18,East,Bhubaneswar,Bike,36.6,83.8,Yes,Failed,327.8,80.52,247.28,Standard
+DLV00785,2025-02-05,West,Mumbai,Truck,44.1,73.5,Yes,Delivered,828.8,485.1,343.7,Standard
+DLV00786,2025-02-19,West,Ahmedabad,Van,2.7,12.1,Yes,Delivered,67.4,14.85,52.55,Standard
+DLV00787,2025-06-25,Central,Bhopal,Bike,35.4,75.0,Yes,Delivered,318.2,77.88,240.32,Standard
+DLV00788,2025-11-21,South,Bengaluru,Van,27.0,50.8,Yes,Failed,359.0,148.5,210.5,Standard
+DLV00789,2025-04-27,South,Hyderabad,Van,7.5,24.7,Yes,Delivered,125.0,41.25,83.75,Same Day
+DLV00790,2025-11-21,East,Kolkata,Bike,44.6,97.7,Yes,Delivered,391.8,98.12,293.68,Standard
+DLV00791,2025-09-18,South,Chennai,Bike,15.2,43.3,Yes,Delivered,156.6,33.44,123.16,Express
+DLV00792,2025-04-07,East,Bhubaneswar,Van,43.8,79.3,Yes,Delivered,560.6,240.9,319.7,Standard
+DLV00793,2025-09-25,North,Delhi,Bike,40.9,92.1,Yes,Delivered,362.2,89.98,272.22,Standard
+DLV00794,2025-06-24,North,Delhi,Bike,26.5,72.2,Yes,Delivered,247.0,58.3,188.7,Express
+DLV00795,2025-12-27,East,Bhubaneswar,Bike,42.2,99.5,Yes,Delivered,372.6,92.84,279.76,Express
+DLV00796,2025-03-18,West,Ahmedabad,Van,29.1,52.9,Yes,Delivered,384.2,160.05,224.15,Same Day
+DLV00797,2025-05-23,North,Jaipur,Van,40.5,73.0,Yes,Delayed,521.0,222.75,298.25,Express
+DLV00798,2025-11-19,East,Patna,Truck,31.6,52.4,Yes,Delivered,603.8,347.6,256.2,Same Day
+DLV00799,2025-02-20,East,Kolkata,Van,8.3,34.6,No,Delayed,134.6,45.65,88.95,Express
+DLV00800,2025-07-12,Central,Bhopal,Bike,15.3,39.5,Yes,Delivered,157.4,33.66,123.74,Standard
+DLV00801,2025-08-07,Central,Nagpur,Van,30.5,59.6,Yes,Delivered,401.0,167.75,233.25,Same Day
+DLV00802,2025-12-12,South,Bengaluru,Van,35.1,67.8,Yes,Delivered,456.2,193.05,263.15,Standard
+DLV00803,2025-12-22,West,Ahmedabad,Bike,9.8,19.1,Yes,Delivered,113.4,21.56,91.84,Standard
+DLV00804,2025-07-05,Central,Indore,Truck,8.9,22.3,Yes,Delivered,195.2,97.9,97.3,Express
+DLV00805,2025-10-17,South,Chennai,Bike,7.7,29.0,Yes,Delivered,96.6,16.94,79.66,Standard
+DLV00806,2025-09-16,West,Pune,Van,43.9,86.9,Yes,Delivered,561.8,241.45,320.35,Same Day
+DLV00807,2025-04-23,South,Hyderabad,Bike,33.9,65.0,Yes,Delivered,306.2,74.58,231.62,Standard
+DLV00808,2025-09-27,North,Chandigarh,Van,11.8,37.5,Yes,Delivered,176.6,64.9,111.7,Standard
+DLV00809,2025-09-02,Central,Bhopal,Bike,39.8,94.8,Yes,Delivered,353.4,87.56,265.84,Same Day
+DLV00810,2025-06-03,East,Kolkata,Van,12.8,31.5,Yes,Delivered,188.6,70.4,118.2,Express
+DLV00811,2025-06-16,East,Kolkata,Van,26.3,50.4,Yes,Delayed,350.6,144.65,205.95,Standard
+DLV00812,2025-04-01,North,Delhi,Van,40.8,66.5,Yes,Delivered,524.6,224.4,300.2,Same Day
+DLV00813,2025-03-16,North,Delhi,Truck,172.7,195.9,Yes,Delivered,3143.6,1899.7,1243.9,Standard
+DLV00814,2025-08-27,North,Delhi,Bike,1.4,8.0,Yes,Delivered,46.2,3.08,43.12,Standard
+DLV00815,2025-06-12,East,Kolkata,Van,9.0,21.6,Yes,Delivered,143.0,49.5,93.5,Standard
+DLV00816,2025-11-03,West,Ahmedabad,Van,22.5,49.3,Yes,Delivered,305.0,123.75,181.25,Standard
+DLV00817,2025-08-24,North,Delhi,Truck,83.4,98.4,Yes,Delivered,1536.2,917.4,618.8,Same Day
+DLV00818,2025-03-08,South,Hyderabad,Van,33.8,65.4,Yes,Delivered,440.6,185.9,254.7,Express
+DLV00819,2025-09-29,Central,Indore,Van,4.5,22.4,Yes,Delivered,89.0,24.75,64.25,Same Day
+DLV00820,2025-05-22,Central,Bhopal,Bike,22.7,55.8,Yes,Delivered,216.6,49.94,166.66,Standard
+DLV00821,2025-04-21,Central,Bhopal,Bike,24.0,69.7,Yes,Delivered,227.0,52.8,174.2,Standard
+DLV00822,2025-05-09,West,Ahmedabad,Van,22.6,53.9,Yes,Delivered,306.2,124.3,181.9,Express
+DLV00823,2025-10-30,North,Delhi,Van,41.6,70.0,Yes,Delivered,534.2,228.8,305.4,Standard
+DLV00824,2025-10-09,East,Bhubaneswar,Bike,6.5,22.5,Yes,Delivered,87.0,14.3,72.7,Standard
+DLV00825,2025-05-30,Central,Indore,Bike,11.7,34.6,Yes,Delivered,128.6,25.74,102.86,Standard
+DLV00826,2025-07-03,West,Mumbai,Van,26.0,57.0,Yes,Delivered,347.0,143.0,204.0,Standard
+DLV00827,2025-07-02,North,Delhi,Truck,124.9,145.1,Yes,Delivered,2283.2,1373.9,909.3,Standard
+DLV00828,2025-03-05,West,Ahmedabad,Bike,39.7,99.4,Yes,Delivered,352.6,87.34,265.26,Standard
+DLV00829,2025-08-02,South,Bengaluru,Van,37.7,84.1,Yes,Delivered,487.4,207.35,280.05,Standard
+DLV00830,2025-01-21,East,Bhubaneswar,Truck,117.9,157.1,Yes,Delivered,2157.2,1296.9,860.3,Express
+DLV00831,2025-12-27,East,Kolkata,Van,14.6,35.2,Yes,Delivered,210.2,80.3,129.9,Standard
+DLV00832,2025-08-21,South,Bengaluru,Bike,2.9,36.2,No,Delayed,58.2,6.38,51.82,Standard
+DLV00833,2025-10-26,Central,Bhopal,Bike,13.4,36.1,Yes,Delayed,142.2,29.48,112.72,Express
+DLV00834,2025-10-13,East,Bhubaneswar,Bike,17.6,42.3,Yes,Delivered,175.8,38.72,137.08,Express
+DLV00835,2025-07-21,Central,Nagpur,Bike,30.9,69.4,Yes,Delivered,282.2,67.98,214.22,Standard
+DLV00836,2025-04-14,South,Chennai,Bike,9.2,21.1,Yes,Delivered,108.6,20.24,88.36,Standard
+DLV00837,2025-11-02,West,Pune,Bike,34.2,89.2,Yes,Delivered,308.6,75.24,233.36,Express
+DLV00838,2025-07-06,Central,Nagpur,Truck,82.7,94.1,Yes,Delivered,1523.6,909.7,613.9,Standard
+DLV00839,2025-12-05,North,Chandigarh,Van,43.5,77.4,Yes,Delivered,557.0,239.25,317.75,Standard
+DLV00840,2025-01-29,Central,Indore,Bike,22.0,48.0,Yes,Delivered,211.0,48.4,162.6,Express
+DLV00841,2025-09-09,West,Pune,Van,14.9,32.3,Yes,Delivered,213.8,81.95,131.85,Standard
+DLV00842,2025-01-19,West,Ahmedabad,Bike,20.7,56.4,Yes,Delivered,200.6,45.54,155.06,Express
+DLV00843,2025-07-04,South,Bengaluru,Van,1.4,27.6,No,Delayed,51.8,7.7,44.1,Standard
+DLV00844,2025-07-19,East,Bhubaneswar,Bike,20.4,76.6,No,Delayed,198.2,44.88,153.32,Standard
+DLV00845,2025-10-03,South,Bengaluru,Bike,33.7,75.4,Yes,Failed,304.6,74.14,230.46,Standard
+DLV00846,2025-09-08,South,Chennai,Bike,34.6,77.9,Yes,Delivered,311.8,76.12,235.68,Standard
+DLV00847,2025-10-26,Central,Bhopal,Bike,26.7,62.9,Yes,Delivered,248.6,58.74,189.86,Standard
+DLV00848,2025-12-20,East,Patna,Van,36.9,66.8,Yes,Delivered,477.8,202.95,274.85,Express
+DLV00849,2025-04-19,Central,Indore,Van,43.1,71.9,Yes,Delivered,552.2,237.05,315.15,Express
+DLV00850,2025-10-29,East,Kolkata,Bike,12.5,49.5,No,Delayed,135.0,27.5,107.5,Standard
+DLV00851,2025-02-10,North,Chandigarh,Bike,31.0,66.1,Yes,Delivered,283.0,68.2,214.8,Express
+DLV00852,2025-03-17,South,Bengaluru,Truck,139.3,161.9,Yes,Delivered,2542.4,1532.3,1010.1,Standard
+DLV00853,2025-02-21,West,Ahmedabad,Van,38.6,81.1,Yes,Delivered,498.2,212.3,285.9,Express
+DLV00854,2025-03-03,Central,Nagpur,Bike,28.5,64.4,Yes,Delivered,263.0,62.7,200.3,Standard
+DLV00855,2025-05-05,Central,Nagpur,Truck,121.3,142.6,Yes,Delivered,2218.4,1334.3,884.1,Express
+DLV00856,2025-01-20,South,Hyderabad,Bike,7.1,31.0,Yes,Delivered,91.8,15.62,76.18,Express
+DLV00857,2025-01-12,North,Chandigarh,Bike,18.9,63.1,Yes,Delivered,186.2,41.58,144.62,Standard
+DLV00858,2025-08-25,North,Jaipur,Bike,5.5,28.5,Yes,Delivered,79.0,12.1,66.9,Standard
+DLV00859,2025-09-11,West,Pune,Van,4.4,8.0,Yes,Delivered,87.8,24.2,63.6,Standard
+DLV00860,2025-10-14,North,Chandigarh,Van,12.2,40.0,Yes,Delivered,181.4,67.1,114.3,Express
+DLV00861,2025-06-16,Central,Indore,Van,4.3,20.3,Yes,Delivered,86.6,23.65,62.95,Standard
+DLV00862,2025-01-31,East,Patna,Van,16.5,25.8,Yes,Delivered,233.0,90.75,142.25,Standard
+DLV00863,2025-11-17,West,Pune,Bike,16.4,44.6,Yes,Delivered,166.2,36.08,130.12,Same Day
+DLV00864,2025-11-16,East,Bhubaneswar,Van,40.9,77.1,Yes,Delivered,525.8,224.95,300.85,Standard
+DLV00865,2025-11-08,Central,Bhopal,Bike,4.1,19.1,Yes,Delivered,67.8,9.02,58.78,Standard
+DLV00866,2025-08-11,Central,Nagpur,Truck,133.1,163.4,Yes,Delivered,2430.8,1464.1,966.7,Standard
+DLV00867,2025-11-07,West,Ahmedabad,Bike,21.0,55.1,Yes,Failed,203.0,46.2,156.8,Standard
+DLV00868,2025-03-17,South,Hyderabad,Van,40.8,77.1,Yes,Delivered,524.6,224.4,300.2,Standard
+DLV00869,2025-11-14,East,Patna,Van,37.1,71.9,Yes,Delivered,480.2,204.05,276.15,Express
+DLV00870,2025-11-29,West,Pune,Bike,33.8,86.0,Yes,Delivered,305.4,74.36,231.04,Standard
+DLV00871,2025-10-17,East,Kolkata,Van,7.8,28.6,Yes,Delivered,128.6,42.9,85.7,Standard
+DLV00872,2025-04-15,East,Patna,Bike,31.9,73.7,Yes,Delivered,290.2,70.18,220.02,Standard
+DLV00873,2025-12-21,East,Patna,Bike,7.0,18.3,Yes,Delivered,91.0,15.4,75.6,Express
+DLV00874,2025-12-25,North,Delhi,Van,1.9,14.0,Yes,Delivered,57.8,10.45,47.35,Same Day
+DLV00875,2025-09-28,East,Bhubaneswar,Van,26.7,53.5,Yes,Delivered,355.4,146.85,208.55,Express
+DLV00876,2025-03-08,East,Patna,Bike,22.8,59.0,Yes,Delivered,217.4,50.16,167.24,Same Day
+DLV00877,2025-05-31,North,Delhi,Bike,31.6,77.7,Yes,Delivered,287.8,69.52,218.28,Express
+DLV00878,2025-05-17,South,Chennai,Truck,101.6,126.7,Yes,Delivered,1863.8,1117.6,746.2,Standard
+DLV00879,2025-04-11,North,Jaipur,Bike,20.9,58.8,Yes,Delivered,202.2,45.98,156.22,Standard
+DLV00880,2025-12-11,East,Kolkata,Truck,60.0,81.3,Yes,Delivered,1115.0,660.0,455.0,Same Day
+DLV00881,2025-04-12,North,Jaipur,Truck,30.6,43.3,Yes,Delivered,585.8,336.6,249.2,Standard
+DLV00882,2025-05-21,Central,Indore,Bike,13.6,36.8,Yes,Delivered,143.8,29.92,113.88,Standard
+DLV00883,2025-01-04,Central,Nagpur,Van,13.6,25.9,Yes,Delivered,198.2,74.8,123.4,Standard
+DLV00884,2025-09-01,North,Chandigarh,Bike,21.7,53.3,Yes,Delayed,208.6,47.74,160.86,Standard
+DLV00885,2025-05-26,West,Ahmedabad,Van,2.2,20.5,Yes,Delivered,61.4,12.1,49.3,Express
+DLV00886,2025-09-04,Central,Bhopal,Van,17.2,28.9,Yes,Delivered,241.4,94.6,146.8,Same Day
+DLV00887,2025-04-06,East,Kolkata,Bike,31.9,73.6,Yes,Delivered,290.2,70.18,220.02,Standard
+DLV00888,2025-02-09,North,Delhi,Van,29.8,60.2,Yes,Delivered,392.6,163.9,228.7,Express
+DLV00889,2025-04-26,East,Bhubaneswar,Van,31.2,76.6,Yes,Delivered,409.4,171.6,237.8,Standard
+DLV00890,2025-06-27,East,Bhubaneswar,Van,9.6,32.2,Yes,Delivered,150.2,52.8,97.4,Express
+DLV00891,2025-07-07,West,Mumbai,Bike,7.3,24.2,Yes,Delivered,93.4,16.06,77.34,Express
+DLV00892,2025-07-16,West,Ahmedabad,Van,19.3,31.8,Yes,Delivered,266.6,106.15,160.45,Express
+DLV00893,2025-05-27,East,Bhubaneswar,Truck,67.3,90.6,Yes,Delivered,1246.4,740.3,506.1,Standard
+DLV00894,2025-12-31,North,Chandigarh,Bike,39.9,89.0,Yes,Delivered,354.2,87.78,266.42,Standard
+DLV00895,2025-09-16,West,Pune,Van,13.6,29.1,Yes,Delivered,198.2,74.8,123.4,Express
+DLV00896,2025-04-04,North,Delhi,Van,21.7,45.0,Yes,Delivered,295.4,119.35,176.05,Express
+DLV00897,2025-01-21,West,Ahmedabad,Van,21.6,45.2,Yes,Delivered,294.2,118.8,175.4,Standard
+DLV00898,2025-03-27,East,Bhubaneswar,Van,15.2,44.9,Yes,Delivered,217.4,83.6,133.8,Standard
+DLV00899,2025-02-15,North,Jaipur,Bike,18.3,49.6,Yes,Delivered,181.4,40.26,141.14,Standard
+DLV00900,2025-12-15,West,Mumbai,Van,42.8,82.6,Yes,Delayed,548.6,235.4,313.2,Standard
+DLV00901,2025-10-06,Central,Bhopal,Bike,4.8,28.3,Yes,Delivered,73.4,10.56,62.84,Express
+DLV00902,2025-10-19,West,Ahmedabad,Bike,13.7,39.0,Yes,Delivered,144.6,30.14,114.46,Standard
+DLV00903,2025-03-14,South,Bengaluru,Van,41.7,74.3,Yes,Delivered,535.4,229.35,306.05,Standard
+DLV00904,2025-10-24,Central,Indore,Van,42.6,76.5,Yes,Failed,546.2,234.3,311.9,Express
+DLV00905,2025-01-07,North,Delhi,Van,4.1,32.1,No,Delayed,84.2,22.55,61.65,Express
+DLV00906,2025-07-31,South,Bengaluru,Truck,156.1,197.8,Yes,Failed,2844.8,1717.1,1127.7,Express
+DLV00907,2025-04-27,Central,Bhopal,Bike,37.4,93.9,Yes,Delivered,334.2,82.28,251.92,Standard
+DLV00908,2025-09-15,North,Delhi,Van,14.2,50.2,No,Delayed,205.4,78.1,127.3,Standard
+DLV00909,2025-06-12,Central,Nagpur,Van,19.7,32.2,Yes,Delayed,271.4,108.35,163.05,Standard
+DLV00910,2025-09-03,West,Mumbai,Van,37.7,59.8,Yes,Delivered,487.4,207.35,280.05,Standard
+DLV00911,2025-12-23,Central,Indore,Truck,129.3,151.3,Yes,Delivered,2362.4,1422.3,940.1,Standard
+DLV00912,2025-06-21,South,Hyderabad,Bike,24.6,65.8,Yes,Delivered,231.8,54.12,177.68,Standard
+DLV00913,2025-02-01,East,Patna,Truck,133.3,163.7,Yes,Delivered,2434.4,1466.3,968.1,Standard
+DLV00914,2025-03-13,South,Hyderabad,Truck,10.7,24.4,Yes,Delivered,227.6,117.7,109.9,Standard
+DLV00915,2025-06-10,Central,Nagpur,Bike,31.7,80.4,Yes,Delivered,288.6,69.74,218.86,Same Day
+DLV00916,2025-01-27,West,Mumbai,Truck,57.4,73.6,Yes,Delivered,1068.2,631.4,436.8,Standard
+DLV00917,2025-04-01,Central,Bhopal,Bike,27.8,60.4,Yes,Delivered,257.4,61.16,196.24,Standard
+DLV00918,2025-04-16,East,Bhubaneswar,Bike,44.4,111.0,Yes,Delivered,390.2,97.68,292.52,Standard
+DLV00919,2025-07-27,West,Ahmedabad,Bike,24.6,74.3,Yes,Delivered,231.8,54.12,177.68,Express
+DLV00920,2025-05-12,East,Bhubaneswar,Bike,30.3,77.8,Yes,Delivered,277.4,66.66,210.74,Express
+DLV00921,2025-03-07,Central,Indore,Van,22.4,58.6,Yes,Delivered,303.8,123.2,180.6,Express
+DLV00922,2025-05-25,East,Kolkata,Van,27.4,41.1,Yes,Delivered,363.8,150.7,213.1,Express
+DLV00923,2025-12-07,East,Kolkata,Van,17.1,35.3,Yes,Delivered,240.2,94.05,146.15,Express
+DLV00924,2025-09-15,North,Delhi,Van,15.8,30.2,Yes,Delivered,224.6,86.9,137.7,Express
+DLV00925,2025-12-13,West,Mumbai,Van,25.7,36.3,Yes,Delivered,343.4,141.35,202.05,Standard
+DLV00926,2025-08-24,South,Chennai,Van,11.7,55.6,No,Delayed,175.4,64.35,111.05,Standard
+DLV00927,2025-05-26,Central,Bhopal,Van,33.1,64.6,Yes,Delivered,432.2,182.05,250.15,Standard
+DLV00928,2025-04-25,East,Kolkata,Van,14.3,29.7,Yes,Delayed,206.6,78.65,127.95,Express
+DLV00929,2025-05-20,South,Hyderabad,Van,27.5,62.4,Yes,Delivered,365.0,151.25,213.75,Same Day
+DLV00930,2025-04-26,East,Kolkata,Bike,2.5,20.2,Yes,Delivered,55.0,5.5,49.5,Standard
+DLV00931,2025-10-29,North,Jaipur,Bike,41.7,108.8,Yes,Delivered,368.6,91.74,276.86,Express
+DLV00932,2025-10-14,East,Kolkata,Truck,77.8,95.5,Yes,Delayed,1435.4,855.8,579.6,Standard
+DLV00933,2025-04-11,South,Chennai,Truck,94.0,119.0,Yes,Delayed,1727.0,1034.0,693.0,Same Day
+DLV00934,2025-11-21,East,Kolkata,Van,29.9,51.1,Yes,Delivered,393.8,164.45,229.35,Standard
+DLV00935,2025-11-04,South,Bengaluru,Truck,101.5,129.3,Yes,Delivered,1862.0,1116.5,745.5,Standard
+DLV00936,2025-06-03,West,Ahmedabad,Van,6.0,28.4,Yes,Delivered,107.0,33.0,74.0,Standard
+DLV00937,2025-04-22,East,Bhubaneswar,Bike,10.1,35.3,Yes,Delivered,115.8,22.22,93.58,Standard
+DLV00938,2025-01-20,South,Bengaluru,Bike,1.1,16.2,Yes,Delivered,43.8,2.42,41.38,Standard
+DLV00939,2025-06-20,Central,Nagpur,Van,34.4,57.4,Yes,Delivered,447.8,189.2,258.6,Standard
+DLV00940,2025-08-01,North,Delhi,Van,1.5,8.0,Yes,Delivered,53.0,8.25,44.75,Express
+DLV00941,2025-05-04,East,Patna,Van,3.5,8.0,Yes,Delivered,77.0,19.25,57.75,Standard
+DLV00942,2025-01-08,North,Delhi,Bike,32.3,75.3,Yes,Delayed,293.4,71.06,222.34,Express
+DLV00943,2025-12-23,Central,Nagpur,Truck,145.3,177.7,Yes,Delivered,2650.4,1598.3,1052.1,Standard
+DLV00944,2025-05-27,West,Ahmedabad,Van,39.5,70.3,Yes,Delayed,509.0,217.25,291.75,Standard
+DLV00945,2025-12-07,East,Patna,Truck,81.5,107.3,Yes,Delivered,1502.0,896.5,605.5,Express
+DLV00946,2025-10-30,Central,Nagpur,Van,29.1,52.1,Yes,Delivered,384.2,160.05,224.15,Express
+DLV00947,2025-01-19,North,Delhi,Van,16.6,36.3,Yes,Delivered,234.2,91.3,142.9,Express
+DLV00948,2025-08-12,South,Chennai,Van,43.8,88.5,Yes,Delivered,560.6,240.9,319.7,Standard
+DLV00949,2025-11-26,Central,Bhopal,Bike,1.5,16.1,Yes,Delivered,47.0,3.3,43.7,Standard
+DLV00950,2025-02-02,Central,Nagpur,Bike,24.6,51.1,Yes,Delayed,231.8,54.12,177.68,Same Day
+DLV00951,2025-08-30,Central,Bhopal,Bike,21.8,49.8,Yes,Delivered,209.4,47.96,161.44,Same Day
+DLV00952,2025-02-11,North,Delhi,Bike,9.6,28.5,Yes,Failed,111.8,21.12,90.68,Standard
+DLV00953,2025-10-04,East,Kolkata,Bike,22.6,55.3,Yes,Delivered,215.8,49.72,166.08,Standard
+DLV00954,2025-07-28,South,Hyderabad,Bike,40.8,111.2,Yes,Delivered,361.4,89.76,271.64,Express
+DLV00955,2025-09-02,Central,Bhopal,Van,44.3,84.2,Yes,Delivered,566.6,243.65,322.95,Standard
+DLV00956,2025-12-20,South,Chennai,Bike,10.3,26.3,Yes,Delivered,117.4,22.66,94.74,Standard
+DLV00957,2025-06-09,South,Hyderabad,Truck,47.3,65.4,Yes,Delivered,886.4,520.3,366.1,Standard
+DLV00958,2025-12-12,South,Chennai,Van,6.0,24.3,Yes,Delivered,107.0,33.0,74.0,Express
+DLV00959,2025-07-08,South,Chennai,Bike,37.5,112.0,No,Delayed,335.0,82.5,252.5,Same Day
+DLV00960,2025-01-12,East,Bhubaneswar,Van,16.7,29.8,Yes,Delivered,235.4,91.85,143.55,Express
+DLV00961,2025-05-31,Central,Nagpur,Bike,39.5,100.8,Yes,Failed,351.0,86.9,264.1,Standard
+DLV00962,2025-02-17,South,Chennai,Van,3.6,8.0,Yes,Delivered,78.2,19.8,58.4,Express
+DLV00963,2025-02-16,East,Bhubaneswar,Van,32.5,61.9,Yes,Delivered,425.0,178.75,246.25,Standard
+DLV00964,2025-04-10,Central,Nagpur,Bike,3.5,8.0,Yes,Delivered,63.0,7.7,55.3,Express
+DLV00965,2025-01-29,South,Chennai,Van,1.6,14.1,Yes,Delivered,54.2,8.8,45.4,Express
+DLV00966,2025-07-11,North,Delhi,Truck,172.8,207.9,Yes,Delivered,3145.4,1900.8,1244.6,Standard
+DLV00967,2025-09-09,West,Pune,Bike,27.8,69.0,Yes,Delivered,257.4,61.16,196.24,Standard
+DLV00968,2025-07-21,Central,Nagpur,Van,10.9,16.5,Yes,Delivered,165.8,59.95,105.85,Express
+DLV00969,2025-04-21,South,Bengaluru,Bike,38.9,93.2,Yes,Delivered,346.2,85.58,260.62,Express
+DLV00970,2025-04-25,Central,Bhopal,Truck,2.5,15.5,Yes,Delivered,80.0,27.5,52.5,Standard
+DLV00971,2025-12-04,Central,Indore,Van,5.7,28.7,Yes,Delivered,103.4,31.35,72.05,Standard
+DLV00972,2025-08-15,West,Mumbai,Van,28.8,49.4,Yes,Delivered,380.6,158.4,222.2,Standard
+DLV00973,2025-01-22,North,Delhi,Truck,7.7,24.9,Yes,Delivered,173.6,84.7,88.9,Standard
+DLV00974,2025-07-27,East,Patna,Bike,32.7,91.4,Yes,Delivered,296.6,71.94,224.66,Same Day
+DLV00975,2025-05-28,South,Hyderabad,Van,14.6,35.6,Yes,Delivered,210.2,80.3,129.9,Standard
+DLV00976,2025-10-05,West,Mumbai,Van,17.9,52.6,No,Delayed,249.8,98.45,151.35,Standard
+DLV00977,2025-02-08,North,Chandigarh,Van,26.7,56.5,Yes,Delayed,355.4,146.85,208.55,Standard
+DLV00978,2025-08-26,West,Ahmedabad,Van,17.4,42.0,Yes,Delivered,243.8,95.7,148.1,Standard
+DLV00979,2025-07-27,West,Ahmedabad,Van,1.8,17.8,Yes,Delivered,56.6,9.9,46.7,Express
+DLV00980,2025-11-05,Central,Indore,Van,8.6,30.1,Yes,Delivered,138.2,47.3,90.9,Express
+DLV00981,2025-07-27,North,Delhi,Van,7.7,28.1,Yes,Delivered,127.4,42.35,85.05,Standard
+DLV00982,2025-09-17,South,Bengaluru,Van,25.2,56.1,Yes,Delivered,337.4,138.6,198.8,Standard
+DLV00983,2025-03-30,North,Delhi,Truck,16.5,28.8,Yes,Delivered,332.0,181.5,150.5,Standard
+DLV00984,2025-10-15,East,Patna,Bike,36.0,81.2,Yes,Delivered,323.0,79.2,243.8,Same Day
+DLV00985,2025-06-12,Central,Indore,Bike,25.8,65.5,Yes,Delivered,241.4,56.76,184.64,Express
+DLV00986,2025-09-03,West,Mumbai,Van,3.8,14.8,Yes,Delivered,80.6,20.9,59.7,Express
+DLV00987,2025-07-11,West,Mumbai,Bike,35.9,96.4,Yes,Delivered,322.2,78.98,243.22,Standard
+DLV00988,2025-06-06,North,Delhi,Van,13.9,30.3,Yes,Delivered,201.8,76.45,125.35,Standard
+DLV00989,2025-02-22,West,Pune,Bike,39.7,101.4,Yes,Delivered,352.6,87.34,265.26,Express
+DLV00990,2025-09-14,East,Patna,Bike,34.8,85.5,Yes,Delivered,313.4,76.56,236.84,Standard
+DLV00991,2025-09-30,North,Delhi,Bike,18.2,48.1,Yes,Delivered,180.6,40.04,140.56,Standard
+DLV00992,2025-01-30,North,Delhi,Van,42.1,79.4,Yes,Delivered,540.2,231.55,308.65,Standard
+DLV00993,2025-12-06,Central,Indore,Truck,43.7,58.5,Yes,Delivered,821.6,480.7,340.9,Standard
+DLV00994,2025-05-21,West,Ahmedabad,Bike,4.6,15.4,Yes,Delivered,71.8,10.12,61.68,Standard
+DLV00995,2025-08-31,West,Mumbai,Bike,14.6,31.8,Yes,Delivered,151.8,32.12,119.68,Express
+DLV00996,2025-01-15,West,Ahmedabad,Bike,12.2,49.6,No,Delayed,132.6,26.84,105.76,Standard
+DLV00997,2025-01-18,West,Ahmedabad,Van,37.9,66.1,Yes,Delivered,489.8,208.45,281.35,Express
+DLV00998,2025-02-17,East,Bhubaneswar,Van,7.0,18.3,Yes,Delivered,119.0,38.5,80.5,Standard
+DLV00999,2025-05-18,Central,Nagpur,Van,8.9,13.9,Yes,Delivered,141.8,48.95,92.85,Standard
+DLV01000,2025-12-08,North,Delhi,Van,1.1,9.7,Yes,Delivered,48.2,6.05,42.15,Standard
+DLV01001,2025-09-28,North,Delhi,Truck,84.8,115.2,Yes,Delivered,1561.4,932.8,628.6,Express
+DLV01002,2025-11-05,North,Jaipur,Van,24.1,48.9,Yes,Delayed,324.2,132.55,191.65,Standard
+DLV01003,2025-11-04,North,Jaipur,Truck,158.8,185.5,Yes,Delivered,2893.4,1746.8,1146.6,Standard
+DLV01004,2025-11-18,North,Delhi,Van,16.5,38.7,Yes,Delayed,233.0,90.75,142.25,Express
+DLV01005,2025-08-11,West,Ahmedabad,Van,12.8,40.6,Yes,Delivered,188.6,70.4,118.2,Standard
+DLV01006,2025-08-07,North,Jaipur,Bike,18.5,50.5,Yes,Failed,183.0,40.7,142.3,Standard
+DLV01007,2025-11-04,North,Jaipur,Truck,172.4,209.7,Yes,Delivered,3138.2,1896.4,1241.8,Standard
+DLV01008,2025-12-02,West,Ahmedabad,Bike,37.4,84.1,Yes,Delivered,334.2,82.28,251.92,Express
+DLV01009,2025-12-16,North,Jaipur,Van,6.2,12.9,Yes,Delayed,109.4,34.1,75.3,Express
+DLV01010,2025-12-03,West,Ahmedabad,Bike,23.5,48.4,Yes,Delayed,223.0,51.7,171.3,Standard
+DLV01011,2025-10-26,South,Bengaluru,Van,3.6,15.1,Yes,Delivered,78.2,19.8,58.4,Standard
+DLV01012,2025-07-10,West,Ahmedabad,Truck,97.8,125.1,Yes,Delivered,1795.4,1075.8,719.6,Standard
+DLV01013,2025-05-13,Central,Nagpur,Bike,13.4,37.0,Yes,Delivered,142.2,29.48,112.72,Standard
+DLV01014,2025-11-22,Central,Bhopal,Bike,13.5,44.6,Yes,Delivered,143.0,29.7,113.3,Same Day
+DLV01015,2025-10-06,North,Jaipur,Bike,28.6,59.9,Yes,Delivered,263.8,62.92,200.88,Standard
+DLV01016,2025-07-27,North,Chandigarh,Truck,1.4,8.0,Yes,Delivered,60.2,15.4,44.8,Same Day
+DLV01017,2025-07-21,North,Delhi,Bike,18.8,46.5,Yes,Delivered,185.4,41.36,144.04,Standard
+DLV01018,2025-10-24,West,Ahmedabad,Truck,137.7,176.9,Yes,Delivered,2513.6,1514.7,998.9,Express
+DLV01019,2025-10-19,North,Jaipur,Van,25.9,48.3,Yes,Delivered,345.8,142.45,203.35,Standard
+DLV01020,2025-08-19,West,Pune,Bike,33.6,82.2,Yes,Delayed,303.8,73.92,229.88,Express
+DLV01021,2025-09-26,Central,Nagpur,Truck,79.0,100.6,Yes,Delivered,1457.0,869.0,588.0,Standard
+DLV01022,2025-02-07,North,Delhi,Bike,16.8,55.0,Yes,Delivered,169.4,36.96,132.44,Same Day
+DLV01023,2025-04-11,Central,Indore,Truck,141.5,179.9,Yes,Delivered,2582.0,1556.5,1025.5,Standard
+DLV01024,2025-06-24,Central,Bhopal,Bike,22.2,46.6,Yes,Delivered,212.6,48.84,163.76,Same Day
+DLV01025,2025-11-20,North,Jaipur,Van,14.4,28.1,Yes,Delivered,207.8,79.2,128.6,Same Day
+DLV01026,2025-01-24,East,Kolkata,Truck,3.4,23.5,No,Delayed,96.2,37.4,58.8,Express
+DLV01027,2025-11-24,West,Mumbai,Bike,20.1,41.1,Yes,Delivered,195.8,44.22,151.58,Standard
+DLV01028,2025-06-03,Central,Indore,Van,10.2,25.5,Yes,Delivered,157.4,56.1,101.3,Express
+DLV01029,2025-09-18,Central,Bhopal,Van,42.9,83.0,Yes,Delivered,549.8,235.95,313.85,Same Day
+DLV01030,2025-10-25,North,Chandigarh,Van,28.9,56.4,Yes,Delayed,381.8,158.95,222.85,Standard
+DLV01031,2025-02-04,Central,Indore,Van,5.3,24.0,Yes,Delivered,98.6,29.15,69.45,Express
+DLV01032,2025-10-25,East,Patna,Truck,108.5,119.1,Yes,Delivered,1988.0,1193.5,794.5,Express
+DLV01033,2025-07-29,South,Bengaluru,Bike,22.5,78.0,No,Delayed,215.0,49.5,165.5,Express
+DLV01034,2025-12-12,North,Chandigarh,Bike,44.9,114.6,Yes,Delivered,394.2,98.78,295.42,Express
+DLV01035,2025-02-19,Central,Nagpur,Bike,23.8,60.2,Yes,Delivered,225.4,52.36,173.04,Standard
+DLV01036,2025-10-22,West,Pune,Bike,33.6,75.9,Yes,Delivered,303.8,73.92,229.88,Standard
+DLV01037,2025-11-27,North,Chandigarh,Van,10.9,20.2,Yes,Delivered,165.8,59.95,105.85,Standard
+DLV01038,2025-07-03,West,Pune,Van,3.0,11.6,Yes,Delivered,71.0,16.5,54.5,Same Day
+DLV01039,2025-07-08,North,Jaipur,Van,43.0,93.5,Yes,Delivered,551.0,236.5,314.5,Same Day
+DLV01040,2025-10-08,Central,Bhopal,Van,33.2,64.8,Yes,Delivered,433.4,182.6,250.8,Standard
+DLV01041,2025-09-10,Central,Nagpur,Van,23.7,42.9,Yes,Delivered,319.4,130.35,189.05,Standard
+DLV01042,2025-07-13,Central,Indore,Van,37.9,78.6,Yes,Delivered,489.8,208.45,281.35,Express
+DLV01043,2025-01-01,South,Chennai,Bike,4.4,8.0,Yes,Delivered,70.2,9.68,60.52,Standard
+DLV01044,2025-12-21,Central,Bhopal,Bike,3.0,17.6,Yes,Delivered,59.0,6.6,52.4,Same Day
+DLV01045,2025-06-10,South,Hyderabad,Van,30.6,53.0,Yes,Delivered,402.2,168.3,233.9,Standard
+DLV01046,2025-10-19,North,Delhi,Van,43.7,65.0,Yes,Delivered,559.4,240.35,319.05,Express
+DLV01047,2025-08-30,West,Ahmedabad,Truck,8.8,10.3,Yes,Delivered,193.4,96.8,96.6,Standard
+DLV01048,2025-08-10,South,Hyderabad,Bike,38.7,118.0,No,Failed,344.6,85.14,259.46,Same Day
+DLV01049,2025-09-07,North,Jaipur,Bike,36.2,89.1,Yes,Delivered,324.6,79.64,244.96,Standard
+DLV01050,2025-10-13,North,Chandigarh,Truck,43.9,52.4,Yes,Delivered,825.2,482.9,342.3,Express
+DLV01051,2025-11-04,South,Chennai,Van,23.0,50.3,Yes,Delivered,311.0,126.5,184.5,Standard
+DLV01052,2025-04-10,West,Mumbai,Bike,6.9,33.7,Yes,Delivered,90.2,15.18,75.02,Standard
+DLV01053,2025-10-31,Central,Indore,Van,32.3,59.7,Yes,Delivered,422.6,177.65,244.95,Standard
+DLV01054,2025-08-30,South,Chennai,Bike,28.5,84.9,Yes,Delivered,263.0,62.7,200.3,Express
+DLV01055,2025-10-02,South,Hyderabad,Bike,1.4,8.7,Yes,Delivered,46.2,3.08,43.12,Standard
+DLV01056,2025-07-18,Central,Nagpur,Van,4.2,24.5,Yes,Delivered,85.4,23.1,62.3,Express
+DLV01057,2025-09-26,East,Bhubaneswar,Bike,44.0,103.5,Yes,Delivered,387.0,96.8,290.2,Standard
+DLV01058,2025-05-13,North,Jaipur,Bike,22.6,55.0,Yes,Delivered,215.8,49.72,166.08,Standard
+DLV01059,2025-01-17,South,Bengaluru,Van,33.6,75.2,Yes,Delivered,438.2,184.8,253.4,Standard
+DLV01060,2025-06-26,East,Bhubaneswar,Bike,5.3,31.4,No,Delayed,77.4,11.66,65.74,Same Day
+DLV01061,2025-05-04,Central,Nagpur,Van,1.8,21.0,Yes,Delivered,56.6,9.9,46.7,Express
+DLV01062,2025-09-21,West,Pune,Bike,10.9,35.4,Yes,Delivered,122.2,23.98,98.22,Express
+DLV01063,2025-04-10,North,Jaipur,Truck,148.6,182.3,Yes,Delivered,2709.8,1634.6,1075.2,Standard
+DLV01064,2025-03-03,Central,Indore,Bike,37.6,89.7,Yes,Delivered,335.8,82.72,253.08,Same Day
+DLV01065,2025-10-20,East,Kolkata,Bike,44.3,86.6,Yes,Delivered,389.4,97.46,291.94,Express
+DLV01066,2025-05-20,South,Chennai,Van,11.9,32.9,Yes,Delivered,177.8,65.45,112.35,Express
+DLV01067,2025-12-02,North,Jaipur,Van,42.2,67.1,Yes,Delivered,541.4,232.1,309.3,Standard
+DLV01068,2025-09-17,West,Pune,Bike,12.1,32.3,Yes,Delivered,131.8,26.62,105.18,Express
+DLV01069,2025-08-07,South,Hyderabad,Van,22.9,87.2,No,Delayed,309.8,125.95,183.85,Standard
+DLV01070,2025-08-29,West,Ahmedabad,Van,13.4,33.0,Yes,Delivered,195.8,73.7,122.1,Standard
+DLV01071,2025-04-23,Central,Nagpur,Bike,7.7,22.8,Yes,Delivered,96.6,16.94,79.66,Standard
+DLV01072,2025-09-28,North,Delhi,Truck,68.9,89.2,Yes,Delivered,1275.2,757.9,517.3,Standard
+DLV01073,2025-09-29,East,Kolkata,Van,4.2,32.0,No,Delayed,85.4,23.1,62.3,Express
+DLV01074,2025-09-08,Central,Nagpur,Bike,9.1,21.4,Yes,Delivered,107.8,20.02,87.78,Express
+DLV01075,2025-07-19,North,Delhi,Bike,44.4,85.0,Yes,Failed,390.2,97.68,292.52,Standard
+DLV01076,2025-10-28,Central,Indore,Bike,35.9,94.0,Yes,Delivered,322.2,78.98,243.22,Standard
+DLV01077,2025-04-07,South,Chennai,Van,43.9,82.3,Yes,Delivered,561.8,241.45,320.35,Express
+DLV01078,2025-11-25,Central,Nagpur,Truck,121.0,153.3,Yes,Delivered,2213.0,1331.0,882.0,Standard
+DLV01079,2025-07-18,South,Hyderabad,Bike,33.0,102.5,No,Delayed,299.0,72.6,226.4,Standard
+DLV01080,2025-01-16,West,Pune,Van,3.4,18.3,Yes,Delivered,75.8,18.7,57.1,Express
+DLV01081,2025-02-13,West,Ahmedabad,Van,30.1,55.7,Yes,Delivered,396.2,165.55,230.65,Standard
+DLV01082,2025-01-19,South,Bengaluru,Truck,110.6,131.9,Yes,Delivered,2025.8,1216.6,809.2,Standard
+DLV01083,2025-02-01,South,Hyderabad,Bike,37.5,100.6,Yes,Delivered,335.0,82.5,252.5,Express
+DLV01084,2025-09-21,South,Bengaluru,Van,7.2,23.8,Yes,Delivered,121.4,39.6,81.8,Standard
+DLV01085,2025-01-13,Central,Indore,Bike,17.4,37.6,Yes,Delivered,174.2,38.28,135.92,Express
+DLV01086,2025-02-26,East,Bhubaneswar,Bike,5.3,19.6,Yes,Delivered,77.4,11.66,65.74,Standard
+DLV01087,2025-07-20,North,Jaipur,Van,15.1,32.8,Yes,Delivered,216.2,83.05,133.15,Standard
+DLV01088,2025-11-24,East,Kolkata,Bike,41.7,108.0,Yes,Delivered,368.6,91.74,276.86,Express
+DLV01089,2025-12-29,East,Bhubaneswar,Bike,43.7,113.3,Yes,Delivered,384.6,96.14,288.46,Standard
+DLV01090,2025-08-29,South,Hyderabad,Van,33.0,73.2,Yes,Delivered,431.0,181.5,249.5,Same Day
+DLV01091,2025-06-04,West,Ahmedabad,Van,32.9,59.0,Yes,Delayed,429.8,180.95,248.85,Same Day
+DLV01092,2025-08-27,West,Pune,Van,15.4,35.8,Yes,Delivered,219.8,84.7,135.1,Same Day
+DLV01093,2025-06-28,West,Pune,Van,11.3,20.6,Yes,Delivered,170.6,62.15,108.45,Express
+DLV01094,2025-07-13,Central,Bhopal,Van,14.6,38.4,Yes,Delivered,210.2,80.3,129.9,Express
+DLV01095,2025-11-15,North,Chandigarh,Bike,24.5,57.3,Yes,Delivered,231.0,53.9,177.1,Express
+DLV01096,2025-10-12,Central,Bhopal,Bike,14.8,31.4,Yes,Delivered,153.4,32.56,120.84,Express
+DLV01097,2025-08-01,Central,Bhopal,Van,19.2,43.9,Yes,Delivered,265.4,105.6,159.8,Standard
+DLV01098,2025-12-15,East,Patna,Bike,28.8,73.9,Yes,Delivered,265.4,63.36,202.04,Standard
+DLV01099,2025-05-14,North,Jaipur,Bike,40.4,85.9,Yes,Delivered,358.2,88.88,269.32,Express
+DLV01100,2025-01-23,Central,Nagpur,Bike,43.6,101.2,Yes,Delivered,383.8,95.92,287.88,Standard
+DLV01101,2025-06-19,Central,Bhopal,Truck,24.6,44.1,Yes,Delivered,477.8,270.6,207.2,Standard
+DLV01102,2025-02-28,Central,Nagpur,Truck,79.8,97.5,Yes,Delivered,1471.4,877.8,593.6,Same Day
+DLV01103,2025-10-26,West,Ahmedabad,Truck,137.2,163.3,Yes,Delivered,2504.6,1509.2,995.4,Express
+DLV01104,2025-10-26,South,Chennai,Van,11.8,34.2,Yes,Delivered,176.6,64.9,111.7,Standard
+DLV01105,2025-08-17,North,Jaipur,Van,14.1,31.9,Yes,Delivered,204.2,77.55,126.65,Same Day
+DLV01106,2025-08-31,West,Mumbai,Truck,137.7,171.3,Yes,Delivered,2513.6,1514.7,998.9,Standard
+DLV01107,2025-10-15,East,Bhubaneswar,Bike,30.6,70.2,Yes,Delivered,279.8,67.32,212.48,Same Day
+DLV01108,2025-11-27,North,Chandigarh,Van,37.5,60.2,Yes,Delivered,485.0,206.25,278.75,Standard
+DLV01109,2025-04-08,Central,Bhopal,Bike,32.4,69.2,Yes,Delivered,294.2,71.28,222.92,Express
+DLV01110,2025-02-05,North,Chandigarh,Truck,87.1,110.9,Yes,Delivered,1602.8,958.1,644.7,Standard
+DLV01111,2025-07-03,Central,Nagpur,Bike,11.4,36.4,Yes,Delivered,126.2,25.08,101.12,Same Day
+DLV01112,2025-10-12,South,Hyderabad,Bike,15.0,52.0,Yes,Delivered,155.0,33.0,122.0,Standard
+DLV01113,2025-08-24,South,Chennai,Bike,32.3,102.2,No,Delayed,293.4,71.06,222.34,Express
+DLV01114,2025-09-08,West,Mumbai,Van,39.6,57.4,Yes,Delivered,510.2,217.8,292.4,Express
+DLV01115,2025-03-05,South,Hyderabad,Bike,21.8,48.0,Yes,Delivered,209.4,47.96,161.44,Standard
+DLV01116,2025-09-18,North,Jaipur,Truck,24.6,32.5,Yes,Delivered,477.8,270.6,207.2,Same Day
+DLV01117,2025-03-21,East,Kolkata,Van,44.0,74.9,Yes,Delivered,563.0,242.0,321.0,Standard
+DLV01118,2025-03-29,South,Bengaluru,Truck,8.0,23.1,Yes,Delivered,179.0,88.0,91.0,Standard
+DLV01119,2025-02-21,West,Pune,Bike,1.5,11.1,Yes,Delivered,47.0,3.3,43.7,Standard
+DLV01120,2025-01-16,Central,Nagpur,Bike,22.1,56.1,Yes,Delayed,211.8,48.62,163.18,Same Day
+DLV01121,2025-08-22,North,Chandigarh,Van,24.9,38.7,Yes,Delivered,333.8,136.95,196.85,Express
+DLV01122,2025-11-18,North,Chandigarh,Bike,28.2,49.8,Yes,Delivered,260.6,62.04,198.56,Same Day
+DLV01123,2025-01-28,Central,Indore,Truck,133.3,164.0,Yes,Delivered,2434.4,1466.3,968.1,Standard
+DLV01124,2025-12-12,South,Hyderabad,Bike,37.8,101.7,Yes,Delivered,337.4,83.16,254.24,Express
+DLV01125,2025-04-07,South,Bengaluru,Truck,152.2,173.2,Yes,Delivered,2774.6,1674.2,1100.4,Standard
+DLV01126,2025-08-08,West,Mumbai,Truck,32.4,45.5,Yes,Delivered,618.2,356.4,261.8,Standard
+DLV01127,2025-11-27,South,Chennai,Bike,34.6,78.3,Yes,Delivered,311.8,76.12,235.68,Standard
+DLV01128,2025-11-25,West,Pune,Van,28.3,49.8,Yes,Delivered,374.6,155.65,218.95,Same Day
+DLV01129,2025-08-12,North,Jaipur,Bike,16.7,56.8,Yes,Delivered,168.6,36.74,131.86,Same Day
+DLV01130,2025-04-03,West,Pune,Bike,4.4,21.3,Yes,Delayed,70.2,9.68,60.52,Express
+DLV01131,2025-04-25,North,Delhi,Van,18.7,38.6,Yes,Delivered,259.4,102.85,156.55,Standard
+DLV01132,2025-10-20,East,Kolkata,Van,28.9,54.5,Yes,Delivered,381.8,158.95,222.85,Standard
+DLV01133,2025-12-18,West,Ahmedabad,Van,1.3,11.1,Yes,Delivered,50.6,7.15,43.45,Same Day
+DLV01134,2025-07-04,North,Jaipur,Bike,32.2,78.0,Yes,Delivered,292.6,70.84,221.76,Standard
+DLV01135,2025-01-09,East,Kolkata,Bike,41.8,98.7,Yes,Delivered,369.4,91.96,277.44,Standard
+DLV01136,2025-08-01,South,Hyderabad,Bike,37.2,106.0,Yes,Delayed,332.6,81.84,250.76,Standard
+DLV01137,2025-02-21,East,Patna,Truck,145.9,185.2,Yes,Delivered,2661.2,1604.9,1056.3,Standard
+DLV01138,2025-10-06,South,Bengaluru,Bike,37.9,87.4,Yes,Delivered,338.2,83.38,254.82,Express
+DLV01139,2025-09-09,North,Jaipur,Van,43.4,76.3,Yes,Delivered,555.8,238.7,317.1,Standard
+DLV01140,2025-11-28,West,Pune,Bike,32.8,78.7,Yes,Delivered,297.4,72.16,225.24,Standard
+DLV01141,2025-09-14,South,Chennai,Van,24.2,51.5,Yes,Delivered,325.4,133.1,192.3,Standard
+DLV01142,2025-11-30,West,Pune,Bike,43.2,96.7,Yes,Delivered,380.6,95.04,285.56,Standard
+DLV01143,2025-09-24,North,Jaipur,Van,14.5,46.9,No,Delayed,209.0,79.75,129.25,Standard
+DLV01144,2025-02-11,West,Ahmedabad,Van,34.4,70.7,Yes,Delivered,447.8,189.2,258.6,Standard
+DLV01145,2025-07-27,North,Chandigarh,Bike,37.2,90.5,Yes,Delivered,332.6,81.84,250.76,Express
+DLV01146,2025-04-01,Central,Nagpur,Van,17.6,36.7,Yes,Delayed,246.2,96.8,149.4,Express
+DLV01147,2025-01-10,West,Ahmedabad,Bike,33.4,75.1,Yes,Delivered,302.2,73.48,228.72,Standard
+DLV01148,2025-04-15,West,Ahmedabad,Van,43.6,61.8,Yes,Delivered,558.2,239.8,318.4,Standard
+DLV01149,2025-06-06,North,Chandigarh,Bike,20.5,48.8,Yes,Delivered,199.0,45.1,153.9,Same Day
+DLV01150,2025-06-16,Central,Bhopal,Truck,97.4,118.8,Yes,Delivered,1788.2,1071.4,716.8,Standard

@@ -1,0 +1,1101 @@
+Order_ID,Order_Date,Region,City,Product_Category,Customer_Segment,Sales_Channel,Order_Value,Order_Status,Delivery_Days,Estimated_Cost,Estimated_Margin
+EC00001,2025-03-07,East,Bhubaneswar,Fashion,Repeat,Android App,1351.85,Cancelled,4,973.33,378.52
+EC00002,2025-02-26,East,Kolkata,Books,First-time,Marketplace,722.93,Delivered,4,520.51,202.42
+EC00003,2025-04-16,North,Delhi,Electronics,First-time,Website,15060.74,Delivered,1,10843.73,4217.01
+EC00004,2025-09-28,West,Pune,Books,Repeat,iOS App,726.43,Delivered,1,523.03,203.4
+EC00005,2025-04-09,Central,Indore,Home & Kitchen,Repeat,Marketplace,2574.66,Delivered,3,1853.76,720.9
+EC00006,2025-04-26,North,Delhi,Home & Kitchen,Repeat,Android App,2799.78,Delivered,2,2015.84,783.94
+EC00007,2025-11-18,Central,Bhopal,Fashion,Repeat,Android App,1838.72,Delivered,2,1323.88,514.84
+EC00008,2025-01-21,East,Patna,Beauty,Repeat,Website,1161.69,Delivered,4,836.42,325.27
+EC00009,2025-01-29,East,Kolkata,Fashion,Premium,Android App,1704.73,Delivered,5,1227.41,477.32
+EC00010,2025-05-29,Central,Nagpur,Fashion,Repeat,Marketplace,2961.62,Cancelled,7,2132.37,829.25
+EC00011,2025-07-19,South,Bengaluru,Books,Premium,Android App,545.76,Delivered,2,392.95,152.81
+EC00012,2025-04-01,West,Mumbai,Electronics,First-time,Android App,7257.03,Returned,8,5225.06,2031.97
+EC00013,2025-08-08,North,Chandigarh,Fashion,Repeat,Marketplace,1178.71,Delivered,1,848.67,330.04
+EC00014,2025-01-19,North,Chandigarh,Beauty,First-time,Android App,873.96,Delivered,2,629.25,244.71
+EC00015,2025-01-25,North,Delhi,Fashion,First-time,Website,2926.23,Delivered,5,2106.89,819.34
+EC00016,2025-04-27,North,Chandigarh,Beauty,Premium,iOS App,1101.49,Delivered,5,793.07,308.42
+EC00017,2025-01-26,Central,Nagpur,Beauty,First-time,Android App,756.97,Delivered,5,545.02,211.95
+EC00018,2025-02-01,North,Jaipur,Beauty,Premium,Android App,862.53,Delivered,8,621.02,241.51
+EC00019,2025-01-24,South,Chennai,Fashion,Repeat,Marketplace,1580.91,Delivered,7,1138.26,442.65
+EC00020,2025-05-24,North,Chandigarh,Fashion,Repeat,Website,1347.26,Delivered,3,970.03,377.23
+EC00021,2025-04-16,East,Bhubaneswar,Electronics,Repeat,Android App,17922.88,Delivered,2,12904.47,5018.41
+EC00022,2025-12-26,Central,Bhopal,Beauty,First-time,Marketplace,1377.82,Delivered,7,992.03,385.79
+EC00023,2025-11-24,West,Ahmedabad,Electronics,Repeat,Android App,7926.74,Delivered,5,5707.25,2219.49
+EC00024,2025-06-29,North,Chandigarh,Beauty,First-time,Android App,1020.7,Delivered,8,734.9,285.8
+EC00025,2025-05-25,West,Ahmedabad,Fashion,First-time,iOS App,2418.84,Delivered,4,1741.56,677.28
+EC00026,2025-03-10,North,Chandigarh,Fashion,Repeat,iOS App,2602.76,Delivered,7,1873.99,728.77
+EC00027,2025-05-16,West,Mumbai,Fashion,Repeat,Android App,1414.61,Delivered,4,1018.52,396.09
+EC00028,2025-09-04,Central,Indore,Fashion,First-time,Website,1079.01,Delivered,2,776.89,302.12
+EC00029,2025-10-21,North,Jaipur,Fashion,First-time,Android App,1086.18,Delivered,2,782.05,304.13
+EC00030,2025-01-21,West,Ahmedabad,Fashion,Repeat,iOS App,1102.17,Delivered,3,793.56,308.61
+EC00031,2025-10-15,South,Hyderabad,Electronics,Repeat,Website,20170.36,Delivered,2,14522.66,5647.7
+EC00032,2025-10-12,North,Chandigarh,Electronics,Repeat,Marketplace,19415.63,Delivered,6,13979.25,5436.38
+EC00033,2025-03-08,South,Chennai,Fashion,Premium,Android App,1891.03,Delivered,3,1361.54,529.49
+EC00034,2025-03-12,South,Bengaluru,Home & Kitchen,Repeat,Marketplace,1790.57,Delivered,4,1289.21,501.36
+EC00035,2025-01-28,Central,Bhopal,Books,Repeat,Website,414.17,Delivered,5,298.2,115.97
+EC00036,2025-07-27,East,Patna,Beauty,First-time,Android App,530.78,Delivered,4,382.16,148.62
+EC00037,2025-08-10,South,Bengaluru,Fashion,First-time,Website,2295.08,Delivered,3,1652.46,642.62
+EC00038,2025-03-03,East,Bhubaneswar,Fashion,Repeat,Website,2823.2,Delivered,8,2032.7,790.5
+EC00039,2025-07-30,North,Chandigarh,Beauty,First-time,Marketplace,538.54,Delivered,3,387.75,150.79
+EC00040,2025-04-05,South,Bengaluru,Fashion,First-time,Marketplace,2696.67,Delivered,3,1941.6,755.07
+EC00041,2025-12-10,South,Chennai,Fashion,Repeat,Android App,1436.26,Delivered,2,1034.11,402.15
+EC00042,2025-07-26,West,Ahmedabad,Fashion,Premium,Android App,1987.53,Delivered,6,1431.02,556.51
+EC00043,2025-05-06,East,Kolkata,Beauty,Repeat,iOS App,1181.0,Cancelled,1,850.32,330.68
+EC00044,2025-05-07,South,Chennai,Home & Kitchen,Repeat,Android App,4254.07,Delivered,8,3062.93,1191.14
+EC00045,2025-07-04,South,Hyderabad,Beauty,First-time,Android App,1376.23,Delivered,8,990.89,385.34
+EC00046,2025-06-17,South,Bengaluru,Home & Kitchen,First-time,Website,4897.33,Delivered,6,3526.08,1371.25
+EC00047,2025-07-21,East,Patna,Fashion,First-time,Marketplace,2305.73,Delivered,2,1660.13,645.6
+EC00048,2025-06-18,East,Kolkata,Fashion,Repeat,Android App,1395.74,Delivered,1,1004.93,390.81
+EC00049,2025-02-18,South,Chennai,Fashion,Repeat,iOS App,2778.23,Delivered,5,2000.33,777.9
+EC00050,2025-04-22,East,Bhubaneswar,Electronics,First-time,Marketplace,10189.73,Delivered,2,7336.61,2853.12
+EC00051,2025-12-21,North,Jaipur,Books,Repeat,Android App,714.11,Delivered,2,514.16,199.95
+EC00052,2025-03-19,North,Jaipur,Electronics,First-time,Android App,13069.0,Delivered,1,9409.68,3659.32
+EC00053,2025-08-15,North,Jaipur,Fashion,First-time,Android App,1345.71,Delivered,7,968.91,376.8
+EC00054,2025-09-02,North,Jaipur,Books,First-time,Android App,369.49,Delivered,3,266.03,103.46
+EC00055,2025-01-24,North,Chandigarh,Fashion,First-time,Website,2942.38,Delivered,8,2118.51,823.87
+EC00056,2025-10-03,Central,Indore,Beauty,Repeat,Android App,826.51,Delivered,4,595.09,231.42
+EC00057,2025-08-17,South,Bengaluru,Fashion,First-time,Android App,1602.51,Delivered,2,1153.81,448.7
+EC00058,2025-05-11,East,Kolkata,Beauty,Repeat,Website,531.29,Delivered,4,382.53,148.76
+EC00059,2025-05-14,South,Hyderabad,Books,First-time,Android App,741.19,Delivered,1,533.66,207.53
+EC00060,2025-02-03,North,Jaipur,Books,First-time,Android App,781.86,Delivered,5,562.94,218.92
+EC00061,2025-09-07,North,Jaipur,Fashion,First-time,Marketplace,1414.85,Delivered,2,1018.69,396.16
+EC00062,2025-03-06,North,Delhi,Beauty,Repeat,Android App,1238.83,Delivered,8,891.96,346.87
+EC00063,2025-08-28,Central,Bhopal,Books,Repeat,Android App,618.79,Delivered,8,445.53,173.26
+EC00064,2025-03-16,East,Bhubaneswar,Home & Kitchen,Repeat,Android App,3418.91,Delivered,3,2461.62,957.29
+EC00065,2025-12-19,Central,Nagpur,Home & Kitchen,First-time,Website,4189.86,Delivered,7,3016.7,1173.16
+EC00066,2025-06-13,North,Chandigarh,Fashion,First-time,iOS App,2914.02,Delivered,1,2098.09,815.93
+EC00067,2025-12-14,Central,Bhopal,Fashion,Repeat,Marketplace,1774.84,Returned,2,1277.88,496.96
+EC00068,2025-04-19,North,Jaipur,Home & Kitchen,Premium,Android App,4576.56,Delivered,6,3295.12,1281.44
+EC00069,2025-04-02,East,Kolkata,Fashion,Repeat,iOS App,2010.56,Delivered,6,1447.6,562.96
+EC00070,2025-01-24,Central,Indore,Home & Kitchen,Repeat,iOS App,4679.75,Delivered,2,3369.42,1310.33
+EC00071,2025-08-29,West,Mumbai,Fashion,First-time,Android App,2710.04,Delivered,7,1951.23,758.81
+EC00072,2025-11-12,Central,Nagpur,Fashion,First-time,Marketplace,2516.65,Cancelled,8,1811.99,704.66
+EC00073,2025-10-25,West,Pune,Fashion,First-time,Marketplace,2694.04,Delivered,3,1939.71,754.33
+EC00074,2025-06-09,South,Bengaluru,Electronics,Repeat,Website,12870.72,Cancelled,2,9266.92,3603.8
+EC00075,2025-04-16,East,Kolkata,Electronics,First-time,Website,8118.8,Delivered,4,5845.54,2273.26
+EC00076,2025-03-26,South,Hyderabad,Fashion,Premium,Website,1748.63,Delivered,7,1259.01,489.62
+EC00077,2025-06-29,East,Bhubaneswar,Beauty,Repeat,Website,1223.15,Delivered,6,880.67,342.48
+EC00078,2025-12-15,North,Jaipur,Fashion,Repeat,Android App,1262.78,Delivered,2,909.2,353.58
+EC00079,2025-10-07,North,Delhi,Fashion,First-time,iOS App,1932.68,Delivered,3,1391.53,541.15
+EC00080,2025-02-25,South,Chennai,Electronics,First-time,Android App,17745.43,Delivered,8,12776.71,4968.72
+EC00081,2025-02-19,North,Jaipur,Home & Kitchen,First-time,Android App,2139.28,Cancelled,7,1540.28,599.0
+EC00082,2025-06-19,Central,Bhopal,Beauty,First-time,Android App,809.73,Delivered,8,583.01,226.72
+EC00083,2025-03-30,South,Chennai,Home & Kitchen,First-time,iOS App,2703.81,Delivered,5,1946.74,757.07
+EC00084,2025-04-25,West,Pune,Fashion,First-time,Website,1165.85,Delivered,8,839.41,326.44
+EC00085,2025-05-06,South,Hyderabad,Fashion,Premium,Website,1593.53,Delivered,7,1147.34,446.19
+EC00086,2025-05-10,Central,Nagpur,Fashion,Repeat,Android App,2591.95,Delivered,8,1866.2,725.75
+EC00087,2025-03-26,East,Kolkata,Electronics,Repeat,Android App,13908.66,Delivered,8,10014.24,3894.42
+EC00088,2025-01-21,South,Bengaluru,Fashion,First-time,Website,2108.73,Delivered,3,1518.29,590.44
+EC00089,2025-01-14,West,Pune,Fashion,First-time,iOS App,2579.74,Delivered,5,1857.41,722.33
+EC00090,2025-10-30,West,Pune,Beauty,Repeat,iOS App,568.28,Delivered,1,409.16,159.12
+EC00091,2025-06-19,East,Patna,Beauty,First-time,Website,1268.63,Delivered,5,913.41,355.22
+EC00092,2025-01-27,North,Chandigarh,Electronics,First-time,Website,6921.16,Delivered,7,4983.24,1937.92
+EC00093,2025-03-16,South,Chennai,Beauty,First-time,Android App,532.14,Cancelled,1,383.14,149.0
+EC00094,2025-02-11,Central,Indore,Books,First-time,iOS App,487.97,Delivered,2,351.34,136.63
+EC00095,2025-06-15,South,Hyderabad,Books,Repeat,Marketplace,342.73,Delivered,7,246.77,95.96
+EC00096,2025-10-16,East,Patna,Electronics,First-time,iOS App,9944.61,Delivered,2,7160.12,2784.49
+EC00097,2025-11-04,West,Mumbai,Electronics,First-time,Website,17107.4,Delivered,4,12317.33,4790.07
+EC00098,2025-10-31,Central,Bhopal,Home & Kitchen,Repeat,Android App,5123.14,Delivered,3,3688.66,1434.48
+EC00099,2025-05-02,Central,Nagpur,Beauty,Repeat,Website,797.16,Delivered,5,573.96,223.2
+EC00100,2025-11-12,South,Chennai,Fashion,Repeat,iOS App,1829.55,Delivered,7,1317.28,512.27
+EC00101,2025-10-25,South,Bengaluru,Home & Kitchen,Repeat,Android App,4819.34,Delivered,2,3469.92,1349.42
+EC00102,2025-06-05,North,Jaipur,Home & Kitchen,First-time,Website,3479.63,Delivered,5,2505.33,974.3
+EC00103,2025-04-02,West,Ahmedabad,Beauty,First-time,Android App,1459.53,Delivered,8,1050.86,408.67
+EC00104,2025-10-07,East,Kolkata,Fashion,Repeat,Website,995.99,Delivered,4,717.11,278.88
+EC00105,2025-06-19,South,Hyderabad,Beauty,First-time,Marketplace,1045.06,Delivered,4,752.44,292.62
+EC00106,2025-08-26,Central,Nagpur,Home & Kitchen,Premium,Android App,4282.3,Cancelled,11,3083.26,1199.04
+EC00107,2025-01-07,Central,Bhopal,Electronics,Repeat,Android App,14638.93,Delivered,8,10540.03,4098.9
+EC00108,2025-10-30,East,Patna,Electronics,Repeat,iOS App,13359.99,Delivered,3,9619.19,3740.8
+EC00109,2025-06-27,South,Chennai,Home & Kitchen,Repeat,Marketplace,3663.34,Delivered,6,2637.6,1025.74
+EC00110,2025-09-06,East,Bhubaneswar,Fashion,Repeat,Android App,1976.13,Returned,1,1422.81,553.32
+EC00111,2025-03-27,Central,Indore,Fashion,First-time,iOS App,2526.13,Delivered,1,1818.81,707.32
+EC00112,2025-04-04,Central,Indore,Fashion,Repeat,Android App,1033.16,Delivered,5,743.88,289.28
+EC00113,2025-10-06,North,Jaipur,Home & Kitchen,Repeat,Website,2440.27,Delivered,3,1756.99,683.28
+EC00114,2025-12-07,East,Bhubaneswar,Home & Kitchen,Repeat,Android App,1950.69,Delivered,5,1404.5,546.19
+EC00115,2025-11-25,West,Mumbai,Books,First-time,Android App,656.26,Delivered,7,472.51,183.75
+EC00116,2025-03-15,North,Delhi,Home & Kitchen,Repeat,Website,3543.83,Delivered,7,2551.56,992.27
+EC00117,2025-02-17,West,Pune,Electronics,Premium,Android App,8024.01,Delivered,5,5777.29,2246.72
+EC00118,2025-09-22,Central,Indore,Fashion,Repeat,Website,2210.82,Delivered,2,1591.79,619.03
+EC00119,2025-02-10,West,Mumbai,Electronics,Repeat,Website,15488.0,Delivered,7,11151.36,4336.64
+EC00120,2025-06-30,West,Mumbai,Books,First-time,Marketplace,857.87,Delivered,3,617.67,240.2
+EC00121,2025-04-21,East,Patna,Books,Repeat,Android App,324.23,Delivered,4,233.45,90.78
+EC00122,2025-01-31,South,Hyderabad,Fashion,Repeat,Marketplace,2554.36,Delivered,1,1839.14,715.22
+EC00123,2025-05-16,East,Patna,Home & Kitchen,First-time,Android App,3963.29,Returned,7,2853.57,1109.72
+EC00124,2025-08-30,North,Delhi,Home & Kitchen,First-time,Marketplace,3111.29,Delivered,1,2240.13,871.16
+EC00125,2025-06-20,West,Ahmedabad,Fashion,Repeat,iOS App,2643.21,Delivered,3,1903.11,740.1
+EC00126,2025-01-25,East,Bhubaneswar,Electronics,First-time,Marketplace,20269.54,Delivered,4,14594.07,5675.47
+EC00127,2025-10-18,Central,Bhopal,Fashion,Repeat,Website,1127.42,Returned,6,811.74,315.68
+EC00128,2025-08-21,Central,Indore,Electronics,Premium,Android App,19256.11,Cancelled,7,13864.4,5391.71
+EC00129,2025-03-26,West,Pune,Home & Kitchen,Repeat,Android App,1943.87,Delivered,7,1399.59,544.28
+EC00130,2025-11-06,West,Pune,Beauty,Repeat,Website,512.12,Delivered,1,368.73,143.39
+EC00131,2025-06-01,West,Pune,Fashion,First-time,Marketplace,1329.76,Delivered,3,957.43,372.33
+EC00132,2025-04-03,East,Patna,Books,Premium,iOS App,314.09,Delivered,3,226.14,87.95
+EC00133,2025-04-30,East,Kolkata,Books,Repeat,Website,610.61,Delivered,8,439.64,170.97
+EC00134,2025-10-29,South,Bengaluru,Home & Kitchen,First-time,Android App,4188.48,Delivered,1,3015.71,1172.77
+EC00135,2025-05-28,Central,Nagpur,Books,Repeat,Website,770.12,Delivered,7,554.49,215.63
+EC00136,2025-04-17,East,Patna,Electronics,Repeat,Android App,19590.08,Delivered,2,14104.86,5485.22
+EC00137,2025-02-03,North,Jaipur,Beauty,Premium,Android App,567.34,Delivered,2,408.48,158.86
+EC00138,2025-06-13,South,Hyderabad,Electronics,Repeat,Website,15523.42,Delivered,7,11176.86,4346.56
+EC00139,2025-09-21,Central,Indore,Electronics,Premium,Android App,13949.51,Delivered,4,10043.65,3905.86
+EC00140,2025-08-28,Central,Nagpur,Home & Kitchen,Repeat,Android App,2680.26,Delivered,2,1929.79,750.47
+EC00141,2025-11-15,East,Patna,Electronics,Repeat,Android App,16278.62,Delivered,2,11720.61,4558.01
+EC00142,2025-08-22,North,Jaipur,Home & Kitchen,First-time,Marketplace,3929.42,Delivered,4,2829.18,1100.24
+EC00143,2025-01-25,East,Patna,Fashion,Repeat,Website,2767.76,Delivered,4,1992.79,774.97
+EC00144,2025-05-01,Central,Nagpur,Beauty,Repeat,Website,864.63,Cancelled,7,622.53,242.1
+EC00145,2025-12-23,West,Pune,Fashion,First-time,Marketplace,1270.99,Delivered,1,915.11,355.88
+EC00146,2025-03-24,South,Chennai,Home & Kitchen,Premium,iOS App,3471.29,Delivered,5,2499.33,971.96
+EC00147,2025-07-13,East,Bhubaneswar,Electronics,Repeat,Website,7751.36,Delivered,5,5580.98,2170.38
+EC00148,2025-08-15,North,Jaipur,Fashion,Premium,Android App,2249.5,Delivered,6,1619.64,629.86
+EC00149,2025-01-31,Central,Nagpur,Home & Kitchen,First-time,iOS App,4693.48,Delivered,5,3379.31,1314.17
+EC00150,2025-07-22,West,Ahmedabad,Electronics,Repeat,Marketplace,10523.46,Delivered,5,7576.89,2946.57
+EC00151,2025-05-01,East,Patna,Beauty,First-time,Android App,760.42,Delivered,2,547.5,212.92
+EC00152,2025-09-21,East,Patna,Electronics,First-time,iOS App,20519.37,Cancelled,6,14773.95,5745.42
+EC00153,2025-08-16,East,Kolkata,Fashion,First-time,Website,1377.95,Cancelled,11,992.12,385.83
+EC00154,2025-01-28,West,Pune,Books,Repeat,Android App,756.33,Delivered,4,544.56,211.77
+EC00155,2025-09-03,East,Patna,Beauty,Repeat,Marketplace,1185.89,Delivered,2,853.84,332.05
+EC00156,2025-09-11,Central,Bhopal,Electronics,Premium,Marketplace,13893.96,Delivered,6,10003.65,3890.31
+EC00157,2025-01-30,West,Ahmedabad,Fashion,Repeat,Android App,2729.13,Delivered,1,1964.97,764.16
+EC00158,2025-10-13,East,Bhubaneswar,Fashion,Repeat,Website,2101.4,Returned,7,1513.01,588.39
+EC00159,2025-08-05,West,Pune,Home & Kitchen,Repeat,Android App,3511.23,Delivered,3,2528.09,983.14
+EC00160,2025-09-11,South,Hyderabad,Electronics,Repeat,Website,14628.84,Delivered,4,10532.76,4096.08
+EC00161,2025-09-17,North,Jaipur,Fashion,Premium,Marketplace,2415.3,Delivered,3,1739.02,676.28
+EC00162,2025-02-15,Central,Indore,Electronics,First-time,iOS App,20413.28,Delivered,4,14697.56,5715.72
+EC00163,2025-05-25,South,Hyderabad,Electronics,Repeat,Android App,19814.91,Delivered,5,14266.74,5548.17
+EC00164,2025-07-06,Central,Bhopal,Beauty,Repeat,Android App,1322.17,Delivered,4,951.96,370.21
+EC00165,2025-01-16,South,Chennai,Fashion,Repeat,Website,2266.65,Delivered,5,1631.99,634.66
+EC00166,2025-09-20,East,Patna,Books,Premium,Website,717.63,Delivered,8,516.69,200.94
+EC00167,2025-01-17,West,Mumbai,Fashion,First-time,Android App,2575.43,Delivered,2,1854.31,721.12
+EC00168,2025-06-12,South,Bengaluru,Electronics,Repeat,Website,11485.14,Delivered,1,8269.3,3215.84
+EC00169,2025-05-25,West,Ahmedabad,Electronics,Repeat,Android App,10441.26,Delivered,8,7517.71,2923.55
+EC00170,2025-07-06,Central,Nagpur,Beauty,First-time,Website,668.66,Cancelled,3,481.44,187.22
+EC00171,2025-12-17,East,Patna,Books,First-time,Android App,413.35,Delivered,3,297.61,115.74
+EC00172,2025-05-25,Central,Indore,Fashion,First-time,Android App,1111.48,Delivered,5,800.27,311.21
+EC00173,2025-01-09,South,Hyderabad,Fashion,First-time,Marketplace,1759.96,Delivered,6,1267.17,492.79
+EC00174,2025-01-15,West,Pune,Fashion,First-time,iOS App,2428.8,Delivered,6,1748.74,680.06
+EC00175,2025-12-23,Central,Nagpur,Fashion,First-time,Android App,1548.56,Delivered,5,1114.96,433.6
+EC00176,2025-04-24,East,Patna,Home & Kitchen,Repeat,iOS App,1908.19,Delivered,2,1373.9,534.29
+EC00177,2025-08-12,South,Chennai,Fashion,First-time,iOS App,1231.53,Delivered,3,886.7,344.83
+EC00178,2025-06-03,West,Mumbai,Fashion,Repeat,Website,2783.53,Delivered,4,2004.14,779.39
+EC00179,2025-10-07,West,Ahmedabad,Electronics,Repeat,Android App,15216.16,Delivered,5,10955.64,4260.52
+EC00180,2025-03-22,South,Chennai,Home & Kitchen,Repeat,iOS App,3495.36,Delivered,4,2516.66,978.7
+EC00181,2025-11-01,South,Chennai,Fashion,Repeat,Website,1055.8,Delivered,2,760.18,295.62
+EC00182,2025-10-10,Central,Indore,Electronics,First-time,Marketplace,10469.74,Returned,2,7538.21,2931.53
+EC00183,2025-01-19,South,Chennai,Electronics,First-time,iOS App,8329.97,Delivered,8,5997.58,2332.39
+EC00184,2025-09-18,Central,Bhopal,Beauty,First-time,Android App,1336.42,Delivered,7,962.22,374.2
+EC00185,2025-09-21,South,Hyderabad,Fashion,Repeat,Android App,2343.42,Returned,3,1687.26,656.16
+EC00186,2025-04-24,West,Pune,Fashion,First-time,Website,1608.59,Delivered,3,1158.18,450.41
+EC00187,2025-12-21,South,Chennai,Fashion,Repeat,Website,2592.75,Cancelled,3,1866.78,725.97
+EC00188,2025-05-27,East,Bhubaneswar,Home & Kitchen,Repeat,Marketplace,5154.36,Delivered,5,3711.14,1443.22
+EC00189,2025-10-15,Central,Bhopal,Fashion,Repeat,iOS App,2410.07,Delivered,7,1735.25,674.82
+EC00190,2025-08-14,North,Jaipur,Home & Kitchen,Premium,Marketplace,3027.08,Delivered,6,2179.5,847.58
+EC00191,2025-08-12,West,Pune,Electronics,First-time,Website,17670.66,Delivered,8,12722.88,4947.78
+EC00192,2025-03-02,Central,Nagpur,Home & Kitchen,Premium,Android App,3360.25,Cancelled,3,2419.38,940.87
+EC00193,2025-08-26,Central,Indore,Beauty,Repeat,Website,874.61,Cancelled,7,629.72,244.89
+EC00194,2025-10-04,North,Chandigarh,Books,Premium,Android App,600.09,Returned,8,432.06,168.03
+EC00195,2025-03-21,Central,Indore,Books,Repeat,Android App,382.39,Delivered,2,275.32,107.07
+EC00196,2025-12-11,Central,Indore,Electronics,Repeat,Marketplace,19426.67,Delivered,5,13987.2,5439.47
+EC00197,2025-08-10,East,Patna,Electronics,First-time,Android App,14825.8,Delivered,3,10674.58,4151.22
+EC00198,2025-04-10,South,Hyderabad,Fashion,Repeat,Website,1223.59,Returned,2,880.98,342.61
+EC00199,2025-04-05,South,Hyderabad,Home & Kitchen,Repeat,Android App,2396.46,Delivered,8,1725.45,671.01
+EC00200,2025-10-30,East,Patna,Beauty,Repeat,Marketplace,1289.8,Delivered,3,928.66,361.14
+EC00201,2025-11-17,South,Hyderabad,Beauty,First-time,Marketplace,1136.01,Delivered,8,817.93,318.08
+EC00202,2025-11-19,West,Ahmedabad,Beauty,Repeat,Website,1460.27,Delivered,5,1051.39,408.88
+EC00203,2025-07-08,Central,Nagpur,Fashion,Repeat,Android App,2840.53,Returned,4,2045.18,795.35
+EC00204,2025-10-08,East,Kolkata,Home & Kitchen,First-time,Marketplace,3497.54,Cancelled,2,2518.23,979.31
+EC00205,2025-05-18,East,Bhubaneswar,Books,Repeat,Marketplace,853.69,Delivered,3,614.66,239.03
+EC00206,2025-06-16,North,Jaipur,Beauty,Premium,Android App,1226.24,Delivered,5,882.89,343.35
+EC00207,2025-08-11,East,Kolkata,Beauty,Repeat,Android App,745.92,Delivered,7,537.06,208.86
+EC00208,2025-05-14,South,Bengaluru,Electronics,First-time,iOS App,9839.29,Delivered,7,7084.29,2755.0
+EC00209,2025-12-08,East,Kolkata,Electronics,Repeat,Website,10738.92,Delivered,1,7732.02,3006.9
+EC00210,2025-05-06,South,Hyderabad,Electronics,First-time,Android App,20131.59,Delivered,8,14494.74,5636.85
+EC00211,2025-11-15,East,Patna,Books,First-time,Website,617.13,Delivered,3,444.33,172.8
+EC00212,2025-10-02,North,Delhi,Home & Kitchen,First-time,iOS App,2855.89,Returned,6,2056.24,799.65
+EC00213,2025-09-25,East,Patna,Beauty,Repeat,Android App,729.94,Delivered,5,525.56,204.38
+EC00214,2025-05-17,East,Patna,Beauty,First-time,iOS App,650.15,Delivered,1,468.11,182.04
+EC00215,2025-11-10,East,Kolkata,Home & Kitchen,Repeat,Marketplace,2368.03,Delivered,1,1704.98,663.05
+EC00216,2025-06-14,West,Mumbai,Electronics,First-time,Android App,8343.5,Delivered,4,6007.32,2336.18
+EC00217,2025-08-26,North,Chandigarh,Fashion,First-time,Android App,2314.37,Cancelled,5,1666.35,648.02
+EC00218,2025-04-28,West,Mumbai,Fashion,Premium,Android App,1691.5,Delivered,2,1217.88,473.62
+EC00219,2025-12-20,West,Ahmedabad,Fashion,First-time,Website,2920.27,Delivered,2,2102.59,817.68
+EC00220,2025-09-11,Central,Nagpur,Books,Repeat,Website,500.26,Delivered,3,360.19,140.07
+EC00221,2025-02-03,North,Jaipur,Fashion,Repeat,Website,1085.62,Delivered,5,781.65,303.97
+EC00222,2025-08-26,North,Jaipur,Fashion,First-time,iOS App,1386.7,Delivered,7,998.42,388.28
+EC00223,2025-03-19,Central,Nagpur,Fashion,First-time,Website,2414.68,Delivered,7,1738.57,676.11
+EC00224,2025-07-22,Central,Bhopal,Home & Kitchen,First-time,Marketplace,4321.72,Delivered,6,3111.64,1210.08
+EC00225,2025-05-03,West,Ahmedabad,Beauty,Premium,Android App,997.96,Delivered,7,718.53,279.43
+EC00226,2025-03-18,Central,Bhopal,Home & Kitchen,First-time,Website,3939.28,Delivered,5,2836.28,1103.0
+EC00227,2025-04-27,South,Hyderabad,Books,Repeat,Website,516.46,Delivered,5,371.85,144.61
+EC00228,2025-10-12,West,Mumbai,Home & Kitchen,Repeat,Android App,1818.69,Delivered,4,1309.46,509.23
+EC00229,2025-03-31,North,Delhi,Beauty,First-time,iOS App,671.61,Delivered,4,483.56,188.05
+EC00230,2025-01-02,East,Kolkata,Home & Kitchen,Repeat,Website,3928.98,Delivered,6,2828.87,1100.11
+EC00231,2025-05-14,North,Jaipur,Fashion,First-time,Marketplace,1735.87,Delivered,7,1249.83,486.04
+EC00232,2025-07-11,South,Hyderabad,Home & Kitchen,First-time,Android App,2099.75,Delivered,1,1511.82,587.93
+EC00233,2025-11-01,West,Ahmedabad,Home & Kitchen,Repeat,Website,5258.58,Delivered,8,3786.18,1472.4
+EC00234,2025-07-18,West,Ahmedabad,Home & Kitchen,Repeat,iOS App,4364.3,Delivered,1,3142.3,1222.0
+EC00235,2025-11-09,North,Chandigarh,Electronics,Repeat,Marketplace,13242.77,Delivered,7,9534.79,3707.98
+EC00236,2025-07-10,South,Bengaluru,Home & Kitchen,Repeat,iOS App,2605.12,Delivered,6,1875.69,729.43
+EC00237,2025-10-19,North,Jaipur,Fashion,First-time,Android App,1523.48,Delivered,6,1096.91,426.57
+EC00238,2025-06-20,East,Kolkata,Fashion,First-time,Website,2101.21,Delivered,2,1512.87,588.34
+EC00239,2025-05-26,North,Chandigarh,Electronics,First-time,Marketplace,9676.85,Delivered,8,6967.33,2709.52
+EC00240,2025-10-13,North,Chandigarh,Fashion,First-time,Android App,1171.62,Delivered,4,843.57,328.05
+EC00241,2025-09-05,North,Delhi,Beauty,First-time,Marketplace,1417.22,Delivered,2,1020.4,396.82
+EC00242,2025-04-18,Central,Nagpur,Electronics,First-time,Android App,13604.28,Delivered,8,9795.08,3809.2
+EC00243,2025-09-12,Central,Nagpur,Beauty,Repeat,Android App,1472.68,Returned,7,1060.33,412.35
+EC00244,2025-03-03,West,Pune,Home & Kitchen,First-time,Marketplace,1798.07,Delivered,8,1294.61,503.46
+EC00245,2025-01-18,East,Kolkata,Home & Kitchen,First-time,Website,2542.6,Delivered,1,1830.67,711.93
+EC00246,2025-03-10,West,Mumbai,Fashion,First-time,Android App,2003.42,Delivered,6,1442.46,560.96
+EC00247,2025-03-10,South,Chennai,Home & Kitchen,First-time,Marketplace,5145.62,Delivered,8,3704.85,1440.77
+EC00248,2025-08-20,East,Bhubaneswar,Electronics,First-time,Website,10236.93,Delivered,5,7370.59,2866.34
+EC00249,2025-12-29,South,Bengaluru,Home & Kitchen,First-time,Android App,2448.9,Delivered,7,1763.21,685.69
+EC00250,2025-01-25,West,Mumbai,Fashion,Repeat,Marketplace,1096.17,Delivered,7,789.24,306.93
+EC00251,2025-06-03,North,Delhi,Electronics,First-time,Android App,19562.56,Delivered,7,14085.04,5477.52
+EC00252,2025-11-15,Central,Bhopal,Electronics,Repeat,Android App,15503.57,Cancelled,4,11162.57,4341.0
+EC00253,2025-03-11,Central,Nagpur,Home & Kitchen,Repeat,Website,3287.98,Delivered,3,2367.35,920.63
+EC00254,2025-11-04,North,Chandigarh,Fashion,Repeat,Android App,2172.1,Delivered,3,1563.91,608.19
+EC00255,2025-07-01,North,Jaipur,Electronics,Repeat,Android App,10335.88,Delivered,6,7441.83,2894.05
+EC00256,2025-09-05,North,Jaipur,Fashion,First-time,Android App,2381.09,Delivered,7,1714.38,666.71
+EC00257,2025-07-11,West,Pune,Beauty,Repeat,Website,1463.15,Delivered,8,1053.47,409.68
+EC00258,2025-10-04,North,Chandigarh,Fashion,Repeat,Android App,2328.2,Delivered,3,1676.3,651.9
+EC00259,2025-01-28,North,Jaipur,Fashion,First-time,Marketplace,2089.66,Cancelled,2,1504.56,585.1
+EC00260,2025-08-23,West,Pune,Electronics,Repeat,Marketplace,16798.93,Delivered,5,12095.23,4703.7
+EC00261,2025-12-05,North,Jaipur,Fashion,Repeat,Marketplace,1304.51,Delivered,6,939.25,365.26
+EC00262,2025-08-08,North,Chandigarh,Fashion,Repeat,Marketplace,2008.66,Delivered,4,1446.24,562.42
+EC00263,2025-06-06,South,Hyderabad,Beauty,Repeat,Android App,766.08,Delivered,6,551.58,214.5
+EC00264,2025-05-31,South,Chennai,Fashion,Repeat,Website,2356.51,Delivered,3,1696.69,659.82
+EC00265,2025-08-19,Central,Bhopal,Electronics,First-time,iOS App,7167.91,Delivered,5,5160.9,2007.01
+EC00266,2025-01-23,Central,Nagpur,Fashion,Repeat,Android App,2282.43,Delivered,6,1643.35,639.08
+EC00267,2025-01-18,West,Pune,Electronics,First-time,Marketplace,17284.58,Delivered,6,12444.9,4839.68
+EC00268,2025-10-22,North,Jaipur,Fashion,First-time,Website,1292.69,Delivered,6,930.74,361.95
+EC00269,2025-10-10,Central,Indore,Home & Kitchen,Repeat,Website,4220.36,Delivered,7,3038.66,1181.7
+EC00270,2025-01-28,Central,Bhopal,Beauty,First-time,iOS App,598.05,Delivered,7,430.6,167.45
+EC00271,2025-12-23,North,Chandigarh,Home & Kitchen,First-time,Website,5237.84,Delivered,4,3771.24,1466.6
+EC00272,2025-10-08,East,Bhubaneswar,Electronics,Repeat,Android App,19052.37,Delivered,3,13717.71,5334.66
+EC00273,2025-06-29,North,Delhi,Beauty,First-time,Website,1482.56,Delivered,2,1067.44,415.12
+EC00274,2025-12-18,South,Bengaluru,Electronics,Premium,Android App,10039.34,Delivered,1,7228.32,2811.02
+EC00275,2025-08-24,North,Jaipur,Beauty,First-time,Marketplace,1278.94,Delivered,2,920.84,358.1
+EC00276,2025-11-29,West,Mumbai,Home & Kitchen,Repeat,Website,1969.43,Delivered,1,1417.99,551.44
+EC00277,2025-04-07,South,Hyderabad,Electronics,First-time,iOS App,17976.45,Delivered,6,12943.04,5033.41
+EC00278,2025-05-03,East,Kolkata,Beauty,First-time,iOS App,1078.35,Delivered,4,776.41,301.94
+EC00279,2025-04-04,West,Pune,Fashion,Repeat,Android App,1210.78,Delivered,6,871.76,339.02
+EC00280,2025-09-15,South,Bengaluru,Books,Repeat,Android App,816.06,Delivered,1,587.56,228.5
+EC00281,2025-06-07,North,Chandigarh,Fashion,Repeat,Android App,2441.96,Delivered,6,1758.21,683.75
+EC00282,2025-03-22,Central,Indore,Books,First-time,Marketplace,790.16,Delivered,6,568.92,221.24
+EC00283,2025-11-28,South,Bengaluru,Home & Kitchen,Repeat,Android App,4447.74,Delivered,7,3202.37,1245.37
+EC00284,2025-12-08,Central,Indore,Books,Repeat,Website,370.65,Delivered,7,266.87,103.78
+EC00285,2025-03-28,South,Bengaluru,Books,Repeat,Android App,468.16,Delivered,3,337.08,131.08
+EC00286,2025-10-01,West,Mumbai,Fashion,Repeat,Website,1509.65,Returned,6,1086.95,422.7
+EC00287,2025-10-15,North,Chandigarh,Home & Kitchen,First-time,Website,1773.17,Delivered,3,1276.68,496.49
+EC00288,2025-03-20,South,Hyderabad,Beauty,Repeat,Website,828.65,Delivered,8,596.63,232.02
+EC00289,2025-08-05,South,Bengaluru,Beauty,First-time,Android App,1162.16,Cancelled,7,836.76,325.4
+EC00290,2025-03-18,Central,Nagpur,Electronics,Repeat,iOS App,13942.9,Delivered,8,10038.89,3904.01
+EC00291,2025-02-21,North,Chandigarh,Electronics,Repeat,iOS App,19415.57,Returned,4,13979.21,5436.36
+EC00292,2025-09-23,East,Bhubaneswar,Electronics,Repeat,Android App,9369.85,Delivered,1,6746.29,2623.56
+EC00293,2025-05-08,South,Chennai,Beauty,Repeat,Android App,1052.24,Delivered,3,757.61,294.63
+EC00294,2025-03-19,South,Hyderabad,Electronics,Repeat,Website,20544.09,Delivered,5,14791.74,5752.35
+EC00295,2025-06-02,North,Delhi,Electronics,Repeat,iOS App,16528.77,Delivered,3,11900.71,4628.06
+EC00296,2025-06-16,East,Bhubaneswar,Electronics,Repeat,Android App,17554.12,Delivered,6,12638.97,4915.15
+EC00297,2025-03-20,South,Hyderabad,Books,Repeat,Android App,547.11,Delivered,3,393.92,153.19
+EC00298,2025-11-13,Central,Indore,Beauty,Repeat,Website,760.99,Delivered,8,547.91,213.08
+EC00299,2025-08-28,West,Ahmedabad,Beauty,First-time,Website,798.73,Cancelled,11,575.09,223.64
+EC00300,2025-11-25,East,Bhubaneswar,Beauty,Repeat,Android App,1268.62,Delivered,8,913.41,355.21
+EC00301,2025-01-16,North,Chandigarh,Electronics,Repeat,Website,13235.93,Delivered,1,9529.87,3706.06
+EC00302,2025-11-26,North,Jaipur,Fashion,First-time,Marketplace,2712.12,Delivered,4,1952.73,759.39
+EC00303,2025-03-03,East,Kolkata,Books,First-time,Android App,660.99,Delivered,4,475.91,185.08
+EC00304,2025-10-02,North,Chandigarh,Electronics,Repeat,iOS App,9363.34,Delivered,7,6741.6,2621.74
+EC00305,2025-04-14,Central,Indore,Fashion,Repeat,Marketplace,2618.9,Delivered,8,1885.61,733.29
+EC00306,2025-03-12,West,Ahmedabad,Home & Kitchen,Repeat,Marketplace,2782.4,Delivered,2,2003.33,779.07
+EC00307,2025-12-28,South,Bengaluru,Fashion,First-time,iOS App,2692.51,Delivered,6,1938.61,753.9
+EC00308,2025-12-24,East,Bhubaneswar,Home & Kitchen,Repeat,Marketplace,2979.78,Delivered,2,2145.44,834.34
+EC00309,2025-09-23,East,Bhubaneswar,Electronics,First-time,Website,19736.41,Delivered,4,14210.22,5526.19
+EC00310,2025-01-04,West,Pune,Fashion,First-time,Android App,1993.5,Delivered,8,1435.32,558.18
+EC00311,2025-06-27,South,Hyderabad,Fashion,First-time,Android App,1706.09,Cancelled,7,1228.38,477.71
+EC00312,2025-01-12,East,Kolkata,Home & Kitchen,Repeat,Android App,1788.65,Delivered,6,1287.83,500.82
+EC00313,2025-01-31,West,Ahmedabad,Fashion,Repeat,Android App,2281.54,Delivered,1,1642.71,638.83
+EC00314,2025-12-22,West,Pune,Electronics,First-time,Website,10861.96,Delivered,8,7820.61,3041.35
+EC00315,2025-10-29,West,Mumbai,Beauty,Repeat,iOS App,1099.7,Delivered,6,791.78,307.92
+EC00316,2025-10-15,Central,Nagpur,Books,Repeat,Marketplace,906.29,Delivered,8,652.53,253.76
+EC00317,2025-04-08,West,Ahmedabad,Fashion,First-time,Android App,2548.67,Delivered,2,1835.04,713.63
+EC00318,2025-05-25,West,Mumbai,Home & Kitchen,First-time,Android App,2399.6,Delivered,6,1727.71,671.89
+EC00319,2025-01-17,North,Chandigarh,Fashion,Repeat,Android App,1518.54,Delivered,8,1093.35,425.19
+EC00320,2025-11-23,Central,Indore,Home & Kitchen,First-time,Marketplace,4778.27,Delivered,6,3440.35,1337.92
+EC00321,2025-05-30,East,Kolkata,Electronics,Repeat,Android App,9295.34,Delivered,7,6692.64,2602.7
+EC00322,2025-04-30,South,Bengaluru,Electronics,Repeat,Website,11269.48,Delivered,4,8114.03,3155.45
+EC00323,2025-05-20,West,Pune,Home & Kitchen,Premium,Marketplace,4707.63,Delivered,6,3389.49,1318.14
+EC00324,2025-09-22,East,Bhubaneswar,Electronics,Repeat,Website,9854.24,Delivered,2,7095.05,2759.19
+EC00325,2025-07-18,West,Mumbai,Fashion,Repeat,Android App,2558.91,Delivered,2,1842.42,716.49
+EC00326,2025-09-16,West,Pune,Home & Kitchen,Repeat,Android App,5101.79,Delivered,8,3673.29,1428.5
+EC00327,2025-10-04,Central,Indore,Fashion,Repeat,Website,1953.3,Delivered,3,1406.38,546.92
+EC00328,2025-07-18,West,Ahmedabad,Fashion,First-time,Android App,1496.48,Delivered,7,1077.47,419.01
+EC00329,2025-07-06,North,Chandigarh,Electronics,Repeat,Website,10704.47,Delivered,2,7707.22,2997.25
+EC00330,2025-11-23,Central,Bhopal,Electronics,Repeat,Marketplace,18580.77,Cancelled,2,13378.15,5202.62
+EC00331,2025-05-09,Central,Nagpur,Beauty,Repeat,iOS App,1468.44,Delivered,6,1057.28,411.16
+EC00332,2025-12-27,West,Ahmedabad,Beauty,Repeat,Website,840.56,Delivered,4,605.2,235.36
+EC00333,2025-07-17,West,Ahmedabad,Beauty,Repeat,Android App,633.55,Delivered,7,456.16,177.39
+EC00334,2025-05-21,West,Pune,Beauty,Premium,Android App,1211.06,Delivered,6,871.96,339.1
+EC00335,2025-05-16,South,Bengaluru,Fashion,First-time,Android App,1271.27,Delivered,5,915.31,355.96
+EC00336,2025-07-04,East,Bhubaneswar,Beauty,Repeat,Website,1477.28,Delivered,7,1063.64,413.64
+EC00337,2025-07-26,West,Ahmedabad,Fashion,Repeat,Website,1958.17,Delivered,1,1409.88,548.29
+EC00338,2025-10-12,South,Hyderabad,Fashion,First-time,iOS App,1575.77,Delivered,2,1134.55,441.22
+EC00339,2025-10-24,West,Mumbai,Fashion,Premium,Android App,1195.63,Delivered,2,860.85,334.78
+EC00340,2025-12-25,East,Kolkata,Fashion,Repeat,Android App,1452.07,Delivered,1,1045.49,406.58
+EC00341,2025-06-07,North,Jaipur,Electronics,First-time,Website,19773.14,Delivered,7,14236.66,5536.48
+EC00342,2025-09-06,South,Bengaluru,Beauty,First-time,Website,1291.66,Delivered,8,930.0,361.66
+EC00343,2025-05-23,Central,Bhopal,Home & Kitchen,Repeat,Android App,2024.2,Returned,4,1457.42,566.78
+EC00344,2025-06-01,South,Hyderabad,Fashion,Premium,iOS App,1895.51,Returned,3,1364.77,530.74
+EC00345,2025-10-02,Central,Indore,Fashion,First-time,Website,2967.96,Cancelled,5,2136.93,831.03
+EC00346,2025-12-07,South,Bengaluru,Fashion,Repeat,Android App,1032.2,Delivered,5,743.18,289.02
+EC00347,2025-09-30,Central,Nagpur,Electronics,First-time,Android App,9552.06,Delivered,4,6877.48,2674.58
+EC00348,2025-02-19,North,Chandigarh,Electronics,Repeat,Android App,14187.75,Delivered,8,10215.18,3972.57
+EC00349,2025-05-05,North,Chandigarh,Beauty,Premium,Website,615.04,Delivered,4,442.83,172.21
+EC00350,2025-09-30,South,Bengaluru,Home & Kitchen,Repeat,Android App,2253.46,Delivered,2,1622.49,630.97
+EC00351,2025-12-09,Central,Bhopal,Home & Kitchen,First-time,Marketplace,3127.99,Delivered,1,2252.15,875.84
+EC00352,2025-01-17,West,Ahmedabad,Home & Kitchen,Repeat,Android App,3294.91,Delivered,6,2372.34,922.57
+EC00353,2025-01-16,North,Chandigarh,Home & Kitchen,Repeat,Website,3045.94,Delivered,1,2193.08,852.86
+EC00354,2025-12-21,Central,Nagpur,Electronics,Premium,Website,12271.25,Delivered,3,8835.3,3435.95
+EC00355,2025-03-19,South,Hyderabad,Home & Kitchen,Repeat,iOS App,3972.24,Delivered,1,2860.01,1112.23
+EC00356,2025-09-16,West,Pune,Electronics,First-time,Website,12266.2,Delivered,2,8831.66,3434.54
+EC00357,2025-08-16,South,Bengaluru,Fashion,Repeat,Android App,1279.28,Delivered,8,921.08,358.2
+EC00358,2025-05-29,West,Mumbai,Home & Kitchen,Repeat,iOS App,2123.81,Delivered,1,1529.14,594.67
+EC00359,2025-10-16,East,Bhubaneswar,Electronics,Repeat,Website,15558.05,Delivered,1,11201.8,4356.25
+EC00360,2025-04-30,West,Ahmedabad,Fashion,First-time,Android App,2407.18,Delivered,6,1733.17,674.01
+EC00361,2025-06-12,Central,Indore,Beauty,First-time,iOS App,577.32,Delivered,1,415.67,161.65
+EC00362,2025-01-29,North,Jaipur,Electronics,Repeat,Marketplace,14021.06,Delivered,4,10095.16,3925.9
+EC00363,2025-01-05,Central,Indore,Beauty,First-time,Android App,1343.79,Delivered,8,967.53,376.26
+EC00364,2025-07-31,North,Jaipur,Electronics,Repeat,Website,14325.95,Delivered,4,10314.68,4011.27
+EC00365,2025-03-01,Central,Bhopal,Home & Kitchen,Repeat,Website,4735.14,Delivered,5,3409.3,1325.84
+EC00366,2025-02-14,Central,Bhopal,Fashion,Repeat,Website,2414.13,Delivered,4,1738.17,675.96
+EC00367,2025-02-11,East,Kolkata,Books,First-time,Android App,616.25,Delivered,1,443.7,172.55
+EC00368,2025-04-04,East,Bhubaneswar,Books,First-time,Android App,840.23,Delivered,5,604.97,235.26
+EC00369,2025-03-25,South,Hyderabad,Beauty,Premium,Android App,1112.39,Delivered,2,800.92,311.47
+EC00370,2025-06-29,North,Chandigarh,Fashion,First-time,iOS App,1259.97,Delivered,6,907.18,352.79
+EC00371,2025-05-30,South,Chennai,Fashion,First-time,Website,2052.96,Delivered,5,1478.13,574.83
+EC00372,2025-04-05,West,Mumbai,Home & Kitchen,Premium,Android App,3989.42,Delivered,1,2872.38,1117.04
+EC00373,2025-06-26,South,Bengaluru,Fashion,Repeat,Website,2325.88,Delivered,4,1674.63,651.25
+EC00374,2025-03-01,North,Chandigarh,Electronics,First-time,Marketplace,16379.9,Delivered,3,11793.53,4586.37
+EC00375,2025-02-22,West,Ahmedabad,Beauty,First-time,Website,507.84,Delivered,3,365.64,142.2
+EC00376,2025-08-24,West,Pune,Electronics,Premium,Website,7900.81,Cancelled,11,5688.58,2212.23
+EC00377,2025-09-07,West,Ahmedabad,Books,Repeat,iOS App,437.36,Delivered,2,314.9,122.46
+EC00378,2025-10-28,South,Bengaluru,Home & Kitchen,Repeat,iOS App,3619.44,Delivered,7,2606.0,1013.44
+EC00379,2025-02-01,Central,Nagpur,Beauty,First-time,Website,1390.6,Delivered,2,1001.23,389.37
+EC00380,2025-01-02,West,Pune,Beauty,First-time,Android App,949.21,Delivered,3,683.43,265.78
+EC00381,2025-09-21,Central,Bhopal,Electronics,First-time,Website,8844.6,Cancelled,8,6368.11,2476.49
+EC00382,2025-12-03,South,Bengaluru,Fashion,Repeat,Android App,2858.4,Delivered,4,2058.05,800.35
+EC00383,2025-11-20,West,Mumbai,Fashion,Premium,Marketplace,1536.76,Delivered,2,1106.47,430.29
+EC00384,2025-04-17,East,Kolkata,Beauty,Premium,Android App,1181.57,Delivered,5,850.73,330.84
+EC00385,2025-11-24,West,Mumbai,Home & Kitchen,Repeat,Marketplace,1901.62,Delivered,4,1369.17,532.45
+EC00386,2025-07-15,North,Delhi,Electronics,Repeat,Android App,16066.61,Delivered,8,11567.96,4498.65
+EC00387,2025-01-05,Central,Indore,Home & Kitchen,First-time,Marketplace,3514.76,Delivered,1,2530.63,984.13
+EC00388,2025-07-22,West,Pune,Electronics,Repeat,Android App,13306.77,Delivered,5,9580.87,3725.9
+EC00389,2025-05-19,East,Kolkata,Fashion,First-time,Android App,1347.63,Delivered,7,970.29,377.34
+EC00390,2025-07-03,South,Hyderabad,Home & Kitchen,First-time,Android App,4190.61,Delivered,1,3017.24,1173.37
+EC00391,2025-04-06,East,Patna,Fashion,Repeat,iOS App,2218.25,Delivered,7,1597.14,621.11
+EC00392,2025-07-19,North,Jaipur,Beauty,Repeat,Android App,646.34,Delivered,6,465.36,180.98
+EC00393,2025-12-31,South,Bengaluru,Beauty,Repeat,Android App,1108.32,Delivered,6,797.99,310.33
+EC00394,2025-06-22,Central,Bhopal,Fashion,Premium,Marketplace,1092.78,Delivered,1,786.8,305.98
+EC00395,2025-10-16,West,Mumbai,Books,Repeat,Marketplace,431.58,Delivered,5,310.74,120.84
+EC00396,2025-04-06,Central,Bhopal,Fashion,First-time,Website,1350.26,Delivered,2,972.19,378.07
+EC00397,2025-07-22,Central,Bhopal,Beauty,First-time,iOS App,912.94,Delivered,8,657.32,255.62
+EC00398,2025-04-25,East,Bhubaneswar,Electronics,First-time,Android App,17198.92,Delivered,5,12383.22,4815.7
+EC00399,2025-05-09,East,Bhubaneswar,Beauty,First-time,Website,867.46,Delivered,5,624.57,242.89
+EC00400,2025-11-24,North,Jaipur,Home & Kitchen,Repeat,iOS App,4049.84,Delivered,6,2915.88,1133.96
+EC00401,2025-11-17,West,Ahmedabad,Home & Kitchen,First-time,Android App,3842.86,Delivered,1,2766.86,1076.0
+EC00402,2025-09-23,Central,Indore,Books,Repeat,Marketplace,853.91,Delivered,8,614.82,239.09
+EC00403,2025-07-29,North,Delhi,Fashion,First-time,Android App,1011.52,Delivered,7,728.29,283.23
+EC00404,2025-11-24,West,Mumbai,Beauty,Premium,Android App,752.54,Delivered,1,541.83,210.71
+EC00405,2025-02-15,Central,Indore,Home & Kitchen,Repeat,Website,1824.05,Delivered,8,1313.32,510.73
+EC00406,2025-10-14,Central,Nagpur,Home & Kitchen,Repeat,Website,3451.09,Delivered,3,2484.78,966.31
+EC00407,2025-06-24,West,Ahmedabad,Beauty,Repeat,Website,1323.03,Delivered,4,952.58,370.45
+EC00408,2025-09-18,East,Patna,Beauty,First-time,Android App,1283.27,Delivered,1,923.95,359.32
+EC00409,2025-10-07,South,Hyderabad,Fashion,First-time,Marketplace,2531.66,Delivered,3,1822.8,708.86
+EC00410,2025-04-12,South,Bengaluru,Fashion,Repeat,Website,1417.88,Delivered,5,1020.87,397.01
+EC00411,2025-05-17,West,Pune,Home & Kitchen,Repeat,Marketplace,3424.04,Delivered,8,2465.31,958.73
+EC00412,2025-10-28,North,Jaipur,Beauty,Repeat,iOS App,673.43,Delivered,7,484.87,188.56
+EC00413,2025-11-05,South,Chennai,Fashion,First-time,Android App,2616.13,Delivered,1,1883.61,732.52
+EC00414,2025-01-23,East,Kolkata,Electronics,First-time,Website,16996.51,Delivered,2,12237.49,4759.02
+EC00415,2025-05-29,Central,Nagpur,Home & Kitchen,First-time,iOS App,3543.52,Delivered,2,2551.33,992.19
+EC00416,2025-12-11,North,Chandigarh,Fashion,First-time,iOS App,1998.44,Delivered,8,1438.88,559.56
+EC00417,2025-02-26,South,Hyderabad,Fashion,First-time,Android App,2081.88,Cancelled,6,1498.95,582.93
+EC00418,2025-04-13,West,Mumbai,Fashion,Repeat,Website,2288.72,Delivered,7,1647.88,640.84
+EC00419,2025-07-28,East,Bhubaneswar,Electronics,Repeat,Android App,19985.17,Delivered,1,14389.32,5595.85
+EC00420,2025-03-16,Central,Indore,Home & Kitchen,First-time,Android App,2052.13,Delivered,3,1477.53,574.6
+EC00421,2025-06-02,West,Pune,Beauty,First-time,Website,881.65,Delivered,1,634.79,246.86
+EC00422,2025-12-21,West,Pune,Electronics,Premium,Android App,8009.29,Delivered,6,5766.69,2242.6
+EC00423,2025-06-22,South,Hyderabad,Fashion,First-time,iOS App,2851.46,Delivered,5,2053.05,798.41
+EC00424,2025-01-18,East,Bhubaneswar,Electronics,Premium,Android App,16215.15,Cancelled,8,11674.91,4540.24
+EC00425,2025-02-09,South,Bengaluru,Home & Kitchen,First-time,Android App,5207.22,Delivered,1,3749.2,1458.02
+EC00426,2025-12-26,North,Delhi,Fashion,Repeat,iOS App,2250.19,Delivered,4,1620.14,630.05
+EC00427,2025-06-03,East,Bhubaneswar,Electronics,Repeat,Android App,18854.81,Delivered,7,13575.46,5279.35
+EC00428,2025-11-14,West,Ahmedabad,Beauty,Premium,Android App,1136.8,Delivered,3,818.5,318.3
+EC00429,2025-12-15,Central,Nagpur,Books,First-time,Website,759.23,Delivered,4,546.65,212.58
+EC00430,2025-02-27,South,Hyderabad,Beauty,Repeat,Website,620.23,Delivered,7,446.57,173.66
+EC00431,2025-12-17,West,Ahmedabad,Home & Kitchen,Repeat,Website,5223.14,Delivered,7,3760.66,1462.48
+EC00432,2025-05-27,West,Mumbai,Home & Kitchen,Premium,Android App,3590.56,Delivered,7,2585.2,1005.36
+EC00433,2025-02-21,West,Pune,Electronics,Repeat,Marketplace,12915.48,Delivered,5,9299.15,3616.33
+EC00434,2025-09-10,North,Delhi,Beauty,Repeat,Android App,1058.75,Delivered,5,762.3,296.45
+EC00435,2025-08-09,South,Bengaluru,Electronics,Repeat,Website,11340.51,Delivered,8,8165.17,3175.34
+EC00436,2025-03-15,North,Delhi,Beauty,First-time,iOS App,760.03,Delivered,2,547.22,212.81
+EC00437,2025-02-11,West,Ahmedabad,Books,First-time,Marketplace,499.29,Delivered,1,359.49,139.8
+EC00438,2025-02-13,North,Delhi,Electronics,First-time,iOS App,12603.47,Delivered,7,9074.5,3528.97
+EC00439,2025-07-07,Central,Indore,Fashion,Repeat,Android App,1349.93,Delivered,1,971.95,377.98
+EC00440,2025-10-28,South,Hyderabad,Home & Kitchen,Premium,Android App,1883.0,Delivered,1,1355.76,527.24
+EC00441,2025-02-14,East,Bhubaneswar,Beauty,First-time,Website,1129.36,Delivered,8,813.14,316.22
+EC00442,2025-03-29,Central,Nagpur,Fashion,Repeat,Marketplace,2359.6,Delivered,8,1698.91,660.69
+EC00443,2025-12-03,East,Patna,Home & Kitchen,Repeat,iOS App,4118.6,Delivered,2,2965.39,1153.21
+EC00444,2025-01-26,South,Bengaluru,Fashion,First-time,Website,2303.1,Delivered,7,1658.23,644.87
+EC00445,2025-05-28,East,Kolkata,Fashion,First-time,Android App,2441.55,Delivered,5,1757.92,683.63
+EC00446,2025-10-27,South,Chennai,Fashion,First-time,Marketplace,1180.89,Delivered,4,850.24,330.65
+EC00447,2025-02-20,West,Ahmedabad,Electronics,Repeat,Marketplace,8241.44,Delivered,6,5933.84,2307.6
+EC00448,2025-01-15,West,Ahmedabad,Books,First-time,Marketplace,510.43,Delivered,7,367.51,142.92
+EC00449,2025-11-17,North,Chandigarh,Fashion,Repeat,Marketplace,1146.32,Delivered,8,825.35,320.97
+EC00450,2025-10-11,East,Patna,Electronics,Premium,Website,14771.27,Delivered,4,10635.31,4135.96
+EC00451,2025-02-02,West,Pune,Fashion,First-time,Android App,1792.73,Delivered,5,1290.77,501.96
+EC00452,2025-10-22,East,Bhubaneswar,Home & Kitchen,Repeat,Website,2138.36,Delivered,3,1539.62,598.74
+EC00453,2025-05-26,North,Delhi,Home & Kitchen,First-time,iOS App,1859.48,Delivered,7,1338.83,520.65
+EC00454,2025-11-18,South,Bengaluru,Fashion,Repeat,iOS App,1188.44,Delivered,6,855.68,332.76
+EC00455,2025-07-05,East,Kolkata,Home & Kitchen,First-time,iOS App,4504.42,Delivered,1,3243.18,1261.24
+EC00456,2025-03-30,West,Ahmedabad,Fashion,Repeat,Website,1373.3,Delivered,6,988.78,384.52
+EC00457,2025-01-03,North,Delhi,Home & Kitchen,Repeat,Marketplace,4066.11,Delivered,5,2927.6,1138.51
+EC00458,2025-07-16,West,Ahmedabad,Fashion,Premium,Marketplace,2868.34,Delivered,5,2065.2,803.14
+EC00459,2025-01-29,West,Ahmedabad,Fashion,First-time,Website,1724.2,Cancelled,7,1241.42,482.78
+EC00460,2025-10-08,South,Bengaluru,Home & Kitchen,First-time,Website,1988.81,Delivered,5,1431.94,556.87
+EC00461,2025-12-29,Central,Indore,Beauty,First-time,iOS App,628.36,Delivered,6,452.42,175.94
+EC00462,2025-02-21,North,Chandigarh,Fashion,First-time,Website,2839.51,Delivered,6,2044.45,795.06
+EC00463,2025-03-27,Central,Indore,Home & Kitchen,First-time,Marketplace,2543.19,Delivered,4,1831.1,712.09
+EC00464,2025-07-06,East,Kolkata,Beauty,First-time,Android App,1198.57,Returned,8,862.97,335.6
+EC00465,2025-03-21,South,Bengaluru,Books,Repeat,Website,349.29,Delivered,2,251.49,97.8
+EC00466,2025-03-16,East,Kolkata,Beauty,First-time,Website,1102.67,Delivered,1,793.92,308.75
+EC00467,2025-09-23,West,Ahmedabad,Fashion,First-time,Marketplace,1223.57,Delivered,8,880.97,342.6
+EC00468,2025-05-28,South,Hyderabad,Electronics,Repeat,Website,15817.0,Delivered,4,11388.24,4428.76
+EC00469,2025-06-16,West,Mumbai,Electronics,Repeat,Marketplace,18549.46,Delivered,4,13355.61,5193.85
+EC00470,2025-12-28,Central,Indore,Electronics,Repeat,Marketplace,10693.19,Delivered,2,7699.1,2994.09
+EC00471,2025-11-09,East,Patna,Fashion,Repeat,iOS App,1683.02,Delivered,1,1211.77,471.25
+EC00472,2025-06-28,West,Mumbai,Books,First-time,Marketplace,765.38,Delivered,3,551.07,214.31
+EC00473,2025-07-22,North,Jaipur,Electronics,First-time,Website,19623.16,Delivered,2,14128.68,5494.48
+EC00474,2025-01-01,East,Kolkata,Beauty,First-time,Android App,1046.02,Cancelled,5,753.13,292.89
+EC00475,2025-03-11,South,Bengaluru,Books,First-time,Android App,339.14,Delivered,5,244.18,94.96
+EC00476,2025-07-07,East,Kolkata,Home & Kitchen,Repeat,iOS App,5252.5,Delivered,3,3781.8,1470.7
+EC00477,2025-05-09,South,Chennai,Beauty,First-time,iOS App,936.43,Delivered,1,674.23,262.2
+EC00478,2025-04-09,East,Bhubaneswar,Electronics,First-time,Android App,10483.17,Delivered,8,7547.88,2935.29
+EC00479,2025-05-25,North,Chandigarh,Fashion,Repeat,Marketplace,1585.11,Delivered,4,1141.28,443.83
+EC00480,2025-10-28,Central,Indore,Beauty,First-time,Android App,1278.95,Delivered,8,920.84,358.11
+EC00481,2025-08-28,West,Pune,Home & Kitchen,First-time,Website,3060.64,Delivered,3,2203.66,856.98
+EC00482,2025-02-01,Central,Bhopal,Beauty,First-time,Website,1158.17,Delivered,2,833.88,324.29
+EC00483,2025-02-13,Central,Nagpur,Fashion,First-time,iOS App,2194.09,Delivered,3,1579.74,614.35
+EC00484,2025-02-19,Central,Indore,Fashion,Repeat,Website,1928.79,Delivered,4,1388.73,540.06
+EC00485,2025-02-27,North,Chandigarh,Beauty,First-time,Marketplace,846.12,Delivered,6,609.21,236.91
+EC00486,2025-03-27,South,Bengaluru,Home & Kitchen,Repeat,Android App,3257.48,Delivered,4,2345.39,912.09
+EC00487,2025-03-23,East,Kolkata,Beauty,First-time,Android App,1094.27,Returned,3,787.87,306.4
+EC00488,2025-11-02,South,Chennai,Fashion,Repeat,Android App,1759.44,Delivered,2,1266.8,492.64
+EC00489,2025-10-01,East,Bhubaneswar,Home & Kitchen,First-time,Website,1997.09,Delivered,2,1437.9,559.19
+EC00490,2025-03-15,South,Hyderabad,Electronics,First-time,Android App,8513.61,Delivered,6,6129.8,2383.81
+EC00491,2025-10-27,West,Pune,Books,Repeat,Website,901.24,Returned,5,648.89,252.35
+EC00492,2025-04-20,North,Jaipur,Beauty,Premium,iOS App,1112.96,Delivered,6,801.33,311.63
+EC00493,2025-05-07,North,Delhi,Fashion,Repeat,Website,1748.93,Delivered,4,1259.23,489.7
+EC00494,2025-10-20,North,Chandigarh,Home & Kitchen,First-time,Android App,2831.87,Cancelled,3,2038.95,792.92
+EC00495,2025-07-17,Central,Indore,Electronics,First-time,iOS App,18251.46,Delivered,2,13141.05,5110.41
+EC00496,2025-01-04,West,Pune,Fashion,Repeat,Website,1022.57,Delivered,1,736.25,286.32
+EC00497,2025-09-22,West,Pune,Beauty,Premium,Android App,918.28,Delivered,7,661.16,257.12
+EC00498,2025-01-23,East,Bhubaneswar,Beauty,First-time,Website,1348.81,Delivered,5,971.14,377.67
+EC00499,2025-06-14,West,Mumbai,Electronics,Repeat,Android App,14240.04,Delivered,6,10252.83,3987.21
+EC00500,2025-07-14,West,Pune,Electronics,First-time,Website,12534.47,Delivered,2,9024.82,3509.65
+EC00501,2025-07-03,West,Mumbai,Beauty,First-time,Marketplace,620.61,Delivered,3,446.84,173.77
+EC00502,2025-12-31,North,Chandigarh,Fashion,First-time,Marketplace,2066.48,Cancelled,4,1487.87,578.61
+EC00503,2025-11-24,West,Mumbai,Fashion,Repeat,Android App,2834.24,Cancelled,8,2040.65,793.59
+EC00504,2025-11-09,West,Pune,Home & Kitchen,Repeat,Website,4062.13,Delivered,2,2924.73,1137.4
+EC00505,2025-12-14,East,Patna,Fashion,Premium,Website,1402.59,Delivered,6,1009.86,392.73
+EC00506,2025-04-22,West,Ahmedabad,Fashion,First-time,iOS App,1789.59,Delivered,4,1288.5,501.09
+EC00507,2025-02-27,North,Chandigarh,Electronics,First-time,iOS App,17554.98,Delivered,2,12639.59,4915.39
+EC00508,2025-04-14,Central,Bhopal,Beauty,First-time,Android App,1373.01,Delivered,1,988.57,384.44
+EC00509,2025-09-10,South,Hyderabad,Beauty,First-time,Website,1117.78,Delivered,5,804.8,312.98
+EC00510,2025-01-30,East,Kolkata,Fashion,Premium,Website,2672.88,Delivered,5,1924.47,748.41
+EC00511,2025-01-16,North,Jaipur,Electronics,First-time,Website,20060.41,Delivered,2,14443.5,5616.91
+EC00512,2025-01-01,North,Delhi,Fashion,Repeat,Website,1356.18,Delivered,5,976.45,379.73
+EC00513,2025-09-25,West,Pune,Fashion,Premium,Website,1691.8,Delivered,7,1218.1,473.7
+EC00514,2025-12-28,Central,Indore,Beauty,First-time,Android App,1314.66,Delivered,5,946.56,368.1
+EC00515,2025-09-26,South,Chennai,Electronics,Repeat,Android App,19139.31,Delivered,6,13780.3,5359.01
+EC00516,2025-01-23,West,Ahmedabad,Electronics,Repeat,Android App,18267.9,Delivered,8,13152.89,5115.01
+EC00517,2025-08-11,East,Kolkata,Home & Kitchen,Repeat,Android App,4110.22,Delivered,2,2959.36,1150.86
+EC00518,2025-10-29,East,Bhubaneswar,Electronics,Repeat,Android App,9345.6,Delivered,7,6728.83,2616.77
+EC00519,2025-09-22,East,Patna,Home & Kitchen,Repeat,iOS App,2487.77,Delivered,4,1791.19,696.58
+EC00520,2025-04-12,South,Hyderabad,Fashion,First-time,Android App,2953.74,Delivered,6,2126.69,827.05
+EC00521,2025-08-24,Central,Indore,Books,First-time,Marketplace,386.55,Cancelled,5,278.32,108.23
+EC00522,2025-05-29,North,Jaipur,Home & Kitchen,First-time,Android App,4212.49,Delivered,2,3032.99,1179.5
+EC00523,2025-11-24,North,Jaipur,Fashion,First-time,Android App,1382.78,Delivered,3,995.6,387.18
+EC00524,2025-08-20,West,Mumbai,Electronics,Repeat,Android App,15438.07,Cancelled,9,11115.41,4322.66
+EC00525,2025-03-22,West,Mumbai,Books,Repeat,Marketplace,490.08,Delivered,3,352.86,137.22
+EC00526,2025-01-09,North,Jaipur,Books,First-time,Marketplace,697.58,Cancelled,2,502.26,195.32
+EC00527,2025-12-14,East,Kolkata,Books,Repeat,Android App,698.74,Delivered,3,503.09,195.65
+EC00528,2025-12-07,South,Chennai,Electronics,First-time,Android App,15921.73,Delivered,4,11463.65,4458.08
+EC00529,2025-11-23,Central,Bhopal,Beauty,Repeat,Website,1429.02,Delivered,5,1028.89,400.13
+EC00530,2025-07-26,South,Hyderabad,Home & Kitchen,Repeat,Website,4498.64,Delivered,1,3239.02,1259.62
+EC00531,2025-10-08,South,Chennai,Electronics,Repeat,Website,9577.12,Delivered,1,6895.53,2681.59
+EC00532,2025-08-16,Central,Indore,Home & Kitchen,Repeat,Marketplace,2657.44,Delivered,7,1913.36,744.08
+EC00533,2025-09-08,South,Hyderabad,Electronics,Repeat,Android App,13561.96,Delivered,8,9764.61,3797.35
+EC00534,2025-11-29,Central,Bhopal,Home & Kitchen,First-time,Website,2099.73,Delivered,7,1511.81,587.92
+EC00535,2025-10-05,North,Jaipur,Beauty,Repeat,iOS App,1103.56,Delivered,3,794.56,309.0
+EC00536,2025-11-19,Central,Bhopal,Beauty,Repeat,Marketplace,1045.79,Delivered,3,752.97,292.82
+EC00537,2025-06-10,East,Bhubaneswar,Fashion,First-time,Website,1584.41,Returned,5,1140.78,443.63
+EC00538,2025-11-02,South,Bengaluru,Electronics,First-time,iOS App,15598.92,Delivered,8,11231.22,4367.7
+EC00539,2025-09-10,North,Jaipur,Home & Kitchen,Premium,Marketplace,2484.11,Delivered,2,1788.56,695.55
+EC00540,2025-06-06,Central,Indore,Fashion,Repeat,Website,1038.13,Delivered,3,747.45,290.68
+EC00541,2025-08-10,South,Chennai,Beauty,Repeat,Marketplace,1280.42,Cancelled,10,921.9,358.52
+EC00542,2025-02-08,North,Delhi,Books,First-time,Android App,671.5,Delivered,1,483.48,188.02
+EC00543,2025-03-24,North,Delhi,Electronics,Repeat,Website,13595.43,Delivered,4,9788.71,3806.72
+EC00544,2025-08-10,East,Bhubaneswar,Fashion,Repeat,Website,2449.39,Delivered,1,1763.56,685.83
+EC00545,2025-03-27,Central,Nagpur,Beauty,First-time,Website,1026.27,Delivered,3,738.91,287.36
+EC00546,2025-10-16,North,Delhi,Home & Kitchen,Repeat,Android App,5186.15,Delivered,8,3734.03,1452.12
+EC00547,2025-03-06,South,Hyderabad,Books,Repeat,Android App,714.16,Delivered,8,514.2,199.96
+EC00548,2025-07-01,West,Mumbai,Electronics,First-time,Website,17581.03,Delivered,3,12658.34,4922.69
+EC00549,2025-05-26,North,Chandigarh,Electronics,First-time,Marketplace,8614.98,Delivered,7,6202.79,2412.19
+EC00550,2025-01-23,North,Chandigarh,Home & Kitchen,First-time,Android App,2478.09,Delivered,4,1784.22,693.87
+EC00551,2025-02-19,North,Jaipur,Home & Kitchen,Repeat,Website,3519.21,Delivered,7,2533.83,985.38
+EC00552,2025-04-07,South,Chennai,Fashion,First-time,iOS App,1281.5,Delivered,6,922.68,358.82
+EC00553,2025-08-26,Central,Indore,Fashion,First-time,Android App,2163.73,Delivered,6,1557.89,605.84
+EC00554,2025-08-25,East,Patna,Books,First-time,Website,462.27,Delivered,7,332.83,129.44
+EC00555,2025-05-24,West,Mumbai,Electronics,First-time,Android App,20514.23,Delivered,7,14770.25,5743.98
+EC00556,2025-10-11,East,Bhubaneswar,Electronics,Repeat,Android App,10482.0,Delivered,7,7547.04,2934.96
+EC00557,2025-02-04,Central,Bhopal,Beauty,First-time,Android App,724.83,Delivered,6,521.88,202.95
+EC00558,2025-08-31,North,Chandigarh,Beauty,First-time,Marketplace,859.82,Delivered,2,619.07,240.75
+EC00559,2025-10-01,South,Chennai,Fashion,Repeat,Android App,1193.5,Delivered,5,859.32,334.18
+EC00560,2025-07-29,East,Bhubaneswar,Beauty,Repeat,Website,754.05,Delivered,5,542.92,211.13
+EC00561,2025-09-26,East,Patna,Home & Kitchen,Repeat,iOS App,2022.7,Delivered,1,1456.34,566.36
+EC00562,2025-11-28,North,Delhi,Electronics,Repeat,Marketplace,10491.38,Cancelled,5,7553.79,2937.59
+EC00563,2025-02-09,Central,Nagpur,Fashion,First-time,Website,2581.28,Returned,8,1858.52,722.76
+EC00564,2025-04-19,North,Jaipur,Fashion,First-time,iOS App,1110.23,Returned,3,799.37,310.86
+EC00565,2025-12-05,Central,Indore,Home & Kitchen,Premium,Marketplace,4277.27,Delivered,1,3079.63,1197.64
+EC00566,2025-01-25,South,Hyderabad,Electronics,Repeat,iOS App,12680.03,Delivered,7,9129.62,3550.41
+EC00567,2025-05-22,Central,Nagpur,Electronics,First-time,Marketplace,16234.31,Delivered,7,11688.7,4545.61
+EC00568,2025-10-30,Central,Nagpur,Books,Repeat,Website,526.98,Delivered,4,379.43,147.55
+EC00569,2025-08-29,South,Hyderabad,Home & Kitchen,Premium,Android App,4518.7,Delivered,6,3253.46,1265.24
+EC00570,2025-07-09,West,Ahmedabad,Home & Kitchen,Repeat,Website,4561.62,Delivered,1,3284.37,1277.25
+EC00571,2025-04-29,East,Kolkata,Electronics,Repeat,Android App,7601.08,Delivered,7,5472.78,2128.3
+EC00572,2025-03-23,North,Jaipur,Home & Kitchen,First-time,Marketplace,3151.78,Delivered,2,2269.28,882.5
+EC00573,2025-12-02,South,Bengaluru,Home & Kitchen,Repeat,Marketplace,2216.69,Delivered,4,1596.02,620.67
+EC00574,2025-12-29,East,Patna,Home & Kitchen,Repeat,Android App,4526.11,Returned,1,3258.8,1267.31
+EC00575,2025-01-18,South,Hyderabad,Home & Kitchen,First-time,Marketplace,3368.61,Delivered,5,2425.4,943.21
+EC00576,2025-11-08,South,Hyderabad,Fashion,Repeat,Website,1003.31,Delivered,8,722.38,280.93
+EC00577,2025-11-09,East,Kolkata,Fashion,Repeat,Android App,1284.0,Delivered,2,924.48,359.52
+EC00578,2025-10-18,Central,Bhopal,Beauty,First-time,Android App,1284.14,Delivered,5,924.58,359.56
+EC00579,2025-03-03,North,Chandigarh,Electronics,First-time,Marketplace,13517.6,Delivered,4,9732.67,3784.93
+EC00580,2025-02-14,Central,Nagpur,Home & Kitchen,Premium,Android App,4512.86,Delivered,5,3249.26,1263.6
+EC00581,2025-07-31,East,Kolkata,Home & Kitchen,Repeat,Marketplace,5017.49,Delivered,8,3612.59,1404.9
+EC00582,2025-03-13,South,Hyderabad,Books,Repeat,Android App,627.54,Delivered,5,451.83,175.71
+EC00583,2025-03-06,South,Chennai,Fashion,Repeat,Android App,1323.7,Delivered,2,953.06,370.64
+EC00584,2025-04-29,South,Chennai,Electronics,First-time,iOS App,8396.99,Delivered,4,6045.83,2351.16
+EC00585,2025-03-11,North,Delhi,Fashion,First-time,Website,1111.21,Delivered,3,800.07,311.14
+EC00586,2025-04-22,East,Patna,Home & Kitchen,First-time,iOS App,1976.75,Delivered,1,1423.26,553.49
+EC00587,2025-12-11,East,Kolkata,Fashion,Repeat,Marketplace,1753.95,Delivered,2,1262.84,491.11
+EC00588,2025-02-25,North,Delhi,Fashion,Repeat,Website,2029.44,Delivered,6,1461.2,568.24
+EC00589,2025-09-06,West,Mumbai,Beauty,Premium,Android App,1158.89,Delivered,6,834.4,324.49
+EC00590,2025-11-27,West,Ahmedabad,Electronics,Repeat,iOS App,18335.21,Delivered,5,13201.35,5133.86
+EC00591,2025-07-06,South,Chennai,Books,Repeat,Android App,664.48,Delivered,3,478.43,186.05
+EC00592,2025-09-18,Central,Nagpur,Beauty,Repeat,Android App,661.85,Delivered,5,476.53,185.32
+EC00593,2025-08-15,East,Bhubaneswar,Beauty,First-time,Website,1352.13,Cancelled,7,973.53,378.6
+EC00594,2025-10-11,North,Chandigarh,Electronics,Repeat,Android App,10647.35,Delivered,3,7666.09,2981.26
+EC00595,2025-05-17,West,Pune,Home & Kitchen,First-time,Android App,2997.42,Cancelled,8,2158.14,839.28
+EC00596,2025-04-26,West,Mumbai,Home & Kitchen,Repeat,Android App,3288.19,Delivered,3,2367.5,920.69
+EC00597,2025-04-26,East,Patna,Electronics,Premium,iOS App,7020.15,Delivered,5,5054.51,1965.64
+EC00598,2025-10-06,East,Kolkata,Fashion,First-time,Android App,1861.08,Delivered,6,1339.98,521.1
+EC00599,2025-04-13,West,Pune,Fashion,Repeat,Website,1765.58,Delivered,3,1271.22,494.36
+EC00600,2025-02-15,South,Hyderabad,Beauty,First-time,Android App,1082.74,Delivered,2,779.57,303.17
+EC00601,2025-06-18,South,Chennai,Home & Kitchen,Premium,Website,4235.13,Delivered,3,3049.29,1185.84
+EC00602,2025-10-19,East,Patna,Books,Repeat,Marketplace,461.32,Delivered,2,332.15,129.17
+EC00603,2025-01-14,Central,Indore,Electronics,Repeat,Website,16193.48,Delivered,6,11659.31,4534.17
+EC00604,2025-05-13,East,Patna,Fashion,First-time,Website,1835.99,Delivered,3,1321.91,514.08
+EC00605,2025-05-02,West,Pune,Beauty,First-time,Android App,998.37,Delivered,8,718.83,279.54
+EC00606,2025-01-18,West,Ahmedabad,Home & Kitchen,Repeat,Website,4440.16,Delivered,3,3196.92,1243.24
+EC00607,2025-04-25,South,Bengaluru,Electronics,Repeat,Website,11848.51,Delivered,1,8530.93,3317.58
+EC00608,2025-02-20,Central,Indore,Electronics,Repeat,Marketplace,13096.86,Delivered,2,9429.74,3667.12
+EC00609,2025-11-01,East,Patna,Fashion,First-time,Android App,2628.12,Delivered,7,1892.25,735.87
+EC00610,2025-03-15,South,Hyderabad,Electronics,Repeat,Marketplace,14091.81,Delivered,5,10146.1,3945.71
+EC00611,2025-12-17,South,Bengaluru,Beauty,First-time,iOS App,688.25,Delivered,6,495.54,192.71
+EC00612,2025-07-10,East,Patna,Home & Kitchen,Premium,Marketplace,4209.45,Delivered,5,3030.8,1178.65
+EC00613,2025-07-22,Central,Indore,Beauty,Repeat,Website,1241.86,Delivered,4,894.14,347.72
+EC00614,2025-10-22,South,Hyderabad,Home & Kitchen,First-time,iOS App,4039.99,Delivered,8,2908.79,1131.2
+EC00615,2025-02-03,Central,Bhopal,Electronics,Repeat,Android App,11894.13,Delivered,4,8563.77,3330.36
+EC00616,2025-03-05,Central,Bhopal,Fashion,Premium,Android App,1121.17,Delivered,5,807.24,313.93
+EC00617,2025-01-01,Central,Indore,Beauty,Repeat,Android App,1480.91,Delivered,1,1066.26,414.65
+EC00618,2025-12-15,South,Bengaluru,Electronics,Repeat,Android App,18537.54,Delivered,1,13347.03,5190.51
+EC00619,2025-11-19,East,Patna,Beauty,First-time,Marketplace,818.77,Delivered,8,589.51,229.26
+EC00620,2025-10-13,West,Ahmedabad,Electronics,Repeat,Website,7674.77,Delivered,7,5525.83,2148.94
+EC00621,2025-09-16,North,Jaipur,Books,Repeat,Marketplace,779.35,Cancelled,10,561.13,218.22
+EC00622,2025-12-22,South,Bengaluru,Fashion,First-time,iOS App,1300.8,Cancelled,6,936.58,364.22
+EC00623,2025-03-16,West,Mumbai,Electronics,Repeat,Marketplace,12679.53,Delivered,8,9129.26,3550.27
+EC00624,2025-03-24,South,Chennai,Beauty,First-time,Website,921.89,Delivered,7,663.76,258.13
+EC00625,2025-10-26,North,Delhi,Books,Premium,Marketplace,665.27,Delivered,3,478.99,186.28
+EC00626,2025-10-22,South,Bengaluru,Books,First-time,Website,906.52,Delivered,6,652.69,253.83
+EC00627,2025-03-22,North,Chandigarh,Fashion,Repeat,Android App,1745.04,Delivered,6,1256.43,488.61
+EC00628,2025-04-11,West,Ahmedabad,Fashion,Repeat,Android App,2398.0,Delivered,4,1726.56,671.44
+EC00629,2025-03-30,South,Hyderabad,Beauty,Repeat,Marketplace,1445.11,Delivered,1,1040.48,404.63
+EC00630,2025-11-23,South,Bengaluru,Beauty,Premium,iOS App,906.61,Delivered,4,652.76,253.85
+EC00631,2025-04-17,East,Kolkata,Beauty,Repeat,Website,1199.42,Delivered,3,863.58,335.84
+EC00632,2025-07-23,Central,Indore,Home & Kitchen,Repeat,iOS App,4411.2,Delivered,3,3176.06,1235.14
+EC00633,2025-09-10,South,Hyderabad,Electronics,Repeat,iOS App,19414.94,Delivered,2,13978.76,5436.18
+EC00634,2025-11-05,South,Bengaluru,Home & Kitchen,Repeat,iOS App,4797.3,Delivered,3,3454.06,1343.24
+EC00635,2025-04-11,North,Chandigarh,Books,Repeat,Website,486.12,Delivered,8,350.01,136.11
+EC00636,2025-12-14,East,Patna,Electronics,First-time,Android App,12050.26,Delivered,7,8676.19,3374.07
+EC00637,2025-02-08,South,Bengaluru,Fashion,Repeat,Android App,1855.14,Delivered,2,1335.7,519.44
+EC00638,2025-12-17,East,Kolkata,Home & Kitchen,Repeat,iOS App,4189.68,Delivered,7,3016.57,1173.11
+EC00639,2025-07-26,West,Pune,Electronics,First-time,Android App,12767.28,Delivered,4,9192.44,3574.84
+EC00640,2025-07-02,South,Hyderabad,Electronics,First-time,iOS App,11452.27,Delivered,1,8245.63,3206.64
+EC00641,2025-01-31,South,Bengaluru,Fashion,Repeat,Android App,2838.21,Delivered,4,2043.51,794.7
+EC00642,2025-01-12,West,Pune,Beauty,First-time,Marketplace,1018.72,Delivered,4,733.48,285.24
+EC00643,2025-03-30,East,Kolkata,Books,Repeat,Android App,767.64,Delivered,8,552.7,214.94
+EC00644,2025-05-21,North,Delhi,Books,Repeat,Android App,435.7,Delivered,6,313.7,122.0
+EC00645,2025-01-24,East,Kolkata,Fashion,Repeat,Website,1932.7,Delivered,7,1391.54,541.16
+EC00646,2025-05-27,South,Bengaluru,Home & Kitchen,Premium,Android App,3818.7,Delivered,5,2749.46,1069.24
+EC00647,2025-04-16,South,Bengaluru,Books,Repeat,Android App,739.38,Delivered,7,532.35,207.03
+EC00648,2025-08-06,East,Kolkata,Fashion,Repeat,Android App,1340.21,Delivered,8,964.95,375.26
+EC00649,2025-10-17,East,Bhubaneswar,Beauty,First-time,Marketplace,1136.84,Delivered,5,818.52,318.32
+EC00650,2025-04-10,East,Patna,Books,First-time,Android App,774.59,Delivered,4,557.7,216.89
+EC00651,2025-11-07,East,Patna,Books,Repeat,Android App,815.36,Delivered,6,587.06,228.3
+EC00652,2025-02-07,West,Mumbai,Home & Kitchen,Repeat,Android App,4496.97,Delivered,3,3237.82,1259.15
+EC00653,2025-04-07,Central,Nagpur,Home & Kitchen,First-time,Android App,3690.96,Delivered,5,2657.49,1033.47
+EC00654,2025-06-18,East,Bhubaneswar,Electronics,Repeat,Android App,11259.4,Cancelled,1,8106.77,3152.63
+EC00655,2025-02-26,South,Bengaluru,Electronics,Repeat,Marketplace,7680.21,Delivered,3,5529.75,2150.46
+EC00656,2025-09-20,East,Bhubaneswar,Books,Repeat,Website,492.39,Cancelled,6,354.52,137.87
+EC00657,2025-07-28,East,Patna,Books,Repeat,iOS App,836.26,Delivered,7,602.11,234.15
+EC00658,2025-02-20,Central,Bhopal,Fashion,First-time,iOS App,2019.69,Delivered,8,1454.18,565.51
+EC00659,2025-08-16,South,Bengaluru,Electronics,Repeat,iOS App,16980.11,Delivered,3,12225.68,4754.43
+EC00660,2025-07-15,South,Hyderabad,Beauty,Premium,Android App,1458.33,Delivered,6,1050.0,408.33
+EC00661,2025-11-10,West,Mumbai,Electronics,Premium,Website,17815.42,Delivered,3,12827.1,4988.32
+EC00662,2025-06-21,East,Kolkata,Books,Repeat,Android App,308.39,Delivered,2,222.04,86.35
+EC00663,2025-08-05,Central,Bhopal,Fashion,First-time,Android App,2146.23,Delivered,3,1545.29,600.94
+EC00664,2025-01-15,East,Patna,Beauty,First-time,iOS App,510.0,Delivered,7,367.2,142.8
+EC00665,2025-10-22,North,Delhi,Electronics,First-time,Marketplace,14309.92,Delivered,4,10303.14,4006.78
+EC00666,2025-09-22,North,Chandigarh,Home & Kitchen,Repeat,Marketplace,4733.29,Delivered,2,3407.97,1325.32
+EC00667,2025-09-06,Central,Nagpur,Beauty,Repeat,Marketplace,894.47,Delivered,7,644.02,250.45
+EC00668,2025-08-08,North,Jaipur,Home & Kitchen,Repeat,Android App,2394.09,Delivered,2,1723.74,670.35
+EC00669,2025-12-31,East,Patna,Fashion,Repeat,Website,1661.96,Delivered,4,1196.61,465.35
+EC00670,2025-06-29,East,Bhubaneswar,Home & Kitchen,Repeat,Android App,4870.64,Delivered,2,3506.86,1363.78
+EC00671,2025-10-12,North,Jaipur,Home & Kitchen,Premium,iOS App,3963.79,Delivered,3,2853.93,1109.86
+EC00672,2025-07-16,East,Kolkata,Fashion,Premium,Android App,1725.57,Delivered,6,1242.41,483.16
+EC00673,2025-03-30,Central,Indore,Electronics,Premium,Website,15344.22,Delivered,8,11047.84,4296.38
+EC00674,2025-08-17,East,Bhubaneswar,Home & Kitchen,Repeat,Marketplace,2943.93,Delivered,6,2119.63,824.3
+EC00675,2025-02-15,South,Hyderabad,Fashion,Premium,Website,1450.81,Delivered,7,1044.58,406.23
+EC00676,2025-08-23,North,Chandigarh,Fashion,First-time,Android App,2631.94,Delivered,8,1895.0,736.94
+EC00677,2025-02-13,West,Mumbai,Electronics,Repeat,Android App,11575.9,Delivered,6,8334.65,3241.25
+EC00678,2025-04-25,Central,Bhopal,Books,Repeat,Website,756.79,Delivered,8,544.89,211.9
+EC00679,2025-01-31,Central,Bhopal,Beauty,First-time,Marketplace,619.94,Delivered,6,446.36,173.58
+EC00680,2025-12-07,North,Jaipur,Books,Repeat,Website,772.22,Delivered,2,556.0,216.22
+EC00681,2025-12-18,Central,Bhopal,Books,Repeat,Android App,862.47,Delivered,2,620.98,241.49
+EC00682,2025-07-14,East,Bhubaneswar,Fashion,Repeat,Marketplace,1962.24,Delivered,7,1412.81,549.43
+EC00683,2025-10-03,West,Pune,Fashion,First-time,Android App,2049.06,Delivered,8,1475.32,573.74
+EC00684,2025-11-08,North,Delhi,Home & Kitchen,Repeat,Android App,4904.93,Delivered,8,3531.55,1373.38
+EC00685,2025-08-03,West,Ahmedabad,Fashion,First-time,iOS App,1239.26,Delivered,7,892.27,346.99
+EC00686,2025-05-08,West,Ahmedabad,Books,Repeat,Android App,685.09,Delivered,2,493.26,191.83
+EC00687,2025-01-20,South,Chennai,Fashion,First-time,iOS App,1156.33,Delivered,7,832.56,323.77
+EC00688,2025-04-06,West,Ahmedabad,Electronics,First-time,Marketplace,14663.0,Delivered,2,10557.36,4105.64
+EC00689,2025-12-28,South,Bengaluru,Electronics,First-time,Website,12355.7,Delivered,8,8896.1,3459.6
+EC00690,2025-09-19,West,Ahmedabad,Beauty,Repeat,Website,1260.99,Delivered,7,907.91,353.08
+EC00691,2025-11-26,South,Bengaluru,Home & Kitchen,First-time,Android App,2201.81,Delivered,2,1585.3,616.51
+EC00692,2025-11-12,South,Chennai,Home & Kitchen,Repeat,Android App,4331.5,Delivered,1,3118.68,1212.82
+EC00693,2025-06-08,North,Chandigarh,Home & Kitchen,Repeat,Website,2687.95,Delivered,8,1935.32,752.63
+EC00694,2025-04-26,South,Bengaluru,Home & Kitchen,Repeat,iOS App,2648.16,Delivered,8,1906.68,741.48
+EC00695,2025-06-27,North,Delhi,Fashion,First-time,Marketplace,1636.17,Delivered,5,1178.04,458.13
+EC00696,2025-06-08,North,Chandigarh,Electronics,Repeat,Android App,18411.17,Delivered,6,13256.04,5155.13
+EC00697,2025-10-13,West,Mumbai,Home & Kitchen,Repeat,Website,3522.99,Delivered,4,2536.55,986.44
+EC00698,2025-05-25,Central,Nagpur,Electronics,First-time,iOS App,16569.0,Delivered,2,11929.68,4639.32
+EC00699,2025-11-14,South,Hyderabad,Home & Kitchen,Premium,Website,3424.53,Cancelled,2,2465.66,958.87
+EC00700,2025-07-09,Central,Bhopal,Electronics,Repeat,Android App,16107.24,Delivered,4,11597.21,4510.03
+EC00701,2025-08-22,West,Pune,Books,Premium,Marketplace,693.23,Delivered,8,499.13,194.1
+EC00702,2025-02-17,West,Mumbai,Home & Kitchen,First-time,Website,3940.35,Delivered,3,2837.05,1103.3
+EC00703,2025-07-29,North,Delhi,Beauty,Premium,Android App,1430.97,Delivered,3,1030.3,400.67
+EC00704,2025-08-23,North,Delhi,Fashion,First-time,Android App,1549.65,Cancelled,9,1115.75,433.9
+EC00705,2025-05-12,East,Patna,Books,Repeat,iOS App,893.75,Delivered,8,643.5,250.25
+EC00706,2025-11-18,North,Jaipur,Home & Kitchen,Repeat,Website,2066.07,Delivered,1,1487.57,578.5
+EC00707,2025-04-18,West,Pune,Electronics,Repeat,Android App,16139.61,Delivered,1,11620.52,4519.09
+EC00708,2025-11-03,East,Bhubaneswar,Electronics,Repeat,Marketplace,20599.55,Delivered,2,14831.68,5767.87
+EC00709,2025-09-24,North,Chandigarh,Home & Kitchen,First-time,Website,5225.94,Returned,5,3762.68,1463.26
+EC00710,2025-04-28,Central,Indore,Fashion,Repeat,Website,2274.02,Delivered,2,1637.29,636.73
+EC00711,2025-02-07,Central,Indore,Beauty,First-time,Android App,1145.06,Delivered,3,824.44,320.62
+EC00712,2025-04-23,South,Bengaluru,Fashion,Repeat,Android App,2824.72,Returned,6,2033.8,790.92
+EC00713,2025-10-10,South,Bengaluru,Fashion,Repeat,Website,1538.4,Delivered,8,1107.65,430.75
+EC00714,2025-09-28,Central,Bhopal,Beauty,Repeat,Marketplace,1374.01,Cancelled,10,989.29,384.72
+EC00715,2025-04-07,East,Kolkata,Beauty,Premium,Website,818.84,Delivered,8,589.56,229.28
+EC00716,2025-06-09,Central,Indore,Fashion,First-time,iOS App,1795.34,Delivered,2,1292.64,502.7
+EC00717,2025-11-12,East,Bhubaneswar,Books,Repeat,Marketplace,415.24,Delivered,7,298.97,116.27
+EC00718,2025-02-27,West,Mumbai,Electronics,First-time,Website,18401.46,Delivered,8,13249.05,5152.41
+EC00719,2025-07-18,West,Ahmedabad,Beauty,Repeat,Android App,1367.14,Delivered,1,984.34,382.8
+EC00720,2025-06-17,West,Ahmedabad,Beauty,First-time,Marketplace,777.95,Delivered,3,560.12,217.83
+EC00721,2025-12-27,West,Mumbai,Home & Kitchen,First-time,Android App,3912.99,Delivered,1,2817.35,1095.64
+EC00722,2025-11-16,Central,Nagpur,Electronics,First-time,Website,15757.77,Delivered,6,11345.59,4412.18
+EC00723,2025-03-11,East,Kolkata,Fashion,Repeat,Website,2627.04,Delivered,1,1891.47,735.57
+EC00724,2025-02-06,East,Bhubaneswar,Fashion,Repeat,Android App,2875.99,Delivered,7,2070.71,805.28
+EC00725,2025-06-22,West,Ahmedabad,Fashion,Repeat,Marketplace,2549.36,Cancelled,4,1835.54,713.82
+EC00726,2025-07-01,South,Chennai,Books,First-time,Android App,765.72,Delivered,4,551.32,214.4
+EC00727,2025-06-26,North,Jaipur,Beauty,First-time,iOS App,1188.68,Delivered,6,855.85,332.83
+EC00728,2025-12-02,East,Kolkata,Home & Kitchen,Premium,iOS App,3831.74,Delivered,5,2758.85,1072.89
+EC00729,2025-08-13,North,Chandigarh,Electronics,First-time,Android App,16359.32,Delivered,7,11778.71,4580.61
+EC00730,2025-04-23,Central,Bhopal,Fashion,Repeat,Website,2041.67,Delivered,8,1470.0,571.67
+EC00731,2025-10-06,South,Chennai,Beauty,First-time,iOS App,1101.12,Delivered,6,792.81,308.31
+EC00732,2025-11-24,East,Kolkata,Fashion,Premium,Android App,2465.26,Delivered,8,1774.99,690.27
+EC00733,2025-10-13,West,Ahmedabad,Home & Kitchen,First-time,iOS App,3537.57,Delivered,5,2547.05,990.52
+EC00734,2025-06-07,West,Pune,Electronics,Repeat,Android App,19779.85,Delivered,7,14241.49,5538.36
+EC00735,2025-05-18,East,Patna,Books,Repeat,Website,468.45,Delivered,6,337.28,131.17
+EC00736,2025-05-03,Central,Indore,Beauty,First-time,Marketplace,527.55,Delivered,8,379.84,147.71
+EC00737,2025-11-19,East,Bhubaneswar,Home & Kitchen,First-time,Website,4588.55,Delivered,8,3303.76,1284.79
+EC00738,2025-09-25,North,Jaipur,Electronics,First-time,iOS App,13145.28,Delivered,7,9464.6,3680.68
+EC00739,2025-12-31,North,Chandigarh,Beauty,First-time,Marketplace,500.5,Delivered,7,360.36,140.14
+EC00740,2025-09-09,East,Bhubaneswar,Beauty,First-time,Android App,1350.1,Cancelled,8,972.07,378.03
+EC00741,2025-07-23,North,Jaipur,Beauty,Repeat,Marketplace,905.28,Delivered,7,651.8,253.48
+EC00742,2025-06-26,East,Kolkata,Beauty,Repeat,Website,1165.1,Delivered,1,838.87,326.23
+EC00743,2025-01-26,West,Ahmedabad,Beauty,Repeat,Website,1066.11,Delivered,5,767.6,298.51
+EC00744,2025-12-05,East,Kolkata,Beauty,First-time,Website,941.89,Delivered,3,678.16,263.73
+EC00745,2025-12-11,South,Hyderabad,Electronics,First-time,Android App,12100.6,Delivered,5,8712.43,3388.17
+EC00746,2025-06-25,South,Chennai,Beauty,First-time,Android App,1379.78,Delivered,7,993.44,386.34
+EC00747,2025-07-26,West,Ahmedabad,Fashion,Repeat,Android App,2164.21,Delivered,7,1558.23,605.98
+EC00748,2025-07-12,North,Delhi,Fashion,First-time,Android App,2209.27,Delivered,1,1590.67,618.6
+EC00749,2025-03-03,West,Ahmedabad,Electronics,First-time,Website,15091.64,Delivered,2,10865.98,4225.66
+EC00750,2025-09-08,Central,Indore,Beauty,Repeat,Android App,705.72,Delivered,3,508.12,197.6
+EC00751,2025-06-23,West,Pune,Home & Kitchen,First-time,Website,2293.68,Delivered,2,1651.45,642.23
+EC00752,2025-06-10,West,Ahmedabad,Home & Kitchen,First-time,Android App,5052.7,Delivered,1,3637.94,1414.76
+EC00753,2025-07-30,South,Hyderabad,Home & Kitchen,Premium,Android App,2109.56,Delivered,4,1518.88,590.68
+EC00754,2025-01-04,South,Hyderabad,Fashion,First-time,iOS App,2355.25,Delivered,7,1695.78,659.47
+EC00755,2025-10-27,East,Patna,Electronics,Premium,Android App,9233.23,Delivered,7,6647.93,2585.3
+EC00756,2025-06-01,South,Chennai,Fashion,First-time,Website,2181.98,Delivered,7,1571.03,610.95
+EC00757,2025-05-27,South,Hyderabad,Electronics,First-time,Android App,15842.08,Delivered,1,11406.3,4435.78
+EC00758,2025-06-03,Central,Nagpur,Fashion,First-time,Android App,1787.68,Delivered,6,1287.13,500.55
+EC00759,2025-03-23,West,Mumbai,Fashion,Repeat,Android App,1926.38,Delivered,7,1386.99,539.39
+EC00760,2025-05-20,North,Chandigarh,Fashion,Repeat,Android App,2592.63,Delivered,2,1866.69,725.94
+EC00761,2025-06-01,East,Kolkata,Fashion,Repeat,Website,2776.21,Delivered,3,1998.87,777.34
+EC00762,2025-07-10,Central,Nagpur,Beauty,First-time,Android App,1402.28,Delivered,1,1009.64,392.64
+EC00763,2025-03-07,South,Hyderabad,Electronics,First-time,Android App,18046.66,Delivered,7,12993.6,5053.06
+EC00764,2025-10-04,East,Patna,Electronics,First-time,iOS App,11947.63,Delivered,6,8602.29,3345.34
+EC00765,2025-04-28,East,Bhubaneswar,Fashion,First-time,Website,1099.25,Returned,8,791.46,307.79
+EC00766,2025-07-15,North,Chandigarh,Beauty,First-time,iOS App,1446.87,Delivered,6,1041.75,405.12
+EC00767,2025-09-17,East,Kolkata,Beauty,First-time,iOS App,853.37,Delivered,4,614.43,238.94
+EC00768,2025-11-22,East,Patna,Fashion,Repeat,Marketplace,2261.18,Delivered,5,1628.05,633.13
+EC00769,2025-10-29,West,Pune,Electronics,Repeat,Marketplace,19392.98,Delivered,7,13962.95,5430.03
+EC00770,2025-03-08,East,Patna,Beauty,Repeat,Android App,607.14,Delivered,3,437.14,170.0
+EC00771,2025-11-09,South,Chennai,Fashion,First-time,Marketplace,1967.09,Delivered,3,1416.3,550.79
+EC00772,2025-04-25,South,Hyderabad,Electronics,Repeat,Website,11062.62,Delivered,8,7965.09,3097.53
+EC00773,2025-10-14,Central,Nagpur,Beauty,First-time,Marketplace,526.25,Delivered,4,378.9,147.35
+EC00774,2025-11-09,North,Jaipur,Beauty,Repeat,Marketplace,1195.48,Delivered,8,860.75,334.73
+EC00775,2025-06-20,South,Chennai,Home & Kitchen,Repeat,Android App,2386.52,Delivered,6,1718.29,668.23
+EC00776,2025-11-05,North,Delhi,Beauty,First-time,Android App,1287.17,Delivered,1,926.76,360.41
+EC00777,2025-10-28,North,Delhi,Electronics,Repeat,Marketplace,8162.29,Delivered,1,5876.85,2285.44
+EC00778,2025-08-29,Central,Nagpur,Beauty,Repeat,Android App,1053.66,Cancelled,10,758.64,295.02
+EC00779,2025-02-12,Central,Indore,Beauty,Repeat,Website,784.71,Returned,6,564.99,219.72
+EC00780,2025-10-21,North,Chandigarh,Electronics,Repeat,Marketplace,18042.43,Delivered,8,12990.55,5051.88
+EC00781,2025-08-19,North,Chandigarh,Beauty,First-time,Android App,1059.91,Delivered,1,763.14,296.77
+EC00782,2025-09-05,West,Ahmedabad,Home & Kitchen,First-time,Android App,3684.01,Delivered,4,2652.49,1031.52
+EC00783,2025-08-20,South,Hyderabad,Beauty,First-time,iOS App,676.63,Delivered,4,487.17,189.46
+EC00784,2025-02-19,West,Pune,Fashion,Repeat,Android App,2885.4,Delivered,8,2077.49,807.91
+EC00785,2025-08-30,Central,Indore,Fashion,Repeat,Android App,2462.71,Delivered,6,1773.15,689.56
+EC00786,2025-02-11,West,Pune,Electronics,First-time,Android App,18558.99,Delivered,7,13362.47,5196.52
+EC00787,2025-11-29,Central,Indore,Books,First-time,Android App,342.07,Cancelled,6,246.29,95.78
+EC00788,2025-04-23,East,Bhubaneswar,Fashion,Repeat,Website,2571.93,Delivered,5,1851.79,720.14
+EC00789,2025-07-01,Central,Nagpur,Fashion,First-time,Android App,2546.53,Delivered,4,1833.5,713.03
+EC00790,2025-09-25,East,Bhubaneswar,Home & Kitchen,Repeat,Website,2639.19,Delivered,4,1900.22,738.97
+EC00791,2025-08-16,East,Patna,Books,First-time,Android App,521.07,Delivered,2,375.17,145.9
+EC00792,2025-05-25,Central,Bhopal,Electronics,Premium,Website,20362.32,Delivered,8,14660.87,5701.45
+EC00793,2025-07-24,East,Kolkata,Beauty,First-time,Android App,1117.68,Delivered,7,804.73,312.95
+EC00794,2025-11-22,South,Bengaluru,Beauty,First-time,Android App,688.5,Delivered,1,495.72,192.78
+EC00795,2025-06-21,North,Delhi,Home & Kitchen,First-time,iOS App,3103.69,Delivered,7,2234.66,869.03
+EC00796,2025-11-02,Central,Nagpur,Fashion,First-time,Android App,1434.22,Delivered,2,1032.64,401.58
+EC00797,2025-09-01,West,Ahmedabad,Home & Kitchen,Premium,Android App,1898.65,Cancelled,6,1367.03,531.62
+EC00798,2025-03-06,South,Chennai,Electronics,First-time,Android App,15031.4,Delivered,1,10822.61,4208.79
+EC00799,2025-12-09,North,Chandigarh,Fashion,Repeat,Website,1724.11,Delivered,1,1241.36,482.75
+EC00800,2025-10-12,South,Bengaluru,Home & Kitchen,Repeat,Marketplace,2864.39,Delivered,2,2062.36,802.03
+EC00801,2025-10-02,South,Hyderabad,Home & Kitchen,Repeat,Website,3350.34,Delivered,2,2412.24,938.1
+EC00802,2025-10-10,East,Bhubaneswar,Electronics,First-time,Android App,16230.07,Delivered,1,11685.65,4544.42
+EC00803,2025-07-17,South,Chennai,Electronics,Repeat,Website,17483.17,Delivered,3,12587.88,4895.29
+EC00804,2025-11-19,South,Bengaluru,Electronics,First-time,Marketplace,16161.63,Delivered,3,11636.37,4525.26
+EC00805,2025-09-25,North,Jaipur,Home & Kitchen,Repeat,Website,5135.04,Cancelled,5,3697.23,1437.81
+EC00806,2025-01-23,Central,Nagpur,Fashion,Repeat,Website,2483.25,Delivered,8,1787.94,695.31
+EC00807,2025-11-13,South,Hyderabad,Fashion,First-time,iOS App,1358.68,Delivered,7,978.25,380.43
+EC00808,2025-04-12,South,Bengaluru,Books,Repeat,Website,405.59,Delivered,4,292.02,113.57
+EC00809,2025-05-08,North,Jaipur,Fashion,First-time,Android App,2476.71,Delivered,2,1783.23,693.48
+EC00810,2025-12-24,West,Ahmedabad,Beauty,First-time,iOS App,1351.22,Returned,8,972.88,378.34
+EC00811,2025-10-21,North,Delhi,Books,Repeat,Website,402.44,Cancelled,2,289.76,112.68
+EC00812,2025-12-11,West,Ahmedabad,Electronics,Repeat,Website,16844.55,Delivered,1,12128.08,4716.47
+EC00813,2025-09-06,North,Delhi,Fashion,First-time,Website,2930.7,Delivered,6,2110.1,820.6
+EC00814,2025-08-04,Central,Bhopal,Fashion,First-time,iOS App,1779.56,Cancelled,9,1281.28,498.28
+EC00815,2025-04-16,South,Bengaluru,Beauty,First-time,iOS App,906.67,Delivered,5,652.8,253.87
+EC00816,2025-09-25,South,Hyderabad,Electronics,First-time,iOS App,15232.34,Delivered,1,10967.28,4265.06
+EC00817,2025-01-28,Central,Indore,Electronics,First-time,Website,14813.61,Delivered,8,10665.8,4147.81
+EC00818,2025-11-04,East,Bhubaneswar,Fashion,Repeat,Website,1020.43,Delivered,6,734.71,285.72
+EC00819,2025-03-16,North,Jaipur,Home & Kitchen,First-time,Marketplace,3683.47,Delivered,8,2652.1,1031.37
+EC00820,2025-07-08,East,Patna,Electronics,Repeat,Android App,10726.42,Delivered,8,7723.02,3003.4
+EC00821,2025-07-31,Central,Nagpur,Beauty,First-time,Android App,500.24,Delivered,8,360.17,140.07
+EC00822,2025-09-02,West,Mumbai,Beauty,Repeat,iOS App,1370.03,Delivered,3,986.42,383.61
+EC00823,2025-11-24,West,Ahmedabad,Home & Kitchen,First-time,Website,4841.17,Delivered,7,3485.64,1355.53
+EC00824,2025-12-10,West,Pune,Beauty,First-time,Marketplace,531.11,Delivered,3,382.4,148.71
+EC00825,2025-11-13,Central,Bhopal,Fashion,Repeat,Marketplace,1199.43,Delivered,3,863.59,335.84
+EC00826,2025-03-23,South,Chennai,Home & Kitchen,First-time,Android App,2660.49,Delivered,2,1915.55,744.94
+EC00827,2025-07-22,South,Bengaluru,Books,Repeat,Website,883.94,Delivered,2,636.44,247.5
+EC00828,2025-04-17,North,Jaipur,Fashion,Repeat,Android App,2761.04,Delivered,4,1987.95,773.09
+EC00829,2025-03-04,North,Chandigarh,Fashion,Premium,iOS App,2566.46,Delivered,3,1847.85,718.61
+EC00830,2025-03-30,South,Bengaluru,Electronics,Repeat,Android App,7006.49,Delivered,2,5044.67,1961.82
+EC00831,2025-03-15,East,Kolkata,Fashion,Repeat,Android App,2733.22,Delivered,5,1967.92,765.3
+EC00832,2025-01-14,North,Delhi,Beauty,Repeat,Marketplace,1290.22,Delivered,7,928.96,361.26
+EC00833,2025-05-20,East,Kolkata,Electronics,Premium,Android App,11177.91,Cancelled,3,8048.1,3129.81
+EC00834,2025-09-13,East,Kolkata,Books,First-time,Android App,592.43,Cancelled,7,426.55,165.88
+EC00835,2025-04-30,South,Chennai,Home & Kitchen,Repeat,Website,2498.79,Cancelled,6,1799.13,699.66
+EC00836,2025-06-30,South,Hyderabad,Electronics,Repeat,iOS App,14589.32,Delivered,2,10504.31,4085.01
+EC00837,2025-03-12,Central,Bhopal,Fashion,Repeat,Website,1243.11,Delivered,6,895.04,348.07
+EC00838,2025-07-20,East,Patna,Home & Kitchen,Repeat,Android App,3634.36,Delivered,8,2616.74,1017.62
+EC00839,2025-06-05,North,Delhi,Electronics,First-time,Website,14940.72,Delivered,1,10757.32,4183.4
+EC00840,2025-07-19,Central,Bhopal,Fashion,Repeat,Android App,2764.81,Delivered,6,1990.66,774.15
+EC00841,2025-04-01,Central,Indore,Electronics,First-time,iOS App,16747.14,Delivered,4,12057.94,4689.2
+EC00842,2025-09-12,North,Jaipur,Home & Kitchen,Premium,Android App,5266.65,Delivered,8,3791.99,1474.66
+EC00843,2025-06-03,Central,Nagpur,Home & Kitchen,First-time,Android App,2061.54,Delivered,8,1484.31,577.23
+EC00844,2025-11-14,South,Chennai,Fashion,First-time,Android App,2116.54,Delivered,5,1523.91,592.63
+EC00845,2025-08-11,North,Chandigarh,Home & Kitchen,Repeat,Website,3993.03,Delivered,3,2874.98,1118.05
+EC00846,2025-01-18,West,Ahmedabad,Electronics,First-time,Marketplace,19855.61,Delivered,8,14296.04,5559.57
+EC00847,2025-11-23,West,Pune,Fashion,Repeat,Website,2155.94,Cancelled,5,1552.28,603.66
+EC00848,2025-06-22,East,Bhubaneswar,Fashion,Repeat,Marketplace,1416.21,Delivered,8,1019.67,396.54
+EC00849,2025-12-02,West,Ahmedabad,Home & Kitchen,Repeat,Android App,3869.46,Delivered,8,2786.01,1083.45
+EC00850,2025-05-29,East,Patna,Beauty,First-time,Website,1447.88,Delivered,3,1042.47,405.41
+EC00851,2025-01-19,West,Pune,Books,Repeat,Marketplace,738.88,Delivered,6,531.99,206.89
+EC00852,2025-05-10,North,Delhi,Fashion,Premium,Website,2478.67,Delivered,4,1784.64,694.03
+EC00853,2025-07-29,Central,Nagpur,Fashion,Repeat,Android App,1141.52,Delivered,4,821.89,319.63
+EC00854,2025-03-08,North,Jaipur,Beauty,Repeat,Website,778.95,Delivered,6,560.84,218.11
+EC00855,2025-01-02,East,Kolkata,Fashion,Repeat,Android App,2263.29,Delivered,7,1629.57,633.72
+EC00856,2025-08-26,South,Hyderabad,Home & Kitchen,Repeat,Website,2520.56,Delivered,8,1814.8,705.76
+EC00857,2025-08-02,East,Kolkata,Electronics,First-time,Android App,9861.06,Delivered,5,7099.96,2761.1
+EC00858,2025-08-26,East,Kolkata,Electronics,First-time,Android App,17191.84,Returned,7,12378.12,4813.72
+EC00859,2025-03-01,South,Hyderabad,Electronics,Repeat,Android App,11024.66,Delivered,3,7937.76,3086.9
+EC00860,2025-08-22,East,Bhubaneswar,Electronics,Repeat,iOS App,11343.59,Delivered,5,8167.38,3176.21
+EC00861,2025-05-06,North,Chandigarh,Beauty,Repeat,Marketplace,1208.2,Delivered,1,869.9,338.3
+EC00862,2025-02-21,South,Hyderabad,Fashion,First-time,Android App,997.77,Delivered,2,718.39,279.38
+EC00863,2025-10-12,East,Patna,Beauty,Repeat,Website,1107.03,Delivered,5,797.06,309.97
+EC00864,2025-10-27,South,Chennai,Fashion,Repeat,Website,2536.17,Delivered,5,1826.04,710.13
+EC00865,2025-03-29,Central,Nagpur,Home & Kitchen,Premium,Android App,2399.74,Delivered,3,1727.81,671.93
+EC00866,2025-07-28,Central,Indore,Fashion,First-time,Marketplace,1114.52,Delivered,3,802.45,312.07
+EC00867,2025-03-29,North,Chandigarh,Fashion,Repeat,Website,2468.75,Delivered,3,1777.5,691.25
+EC00868,2025-01-25,East,Kolkata,Fashion,Repeat,Website,1545.96,Cancelled,7,1113.09,432.87
+EC00869,2025-11-16,South,Chennai,Books,First-time,Website,567.68,Delivered,6,408.73,158.95
+EC00870,2025-08-12,West,Ahmedabad,Books,First-time,Android App,372.89,Cancelled,11,268.48,104.41
+EC00871,2025-04-21,South,Hyderabad,Home & Kitchen,First-time,Android App,5195.72,Delivered,7,3740.92,1454.8
+EC00872,2025-01-01,East,Kolkata,Electronics,Repeat,iOS App,15185.3,Delivered,8,10933.42,4251.88
+EC00873,2025-02-06,North,Jaipur,Electronics,Repeat,Marketplace,7118.68,Delivered,7,5125.45,1993.23
+EC00874,2025-10-02,South,Hyderabad,Fashion,First-time,iOS App,2823.07,Returned,8,2032.61,790.46
+EC00875,2025-06-02,South,Chennai,Fashion,Repeat,Marketplace,2571.33,Delivered,5,1851.36,719.97
+EC00876,2025-12-18,East,Bhubaneswar,Electronics,Repeat,Android App,17296.0,Delivered,1,12453.12,4842.88
+EC00877,2025-01-29,West,Mumbai,Home & Kitchen,Repeat,Android App,3011.39,Delivered,2,2168.2,843.19
+EC00878,2025-10-14,North,Delhi,Home & Kitchen,Repeat,Website,2732.83,Delivered,4,1967.64,765.19
+EC00879,2025-09-16,West,Ahmedabad,Fashion,Premium,Android App,2001.18,Delivered,3,1440.85,560.33
+EC00880,2025-04-16,East,Patna,Beauty,Repeat,iOS App,1444.07,Delivered,1,1039.73,404.34
+EC00881,2025-09-04,Central,Bhopal,Electronics,Repeat,Website,20482.19,Delivered,1,14747.18,5735.01
+EC00882,2025-05-25,East,Bhubaneswar,Home & Kitchen,Repeat,Website,3486.38,Delivered,1,2510.19,976.19
+EC00883,2025-12-31,South,Hyderabad,Electronics,Repeat,iOS App,19092.69,Cancelled,3,13746.74,5345.95
+EC00884,2025-03-11,Central,Indore,Home & Kitchen,First-time,iOS App,1777.19,Cancelled,4,1279.58,497.61
+EC00885,2025-09-20,West,Mumbai,Electronics,Premium,iOS App,17975.28,Cancelled,5,12942.2,5033.08
+EC00886,2025-06-12,North,Delhi,Fashion,Repeat,Android App,1633.82,Returned,8,1176.35,457.47
+EC00887,2025-06-13,West,Mumbai,Electronics,First-time,Website,16882.25,Delivered,5,12155.22,4727.03
+EC00888,2025-06-16,East,Patna,Home & Kitchen,First-time,Android App,3288.13,Delivered,4,2367.45,920.68
+EC00889,2025-10-23,North,Jaipur,Beauty,First-time,Marketplace,1092.34,Delivered,7,786.48,305.86
+EC00890,2025-03-12,North,Chandigarh,Beauty,Premium,iOS App,1022.54,Delivered,1,736.23,286.31
+EC00891,2025-04-06,North,Jaipur,Books,First-time,Android App,418.25,Returned,4,301.14,117.11
+EC00892,2025-09-08,South,Hyderabad,Fashion,Repeat,Android App,2906.22,Cancelled,10,2092.48,813.74
+EC00893,2025-02-02,North,Jaipur,Books,First-time,Marketplace,549.43,Returned,6,395.59,153.84
+EC00894,2025-08-27,North,Chandigarh,Electronics,First-time,Android App,19461.49,Delivered,1,14012.27,5449.22
+EC00895,2025-12-13,Central,Nagpur,Home & Kitchen,Premium,iOS App,4924.49,Returned,1,3545.63,1378.86
+EC00896,2025-08-23,Central,Bhopal,Fashion,Repeat,Website,2621.89,Delivered,7,1887.76,734.13
+EC00897,2025-08-13,East,Patna,Fashion,Premium,Website,1677.09,Delivered,8,1207.5,469.59
+EC00898,2025-05-05,West,Mumbai,Beauty,Repeat,Website,675.26,Delivered,6,486.19,189.07
+EC00899,2025-06-29,North,Jaipur,Electronics,Repeat,Marketplace,18178.54,Delivered,2,13088.55,5089.99
+EC00900,2025-07-27,North,Chandigarh,Electronics,Repeat,Marketplace,15588.91,Delivered,2,11224.02,4364.89
+EC00901,2025-08-23,South,Hyderabad,Fashion,Repeat,Website,1293.15,Cancelled,7,931.07,362.08
+EC00902,2025-06-08,West,Ahmedabad,Fashion,Repeat,Android App,2698.3,Delivered,8,1942.78,755.52
+EC00903,2025-06-06,South,Hyderabad,Fashion,Repeat,Android App,1144.33,Returned,2,823.92,320.41
+EC00904,2025-08-19,North,Chandigarh,Books,Repeat,iOS App,394.86,Delivered,8,284.3,110.56
+EC00905,2025-01-05,South,Hyderabad,Home & Kitchen,First-time,Website,1800.92,Delivered,4,1296.66,504.26
+EC00906,2025-06-05,West,Ahmedabad,Home & Kitchen,First-time,Android App,2553.56,Delivered,2,1838.56,715.0
+EC00907,2025-04-08,West,Pune,Home & Kitchen,First-time,Website,4410.38,Delivered,6,3175.47,1234.91
+EC00908,2025-08-18,Central,Indore,Electronics,Repeat,Android App,10109.82,Delivered,1,7279.07,2830.75
+EC00909,2025-07-03,South,Bengaluru,Home & Kitchen,Repeat,Android App,3648.12,Delivered,3,2626.65,1021.47
+EC00910,2025-01-09,Central,Bhopal,Fashion,Premium,Website,1402.03,Delivered,3,1009.46,392.57
+EC00911,2025-09-07,South,Hyderabad,Fashion,Repeat,Android App,1117.67,Delivered,8,804.72,312.95
+EC00912,2025-09-20,Central,Indore,Fashion,Repeat,Android App,2134.61,Returned,8,1536.92,597.69
+EC00913,2025-04-15,West,Mumbai,Electronics,Repeat,Android App,9997.93,Delivered,7,7198.51,2799.42
+EC00914,2025-11-18,Central,Indore,Beauty,First-time,Android App,1202.09,Delivered,4,865.5,336.59
+EC00915,2025-08-08,West,Ahmedabad,Fashion,Repeat,Website,996.09,Delivered,6,717.18,278.91
+EC00916,2025-05-11,Central,Nagpur,Fashion,Repeat,Marketplace,2266.27,Returned,5,1631.71,634.56
+EC00917,2025-04-14,Central,Bhopal,Books,Repeat,Android App,857.67,Delivered,8,617.52,240.15
+EC00918,2025-10-05,South,Hyderabad,Fashion,Repeat,Website,1592.01,Delivered,1,1146.25,445.76
+EC00919,2025-01-28,Central,Indore,Electronics,First-time,Website,17848.65,Delivered,8,12851.03,4997.62
+EC00920,2025-03-29,South,Chennai,Books,Repeat,iOS App,572.33,Returned,5,412.08,160.25
+EC00921,2025-08-06,East,Bhubaneswar,Books,Repeat,iOS App,766.53,Delivered,6,551.9,214.63
+EC00922,2025-10-19,North,Jaipur,Home & Kitchen,First-time,Android App,5097.76,Delivered,2,3670.39,1427.37
+EC00923,2025-05-02,South,Chennai,Fashion,First-time,Android App,1889.83,Delivered,2,1360.68,529.15
+EC00924,2025-12-23,East,Patna,Fashion,First-time,Website,1114.57,Delivered,1,802.49,312.08
+EC00925,2025-05-10,West,Pune,Beauty,Repeat,Android App,804.49,Delivered,2,579.23,225.26
+EC00926,2025-01-10,South,Hyderabad,Fashion,Premium,Website,1054.22,Cancelled,5,759.04,295.18
+EC00927,2025-01-03,South,Hyderabad,Fashion,First-time,Marketplace,2364.16,Delivered,1,1702.2,661.96
+EC00928,2025-01-04,South,Chennai,Home & Kitchen,First-time,Website,4210.72,Delivered,6,3031.72,1179.0
+EC00929,2025-08-31,Central,Bhopal,Home & Kitchen,Repeat,Marketplace,1842.24,Delivered,1,1326.41,515.83
+EC00930,2025-01-27,Central,Bhopal,Books,Repeat,Website,878.52,Delivered,7,632.53,245.99
+EC00931,2025-03-08,West,Mumbai,Beauty,Repeat,Android App,881.9,Delivered,4,634.97,246.93
+EC00932,2025-08-11,Central,Bhopal,Electronics,First-time,Android App,16645.25,Cancelled,6,11984.58,4660.67
+EC00933,2025-03-05,South,Chennai,Home & Kitchen,First-time,Website,5263.27,Delivered,8,3789.55,1473.72
+EC00934,2025-03-21,Central,Nagpur,Fashion,First-time,Website,1444.71,Delivered,1,1040.19,404.52
+EC00935,2025-05-18,West,Ahmedabad,Electronics,Repeat,Website,19072.54,Delivered,4,13732.23,5340.31
+EC00936,2025-12-17,West,Pune,Fashion,Repeat,Website,1159.53,Delivered,2,834.86,324.67
+EC00937,2025-08-10,West,Mumbai,Fashion,Premium,iOS App,1143.37,Delivered,7,823.23,320.14
+EC00938,2025-01-25,South,Bengaluru,Beauty,Repeat,iOS App,777.33,Cancelled,8,559.68,217.65
+EC00939,2025-12-03,North,Chandigarh,Electronics,First-time,Website,8774.35,Delivered,6,6317.53,2456.82
+EC00940,2025-10-19,West,Pune,Fashion,First-time,Website,2948.31,Delivered,8,2122.78,825.53
+EC00941,2025-06-25,West,Pune,Home & Kitchen,First-time,Website,2805.35,Delivered,5,2019.85,785.5
+EC00942,2025-07-23,West,Ahmedabad,Beauty,Repeat,Android App,1436.78,Delivered,3,1034.48,402.3
+EC00943,2025-08-20,East,Patna,Beauty,Repeat,Website,496.5,Delivered,1,357.48,139.02
+EC00944,2025-08-30,Central,Indore,Electronics,Repeat,Android App,10159.81,Delivered,6,7315.06,2844.75
+EC00945,2025-07-07,North,Chandigarh,Electronics,Repeat,Marketplace,19173.88,Delivered,7,13805.19,5368.69
+EC00946,2025-11-29,Central,Indore,Beauty,First-time,Android App,1469.08,Delivered,2,1057.74,411.34
+EC00947,2025-11-03,East,Kolkata,Fashion,Premium,Android App,2733.67,Delivered,4,1968.24,765.43
+EC00948,2025-01-06,East,Patna,Electronics,Repeat,Website,12223.29,Delivered,3,8800.77,3422.52
+EC00949,2025-03-05,West,Pune,Electronics,First-time,Website,8814.17,Delivered,6,6346.2,2467.97
+EC00950,2025-02-01,East,Bhubaneswar,Beauty,First-time,Marketplace,1444.57,Delivered,7,1040.09,404.48
+EC00951,2025-12-13,Central,Bhopal,Home & Kitchen,First-time,Marketplace,4723.53,Returned,3,3400.94,1322.59
+EC00952,2025-12-29,North,Chandigarh,Home & Kitchen,First-time,Website,2283.76,Cancelled,1,1644.31,639.45
+EC00953,2025-09-07,North,Jaipur,Books,Repeat,Android App,587.37,Delivered,1,422.91,164.46
+EC00954,2025-09-04,Central,Indore,Electronics,First-time,Android App,11553.39,Delivered,4,8318.44,3234.95
+EC00955,2025-04-09,Central,Nagpur,Electronics,Repeat,Website,20100.62,Delivered,6,14472.45,5628.17
+EC00956,2025-05-29,West,Mumbai,Home & Kitchen,Repeat,Android App,4840.33,Delivered,2,3485.04,1355.29
+EC00957,2025-07-09,East,Patna,Books,Premium,iOS App,762.39,Delivered,4,548.92,213.47
+EC00958,2025-12-18,East,Patna,Books,Repeat,Android App,552.47,Delivered,1,397.78,154.69
+EC00959,2025-10-21,South,Bengaluru,Fashion,Repeat,Website,1973.81,Delivered,6,1421.14,552.67
+EC00960,2025-08-21,South,Chennai,Fashion,First-time,Android App,2834.73,Cancelled,11,2041.01,793.72
+EC00961,2025-12-16,South,Chennai,Fashion,Repeat,Android App,1189.01,Delivered,6,856.09,332.92
+EC00962,2025-02-17,South,Chennai,Fashion,Repeat,Website,1846.93,Delivered,5,1329.79,517.14
+EC00963,2025-03-06,South,Bengaluru,Fashion,Repeat,Website,2757.69,Delivered,5,1985.54,772.15
+EC00964,2025-06-04,West,Ahmedabad,Electronics,Repeat,Marketplace,9627.16,Delivered,3,6931.56,2695.6
+EC00965,2025-04-07,East,Kolkata,Electronics,First-time,Android App,13758.27,Delivered,1,9905.95,3852.32
+EC00966,2025-05-19,South,Hyderabad,Home & Kitchen,Repeat,Android App,4034.49,Delivered,5,2904.83,1129.66
+EC00967,2025-06-05,South,Hyderabad,Fashion,First-time,Marketplace,1642.04,Delivered,1,1182.27,459.77
+EC00968,2025-02-04,East,Patna,Electronics,First-time,Android App,15830.07,Delivered,8,11397.65,4432.42
+EC00969,2025-01-15,Central,Indore,Electronics,Premium,Website,10674.66,Delivered,3,7685.76,2988.9
+EC00970,2025-11-08,East,Bhubaneswar,Home & Kitchen,Repeat,Website,4635.33,Delivered,2,3337.44,1297.89
+EC00971,2025-01-17,South,Chennai,Electronics,First-time,iOS App,13430.08,Delivered,1,9669.66,3760.42
+EC00972,2025-12-02,West,Pune,Books,Repeat,iOS App,592.49,Delivered,6,426.59,165.9
+EC00973,2025-09-17,North,Delhi,Books,Repeat,Android App,593.76,Delivered,5,427.51,166.25
+EC00974,2025-10-22,South,Chennai,Fashion,First-time,Website,2486.67,Delivered,4,1790.4,696.27
+EC00975,2025-09-16,Central,Indore,Fashion,Repeat,Android App,2809.54,Delivered,5,2022.87,786.67
+EC00976,2025-10-11,South,Bengaluru,Books,First-time,Marketplace,419.98,Delivered,8,302.39,117.59
+EC00977,2025-01-28,North,Chandigarh,Fashion,First-time,iOS App,2433.3,Delivered,8,1751.98,681.32
+EC00978,2025-11-02,North,Delhi,Home & Kitchen,Repeat,Marketplace,4877.83,Delivered,3,3512.04,1365.79
+EC00979,2025-06-24,Central,Nagpur,Fashion,First-time,Android App,2495.39,Delivered,7,1796.68,698.71
+EC00980,2025-09-21,South,Chennai,Fashion,First-time,iOS App,1414.31,Cancelled,8,1018.3,396.01
+EC00981,2025-10-13,South,Hyderabad,Electronics,Repeat,Android App,18025.26,Delivered,7,12978.19,5047.07
+EC00982,2025-07-26,Central,Indore,Books,Premium,Android App,897.75,Delivered,2,646.38,251.37
+EC00983,2025-05-18,East,Kolkata,Fashion,Repeat,iOS App,1206.85,Delivered,4,868.93,337.92
+EC00984,2025-09-21,East,Kolkata,Books,First-time,Marketplace,406.62,Delivered,7,292.77,113.85
+EC00985,2025-09-24,East,Patna,Beauty,First-time,Website,1038.31,Delivered,4,747.58,290.73
+EC00986,2025-04-12,East,Kolkata,Electronics,Repeat,Website,15288.2,Delivered,2,11007.5,4280.7
+EC00987,2025-07-16,North,Jaipur,Home & Kitchen,Repeat,Website,4625.74,Delivered,4,3330.53,1295.21
+EC00988,2025-06-25,South,Chennai,Fashion,First-time,Website,1063.72,Delivered,5,765.88,297.84
+EC00989,2025-02-26,Central,Nagpur,Beauty,First-time,Website,900.52,Delivered,7,648.37,252.15
+EC00990,2025-05-26,South,Hyderabad,Books,Repeat,Android App,843.14,Cancelled,1,607.06,236.08
+EC00991,2025-07-01,East,Kolkata,Electronics,First-time,Android App,10029.68,Delivered,3,7221.37,2808.31
+EC00992,2025-10-05,East,Bhubaneswar,Beauty,First-time,Website,1021.37,Delivered,8,735.39,285.98
+EC00993,2025-01-06,North,Delhi,Electronics,First-time,Android App,20311.62,Delivered,7,14624.37,5687.25
+EC00994,2025-02-27,North,Chandigarh,Books,First-time,Android App,738.87,Delivered,5,531.99,206.88
+EC00995,2025-02-24,North,Delhi,Electronics,First-time,Website,13166.69,Delivered,8,9480.02,3686.67
+EC00996,2025-10-12,South,Hyderabad,Fashion,Repeat,Marketplace,1050.13,Delivered,7,756.09,294.04
+EC00997,2025-12-31,North,Chandigarh,Electronics,Repeat,iOS App,10896.21,Delivered,7,7845.27,3050.94
+EC00998,2025-07-07,South,Chennai,Electronics,First-time,Marketplace,16568.95,Delivered,3,11929.64,4639.31
+EC00999,2025-03-28,West,Mumbai,Fashion,Repeat,Website,2891.22,Delivered,2,2081.68,809.54
+EC01000,2025-01-10,South,Hyderabad,Electronics,First-time,Website,15955.8,Delivered,7,11488.18,4467.62
+EC01001,2025-10-28,South,Hyderabad,Beauty,Repeat,iOS App,1184.57,Delivered,6,852.89,331.68
+EC01002,2025-09-09,East,Kolkata,Fashion,Repeat,Website,2062.81,Delivered,6,1485.22,577.59
+EC01003,2025-01-09,West,Mumbai,Fashion,First-time,Website,2097.16,Delivered,1,1509.96,587.2
+EC01004,2025-12-24,East,Kolkata,Fashion,First-time,Android App,1706.99,Delivered,7,1229.03,477.96
+EC01005,2025-09-02,North,Jaipur,Electronics,Repeat,Website,18362.68,Returned,6,13221.13,5141.55
+EC01006,2025-04-18,West,Pune,Beauty,Repeat,Website,1273.32,Delivered,7,916.79,356.53
+EC01007,2025-03-17,Central,Bhopal,Electronics,First-time,Marketplace,10239.1,Delivered,6,7372.15,2866.95
+EC01008,2025-09-01,South,Chennai,Beauty,Repeat,Android App,1018.05,Cancelled,5,733.0,285.05
+EC01009,2025-09-22,North,Jaipur,Electronics,Repeat,Marketplace,18102.75,Delivered,1,13033.98,5068.77
+EC01010,2025-12-20,South,Chennai,Fashion,Repeat,Android App,2222.37,Delivered,7,1600.11,622.26
+EC01011,2025-11-09,Central,Indore,Fashion,Repeat,iOS App,1303.87,Delivered,7,938.79,365.08
+EC01012,2025-02-02,North,Jaipur,Beauty,Repeat,Website,688.44,Delivered,1,495.68,192.76
+EC01013,2025-10-18,South,Bengaluru,Fashion,First-time,iOS App,1724.09,Delivered,3,1241.34,482.75
+EC01014,2025-12-14,East,Bhubaneswar,Home & Kitchen,Repeat,Website,3489.34,Delivered,5,2512.32,977.02
+EC01015,2025-12-19,North,Delhi,Fashion,Repeat,Website,2235.48,Delivered,3,1609.55,625.93
+EC01016,2025-02-17,West,Mumbai,Electronics,First-time,Marketplace,12811.68,Cancelled,8,9224.41,3587.27
+EC01017,2025-06-24,Central,Indore,Beauty,First-time,Android App,1142.15,Delivered,4,822.35,319.8
+EC01018,2025-08-13,Central,Indore,Home & Kitchen,Premium,Marketplace,4636.3,Delivered,6,3338.14,1298.16
+EC01019,2025-05-23,Central,Indore,Home & Kitchen,First-time,Android App,2121.98,Cancelled,6,1527.83,594.15
+EC01020,2025-05-28,East,Bhubaneswar,Fashion,Repeat,Android App,2327.26,Delivered,2,1675.63,651.63
+EC01021,2025-07-25,South,Hyderabad,Home & Kitchen,Repeat,Marketplace,4908.07,Delivered,2,3533.81,1374.26
+EC01022,2025-07-26,North,Delhi,Books,Premium,Website,717.3,Delivered,5,516.46,200.84
+EC01023,2025-09-10,Central,Nagpur,Books,Premium,Website,600.11,Cancelled,9,432.08,168.03
+EC01024,2025-06-08,West,Pune,Fashion,Repeat,Marketplace,995.53,Delivered,5,716.78,278.75
+EC01025,2025-07-09,East,Bhubaneswar,Electronics,First-time,iOS App,10215.22,Delivered,5,7354.96,2860.26
+EC01026,2025-07-24,North,Delhi,Home & Kitchen,Repeat,Android App,3722.49,Delivered,4,2680.19,1042.3
+EC01027,2025-06-06,North,Jaipur,Electronics,Repeat,Website,16841.52,Delivered,4,12125.89,4715.63
+EC01028,2025-11-28,South,Chennai,Fashion,Repeat,Android App,2830.93,Cancelled,5,2038.27,792.66
+EC01029,2025-11-05,North,Chandigarh,Books,Repeat,Marketplace,399.33,Cancelled,5,287.52,111.81
+EC01030,2025-08-30,West,Pune,Books,Repeat,Marketplace,305.88,Delivered,3,220.23,85.65
+EC01031,2025-09-18,East,Bhubaneswar,Beauty,Repeat,Website,1177.06,Delivered,1,847.48,329.58
+EC01032,2025-10-28,East,Bhubaneswar,Electronics,Repeat,Android App,11623.34,Delivered,7,8368.8,3254.54
+EC01033,2025-04-22,North,Chandigarh,Fashion,Repeat,Marketplace,1315.38,Delivered,4,947.07,368.31
+EC01034,2025-02-07,West,Ahmedabad,Electronics,Repeat,Android App,7607.55,Delivered,2,5477.44,2130.11
+EC01035,2025-10-18,Central,Indore,Fashion,Repeat,Website,2604.87,Delivered,4,1875.51,729.36
+EC01036,2025-11-21,West,Pune,Fashion,Repeat,Android App,1766.83,Delivered,1,1272.12,494.71
+EC01037,2025-01-22,West,Pune,Books,Repeat,Android App,883.83,Delivered,6,636.36,247.47
+EC01038,2025-01-21,Central,Nagpur,Fashion,First-time,Android App,1416.92,Delivered,6,1020.18,396.74
+EC01039,2025-08-14,South,Hyderabad,Home & Kitchen,First-time,iOS App,4912.87,Delivered,3,3537.27,1375.6
+EC01040,2025-10-15,Central,Indore,Electronics,First-time,Website,7909.47,Delivered,2,5694.82,2214.65
+EC01041,2025-10-17,West,Pune,Books,Repeat,Website,308.97,Delivered,8,222.46,86.51
+EC01042,2025-11-11,Central,Bhopal,Fashion,Repeat,Marketplace,1884.31,Delivered,3,1356.7,527.61
+EC01043,2025-06-18,East,Patna,Electronics,Repeat,iOS App,12811.67,Delivered,3,9224.4,3587.27
+EC01044,2025-02-20,East,Bhubaneswar,Fashion,First-time,iOS App,2609.47,Delivered,1,1878.82,730.65
+EC01045,2025-09-21,Central,Bhopal,Books,First-time,Website,395.25,Cancelled,10,284.58,110.67
+EC01046,2025-04-09,South,Chennai,Home & Kitchen,Repeat,Android App,4528.16,Delivered,7,3260.28,1267.88
+EC01047,2025-08-23,North,Chandigarh,Beauty,Repeat,Website,1462.97,Cancelled,10,1053.34,409.63
+EC01048,2025-11-29,South,Bengaluru,Fashion,First-time,Marketplace,2626.73,Returned,4,1891.25,735.48
+EC01049,2025-11-06,East,Bhubaneswar,Fashion,First-time,Android App,2510.24,Delivered,6,1807.37,702.87
+EC01050,2025-12-01,West,Ahmedabad,Electronics,Repeat,Android App,16955.93,Delivered,6,12208.27,4747.66
+EC01051,2025-05-24,East,Kolkata,Home & Kitchen,Repeat,Marketplace,4900.64,Delivered,1,3528.46,1372.18
+EC01052,2025-12-24,West,Mumbai,Fashion,Repeat,Marketplace,2870.57,Delivered,2,2066.81,803.76
+EC01053,2025-03-16,South,Bengaluru,Fashion,Repeat,Android App,1206.38,Delivered,2,868.59,337.79
+EC01054,2025-07-27,South,Chennai,Electronics,First-time,iOS App,16283.08,Delivered,6,11723.82,4559.26
+EC01055,2025-01-08,North,Delhi,Beauty,First-time,Android App,1084.0,Delivered,8,780.48,303.52
+EC01056,2025-03-11,North,Chandigarh,Electronics,First-time,iOS App,13345.38,Delivered,8,9608.67,3736.71
+EC01057,2025-04-19,South,Chennai,Fashion,Premium,Android App,2635.55,Delivered,1,1897.6,737.95
+EC01058,2025-10-07,Central,Indore,Home & Kitchen,First-time,Android App,1885.38,Delivered,4,1357.47,527.91
+EC01059,2025-10-19,West,Ahmedabad,Fashion,Premium,Website,2143.12,Delivered,1,1543.05,600.07
+EC01060,2025-09-30,East,Kolkata,Home & Kitchen,Repeat,Android App,4412.54,Returned,1,3177.03,1235.51
+EC01061,2025-02-23,West,Mumbai,Beauty,Repeat,iOS App,634.67,Delivered,2,456.96,177.71
+EC01062,2025-09-12,East,Patna,Fashion,Repeat,Android App,1023.24,Delivered,8,736.73,286.51
+EC01063,2025-04-12,West,Ahmedabad,Fashion,Repeat,Website,2629.64,Cancelled,6,1893.34,736.3
+EC01064,2025-05-28,West,Pune,Books,First-time,Marketplace,645.7,Delivered,4,464.9,180.8
+EC01065,2025-04-17,South,Bengaluru,Electronics,First-time,Website,20550.57,Delivered,3,14796.41,5754.16
+EC01066,2025-01-08,East,Kolkata,Electronics,Repeat,Website,17743.4,Delivered,3,12775.25,4968.15
+EC01067,2025-03-19,North,Jaipur,Electronics,Repeat,Marketplace,19138.69,Delivered,7,13779.86,5358.83
+EC01068,2025-06-28,North,Jaipur,Electronics,Repeat,Website,19522.82,Delivered,3,14056.43,5466.39
+EC01069,2025-02-05,North,Delhi,Beauty,First-time,Android App,1346.53,Returned,7,969.5,377.03
+EC01070,2025-04-13,South,Bengaluru,Beauty,Premium,Website,993.59,Delivered,6,715.38,278.21
+EC01071,2025-01-02,Central,Nagpur,Home & Kitchen,Repeat,iOS App,1990.64,Delivered,4,1433.26,557.38
+EC01072,2025-04-14,East,Bhubaneswar,Electronics,First-time,Marketplace,17607.55,Delivered,7,12677.44,4930.11
+EC01073,2025-04-09,South,Bengaluru,Books,First-time,Marketplace,502.38,Delivered,5,361.71,140.67
+EC01074,2025-05-20,East,Kolkata,Books,First-time,Marketplace,365.0,Delivered,1,262.8,102.2
+EC01075,2025-12-03,South,Hyderabad,Fashion,Repeat,Website,2721.4,Delivered,6,1959.41,761.99
+EC01076,2025-07-13,North,Jaipur,Home & Kitchen,Premium,Marketplace,3068.48,Delivered,1,2209.31,859.17
+EC01077,2025-02-14,Central,Bhopal,Fashion,Repeat,Android App,2961.64,Delivered,7,2132.38,829.26
+EC01078,2025-07-20,North,Delhi,Books,Repeat,iOS App,686.53,Delivered,8,494.3,192.23
+EC01079,2025-01-21,West,Pune,Home & Kitchen,First-time,Website,4337.09,Delivered,6,3122.7,1214.39
+EC01080,2025-09-10,East,Bhubaneswar,Electronics,First-time,Android App,11813.95,Delivered,6,8506.04,3307.91
+EC01081,2025-09-29,Central,Indore,Fashion,Repeat,Android App,2650.51,Delivered,7,1908.37,742.14
+EC01082,2025-07-21,North,Delhi,Electronics,Premium,Website,8750.46,Delivered,5,6300.33,2450.13
+EC01083,2025-07-07,Central,Nagpur,Electronics,First-time,Marketplace,14705.88,Delivered,3,10588.23,4117.65
+EC01084,2025-05-24,North,Chandigarh,Beauty,First-time,iOS App,646.44,Delivered,8,465.44,181.0
+EC01085,2025-11-12,South,Bengaluru,Fashion,Repeat,iOS App,2525.91,Delivered,8,1818.66,707.25
+EC01086,2025-07-05,Central,Bhopal,Fashion,Repeat,Android App,2618.41,Delivered,8,1885.26,733.15
+EC01087,2025-06-08,West,Pune,Electronics,First-time,Website,16686.86,Delivered,7,12014.54,4672.32
+EC01088,2025-05-27,North,Chandigarh,Books,Repeat,Website,836.77,Delivered,5,602.47,234.3
+EC01089,2025-09-30,West,Mumbai,Fashion,Repeat,Android App,1603.35,Delivered,5,1154.41,448.94
+EC01090,2025-03-26,South,Hyderabad,Fashion,Repeat,Marketplace,1619.99,Delivered,5,1166.39,453.6
+EC01091,2025-02-20,North,Delhi,Beauty,Repeat,Marketplace,1479.48,Delivered,3,1065.23,414.25
+EC01092,2025-09-11,Central,Indore,Electronics,First-time,Android App,16173.88,Delivered,4,11645.19,4528.69
+EC01093,2025-04-27,South,Hyderabad,Home & Kitchen,Repeat,Android App,1772.85,Delivered,1,1276.45,496.4
+EC01094,2025-10-12,South,Bengaluru,Fashion,Repeat,Android App,2281.52,Delivered,6,1642.69,638.83
+EC01095,2025-08-15,East,Patna,Electronics,First-time,Website,7664.18,Cancelled,5,5518.21,2145.97
+EC01096,2025-11-14,North,Chandigarh,Books,First-time,Android App,712.78,Delivered,2,513.2,199.58
+EC01097,2025-12-27,West,Pune,Fashion,Premium,Website,1010.47,Cancelled,1,727.54,282.93
+EC01098,2025-05-01,South,Bengaluru,Fashion,First-time,Website,1768.73,Delivered,6,1273.49,495.24
+EC01099,2025-02-02,Central,Nagpur,Books,First-time,Marketplace,825.79,Cancelled,1,594.57,231.22
+EC01100,2025-10-20,North,Delhi,Fashion,Premium,Android App,2753.13,Delivered,1,1982.25,770.88

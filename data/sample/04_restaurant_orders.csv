@@ -1,0 +1,1201 @@
+Order_ID,Order_Date,Branch,City,Cuisine,Order_Type,Items_Ordered,Revenue,Food_Cost,Gross_Profit,Order_Status,Preparation_Time_Min,Customer_Rating
+RST00001,2025-11-17,Madhapur,Hyderabad,North Indian,Delivery,1,364.53,116.65,247.88,Completed,19,4.1
+RST00002,2025-03-09,Gachibowli,Hyderabad,Biryani,Delivery,4,2274.34,727.79,1546.55,Completed,12,5.0
+RST00003,2025-08-03,Banjara Hills,Hyderabad,Chinese,Delivery,3,1529.78,489.53,1040.25,Completed,10,3.9
+RST00004,2025-11-09,Madhapur,Hyderabad,Chinese,Takeaway,3,1109.75,355.12,754.63,Completed,39,4.2
+RST00005,2025-08-22,Kukatpally,Hyderabad,Biryani,Delivery,3,1637.13,523.88,1113.25,Completed,11,3.2
+RST00006,2025-05-30,Banjara Hills,Hyderabad,Fast Food,Delivery,3,890.02,284.81,605.21,Completed,37,3.6
+RST00007,2025-05-20,Kukatpally,Hyderabad,Fast Food,Delivery,3,893.3,285.86,607.44,Completed,21,3.2
+RST00008,2025-01-02,Gachibowli,Hyderabad,North Indian,Dine-in,3,1321.08,422.75,898.33,Completed,13,3.7
+RST00009,2025-03-02,Banjara Hills,Hyderabad,Biryani,Dine-in,3,1392.87,445.72,947.15,Completed,41,4.5
+RST00010,2025-11-17,Banjara Hills,Hyderabad,Chinese,Dine-in,3,1092.23,349.51,742.72,Completed,29,4.1
+RST00011,2025-01-11,Gachibowli,Hyderabad,Chinese,Delivery,1,411.05,131.54,279.51,Completed,33,4.2
+RST00012,2025-10-07,Gachibowli,Hyderabad,North Indian,Dine-in,4,1856.81,594.18,1262.63,Completed,45,3.4
+RST00013,2025-10-03,Madhapur,Hyderabad,Biryani,Dine-in,3,1566.76,501.36,1065.4,Completed,38,4.4
+RST00014,2025-06-23,Madhapur,Hyderabad,Biryani,Delivery,3,1039.56,332.66,706.9,Completed,10,3.5
+RST00015,2025-07-07,Secunderabad,Hyderabad,North Indian,Takeaway,1,463.89,148.44,315.45,Completed,44,3.6
+RST00016,2025-04-17,Madhapur,Hyderabad,Biryani,Takeaway,1,351.36,112.44,238.92,Completed,21,4.6
+RST00017,2025-05-22,Gachibowli,Hyderabad,Fast Food,Takeaway,3,701.69,224.54,477.15,Completed,22,4.2
+RST00018,2025-03-23,Gachibowli,Hyderabad,Biryani,Delivery,4,2156.57,690.1,1466.47,Completed,30,4.1
+RST00019,2025-05-05,Madhapur,Hyderabad,South Indian,Delivery,2,423.4,135.49,287.91,Completed,11,4.5
+RST00020,2025-12-23,Gachibowli,Hyderabad,North Indian,Delivery,1,458.0,146.56,311.44,Completed,20,4.7
+RST00021,2025-11-14,Banjara Hills,Hyderabad,Biryani,Dine-in,2,1054.04,337.29,716.75,Completed,39,3.9
+RST00022,2025-01-28,Madhapur,Hyderabad,Chinese,Delivery,2,827.45,264.78,562.67,Completed,12,5.0
+RST00023,2025-06-21,Banjara Hills,Hyderabad,North Indian,Delivery,2,895.96,286.71,609.25,Completed,29,4.1
+RST00024,2025-02-13,Kukatpally,Hyderabad,South Indian,Takeaway,1,240.84,77.07,163.77,Completed,39,4.4
+RST00025,2025-07-17,Banjara Hills,Hyderabad,Chinese,Dine-in,2,753.75,241.2,512.55,Completed,18,4.5
+RST00026,2025-11-03,Kukatpally,Hyderabad,Fast Food,Dine-in,1,298.02,95.37,202.65,Completed,37,4.0
+RST00027,2025-04-20,Madhapur,Hyderabad,Biryani,Dine-in,4,1790.06,572.82,1217.24,Cancelled,39,2.6
+RST00028,2025-09-08,Secunderabad,Hyderabad,South Indian,Dine-in,4,1089.98,348.79,741.19,Completed,36,4.2
+RST00029,2025-06-10,Secunderabad,Hyderabad,Fast Food,Delivery,2,346.44,110.86,235.58,Cancelled,10,3.7
+RST00030,2025-08-17,Kukatpally,Hyderabad,South Indian,Delivery,4,1388.83,444.43,944.4,Completed,41,3.0
+RST00031,2025-03-27,Banjara Hills,Hyderabad,Fast Food,Delivery,3,894.79,286.33,608.46,Completed,22,5.0
+RST00032,2025-12-22,Banjara Hills,Hyderabad,Fast Food,Delivery,3,749.81,239.94,509.87,Completed,25,4.1
+RST00033,2025-03-26,Gachibowli,Hyderabad,Chinese,Dine-in,3,1131.24,362.0,769.24,Completed,11,4.5
+RST00034,2025-03-11,Banjara Hills,Hyderabad,Biryani,Dine-in,2,820.63,262.6,558.03,Completed,21,3.5
+RST00035,2025-01-26,Secunderabad,Hyderabad,South Indian,Dine-in,3,1072.26,343.12,729.14,Completed,12,3.3
+RST00036,2025-12-23,Kukatpally,Hyderabad,North Indian,Dine-in,3,1386.0,443.52,942.48,Completed,29,3.7
+RST00037,2025-09-15,Gachibowli,Hyderabad,North Indian,Delivery,3,1469.2,470.14,999.06,Completed,36,3.7
+RST00038,2025-04-21,Banjara Hills,Hyderabad,Biryani,Delivery,2,951.21,304.39,646.82,Completed,21,4.0
+RST00039,2025-10-02,Secunderabad,Hyderabad,Chinese,Dine-in,4,1139.62,364.68,774.94,Completed,28,4.3
+RST00040,2025-02-19,Secunderabad,Hyderabad,Biryani,Takeaway,3,1131.94,362.22,769.72,Completed,10,4.0
+RST00041,2025-11-24,Gachibowli,Hyderabad,Biryani,Delivery,2,716.24,229.2,487.04,Completed,14,4.4
+RST00042,2025-04-10,Banjara Hills,Hyderabad,South Indian,Delivery,4,1200.82,384.26,816.56,Completed,33,3.9
+RST00043,2025-12-02,Secunderabad,Hyderabad,Biryani,Dine-in,1,401.96,128.63,273.33,Completed,22,4.4
+RST00044,2025-12-03,Banjara Hills,Hyderabad,Fast Food,Delivery,2,541.21,173.19,368.02,Cancelled,12,2.6
+RST00045,2025-07-16,Banjara Hills,Hyderabad,Chinese,Takeaway,4,1584.53,507.05,1077.48,Completed,14,3.3
+RST00046,2025-08-01,Secunderabad,Hyderabad,South Indian,Dine-in,1,389.64,124.68,264.96,Completed,16,4.2
+RST00047,2025-12-27,Kukatpally,Hyderabad,North Indian,Dine-in,2,941.14,301.16,639.98,Completed,29,4.5
+RST00048,2025-07-29,Secunderabad,Hyderabad,Biryani,Delivery,2,660.88,211.48,449.4,Completed,27,4.1
+RST00049,2025-01-13,Banjara Hills,Hyderabad,Biryani,Dine-in,2,778.12,249.0,529.12,Completed,14,4.4
+RST00050,2025-04-11,Gachibowli,Hyderabad,Biryani,Delivery,2,910.78,291.45,619.33,Completed,35,4.6
+RST00051,2025-09-09,Banjara Hills,Hyderabad,Biryani,Dine-in,2,824.9,263.97,560.93,Completed,21,4.8
+RST00052,2025-06-12,Kukatpally,Hyderabad,Biryani,Dine-in,4,1460.05,467.22,992.83,Cancelled,42,2.3
+RST00053,2025-10-02,Banjara Hills,Hyderabad,South Indian,Dine-in,2,629.1,201.31,427.79,Completed,40,3.5
+RST00054,2025-11-16,Banjara Hills,Hyderabad,Chinese,Dine-in,4,2101.4,672.45,1428.95,Completed,19,3.6
+RST00055,2025-04-17,Gachibowli,Hyderabad,South Indian,Delivery,4,1068.33,341.87,726.46,Cancelled,43,2.5
+RST00056,2025-10-17,Gachibowli,Hyderabad,Fast Food,Takeaway,3,784.62,251.08,533.54,Completed,10,3.8
+RST00057,2025-04-14,Madhapur,Hyderabad,North Indian,Delivery,2,838.22,268.23,569.99,Completed,32,4.2
+RST00058,2025-01-05,Banjara Hills,Hyderabad,South Indian,Takeaway,3,843.53,269.93,573.6,Completed,33,3.6
+RST00059,2025-09-06,Kukatpally,Hyderabad,Biryani,Dine-in,4,1695.06,542.42,1152.64,Completed,43,4.5
+RST00060,2025-10-06,Kukatpally,Hyderabad,Biryani,Delivery,2,790.38,252.92,537.46,Completed,45,3.4
+RST00061,2025-02-09,Gachibowli,Hyderabad,South Indian,Delivery,1,254.5,81.44,173.06,Completed,15,3.8
+RST00062,2025-07-25,Madhapur,Hyderabad,South Indian,Dine-in,3,771.75,246.96,524.79,Completed,14,4.6
+RST00063,2025-04-23,Kukatpally,Hyderabad,North Indian,Dine-in,4,1589.6,508.67,1080.93,Completed,21,4.4
+RST00064,2025-03-02,Gachibowli,Hyderabad,Biryani,Delivery,2,961.81,307.78,654.03,Completed,36,3.7
+RST00065,2025-12-30,Gachibowli,Hyderabad,Chinese,Dine-in,4,1583.25,506.64,1076.61,Completed,25,4.1
+RST00066,2025-01-13,Gachibowli,Hyderabad,South Indian,Delivery,4,1054.81,337.54,717.27,Completed,40,4.3
+RST00067,2025-09-29,Madhapur,Hyderabad,North Indian,Dine-in,4,1957.66,626.45,1331.21,Completed,22,4.9
+RST00068,2025-11-11,Kukatpally,Hyderabad,South Indian,Delivery,3,916.44,293.26,623.18,Completed,33,5.0
+RST00069,2025-09-07,Gachibowli,Hyderabad,South Indian,Dine-in,1,321.2,102.78,218.42,Completed,33,4.9
+RST00070,2025-04-18,Kukatpally,Hyderabad,South Indian,Dine-in,1,328.35,105.07,223.28,Completed,19,4.1
+RST00071,2025-07-24,Madhapur,Hyderabad,Biryani,Delivery,4,1240.49,396.96,843.53,Completed,40,3.6
+RST00072,2025-01-04,Secunderabad,Hyderabad,North Indian,Takeaway,4,1853.45,593.1,1260.35,Completed,16,4.3
+RST00073,2025-05-25,Kukatpally,Hyderabad,South Indian,Dine-in,2,781.36,250.04,531.32,Completed,34,3.2
+RST00074,2025-04-25,Gachibowli,Hyderabad,North Indian,Delivery,4,2074.82,663.94,1410.88,Completed,39,3.4
+RST00075,2025-08-07,Gachibowli,Hyderabad,Biryani,Dine-in,1,366.43,117.26,249.17,Completed,29,3.7
+RST00076,2025-03-04,Gachibowli,Hyderabad,Biryani,Delivery,4,1566.24,501.2,1065.04,Completed,12,4.7
+RST00077,2025-06-24,Gachibowli,Hyderabad,Biryani,Dine-in,1,334.04,106.89,227.15,Completed,10,3.8
+RST00078,2025-05-28,Madhapur,Hyderabad,South Indian,Delivery,1,324.94,103.98,220.96,Completed,33,3.9
+RST00079,2025-10-23,Kukatpally,Hyderabad,Chinese,Delivery,1,427.64,136.84,290.8,Completed,29,4.3
+RST00080,2025-05-20,Madhapur,Hyderabad,South Indian,Delivery,2,574.62,183.88,390.74,Completed,33,4.0
+RST00081,2025-02-15,Secunderabad,Hyderabad,Biryani,Dine-in,4,2338.53,748.33,1590.2,Completed,33,4.6
+RST00082,2025-03-22,Banjara Hills,Hyderabad,North Indian,Delivery,4,2264.76,724.72,1540.04,Completed,13,4.7
+RST00083,2025-11-16,Madhapur,Hyderabad,North Indian,Dine-in,1,436.99,139.84,297.15,Completed,32,4.0
+RST00084,2025-06-15,Kukatpally,Hyderabad,Chinese,Dine-in,4,1949.7,623.9,1325.8,Completed,43,4.0
+RST00085,2025-07-04,Secunderabad,Hyderabad,Chinese,Delivery,2,796.98,255.03,541.95,Completed,16,4.4
+RST00086,2025-03-28,Madhapur,Hyderabad,Biryani,Takeaway,2,1094.82,350.34,744.48,Completed,18,3.9
+RST00087,2025-11-07,Gachibowli,Hyderabad,Biryani,Dine-in,2,1111.2,355.58,755.62,Completed,25,3.7
+RST00088,2025-09-13,Madhapur,Hyderabad,Chinese,Dine-in,1,475.65,152.21,323.44,Completed,38,4.7
+RST00089,2025-06-05,Banjara Hills,Hyderabad,Biryani,Dine-in,2,816.38,261.24,555.14,Cancelled,10,2.7
+RST00090,2025-05-30,Kukatpally,Hyderabad,Chinese,Dine-in,1,455.23,145.67,309.56,Completed,16,4.4
+RST00091,2025-04-11,Kukatpally,Hyderabad,Chinese,Dine-in,3,1315.33,420.91,894.42,Completed,21,4.1
+RST00092,2025-05-16,Kukatpally,Hyderabad,North Indian,Takeaway,1,592.1,189.47,402.63,Completed,27,4.0
+RST00093,2025-11-24,Secunderabad,Hyderabad,Chinese,Takeaway,3,1064.52,340.65,723.87,Completed,33,5.0
+RST00094,2025-12-23,Secunderabad,Hyderabad,Chinese,Delivery,4,1213.93,388.46,825.47,Completed,38,4.6
+RST00095,2025-06-18,Secunderabad,Hyderabad,Biryani,Delivery,2,650.21,208.07,442.14,Completed,32,4.9
+RST00096,2025-11-08,Gachibowli,Hyderabad,Biryani,Delivery,1,399.58,127.87,271.71,Completed,40,4.8
+RST00097,2025-02-23,Secunderabad,Hyderabad,South Indian,Takeaway,1,271.91,87.01,184.9,Completed,19,4.8
+RST00098,2025-09-19,Banjara Hills,Hyderabad,Chinese,Dine-in,4,1386.63,443.72,942.91,Completed,26,4.1
+RST00099,2025-03-24,Kukatpally,Hyderabad,South Indian,Takeaway,4,1170.76,374.64,796.12,Completed,30,3.9
+RST00100,2025-05-14,Madhapur,Hyderabad,North Indian,Dine-in,1,423.41,135.49,287.92,Completed,29,3.1
+RST00101,2025-07-16,Banjara Hills,Hyderabad,South Indian,Delivery,3,666.22,213.19,453.03,Completed,21,3.9
+RST00102,2025-06-13,Secunderabad,Hyderabad,Chinese,Delivery,1,371.95,119.02,252.93,Cancelled,10,2.6
+RST00103,2025-10-07,Secunderabad,Hyderabad,Biryani,Dine-in,2,801.55,256.5,545.05,Completed,37,4.3
+RST00104,2025-10-21,Secunderabad,Hyderabad,North Indian,Delivery,4,1819.08,582.11,1236.97,Completed,30,4.5
+RST00105,2025-10-09,Madhapur,Hyderabad,South Indian,Dine-in,1,220.0,70.4,149.6,Completed,20,3.2
+RST00106,2025-05-15,Kukatpally,Hyderabad,North Indian,Delivery,4,1965.75,629.04,1336.71,Completed,29,3.6
+RST00107,2025-05-01,Gachibowli,Hyderabad,Biryani,Dine-in,4,1596.35,510.83,1085.52,Completed,26,4.0
+RST00108,2025-07-17,Madhapur,Hyderabad,Biryani,Delivery,1,382.21,122.31,259.9,Completed,20,4.2
+RST00109,2025-05-30,Kukatpally,Hyderabad,Fast Food,Takeaway,3,845.89,270.68,575.21,Completed,18,4.1
+RST00110,2025-11-12,Secunderabad,Hyderabad,Fast Food,Takeaway,3,883.77,282.81,600.96,Completed,22,4.7
+RST00111,2025-03-25,Gachibowli,Hyderabad,Biryani,Takeaway,3,1338.12,428.2,909.92,Completed,37,4.2
+RST00112,2025-10-18,Kukatpally,Hyderabad,Biryani,Takeaway,4,2253.32,721.06,1532.26,Completed,40,5.0
+RST00113,2025-09-09,Kukatpally,Hyderabad,Biryani,Dine-in,2,935.46,299.35,636.11,Completed,20,4.0
+RST00114,2025-11-30,Secunderabad,Hyderabad,South Indian,Delivery,2,520.62,166.6,354.02,Completed,30,4.2
+RST00115,2025-11-03,Madhapur,Hyderabad,Chinese,Delivery,2,669.69,214.3,455.39,Completed,33,3.7
+RST00116,2025-08-17,Gachibowli,Hyderabad,North Indian,Delivery,4,2555.74,817.84,1737.9,Completed,14,4.4
+RST00117,2025-02-04,Secunderabad,Hyderabad,South Indian,Dine-in,3,908.19,290.62,617.57,Completed,34,2.9
+RST00118,2025-03-29,Madhapur,Hyderabad,Biryani,Takeaway,4,2261.11,723.56,1537.55,Completed,42,3.8
+RST00119,2025-03-16,Banjara Hills,Hyderabad,Chinese,Dine-in,3,1332.0,426.24,905.76,Completed,40,4.0
+RST00120,2025-07-12,Madhapur,Hyderabad,South Indian,Delivery,3,897.4,287.17,610.23,Completed,15,4.1
+RST00121,2025-06-19,Banjara Hills,Hyderabad,Biryani,Dine-in,4,1422.98,455.35,967.63,Completed,44,3.7
+RST00122,2025-07-03,Secunderabad,Hyderabad,Biryani,Delivery,3,1216.13,389.16,826.97,Completed,24,4.7
+RST00123,2025-08-10,Madhapur,Hyderabad,North Indian,Dine-in,4,2273.85,727.63,1546.22,Completed,36,4.1
+RST00124,2025-01-16,Gachibowli,Hyderabad,South Indian,Delivery,2,638.31,204.26,434.05,Completed,14,3.7
+RST00125,2025-09-13,Kukatpally,Hyderabad,Chinese,Delivery,2,849.42,271.81,577.61,Completed,30,4.0
+RST00126,2025-11-24,Kukatpally,Hyderabad,Chinese,Delivery,3,1224.12,391.72,832.4,Completed,11,3.0
+RST00127,2025-11-09,Madhapur,Hyderabad,Fast Food,Dine-in,3,779.91,249.57,530.34,Cancelled,41,2.4
+RST00128,2025-09-25,Madhapur,Hyderabad,Biryani,Delivery,3,956.57,306.1,650.47,Completed,41,4.3
+RST00129,2025-02-15,Kukatpally,Hyderabad,North Indian,Delivery,4,1955.98,625.91,1330.07,Completed,21,3.3
+RST00130,2025-01-05,Banjara Hills,Hyderabad,Biryani,Delivery,4,1725.82,552.26,1173.56,Completed,45,4.1
+RST00131,2025-07-12,Madhapur,Hyderabad,North Indian,Takeaway,2,1148.27,367.45,780.82,Completed,21,4.6
+RST00132,2025-06-19,Secunderabad,Hyderabad,Fast Food,Takeaway,3,631.19,201.98,429.21,Completed,17,4.5
+RST00133,2025-11-22,Secunderabad,Hyderabad,Biryani,Delivery,1,431.85,138.19,293.66,Completed,19,4.6
+RST00134,2025-03-26,Secunderabad,Hyderabad,Fast Food,Dine-in,1,216.02,69.13,146.89,Completed,20,4.3
+RST00135,2025-06-23,Madhapur,Hyderabad,North Indian,Delivery,1,408.71,130.79,277.92,Completed,25,3.8
+RST00136,2025-12-02,Banjara Hills,Hyderabad,South Indian,Dine-in,2,459.74,147.12,312.62,Completed,39,4.0
+RST00137,2025-03-28,Banjara Hills,Hyderabad,Fast Food,Takeaway,1,352.4,112.77,239.63,Completed,16,3.5
+RST00138,2025-06-19,Banjara Hills,Hyderabad,North Indian,Delivery,3,1249.44,399.82,849.62,Completed,26,3.8
+RST00139,2025-06-06,Banjara Hills,Hyderabad,South Indian,Delivery,2,604.68,193.5,411.18,Completed,17,4.5
+RST00140,2025-03-26,Secunderabad,Hyderabad,South Indian,Dine-in,4,1038.82,332.42,706.4,Completed,10,4.7
+RST00141,2025-10-15,Kukatpally,Hyderabad,Biryani,Takeaway,4,1865.72,597.03,1268.69,Completed,45,5.0
+RST00142,2025-02-15,Secunderabad,Hyderabad,North Indian,Dine-in,1,614.77,196.73,418.04,Completed,20,4.2
+RST00143,2025-11-17,Secunderabad,Hyderabad,North Indian,Dine-in,1,519.38,166.2,353.18,Completed,38,4.8
+RST00144,2025-09-04,Gachibowli,Hyderabad,South Indian,Takeaway,4,1233.22,394.63,838.59,Completed,16,4.1
+RST00145,2025-02-04,Kukatpally,Hyderabad,North Indian,Dine-in,2,1047.45,335.18,712.27,Completed,21,4.5
+RST00146,2025-07-13,Kukatpally,Hyderabad,Fast Food,Delivery,4,1192.98,381.75,811.23,Completed,41,4.3
+RST00147,2025-08-04,Kukatpally,Hyderabad,North Indian,Takeaway,2,963.44,308.3,655.14,Completed,12,4.4
+RST00148,2025-08-04,Secunderabad,Hyderabad,Fast Food,Delivery,3,831.65,266.13,565.52,Completed,15,4.4
+RST00149,2025-12-12,Banjara Hills,Hyderabad,Biryani,Delivery,1,543.58,173.95,369.63,Completed,20,4.7
+RST00150,2025-06-07,Kukatpally,Hyderabad,Fast Food,Dine-in,3,981.77,314.17,667.6,Completed,43,4.1
+RST00151,2025-01-30,Kukatpally,Hyderabad,Biryani,Delivery,1,406.89,130.2,276.69,Completed,13,4.8
+RST00152,2025-01-23,Kukatpally,Hyderabad,Biryani,Dine-in,1,431.66,138.13,293.53,Cancelled,37,2.7
+RST00153,2025-05-13,Secunderabad,Hyderabad,Biryani,Dine-in,1,402.53,128.81,273.72,Completed,38,3.6
+RST00154,2025-03-24,Banjara Hills,Hyderabad,South Indian,Delivery,4,1215.11,388.84,826.27,Cancelled,14,3.0
+RST00155,2025-04-17,Banjara Hills,Hyderabad,North Indian,Dine-in,1,418.67,133.97,284.7,Cancelled,31,3.1
+RST00156,2025-06-02,Banjara Hills,Hyderabad,North Indian,Delivery,3,1212.46,387.99,824.47,Completed,37,3.5
+RST00157,2025-07-27,Secunderabad,Hyderabad,South Indian,Takeaway,2,507.53,162.41,345.12,Completed,39,4.3
+RST00158,2025-03-11,Madhapur,Hyderabad,Biryani,Dine-in,2,671.34,214.83,456.51,Completed,43,4.3
+RST00159,2025-04-23,Gachibowli,Hyderabad,South Indian,Delivery,1,314.84,100.75,214.09,Completed,18,3.2
+RST00160,2025-08-20,Secunderabad,Hyderabad,Fast Food,Delivery,4,842.29,269.53,572.76,Completed,24,5.0
+RST00161,2025-05-26,Madhapur,Hyderabad,Fast Food,Takeaway,4,878.26,281.04,597.22,Completed,20,3.6
+RST00162,2025-03-26,Kukatpally,Hyderabad,South Indian,Dine-in,3,666.0,213.12,452.88,Completed,35,4.4
+RST00163,2025-11-23,Kukatpally,Hyderabad,Chinese,Delivery,3,1276.47,408.47,868.0,Completed,11,3.7
+RST00164,2025-08-13,Banjara Hills,Hyderabad,Chinese,Dine-in,4,1286.61,411.72,874.89,Completed,30,4.4
+RST00165,2025-05-30,Banjara Hills,Hyderabad,Fast Food,Delivery,3,704.24,225.36,478.88,Completed,21,4.5
+RST00166,2025-01-09,Banjara Hills,Hyderabad,Chinese,Dine-in,2,765.81,245.06,520.75,Completed,14,4.2
+RST00167,2025-01-17,Banjara Hills,Hyderabad,Fast Food,Dine-in,2,495.76,158.64,337.12,Completed,24,5.0
+RST00168,2025-03-27,Madhapur,Hyderabad,North Indian,Delivery,3,1349.31,431.78,917.53,Completed,41,3.9
+RST00169,2025-05-07,Banjara Hills,Hyderabad,Biryani,Delivery,1,317.47,101.59,215.88,Completed,34,3.7
+RST00170,2025-01-30,Madhapur,Hyderabad,Fast Food,Dine-in,2,468.85,150.03,318.82,Completed,14,3.8
+RST00171,2025-11-22,Secunderabad,Hyderabad,Chinese,Takeaway,4,2116.25,677.2,1439.05,Completed,17,4.7
+RST00172,2025-06-06,Kukatpally,Hyderabad,North Indian,Delivery,1,367.29,117.53,249.76,Completed,27,4.5
+RST00173,2025-06-19,Secunderabad,Hyderabad,Biryani,Delivery,4,1450.45,464.14,986.31,Completed,40,4.1
+RST00174,2025-09-09,Secunderabad,Hyderabad,Biryani,Takeaway,3,1291.58,413.31,878.27,Completed,38,4.0
+RST00175,2025-01-29,Gachibowli,Hyderabad,Chinese,Delivery,3,995.73,318.63,677.1,Completed,37,4.0
+RST00176,2025-02-11,Gachibowli,Hyderabad,Biryani,Delivery,2,711.05,227.54,483.51,Completed,20,3.9
+RST00177,2025-02-23,Gachibowli,Hyderabad,Biryani,Dine-in,2,870.07,278.42,591.65,Completed,12,4.4
+RST00178,2025-08-18,Madhapur,Hyderabad,South Indian,Delivery,4,1223.03,391.37,831.66,Completed,20,3.7
+RST00179,2025-08-05,Banjara Hills,Hyderabad,South Indian,Delivery,3,662.14,211.88,450.26,Completed,38,5.0
+RST00180,2025-07-30,Gachibowli,Hyderabad,Fast Food,Dine-in,4,1180.14,377.64,802.5,Completed,10,4.4
+RST00181,2025-09-14,Kukatpally,Hyderabad,Fast Food,Takeaway,3,821.4,262.85,558.55,Completed,30,4.5
+RST00182,2025-08-01,Gachibowli,Hyderabad,South Indian,Delivery,3,1178.51,377.12,801.39,Completed,12,4.8
+RST00183,2025-02-17,Banjara Hills,Hyderabad,South Indian,Delivery,3,862.47,275.99,586.48,Completed,30,3.2
+RST00184,2025-02-26,Secunderabad,Hyderabad,North Indian,Takeaway,1,479.56,153.46,326.1,Completed,39,4.5
+RST00185,2025-06-25,Madhapur,Hyderabad,Chinese,Delivery,4,1390.11,444.84,945.27,Completed,19,4.2
+RST00186,2025-08-29,Kukatpally,Hyderabad,Biryani,Delivery,4,2225.51,712.16,1513.35,Completed,28,5.0
+RST00187,2025-08-10,Kukatpally,Hyderabad,Biryani,Takeaway,2,836.98,267.83,569.15,Completed,24,3.7
+RST00188,2025-10-31,Kukatpally,Hyderabad,Fast Food,Delivery,4,1060.24,339.28,720.96,Completed,32,4.1
+RST00189,2025-03-15,Gachibowli,Hyderabad,Biryani,Dine-in,1,414.41,132.61,281.8,Completed,19,4.0
+RST00190,2025-03-10,Madhapur,Hyderabad,Biryani,Delivery,1,405.26,129.68,275.58,Completed,44,4.0
+RST00191,2025-03-26,Secunderabad,Hyderabad,South Indian,Delivery,2,588.76,188.4,400.36,Completed,33,3.8
+RST00192,2025-07-12,Gachibowli,Hyderabad,North Indian,Dine-in,2,895.0,286.4,608.6,Completed,36,3.0
+RST00193,2025-10-11,Kukatpally,Hyderabad,Biryani,Delivery,1,473.04,151.37,321.67,Completed,14,4.7
+RST00194,2025-04-29,Secunderabad,Hyderabad,Biryani,Delivery,4,1715.91,549.09,1166.82,Completed,33,4.2
+RST00195,2025-05-15,Secunderabad,Hyderabad,Fast Food,Delivery,2,427.27,136.73,290.54,Completed,36,5.0
+RST00196,2025-10-10,Banjara Hills,Hyderabad,Chinese,Delivery,2,856.98,274.23,582.75,Completed,12,3.4
+RST00197,2025-12-29,Madhapur,Hyderabad,Biryani,Delivery,3,1132.0,362.24,769.76,Completed,21,5.0
+RST00198,2025-05-25,Secunderabad,Hyderabad,Biryani,Delivery,2,896.81,286.98,609.83,Completed,31,3.8
+RST00199,2025-05-31,Secunderabad,Hyderabad,North Indian,Dine-in,3,1252.65,400.85,851.8,Completed,10,3.8
+RST00200,2025-10-17,Gachibowli,Hyderabad,North Indian,Delivery,4,2449.43,783.82,1665.61,Completed,14,3.4
+RST00201,2025-04-17,Gachibowli,Hyderabad,South Indian,Dine-in,3,875.29,280.09,595.2,Completed,45,4.5
+RST00202,2025-03-16,Madhapur,Hyderabad,Chinese,Delivery,4,1610.98,515.51,1095.47,Completed,35,3.4
+RST00203,2025-09-28,Banjara Hills,Hyderabad,North Indian,Delivery,3,1258.58,402.75,855.83,Completed,42,3.2
+RST00204,2025-09-13,Kukatpally,Hyderabad,Fast Food,Dine-in,3,892.95,285.74,607.21,Completed,38,3.2
+RST00205,2025-05-06,Secunderabad,Hyderabad,North Indian,Dine-in,2,982.67,314.45,668.22,Completed,14,4.4
+RST00206,2025-06-16,Banjara Hills,Hyderabad,South Indian,Delivery,3,663.08,212.19,450.89,Completed,29,3.7
+RST00207,2025-04-15,Kukatpally,Hyderabad,Biryani,Dine-in,1,456.51,146.08,310.43,Completed,19,5.0
+RST00208,2025-04-25,Banjara Hills,Hyderabad,Biryani,Dine-in,3,1315.64,421.0,894.64,Completed,18,5.0
+RST00209,2025-01-03,Secunderabad,Hyderabad,North Indian,Delivery,3,1741.26,557.2,1184.06,Completed,15,3.9
+RST00210,2025-12-22,Banjara Hills,Hyderabad,South Indian,Dine-in,1,268.8,86.02,182.78,Completed,17,3.8
+RST00211,2025-12-06,Gachibowli,Hyderabad,Fast Food,Takeaway,2,615.13,196.84,418.29,Cancelled,45,2.8
+RST00212,2025-05-07,Kukatpally,Hyderabad,Chinese,Dine-in,4,1421.35,454.83,966.52,Completed,39,4.6
+RST00213,2025-03-09,Secunderabad,Hyderabad,Chinese,Dine-in,1,354.31,113.38,240.93,Completed,15,4.0
+RST00214,2025-02-05,Gachibowli,Hyderabad,Fast Food,Delivery,2,489.03,156.49,332.54,Completed,12,4.1
+RST00215,2025-01-09,Banjara Hills,Hyderabad,South Indian,Dine-in,3,682.64,218.44,464.2,Completed,12,4.2
+RST00216,2025-01-03,Banjara Hills,Hyderabad,Biryani,Delivery,3,1241.23,397.19,844.04,Completed,10,3.8
+RST00217,2025-10-31,Madhapur,Hyderabad,Chinese,Dine-in,4,1907.18,610.3,1296.88,Completed,35,4.1
+RST00218,2025-11-25,Kukatpally,Hyderabad,Chinese,Delivery,2,625.21,200.07,425.14,Completed,28,3.3
+RST00219,2025-02-14,Madhapur,Hyderabad,Fast Food,Dine-in,4,1153.55,369.14,784.41,Completed,15,3.6
+RST00220,2025-04-09,Kukatpally,Hyderabad,Chinese,Delivery,2,833.66,266.77,566.89,Completed,20,3.7
+RST00221,2025-06-08,Kukatpally,Hyderabad,Chinese,Dine-in,3,1377.76,440.88,936.88,Completed,33,4.3
+RST00222,2025-02-05,Banjara Hills,Hyderabad,South Indian,Dine-in,1,236.61,75.72,160.89,Completed,28,4.9
+RST00223,2025-06-27,Gachibowli,Hyderabad,North Indian,Delivery,3,1075.14,344.04,731.1,Completed,26,4.6
+RST00224,2025-07-28,Kukatpally,Hyderabad,Chinese,Dine-in,1,327.06,104.66,222.4,Completed,16,4.3
+RST00225,2025-07-24,Banjara Hills,Hyderabad,Biryani,Takeaway,3,1217.72,389.67,828.05,Cancelled,39,2.0
+RST00226,2025-09-28,Gachibowli,Hyderabad,North Indian,Delivery,2,1260.5,403.36,857.14,Completed,37,4.2
+RST00227,2025-11-13,Madhapur,Hyderabad,Biryani,Takeaway,1,315.7,101.02,214.68,Completed,18,4.6
+RST00228,2025-05-01,Gachibowli,Hyderabad,Chinese,Dine-in,1,395.95,126.7,269.25,Completed,25,4.4
+RST00229,2025-12-24,Madhapur,Hyderabad,Biryani,Dine-in,4,1549.98,495.99,1053.99,Completed,35,3.8
+RST00230,2025-07-12,Gachibowli,Hyderabad,Chinese,Delivery,2,602.7,192.86,409.84,Completed,43,4.1
+RST00231,2025-03-13,Gachibowli,Hyderabad,Chinese,Delivery,3,876.27,280.41,595.86,Completed,34,4.1
+RST00232,2025-06-16,Kukatpally,Hyderabad,Biryani,Takeaway,3,977.56,312.82,664.74,Completed,35,4.1
+RST00233,2025-12-16,Madhapur,Hyderabad,South Indian,Delivery,3,919.69,294.3,625.39,Completed,10,5.0
+RST00234,2025-03-24,Secunderabad,Hyderabad,Fast Food,Delivery,2,448.53,143.53,305.0,Completed,29,4.9
+RST00235,2025-11-29,Secunderabad,Hyderabad,Fast Food,Takeaway,4,1263.49,404.32,859.17,Completed,15,3.9
+RST00236,2025-06-04,Gachibowli,Hyderabad,Chinese,Delivery,3,1062.76,340.08,722.68,Completed,20,3.6
+RST00237,2025-11-02,Gachibowli,Hyderabad,South Indian,Delivery,2,645.75,206.64,439.11,Completed,36,4.8
+RST00238,2025-10-24,Secunderabad,Hyderabad,Chinese,Delivery,4,2085.06,667.22,1417.84,Completed,19,4.3
+RST00239,2025-01-26,Gachibowli,Hyderabad,Biryani,Takeaway,4,2181.84,698.19,1483.65,Completed,38,4.1
+RST00240,2025-09-15,Secunderabad,Hyderabad,Fast Food,Delivery,2,481.47,154.07,327.4,Completed,10,4.8
+RST00241,2025-06-08,Gachibowli,Hyderabad,Fast Food,Takeaway,2,616.76,197.36,419.4,Completed,11,2.9
+RST00242,2025-02-08,Gachibowli,Hyderabad,Biryani,Delivery,2,1067.84,341.71,726.13,Completed,22,3.4
+RST00243,2025-07-07,Secunderabad,Hyderabad,Biryani,Dine-in,4,1566.92,501.41,1065.51,Cancelled,44,2.4
+RST00244,2025-10-17,Banjara Hills,Hyderabad,South Indian,Delivery,2,594.17,190.13,404.04,Completed,19,4.7
+RST00245,2025-12-24,Gachibowli,Hyderabad,Fast Food,Takeaway,3,799.94,255.98,543.96,Completed,12,3.4
+RST00246,2025-07-19,Banjara Hills,Hyderabad,South Indian,Dine-in,2,767.17,245.49,521.68,Completed,41,4.6
+RST00247,2025-02-07,Madhapur,Hyderabad,Fast Food,Delivery,4,1139.85,364.75,775.1,Completed,26,3.7
+RST00248,2025-03-26,Kukatpally,Hyderabad,North Indian,Delivery,2,784.14,250.92,533.22,Completed,12,4.2
+RST00249,2025-02-13,Kukatpally,Hyderabad,Biryani,Takeaway,2,784.88,251.16,533.72,Completed,30,4.3
+RST00250,2025-09-21,Banjara Hills,Hyderabad,Chinese,Takeaway,1,361.71,115.75,245.96,Completed,21,3.9
+RST00251,2025-11-03,Secunderabad,Hyderabad,South Indian,Delivery,4,936.23,299.59,636.64,Completed,27,4.5
+RST00252,2025-10-03,Kukatpally,Hyderabad,Chinese,Dine-in,3,1479.93,473.58,1006.35,Completed,14,5.0
+RST00253,2025-05-18,Kukatpally,Hyderabad,Chinese,Delivery,3,1097.09,351.07,746.02,Completed,13,4.6
+RST00254,2025-07-05,Kukatpally,Hyderabad,South Indian,Takeaway,1,347.64,111.24,236.4,Completed,15,5.0
+RST00255,2025-05-10,Banjara Hills,Hyderabad,Chinese,Delivery,2,853.35,273.07,580.28,Completed,14,5.0
+RST00256,2025-11-30,Banjara Hills,Hyderabad,South Indian,Dine-in,3,887.1,283.87,603.23,Completed,18,5.0
+RST00257,2025-09-11,Banjara Hills,Hyderabad,Fast Food,Delivery,2,471.33,150.83,320.5,Completed,18,4.5
+RST00258,2025-05-17,Secunderabad,Hyderabad,Biryani,Delivery,1,475.36,152.12,323.24,Completed,33,4.9
+RST00259,2025-01-14,Secunderabad,Hyderabad,Biryani,Delivery,3,1345.43,430.54,914.89,Completed,35,4.0
+RST00260,2025-11-29,Kukatpally,Hyderabad,Fast Food,Delivery,3,882.37,282.36,600.01,Completed,23,3.8
+RST00261,2025-01-12,Secunderabad,Hyderabad,Biryani,Takeaway,1,387.76,124.08,263.68,Completed,26,3.0
+RST00262,2025-09-28,Madhapur,Hyderabad,Fast Food,Dine-in,3,1081.25,346.0,735.25,Completed,13,3.5
+RST00263,2025-06-05,Banjara Hills,Hyderabad,Biryani,Dine-in,3,1266.68,405.34,861.34,Completed,17,4.8
+RST00264,2025-10-28,Secunderabad,Hyderabad,Biryani,Delivery,2,643.71,205.99,437.72,Cancelled,24,2.2
+RST00265,2025-05-20,Gachibowli,Hyderabad,Biryani,Dine-in,3,1218.38,389.88,828.5,Completed,20,4.6
+RST00266,2025-05-28,Madhapur,Hyderabad,North Indian,Delivery,1,399.74,127.92,271.82,Completed,21,4.5
+RST00267,2025-09-13,Kukatpally,Hyderabad,Biryani,Dine-in,4,1731.78,554.17,1177.61,Completed,22,4.2
+RST00268,2025-04-26,Secunderabad,Hyderabad,Chinese,Delivery,3,1248.42,399.49,848.93,Completed,25,3.3
+RST00269,2025-01-31,Secunderabad,Hyderabad,Biryani,Takeaway,1,591.95,189.42,402.53,Completed,14,4.4
+RST00270,2025-06-17,Madhapur,Hyderabad,South Indian,Delivery,3,732.95,234.54,498.41,Completed,13,3.7
+RST00271,2025-04-08,Madhapur,Hyderabad,Chinese,Delivery,2,860.77,275.45,585.32,Completed,24,3.5
+RST00272,2025-08-07,Kukatpally,Hyderabad,Biryani,Dine-in,2,705.04,225.61,479.43,Completed,45,4.2
+RST00273,2025-09-07,Madhapur,Hyderabad,South Indian,Dine-in,2,743.4,237.89,505.51,Completed,15,4.5
+RST00274,2025-01-20,Kukatpally,Hyderabad,Chinese,Takeaway,1,365.96,117.11,248.85,Completed,34,3.6
+RST00275,2025-05-23,Secunderabad,Hyderabad,South Indian,Delivery,4,1180.26,377.68,802.58,Completed,31,5.0
+RST00276,2025-08-04,Kukatpally,Hyderabad,North Indian,Delivery,4,1499.09,479.71,1019.38,Completed,22,4.5
+RST00277,2025-10-26,Gachibowli,Hyderabad,Biryani,Takeaway,3,1663.97,532.47,1131.5,Completed,40,2.6
+RST00278,2025-07-09,Gachibowli,Hyderabad,Chinese,Dine-in,4,1675.8,536.26,1139.54,Completed,21,4.5
+RST00279,2025-04-26,Madhapur,Hyderabad,Chinese,Dine-in,3,1408.48,450.71,957.77,Completed,40,3.7
+RST00280,2025-12-30,Kukatpally,Hyderabad,North Indian,Delivery,2,919.61,294.28,625.33,Completed,25,5.0
+RST00281,2025-08-09,Madhapur,Hyderabad,Biryani,Takeaway,1,416.3,133.22,283.08,Completed,35,3.7
+RST00282,2025-12-10,Banjara Hills,Hyderabad,South Indian,Dine-in,2,445.81,142.66,303.15,Completed,36,4.4
+RST00283,2025-06-27,Kukatpally,Hyderabad,Biryani,Dine-in,4,1919.19,614.14,1305.05,Completed,42,4.3
+RST00284,2025-02-25,Secunderabad,Hyderabad,Biryani,Delivery,4,1373.54,439.53,934.01,Completed,41,4.8
+RST00285,2025-07-19,Secunderabad,Hyderabad,North Indian,Delivery,4,1664.56,532.66,1131.9,Completed,24,4.8
+RST00286,2025-07-09,Kukatpally,Hyderabad,Biryani,Delivery,1,323.09,103.39,219.7,Completed,10,4.1
+RST00287,2025-06-25,Kukatpally,Hyderabad,Fast Food,Delivery,4,885.07,283.22,601.85,Completed,11,4.7
+RST00288,2025-01-11,Madhapur,Hyderabad,Biryani,Takeaway,1,585.75,187.44,398.31,Completed,14,3.8
+RST00289,2025-11-01,Secunderabad,Hyderabad,Biryani,Dine-in,4,2301.84,736.59,1565.25,Completed,21,4.7
+RST00290,2025-06-09,Secunderabad,Hyderabad,Biryani,Takeaway,4,1596.7,510.94,1085.76,Completed,20,3.2
+RST00291,2025-12-19,Madhapur,Hyderabad,North Indian,Dine-in,2,1256.92,402.21,854.71,Completed,16,4.4
+RST00292,2025-02-10,Madhapur,Hyderabad,Biryani,Dine-in,1,373.05,119.38,253.67,Completed,43,4.8
+RST00293,2025-12-22,Banjara Hills,Hyderabad,North Indian,Delivery,3,1418.2,453.82,964.38,Completed,39,4.3
+RST00294,2025-08-02,Secunderabad,Hyderabad,South Indian,Takeaway,1,254.04,81.29,172.75,Completed,11,3.3
+RST00295,2025-09-20,Secunderabad,Hyderabad,Fast Food,Dine-in,3,1037.47,331.99,705.48,Completed,18,3.3
+RST00296,2025-02-01,Kukatpally,Hyderabad,North Indian,Delivery,3,1589.03,508.49,1080.54,Completed,14,4.0
+RST00297,2025-08-22,Secunderabad,Hyderabad,Chinese,Dine-in,2,767.83,245.71,522.12,Completed,29,3.7
+RST00298,2025-02-16,Secunderabad,Hyderabad,Biryani,Dine-in,3,1544.26,494.16,1050.1,Completed,32,4.7
+RST00299,2025-04-13,Gachibowli,Hyderabad,Biryani,Takeaway,3,1454.05,465.3,988.75,Completed,36,4.0
+RST00300,2025-07-17,Gachibowli,Hyderabad,North Indian,Dine-in,2,864.85,276.75,588.1,Completed,34,3.4
+RST00301,2025-08-25,Kukatpally,Hyderabad,Fast Food,Delivery,1,294.7,94.3,200.4,Completed,45,4.3
+RST00302,2025-04-19,Banjara Hills,Hyderabad,Biryani,Delivery,1,510.17,163.25,346.92,Completed,11,4.5
+RST00303,2025-06-14,Banjara Hills,Hyderabad,Fast Food,Delivery,4,864.07,276.5,587.57,Completed,22,4.5
+RST00304,2025-07-18,Gachibowli,Hyderabad,North Indian,Delivery,4,1910.05,611.22,1298.83,Completed,20,5.0
+RST00305,2025-10-27,Madhapur,Hyderabad,Fast Food,Takeaway,3,794.32,254.18,540.14,Completed,11,4.6
+RST00306,2025-05-31,Madhapur,Hyderabad,South Indian,Delivery,1,287.19,91.9,195.29,Completed,18,4.9
+RST00307,2025-06-11,Madhapur,Hyderabad,North Indian,Delivery,1,351.82,112.58,239.24,Completed,43,4.9
+RST00308,2025-06-02,Kukatpally,Hyderabad,Chinese,Delivery,2,564.07,180.5,383.57,Cancelled,17,2.4
+RST00309,2025-06-17,Secunderabad,Hyderabad,North Indian,Dine-in,3,1413.01,452.16,960.85,Completed,15,4.0
+RST00310,2025-01-30,Banjara Hills,Hyderabad,North Indian,Takeaway,1,407.17,130.29,276.88,Completed,37,4.1
+RST00311,2025-12-15,Kukatpally,Hyderabad,Chinese,Dine-in,2,609.91,195.17,414.74,Completed,31,4.4
+RST00312,2025-08-01,Gachibowli,Hyderabad,North Indian,Dine-in,4,2461.83,787.79,1674.04,Completed,19,4.4
+RST00313,2025-01-25,Gachibowli,Hyderabad,Chinese,Delivery,3,1320.68,422.62,898.06,Completed,35,3.8
+RST00314,2025-01-22,Madhapur,Hyderabad,South Indian,Dine-in,3,891.61,285.32,606.29,Completed,41,4.8
+RST00315,2025-03-30,Banjara Hills,Hyderabad,South Indian,Dine-in,2,657.84,210.51,447.33,Completed,23,4.5
+RST00316,2025-03-10,Secunderabad,Hyderabad,Biryani,Dine-in,1,341.26,109.2,232.06,Completed,24,4.9
+RST00317,2025-10-01,Secunderabad,Hyderabad,North Indian,Dine-in,1,342.49,109.6,232.89,Completed,18,3.5
+RST00318,2025-06-19,Kukatpally,Hyderabad,North Indian,Takeaway,3,1189.35,380.59,808.76,Completed,26,4.5
+RST00319,2025-04-30,Kukatpally,Hyderabad,South Indian,Dine-in,3,707.62,226.44,481.18,Completed,13,4.2
+RST00320,2025-04-30,Kukatpally,Hyderabad,South Indian,Dine-in,2,467.34,149.55,317.79,Completed,30,3.6
+RST00321,2025-02-12,Banjara Hills,Hyderabad,Biryani,Delivery,4,1743.3,557.86,1185.44,Completed,10,3.5
+RST00322,2025-09-10,Banjara Hills,Hyderabad,Fast Food,Dine-in,3,729.43,233.42,496.01,Completed,14,3.3
+RST00323,2025-08-13,Secunderabad,Hyderabad,Biryani,Delivery,1,440.8,141.06,299.74,Completed,39,4.0
+RST00324,2025-01-14,Banjara Hills,Hyderabad,Biryani,Delivery,4,1296.27,414.81,881.46,Completed,29,4.0
+RST00325,2025-01-24,Kukatpally,Hyderabad,Fast Food,Delivery,2,723.89,231.64,492.25,Completed,23,3.8
+RST00326,2025-05-26,Secunderabad,Hyderabad,Chinese,Dine-in,3,1132.4,362.37,770.03,Completed,45,3.8
+RST00327,2025-05-06,Secunderabad,Hyderabad,Biryani,Dine-in,2,848.6,271.55,577.05,Completed,10,4.1
+RST00328,2025-01-09,Gachibowli,Hyderabad,South Indian,Delivery,1,264.87,84.76,180.11,Completed,38,5.0
+RST00329,2025-04-25,Gachibowli,Hyderabad,South Indian,Delivery,3,810.92,259.49,551.43,Completed,43,3.3
+RST00330,2025-05-05,Secunderabad,Hyderabad,Biryani,Dine-in,4,1859.24,594.96,1264.28,Completed,40,4.1
+RST00331,2025-11-07,Kukatpally,Hyderabad,Fast Food,Dine-in,1,357.52,114.41,243.11,Completed,23,3.9
+RST00332,2025-02-07,Secunderabad,Hyderabad,Biryani,Dine-in,3,1282.73,410.47,872.26,Completed,19,3.8
+RST00333,2025-09-05,Gachibowli,Hyderabad,Chinese,Dine-in,1,518.17,165.81,352.36,Completed,18,4.7
+RST00334,2025-11-13,Madhapur,Hyderabad,Fast Food,Delivery,3,775.89,248.28,527.61,Completed,21,3.9
+RST00335,2025-02-27,Madhapur,Hyderabad,Biryani,Dine-in,3,1445.19,462.46,982.73,Completed,40,4.1
+RST00336,2025-10-20,Banjara Hills,Hyderabad,Fast Food,Takeaway,3,663.66,212.37,451.29,Completed,31,4.1
+RST00337,2025-01-06,Kukatpally,Hyderabad,Biryani,Dine-in,2,754.47,241.43,513.04,Completed,25,4.0
+RST00338,2025-05-01,Banjara Hills,Hyderabad,Fast Food,Takeaway,4,1075.31,344.1,731.21,Completed,10,4.0
+RST00339,2025-12-13,Banjara Hills,Hyderabad,Chinese,Dine-in,3,1284.82,411.14,873.68,Completed,30,4.0
+RST00340,2025-01-11,Madhapur,Hyderabad,North Indian,Dine-in,3,1275.32,408.1,867.22,Completed,17,4.4
+RST00341,2025-01-14,Secunderabad,Hyderabad,Chinese,Dine-in,4,1165.11,372.84,792.27,Completed,32,4.2
+RST00342,2025-05-27,Madhapur,Hyderabad,Biryani,Delivery,2,674.93,215.98,458.95,Completed,44,4.0
+RST00343,2025-12-02,Secunderabad,Hyderabad,North Indian,Dine-in,4,1952.19,624.7,1327.49,Completed,24,3.8
+RST00344,2025-08-29,Banjara Hills,Hyderabad,South Indian,Delivery,1,328.32,105.06,223.26,Completed,35,4.2
+RST00345,2025-10-16,Gachibowli,Hyderabad,Chinese,Delivery,4,1381.4,442.05,939.35,Completed,11,3.9
+RST00346,2025-12-08,Madhapur,Hyderabad,South Indian,Dine-in,2,492.53,157.61,334.92,Completed,30,3.5
+RST00347,2025-06-12,Banjara Hills,Hyderabad,Chinese,Takeaway,2,583.95,186.86,397.09,Completed,18,5.0
+RST00348,2025-09-14,Secunderabad,Hyderabad,South Indian,Dine-in,2,703.79,225.21,478.58,Completed,45,3.2
+RST00349,2025-08-03,Kukatpally,Hyderabad,South Indian,Dine-in,2,623.92,199.65,424.27,Completed,45,4.3
+RST00350,2025-03-17,Madhapur,Hyderabad,Biryani,Delivery,4,1681.32,538.02,1143.3,Completed,44,4.1
+RST00351,2025-08-07,Banjara Hills,Hyderabad,North Indian,Delivery,4,1727.76,552.88,1174.88,Completed,44,4.7
+RST00352,2025-08-29,Madhapur,Hyderabad,North Indian,Takeaway,1,616.06,197.14,418.92,Cancelled,18,2.3
+RST00353,2025-03-12,Madhapur,Hyderabad,South Indian,Takeaway,1,284.66,91.09,193.57,Completed,20,4.2
+RST00354,2025-05-17,Banjara Hills,Hyderabad,Biryani,Delivery,2,870.6,278.59,592.01,Completed,31,2.3
+RST00355,2025-03-14,Gachibowli,Hyderabad,Fast Food,Dine-in,4,1082.4,346.37,736.03,Completed,24,4.6
+RST00356,2025-04-24,Banjara Hills,Hyderabad,Biryani,Dine-in,4,1790.37,572.92,1217.45,Cancelled,38,3.2
+RST00357,2025-07-14,Banjara Hills,Hyderabad,South Indian,Dine-in,1,253.19,81.02,172.17,Completed,31,3.8
+RST00358,2025-03-07,Gachibowli,Hyderabad,South Indian,Dine-in,4,1480.26,473.68,1006.58,Completed,30,3.1
+RST00359,2025-08-19,Secunderabad,Hyderabad,Biryani,Dine-in,3,1059.82,339.14,720.68,Completed,19,3.6
+RST00360,2025-03-02,Madhapur,Hyderabad,South Indian,Takeaway,3,791.62,253.32,538.3,Completed,27,4.9
+RST00361,2025-03-20,Kukatpally,Hyderabad,Biryani,Dine-in,4,1726.45,552.46,1173.99,Completed,36,4.5
+RST00362,2025-11-13,Banjara Hills,Hyderabad,Fast Food,Takeaway,4,782.15,250.29,531.86,Completed,35,4.5
+RST00363,2025-11-07,Madhapur,Hyderabad,Biryani,Takeaway,2,1177.44,376.78,800.66,Completed,33,4.3
+RST00364,2025-08-31,Banjara Hills,Hyderabad,Chinese,Delivery,3,1116.38,357.24,759.14,Completed,16,3.4
+RST00365,2025-12-20,Gachibowli,Hyderabad,South Indian,Dine-in,1,335.46,107.35,228.11,Completed,11,4.2
+RST00366,2025-08-22,Secunderabad,Hyderabad,Biryani,Dine-in,1,533.57,170.74,362.83,Completed,34,4.4
+RST00367,2025-06-16,Banjara Hills,Hyderabad,Chinese,Takeaway,3,1001.44,320.46,680.98,Completed,20,3.8
+RST00368,2025-01-12,Kukatpally,Hyderabad,Biryani,Dine-in,4,2346.06,750.74,1595.32,Completed,15,4.1
+RST00369,2025-05-05,Madhapur,Hyderabad,South Indian,Delivery,4,1178.76,377.2,801.56,Completed,42,4.1
+RST00370,2025-09-14,Kukatpally,Hyderabad,Chinese,Delivery,1,486.43,155.66,330.77,Completed,10,3.3
+RST00371,2025-10-18,Madhapur,Hyderabad,South Indian,Dine-in,3,921.41,294.85,626.56,Completed,22,3.9
+RST00372,2025-06-29,Banjara Hills,Hyderabad,South Indian,Dine-in,4,1015.12,324.84,690.28,Completed,27,4.1
+RST00373,2025-12-19,Madhapur,Hyderabad,Chinese,Dine-in,3,1534.44,491.02,1043.42,Completed,15,4.8
+RST00374,2025-11-18,Banjara Hills,Hyderabad,South Indian,Delivery,3,886.48,283.67,602.81,Completed,14,4.9
+RST00375,2025-04-25,Madhapur,Hyderabad,Biryani,Dine-in,2,935.0,299.2,635.8,Completed,21,5.0
+RST00376,2025-08-13,Gachibowli,Hyderabad,North Indian,Delivery,3,1066.88,341.4,725.48,Completed,26,3.9
+RST00377,2025-04-19,Secunderabad,Hyderabad,Chinese,Delivery,4,1929.21,617.35,1311.86,Completed,26,3.3
+RST00378,2025-12-04,Banjara Hills,Hyderabad,Chinese,Delivery,3,963.27,308.25,655.02,Completed,43,4.0
+RST00379,2025-09-20,Madhapur,Hyderabad,Biryani,Delivery,3,1640.82,525.06,1115.76,Completed,45,3.9
+RST00380,2025-02-08,Madhapur,Hyderabad,Chinese,Dine-in,3,1422.91,455.33,967.58,Completed,17,3.8
+RST00381,2025-11-21,Secunderabad,Hyderabad,North Indian,Dine-in,2,1032.09,330.27,701.82,Completed,29,5.0
+RST00382,2025-11-27,Secunderabad,Hyderabad,South Indian,Dine-in,3,819.7,262.3,557.4,Completed,41,4.6
+RST00383,2025-12-06,Gachibowli,Hyderabad,Fast Food,Dine-in,4,1180.55,377.78,802.77,Completed,45,4.6
+RST00384,2025-11-03,Madhapur,Hyderabad,South Indian,Delivery,4,841.71,269.35,572.36,Completed,34,3.4
+RST00385,2025-11-11,Madhapur,Hyderabad,North Indian,Dine-in,1,360.61,115.4,245.21,Completed,18,3.2
+RST00386,2025-04-15,Kukatpally,Hyderabad,North Indian,Takeaway,4,1470.68,470.62,1000.06,Completed,19,3.5
+RST00387,2025-12-23,Madhapur,Hyderabad,Chinese,Delivery,2,587.22,187.91,399.31,Completed,24,4.4
+RST00388,2025-12-29,Secunderabad,Hyderabad,North Indian,Takeaway,1,514.54,164.65,349.89,Completed,10,4.9
+RST00389,2025-05-02,Madhapur,Hyderabad,Biryani,Delivery,3,1325.46,424.15,901.31,Completed,16,4.5
+RST00390,2025-09-30,Madhapur,Hyderabad,Biryani,Takeaway,3,1120.55,358.58,761.97,Completed,21,3.5
+RST00391,2025-03-05,Madhapur,Hyderabad,Biryani,Delivery,2,837.27,267.93,569.34,Completed,12,4.1
+RST00392,2025-09-24,Kukatpally,Hyderabad,South Indian,Takeaway,3,708.54,226.73,481.81,Completed,25,3.4
+RST00393,2025-04-03,Gachibowli,Hyderabad,South Indian,Takeaway,1,261.38,83.64,177.74,Completed,28,3.3
+RST00394,2025-10-21,Kukatpally,Hyderabad,South Indian,Delivery,4,974.82,311.94,662.88,Completed,44,2.8
+RST00395,2025-01-31,Kukatpally,Hyderabad,South Indian,Takeaway,1,283.27,90.65,192.62,Completed,20,4.2
+RST00396,2025-04-29,Gachibowli,Hyderabad,Biryani,Takeaway,3,1031.89,330.2,701.69,Cancelled,32,2.7
+RST00397,2025-09-26,Banjara Hills,Hyderabad,South Indian,Delivery,1,326.26,104.4,221.86,Completed,44,3.5
+RST00398,2025-07-23,Secunderabad,Hyderabad,Fast Food,Dine-in,3,620.97,198.71,422.26,Completed,38,4.3
+RST00399,2025-01-14,Madhapur,Hyderabad,Biryani,Takeaway,2,917.84,293.71,624.13,Completed,42,3.8
+RST00400,2025-08-23,Secunderabad,Hyderabad,Chinese,Takeaway,1,514.03,164.49,349.54,Completed,39,4.7
+RST00401,2025-06-11,Kukatpally,Hyderabad,South Indian,Takeaway,4,999.65,319.89,679.76,Completed,41,4.4
+RST00402,2025-08-04,Banjara Hills,Hyderabad,Chinese,Delivery,2,690.35,220.91,469.44,Completed,23,4.3
+RST00403,2025-02-25,Gachibowli,Hyderabad,Biryani,Dine-in,4,1854.76,593.52,1261.24,Completed,30,4.2
+RST00404,2025-09-05,Secunderabad,Hyderabad,North Indian,Delivery,3,1517.64,485.64,1032.0,Completed,15,4.2
+RST00405,2025-03-30,Banjara Hills,Hyderabad,Biryani,Delivery,3,1309.77,419.13,890.64,Completed,14,4.0
+RST00406,2025-09-22,Madhapur,Hyderabad,Biryani,Dine-in,2,839.23,268.55,570.68,Completed,21,4.9
+RST00407,2025-11-24,Secunderabad,Hyderabad,South Indian,Dine-in,4,911.23,291.59,619.64,Completed,41,4.3
+RST00408,2025-05-31,Gachibowli,Hyderabad,Chinese,Dine-in,1,424.43,135.82,288.61,Completed,38,4.2
+RST00409,2025-11-15,Madhapur,Hyderabad,Biryani,Dine-in,2,1091.28,349.21,742.07,Completed,34,3.8
+RST00410,2025-03-30,Secunderabad,Hyderabad,South Indian,Delivery,1,280.44,89.74,190.7,Completed,39,4.4
+RST00411,2025-05-26,Madhapur,Hyderabad,Chinese,Takeaway,1,314.19,100.54,213.65,Completed,25,3.7
+RST00412,2025-02-26,Madhapur,Hyderabad,Biryani,Dine-in,1,466.51,149.28,317.23,Completed,19,3.9
+RST00413,2025-07-11,Secunderabad,Hyderabad,Biryani,Delivery,3,1384.01,442.88,941.13,Completed,16,3.4
+RST00414,2025-07-23,Kukatpally,Hyderabad,Chinese,Dine-in,1,344.54,110.25,234.29,Completed,39,3.9
+RST00415,2025-10-22,Secunderabad,Hyderabad,Fast Food,Dine-in,1,224.32,71.78,152.54,Completed,31,5.0
+RST00416,2025-01-29,Kukatpally,Hyderabad,Biryani,Dine-in,1,378.53,121.13,257.4,Completed,15,4.5
+RST00417,2025-08-03,Kukatpally,Hyderabad,North Indian,Dine-in,2,1266.81,405.38,861.43,Completed,13,4.1
+RST00418,2025-11-01,Gachibowli,Hyderabad,South Indian,Dine-in,1,362.75,116.08,246.67,Completed,23,3.8
+RST00419,2025-07-05,Gachibowli,Hyderabad,South Indian,Delivery,2,472.88,151.32,321.56,Completed,19,4.2
+RST00420,2025-10-13,Kukatpally,Hyderabad,North Indian,Delivery,2,937.0,299.84,637.16,Completed,20,3.0
+RST00421,2025-12-17,Gachibowli,Hyderabad,Fast Food,Dine-in,1,193.99,62.08,131.91,Completed,30,4.0
+RST00422,2025-07-27,Kukatpally,Hyderabad,Chinese,Dine-in,1,413.37,132.28,281.09,Completed,26,4.4
+RST00423,2025-10-12,Gachibowli,Hyderabad,Biryani,Dine-in,3,1161.7,371.74,789.96,Completed,29,5.0
+RST00424,2025-09-20,Gachibowli,Hyderabad,Fast Food,Takeaway,1,344.74,110.32,234.42,Completed,25,5.0
+RST00425,2025-04-05,Madhapur,Hyderabad,Chinese,Delivery,3,1506.64,482.12,1024.52,Completed,33,3.4
+RST00426,2025-08-08,Banjara Hills,Hyderabad,Biryani,Delivery,3,1684.07,538.9,1145.17,Completed,44,4.0
+RST00427,2025-11-25,Banjara Hills,Hyderabad,Biryani,Takeaway,2,943.39,301.88,641.51,Completed,22,4.6
+RST00428,2025-06-17,Kukatpally,Hyderabad,Chinese,Takeaway,2,562.19,179.9,382.29,Completed,45,5.0
+RST00429,2025-08-21,Kukatpally,Hyderabad,Chinese,Dine-in,3,867.94,277.74,590.2,Completed,18,4.1
+RST00430,2025-01-15,Gachibowli,Hyderabad,Biryani,Takeaway,4,1836.91,587.81,1249.1,Completed,12,4.2
+RST00431,2025-07-29,Madhapur,Hyderabad,Chinese,Delivery,1,270.04,86.41,183.63,Completed,22,4.0
+RST00432,2025-01-06,Kukatpally,Hyderabad,South Indian,Delivery,4,969.43,310.22,659.21,Completed,42,4.1
+RST00433,2025-12-09,Banjara Hills,Hyderabad,South Indian,Delivery,3,722.66,231.25,491.41,Completed,30,3.9
+RST00434,2025-12-24,Secunderabad,Hyderabad,North Indian,Delivery,2,1028.13,329.0,699.13,Completed,43,5.0
+RST00435,2025-11-29,Secunderabad,Hyderabad,Chinese,Dine-in,3,1510.21,483.27,1026.94,Completed,45,5.0
+RST00436,2025-11-18,Madhapur,Hyderabad,Biryani,Dine-in,2,683.86,218.84,465.02,Completed,45,4.1
+RST00437,2025-03-04,Banjara Hills,Hyderabad,North Indian,Dine-in,1,415.22,132.87,282.35,Completed,43,5.0
+RST00438,2025-06-14,Kukatpally,Hyderabad,Fast Food,Dine-in,1,347.04,111.05,235.99,Completed,22,4.4
+RST00439,2025-12-04,Madhapur,Hyderabad,Biryani,Delivery,2,809.15,258.93,550.22,Completed,19,3.8
+RST00440,2025-11-22,Secunderabad,Hyderabad,Fast Food,Dine-in,3,737.49,236.0,501.49,Completed,35,4.1
+RST00441,2025-09-03,Secunderabad,Hyderabad,Chinese,Dine-in,1,373.64,119.56,254.08,Completed,29,3.8
+RST00442,2025-08-24,Kukatpally,Hyderabad,Biryani,Dine-in,2,1120.36,358.52,761.84,Completed,25,4.5
+RST00443,2025-02-03,Banjara Hills,Hyderabad,Biryani,Takeaway,2,813.51,260.32,553.19,Completed,32,4.6
+RST00444,2025-09-13,Madhapur,Hyderabad,Chinese,Dine-in,2,799.57,255.86,543.71,Completed,17,3.5
+RST00445,2025-10-20,Gachibowli,Hyderabad,Chinese,Delivery,4,1259.03,402.89,856.14,Completed,38,5.0
+RST00446,2025-01-12,Banjara Hills,Hyderabad,South Indian,Dine-in,1,271.91,87.01,184.9,Completed,40,3.8
+RST00447,2025-10-13,Madhapur,Hyderabad,Biryani,Takeaway,2,755.6,241.79,513.81,Completed,12,3.9
+RST00448,2025-05-17,Secunderabad,Hyderabad,Chinese,Delivery,2,867.22,277.51,589.71,Completed,31,4.1
+RST00449,2025-10-16,Kukatpally,Hyderabad,Biryani,Delivery,1,324.94,103.98,220.96,Completed,29,3.8
+RST00450,2025-09-01,Kukatpally,Hyderabad,South Indian,Dine-in,2,507.88,162.52,345.36,Completed,35,3.4
+RST00451,2025-08-07,Madhapur,Hyderabad,Biryani,Delivery,2,773.3,247.46,525.84,Completed,34,5.0
+RST00452,2025-02-20,Gachibowli,Hyderabad,Fast Food,Takeaway,1,192.33,61.55,130.78,Completed,22,4.2
+RST00453,2025-05-25,Kukatpally,Hyderabad,Biryani,Delivery,3,1292.7,413.66,879.04,Completed,42,4.2
+RST00454,2025-04-23,Secunderabad,Hyderabad,Fast Food,Delivery,4,838.96,268.47,570.49,Completed,14,2.9
+RST00455,2025-03-07,Banjara Hills,Hyderabad,North Indian,Dine-in,4,2348.46,751.51,1596.95,Completed,25,3.8
+RST00456,2025-08-11,Madhapur,Hyderabad,Biryani,Dine-in,3,948.0,303.36,644.64,Completed,13,4.3
+RST00457,2025-02-15,Gachibowli,Hyderabad,Biryani,Dine-in,2,808.69,258.78,549.91,Completed,28,3.4
+RST00458,2025-10-23,Gachibowli,Hyderabad,Biryani,Dine-in,3,1009.43,323.02,686.41,Completed,15,4.1
+RST00459,2025-01-03,Secunderabad,Hyderabad,Biryani,Takeaway,3,1212.66,388.05,824.61,Completed,38,4.6
+RST00460,2025-07-30,Secunderabad,Hyderabad,Biryani,Delivery,2,584.32,186.98,397.34,Completed,16,4.7
+RST00461,2025-04-24,Kukatpally,Hyderabad,Biryani,Dine-in,3,1404.68,449.5,955.18,Completed,25,4.1
+RST00462,2025-05-11,Banjara Hills,Hyderabad,Chinese,Delivery,2,858.08,274.59,583.49,Completed,42,5.0
+RST00463,2025-09-23,Banjara Hills,Hyderabad,South Indian,Takeaway,1,289.88,92.76,197.12,Completed,45,4.2
+RST00464,2025-04-18,Madhapur,Hyderabad,Chinese,Delivery,4,1989.3,636.58,1352.72,Completed,23,4.0
+RST00465,2025-09-25,Banjara Hills,Hyderabad,Fast Food,Delivery,2,576.76,184.56,392.2,Completed,24,4.5
+RST00466,2025-02-19,Kukatpally,Hyderabad,South Indian,Dine-in,4,918.84,294.03,624.81,Completed,22,3.7
+RST00467,2025-05-22,Secunderabad,Hyderabad,Fast Food,Dine-in,2,560.67,179.41,381.26,Completed,43,5.0
+RST00468,2025-11-01,Gachibowli,Hyderabad,South Indian,Delivery,3,864.79,276.73,588.06,Completed,13,4.7
+RST00469,2025-01-20,Banjara Hills,Hyderabad,Fast Food,Dine-in,4,1065.29,340.89,724.4,Completed,39,3.9
+RST00470,2025-12-18,Kukatpally,Hyderabad,South Indian,Dine-in,4,903.9,289.25,614.65,Completed,43,3.4
+RST00471,2025-02-10,Madhapur,Hyderabad,Fast Food,Dine-in,2,415.1,132.83,282.27,Completed,36,4.8
+RST00472,2025-11-27,Secunderabad,Hyderabad,South Indian,Takeaway,3,624.2,199.74,424.46,Completed,30,4.7
+RST00473,2025-01-01,Secunderabad,Hyderabad,South Indian,Delivery,4,1137.81,364.1,773.71,Completed,42,4.1
+RST00474,2025-11-25,Banjara Hills,Hyderabad,Fast Food,Delivery,1,214.13,68.52,145.61,Completed,38,5.0
+RST00475,2025-06-30,Secunderabad,Hyderabad,Fast Food,Dine-in,2,499.35,159.79,339.56,Completed,29,3.7
+RST00476,2025-08-24,Kukatpally,Hyderabad,North Indian,Delivery,2,970.07,310.42,659.65,Completed,33,3.5
+RST00477,2025-12-27,Kukatpally,Hyderabad,North Indian,Delivery,2,1009.64,323.08,686.56,Completed,33,5.0
+RST00478,2025-07-05,Secunderabad,Hyderabad,Biryani,Dine-in,4,1780.71,569.83,1210.88,Completed,14,4.2
+RST00479,2025-07-18,Secunderabad,Hyderabad,Fast Food,Delivery,1,295.88,94.68,201.2,Completed,25,4.0
+RST00480,2025-01-29,Gachibowli,Hyderabad,North Indian,Delivery,1,461.75,147.76,313.99,Cancelled,12,3.7
+RST00481,2025-07-01,Gachibowli,Hyderabad,South Indian,Delivery,1,198.73,63.59,135.14,Completed,20,4.6
+RST00482,2025-07-06,Madhapur,Hyderabad,Biryani,Dine-in,1,510.04,163.21,346.83,Completed,13,3.8
+RST00483,2025-11-23,Banjara Hills,Hyderabad,North Indian,Delivery,1,420.9,134.69,286.21,Completed,20,2.8
+RST00484,2025-11-11,Madhapur,Hyderabad,Chinese,Takeaway,4,1489.1,476.51,1012.59,Completed,22,4.5
+RST00485,2025-07-21,Kukatpally,Hyderabad,North Indian,Delivery,1,441.06,141.14,299.92,Completed,15,4.6
+RST00486,2025-08-17,Kukatpally,Hyderabad,Biryani,Dine-in,1,462.25,147.92,314.33,Completed,16,4.4
+RST00487,2025-01-09,Banjara Hills,Hyderabad,Biryani,Delivery,1,487.05,155.86,331.19,Completed,13,3.9
+RST00488,2025-07-23,Kukatpally,Hyderabad,North Indian,Dine-in,4,1979.33,633.39,1345.94,Completed,40,4.2
+RST00489,2025-05-27,Kukatpally,Hyderabad,South Indian,Dine-in,3,686.05,219.54,466.51,Completed,16,4.2
+RST00490,2025-06-28,Secunderabad,Hyderabad,Fast Food,Dine-in,1,245.22,78.47,166.75,Completed,42,3.7
+RST00491,2025-05-23,Madhapur,Hyderabad,Biryani,Dine-in,1,483.69,154.78,328.91,Completed,22,3.5
+RST00492,2025-03-31,Secunderabad,Hyderabad,South Indian,Delivery,3,951.56,304.5,647.06,Completed,26,3.9
+RST00493,2025-05-19,Secunderabad,Hyderabad,Biryani,Takeaway,2,729.2,233.34,495.86,Cancelled,37,2.0
+RST00494,2025-11-20,Secunderabad,Hyderabad,Fast Food,Dine-in,4,1160.53,371.37,789.16,Completed,30,4.8
+RST00495,2025-03-21,Madhapur,Hyderabad,Chinese,Takeaway,4,1642.73,525.67,1117.06,Completed,15,4.5
+RST00496,2025-07-31,Madhapur,Hyderabad,Biryani,Delivery,3,914.19,292.54,621.65,Completed,37,3.2
+RST00497,2025-08-31,Secunderabad,Hyderabad,South Indian,Delivery,3,1073.74,343.6,730.14,Completed,11,4.4
+RST00498,2025-10-28,Madhapur,Hyderabad,South Indian,Delivery,1,225.5,72.16,153.34,Completed,19,4.0
+RST00499,2025-05-17,Banjara Hills,Hyderabad,Chinese,Dine-in,4,1388.45,444.3,944.15,Completed,38,4.7
+RST00500,2025-09-20,Madhapur,Hyderabad,Biryani,Dine-in,2,1127.53,360.81,766.72,Completed,36,3.4
+RST00501,2025-06-17,Secunderabad,Hyderabad,Chinese,Delivery,2,565.81,181.06,384.75,Completed,40,4.7
+RST00502,2025-08-05,Gachibowli,Hyderabad,Biryani,Takeaway,2,906.74,290.16,616.58,Completed,13,4.0
+RST00503,2025-02-17,Banjara Hills,Hyderabad,North Indian,Delivery,1,387.69,124.06,263.63,Completed,23,3.8
+RST00504,2025-06-25,Madhapur,Hyderabad,North Indian,Dine-in,2,809.06,258.9,550.16,Completed,43,3.9
+RST00505,2025-12-30,Madhapur,Hyderabad,North Indian,Delivery,3,1421.78,454.97,966.81,Completed,30,3.7
+RST00506,2025-09-28,Gachibowli,Hyderabad,Fast Food,Delivery,2,487.37,155.96,331.41,Completed,22,3.9
+RST00507,2025-10-02,Banjara Hills,Hyderabad,Biryani,Takeaway,4,1703.56,545.14,1158.42,Completed,29,4.2
+RST00508,2025-06-25,Banjara Hills,Hyderabad,Fast Food,Dine-in,3,767.72,245.67,522.05,Completed,13,3.4
+RST00509,2025-05-28,Gachibowli,Hyderabad,Fast Food,Takeaway,3,745.47,238.55,506.92,Completed,19,4.9
+RST00510,2025-12-28,Kukatpally,Hyderabad,Biryani,Delivery,4,2220.69,710.62,1510.07,Completed,25,3.9
+RST00511,2025-09-03,Madhapur,Hyderabad,South Indian,Dine-in,3,951.66,304.53,647.13,Cancelled,33,2.4
+RST00512,2025-10-31,Gachibowli,Hyderabad,Chinese,Delivery,3,1037.89,332.12,705.77,Completed,30,4.1
+RST00513,2025-03-14,Gachibowli,Hyderabad,Biryani,Delivery,1,555.03,177.61,377.42,Completed,19,4.0
+RST00514,2025-06-29,Secunderabad,Hyderabad,Fast Food,Dine-in,4,1325.52,424.17,901.35,Completed,42,4.0
+RST00515,2025-07-23,Banjara Hills,Hyderabad,Chinese,Delivery,2,618.42,197.89,420.53,Cancelled,21,2.1
+RST00516,2025-08-18,Secunderabad,Hyderabad,North Indian,Dine-in,4,1557.75,498.48,1059.27,Completed,36,4.3
+RST00517,2025-11-29,Madhapur,Hyderabad,Chinese,Delivery,1,491.98,157.43,334.55,Completed,29,2.8
+RST00518,2025-08-23,Madhapur,Hyderabad,Chinese,Dine-in,1,440.06,140.82,299.24,Completed,40,3.9
+RST00519,2025-07-27,Secunderabad,Hyderabad,Fast Food,Delivery,2,527.7,168.86,358.84,Completed,14,4.2
+RST00520,2025-09-02,Madhapur,Hyderabad,North Indian,Delivery,4,1506.3,482.02,1024.28,Completed,40,5.0
+RST00521,2025-03-02,Gachibowli,Hyderabad,North Indian,Dine-in,3,1756.61,562.12,1194.49,Completed,16,5.0
+RST00522,2025-10-14,Secunderabad,Hyderabad,Fast Food,Delivery,4,969.39,310.2,659.19,Completed,14,3.1
+RST00523,2025-03-31,Gachibowli,Hyderabad,South Indian,Delivery,4,1148.0,367.36,780.64,Completed,45,4.0
+RST00524,2025-05-11,Madhapur,Hyderabad,Chinese,Delivery,1,468.06,149.78,318.28,Completed,15,4.4
+RST00525,2025-02-18,Kukatpally,Hyderabad,Chinese,Dine-in,1,339.62,108.68,230.94,Completed,33,4.5
+RST00526,2025-04-16,Banjara Hills,Hyderabad,South Indian,Delivery,3,785.93,251.5,534.43,Completed,31,3.7
+RST00527,2025-02-24,Gachibowli,Hyderabad,Biryani,Delivery,2,815.97,261.11,554.86,Completed,21,3.2
+RST00528,2025-06-03,Secunderabad,Hyderabad,Biryani,Delivery,4,1123.6,359.55,764.05,Completed,23,4.5
+RST00529,2025-08-07,Madhapur,Hyderabad,Biryani,Dine-in,1,368.13,117.8,250.33,Completed,17,4.1
+RST00530,2025-10-26,Secunderabad,Hyderabad,Fast Food,Delivery,4,1272.92,407.33,865.59,Completed,30,4.1
+RST00531,2025-01-18,Secunderabad,Hyderabad,South Indian,Dine-in,2,749.33,239.79,509.54,Completed,31,5.0
+RST00532,2025-05-04,Madhapur,Hyderabad,Fast Food,Takeaway,2,626.46,200.47,425.99,Completed,25,3.4
+RST00533,2025-02-17,Secunderabad,Hyderabad,Chinese,Delivery,4,1494.61,478.28,1016.33,Completed,41,4.8
+RST00534,2025-03-02,Banjara Hills,Hyderabad,Biryani,Delivery,2,1172.52,375.21,797.31,Completed,18,4.2
+RST00535,2025-05-31,Madhapur,Hyderabad,Biryani,Delivery,3,1698.55,543.54,1155.01,Completed,41,4.1
+RST00536,2025-04-13,Secunderabad,Hyderabad,North Indian,Delivery,3,1551.02,496.33,1054.69,Completed,45,4.2
+RST00537,2025-08-31,Kukatpally,Hyderabad,Biryani,Delivery,4,2106.16,673.97,1432.19,Completed,15,3.9
+RST00538,2025-02-27,Banjara Hills,Hyderabad,North Indian,Delivery,3,1167.33,373.55,793.78,Completed,14,4.4
+RST00539,2025-10-08,Madhapur,Hyderabad,North Indian,Dine-in,3,1468.66,469.97,998.69,Completed,27,4.2
+RST00540,2025-03-09,Banjara Hills,Hyderabad,North Indian,Dine-in,4,1642.97,525.75,1117.22,Completed,17,3.7
+RST00541,2025-07-04,Banjara Hills,Hyderabad,Biryani,Dine-in,2,1121.05,358.74,762.31,Completed,26,4.1
+RST00542,2025-08-30,Madhapur,Hyderabad,Chinese,Takeaway,3,1266.63,405.32,861.31,Completed,30,4.1
+RST00543,2025-05-10,Madhapur,Hyderabad,Chinese,Takeaway,2,925.75,296.24,629.51,Cancelled,31,3.5
+RST00544,2025-09-26,Gachibowli,Hyderabad,Biryani,Takeaway,1,566.18,181.18,385.0,Cancelled,31,2.6
+RST00545,2025-01-16,Kukatpally,Hyderabad,Biryani,Takeaway,3,1357.22,434.31,922.91,Completed,22,4.4
+RST00546,2025-01-27,Banjara Hills,Hyderabad,Biryani,Delivery,2,936.05,299.54,636.51,Completed,25,3.7
+RST00547,2025-04-15,Gachibowli,Hyderabad,Biryani,Delivery,4,1788.49,572.32,1216.17,Completed,37,4.2
+RST00548,2025-08-25,Banjara Hills,Hyderabad,Chinese,Dine-in,3,957.37,306.36,651.01,Completed,35,3.5
+RST00549,2025-12-04,Banjara Hills,Hyderabad,South Indian,Delivery,4,1197.24,383.12,814.12,Completed,29,3.9
+RST00550,2025-01-07,Banjara Hills,Hyderabad,South Indian,Takeaway,1,218.63,69.96,148.67,Completed,20,2.8
+RST00551,2025-01-01,Secunderabad,Hyderabad,Chinese,Dine-in,4,1543.74,494.0,1049.74,Completed,30,3.7
+RST00552,2025-05-10,Banjara Hills,Hyderabad,Biryani,Delivery,2,1175.05,376.02,799.03,Completed,29,4.1
+RST00553,2025-12-31,Gachibowli,Hyderabad,South Indian,Takeaway,1,287.34,91.95,195.39,Completed,20,3.7
+RST00554,2025-01-30,Secunderabad,Hyderabad,North Indian,Takeaway,2,717.19,229.5,487.69,Completed,45,3.4
+RST00555,2025-11-02,Kukatpally,Hyderabad,North Indian,Dine-in,4,1662.79,532.09,1130.7,Completed,42,4.0
+RST00556,2025-05-26,Banjara Hills,Hyderabad,Biryani,Delivery,2,843.99,270.08,573.91,Completed,27,3.7
+RST00557,2025-03-05,Secunderabad,Hyderabad,South Indian,Delivery,3,958.67,306.77,651.9,Completed,44,4.4
+RST00558,2025-11-02,Kukatpally,Hyderabad,Biryani,Dine-in,2,816.78,261.37,555.41,Completed,34,4.5
+RST00559,2025-03-22,Banjara Hills,Hyderabad,Biryani,Dine-in,3,1604.07,513.3,1090.77,Completed,32,4.1
+RST00560,2025-02-11,Banjara Hills,Hyderabad,Biryani,Dine-in,2,724.07,231.7,492.37,Completed,44,4.9
+RST00561,2025-10-26,Secunderabad,Hyderabad,North Indian,Takeaway,3,1719.77,550.33,1169.44,Completed,10,3.6
+RST00562,2025-02-02,Madhapur,Hyderabad,Biryani,Delivery,4,2151.51,688.48,1463.03,Completed,41,4.2
+RST00563,2025-05-30,Madhapur,Hyderabad,Chinese,Delivery,3,1586.53,507.69,1078.84,Completed,27,3.4
+RST00564,2025-05-28,Secunderabad,Hyderabad,Chinese,Dine-in,3,1086.19,347.58,738.61,Completed,42,4.3
+RST00565,2025-10-17,Madhapur,Hyderabad,North Indian,Dine-in,1,557.19,178.3,378.89,Completed,37,4.9
+RST00566,2025-08-24,Madhapur,Hyderabad,Biryani,Delivery,1,487.7,156.06,331.64,Completed,12,4.7
+RST00567,2025-11-12,Secunderabad,Hyderabad,Biryani,Delivery,2,740.93,237.1,503.83,Completed,10,4.9
+RST00568,2025-10-23,Secunderabad,Hyderabad,Fast Food,Dine-in,1,227.89,72.92,154.97,Completed,44,4.2
+RST00569,2025-03-24,Gachibowli,Hyderabad,Fast Food,Dine-in,3,780.88,249.88,531.0,Completed,13,3.6
+RST00570,2025-05-26,Madhapur,Hyderabad,North Indian,Dine-in,3,1021.73,326.95,694.78,Completed,26,4.0
+RST00571,2025-03-03,Madhapur,Hyderabad,Biryani,Dine-in,3,1388.44,444.3,944.14,Completed,39,3.1
+RST00572,2025-04-27,Kukatpally,Hyderabad,Biryani,Delivery,1,479.42,153.41,326.01,Completed,35,4.5
+RST00573,2025-02-07,Banjara Hills,Hyderabad,Fast Food,Delivery,3,1006.37,322.04,684.33,Completed,32,4.5
+RST00574,2025-11-29,Kukatpally,Hyderabad,Chinese,Delivery,3,1319.86,422.36,897.5,Completed,26,4.1
+RST00575,2025-03-02,Madhapur,Hyderabad,South Indian,Dine-in,3,795.41,254.53,540.88,Completed,42,4.0
+RST00576,2025-11-12,Banjara Hills,Hyderabad,Fast Food,Delivery,3,817.32,261.54,555.78,Completed,14,4.5
+RST00577,2025-01-27,Kukatpally,Hyderabad,Biryani,Delivery,3,1321.98,423.03,898.95,Completed,32,3.1
+RST00578,2025-07-24,Secunderabad,Hyderabad,Fast Food,Dine-in,1,201.56,64.5,137.06,Completed,18,3.6
+RST00579,2025-10-01,Madhapur,Hyderabad,South Indian,Delivery,3,825.63,264.2,561.43,Completed,23,4.7
+RST00580,2025-06-03,Madhapur,Hyderabad,Biryani,Takeaway,1,474.75,151.92,322.83,Completed,36,3.8
+RST00581,2025-06-11,Kukatpally,Hyderabad,Chinese,Delivery,3,723.22,231.43,491.79,Completed,30,4.7
+RST00582,2025-02-06,Banjara Hills,Hyderabad,Chinese,Delivery,3,1260.22,403.27,856.95,Completed,16,4.6
+RST00583,2025-01-27,Secunderabad,Hyderabad,South Indian,Delivery,2,606.29,194.01,412.28,Completed,38,4.2
+RST00584,2025-12-27,Banjara Hills,Hyderabad,South Indian,Dine-in,3,1108.47,354.71,753.76,Completed,31,4.8
+RST00585,2025-03-24,Kukatpally,Hyderabad,South Indian,Delivery,2,460.67,147.41,313.26,Completed,19,4.6
+RST00586,2025-05-23,Kukatpally,Hyderabad,Chinese,Delivery,3,1148.03,367.37,780.66,Completed,34,4.6
+RST00587,2025-09-16,Banjara Hills,Hyderabad,Biryani,Dine-in,4,1423.29,455.45,967.84,Completed,13,3.9
+RST00588,2025-01-03,Secunderabad,Hyderabad,North Indian,Dine-in,2,1122.33,359.15,763.18,Completed,44,3.5
+RST00589,2025-01-07,Madhapur,Hyderabad,Fast Food,Delivery,4,1185.07,379.22,805.85,Completed,22,4.1
+RST00590,2025-12-11,Banjara Hills,Hyderabad,Chinese,Delivery,3,1299.65,415.89,883.76,Completed,13,3.6
+RST00591,2025-03-03,Secunderabad,Hyderabad,South Indian,Dine-in,3,683.4,218.69,464.71,Completed,25,3.7
+RST00592,2025-11-05,Kukatpally,Hyderabad,Chinese,Delivery,3,887.64,284.04,603.6,Completed,16,4.7
+RST00593,2025-06-17,Banjara Hills,Hyderabad,Chinese,Takeaway,3,940.61,301.0,639.61,Completed,33,3.3
+RST00594,2025-02-11,Madhapur,Hyderabad,Biryani,Delivery,4,1486.53,475.69,1010.84,Completed,14,3.3
+RST00595,2025-05-16,Kukatpally,Hyderabad,Chinese,Dine-in,4,1378.36,441.08,937.28,Completed,45,3.1
+RST00596,2025-10-11,Gachibowli,Hyderabad,Biryani,Dine-in,3,1294.06,414.1,879.96,Completed,14,4.1
+RST00597,2025-11-15,Secunderabad,Hyderabad,South Indian,Delivery,4,1489.92,476.77,1013.15,Completed,30,4.0
+RST00598,2025-09-24,Gachibowli,Hyderabad,Fast Food,Delivery,2,427.65,136.85,290.8,Completed,44,4.1
+RST00599,2025-05-15,Kukatpally,Hyderabad,North Indian,Delivery,4,1595.48,510.55,1084.93,Completed,10,3.9
+RST00600,2025-05-09,Kukatpally,Hyderabad,South Indian,Dine-in,1,268.3,85.86,182.44,Completed,32,3.6
+RST00601,2025-06-06,Secunderabad,Hyderabad,Biryani,Dine-in,1,422.22,135.11,287.11,Completed,20,3.6
+RST00602,2025-04-22,Kukatpally,Hyderabad,South Indian,Delivery,1,218.57,69.94,148.63,Completed,12,4.4
+RST00603,2025-03-17,Banjara Hills,Hyderabad,Chinese,Takeaway,4,1415.29,452.89,962.4,Completed,40,4.8
+RST00604,2025-09-11,Kukatpally,Hyderabad,Biryani,Delivery,3,1396.84,446.99,949.85,Completed,20,4.7
+RST00605,2025-07-21,Secunderabad,Hyderabad,Biryani,Delivery,3,1240.65,397.01,843.64,Completed,27,4.5
+RST00606,2025-07-01,Madhapur,Hyderabad,South Indian,Dine-in,1,215.11,68.84,146.27,Completed,18,4.0
+RST00607,2025-08-15,Secunderabad,Hyderabad,Biryani,Delivery,1,435.64,139.4,296.24,Completed,17,3.4
+RST00608,2025-09-19,Madhapur,Hyderabad,North Indian,Dine-in,3,1747.31,559.14,1188.17,Completed,43,5.0
+RST00609,2025-03-06,Gachibowli,Hyderabad,Chinese,Delivery,1,429.62,137.48,292.14,Completed,26,4.8
+RST00610,2025-11-06,Banjara Hills,Hyderabad,Biryani,Delivery,4,1621.93,519.02,1102.91,Completed,24,4.6
+RST00611,2025-01-31,Banjara Hills,Hyderabad,Biryani,Dine-in,2,820.34,262.51,557.83,Completed,30,4.3
+RST00612,2025-11-15,Kukatpally,Hyderabad,Fast Food,Dine-in,2,591.21,189.19,402.02,Completed,29,4.2
+RST00613,2025-07-12,Banjara Hills,Hyderabad,Biryani,Delivery,4,1973.13,631.4,1341.73,Completed,17,2.9
+RST00614,2025-05-29,Banjara Hills,Hyderabad,Biryani,Takeaway,2,671.49,214.88,456.61,Completed,41,4.4
+RST00615,2025-05-12,Gachibowli,Hyderabad,Fast Food,Dine-in,3,583.76,186.8,396.96,Completed,21,4.4
+RST00616,2025-12-18,Madhapur,Hyderabad,South Indian,Delivery,3,918.38,293.88,624.5,Completed,37,4.6
+RST00617,2025-02-07,Kukatpally,Hyderabad,Chinese,Dine-in,3,1300.02,416.01,884.01,Cancelled,38,2.7
+RST00618,2025-05-10,Madhapur,Hyderabad,Chinese,Takeaway,3,1429.24,457.36,971.88,Completed,29,3.6
+RST00619,2025-11-10,Kukatpally,Hyderabad,Chinese,Delivery,4,1432.97,458.55,974.42,Completed,33,4.3
+RST00620,2025-05-03,Gachibowli,Hyderabad,Biryani,Delivery,3,1527.19,488.7,1038.49,Completed,35,4.4
+RST00621,2025-06-01,Kukatpally,Hyderabad,Chinese,Takeaway,3,1349.84,431.95,917.89,Completed,42,4.2
+RST00622,2025-12-14,Madhapur,Hyderabad,Fast Food,Delivery,1,308.12,98.6,209.52,Completed,36,4.2
+RST00623,2025-01-02,Madhapur,Hyderabad,Biryani,Delivery,3,1192.8,381.7,811.1,Completed,15,4.1
+RST00624,2025-07-17,Kukatpally,Hyderabad,Chinese,Dine-in,4,1539.23,492.55,1046.68,Completed,26,3.3
+RST00625,2025-12-16,Banjara Hills,Hyderabad,Chinese,Delivery,4,1421.63,454.92,966.71,Cancelled,26,3.3
+RST00626,2025-07-12,Gachibowli,Hyderabad,North Indian,Delivery,1,494.6,158.27,336.33,Completed,40,4.5
+RST00627,2025-03-08,Madhapur,Hyderabad,Chinese,Dine-in,4,1798.46,575.51,1222.95,Completed,28,4.1
+RST00628,2025-05-29,Secunderabad,Hyderabad,Chinese,Delivery,3,863.46,276.31,587.15,Completed,28,2.7
+RST00629,2025-04-07,Gachibowli,Hyderabad,South Indian,Dine-in,1,267.58,85.63,181.95,Completed,20,3.8
+RST00630,2025-12-18,Gachibowli,Hyderabad,Chinese,Dine-in,1,407.05,130.26,276.79,Completed,36,3.3
+RST00631,2025-10-18,Gachibowli,Hyderabad,Chinese,Dine-in,4,2069.76,662.32,1407.44,Completed,10,4.1
+RST00632,2025-02-14,Gachibowli,Hyderabad,Biryani,Takeaway,2,1041.43,333.26,708.17,Completed,31,3.8
+RST00633,2025-03-10,Madhapur,Hyderabad,Fast Food,Delivery,1,285.19,91.26,193.93,Completed,28,4.4
+RST00634,2025-02-26,Secunderabad,Hyderabad,Biryani,Takeaway,2,773.54,247.53,526.01,Completed,29,4.8
+RST00635,2025-07-02,Madhapur,Hyderabad,Biryani,Takeaway,2,924.5,295.84,628.66,Completed,45,3.9
+RST00636,2025-08-01,Madhapur,Hyderabad,Biryani,Dine-in,4,1690.34,540.91,1149.43,Completed,23,4.3
+RST00637,2025-09-01,Secunderabad,Hyderabad,North Indian,Dine-in,2,851.68,272.54,579.14,Completed,16,4.3
+RST00638,2025-06-27,Banjara Hills,Hyderabad,North Indian,Dine-in,3,1378.92,441.25,937.67,Completed,10,4.0
+RST00639,2025-12-10,Gachibowli,Hyderabad,Biryani,Delivery,1,412.36,131.96,280.4,Completed,24,4.2
+RST00640,2025-08-22,Kukatpally,Hyderabad,South Indian,Takeaway,3,1141.95,365.42,776.53,Completed,40,4.3
+RST00641,2025-11-17,Secunderabad,Hyderabad,South Indian,Delivery,3,926.16,296.37,629.79,Completed,17,4.3
+RST00642,2025-12-04,Madhapur,Hyderabad,Fast Food,Takeaway,4,968.31,309.86,658.45,Completed,33,4.0
+RST00643,2025-09-05,Banjara Hills,Hyderabad,Fast Food,Dine-in,1,265.24,84.88,180.36,Completed,13,3.8
+RST00644,2025-08-03,Secunderabad,Hyderabad,Biryani,Takeaway,2,1067.01,341.44,725.57,Completed,33,3.7
+RST00645,2025-05-23,Secunderabad,Hyderabad,Biryani,Dine-in,1,451.18,144.38,306.8,Completed,34,3.4
+RST00646,2025-10-03,Banjara Hills,Hyderabad,Chinese,Dine-in,2,718.81,230.02,488.79,Completed,33,3.7
+RST00647,2025-05-23,Kukatpally,Hyderabad,South Indian,Dine-in,3,1126.26,360.4,765.86,Completed,18,4.4
+RST00648,2025-05-15,Gachibowli,Hyderabad,Biryani,Delivery,3,1183.53,378.73,804.8,Completed,34,3.6
+RST00649,2025-06-08,Madhapur,Hyderabad,Biryani,Delivery,1,417.45,133.58,283.87,Completed,30,4.1
+RST00650,2025-11-29,Kukatpally,Hyderabad,South Indian,Delivery,4,1226.45,392.46,833.99,Completed,21,3.4
+RST00651,2025-12-03,Secunderabad,Hyderabad,North Indian,Delivery,2,722.86,231.32,491.54,Completed,26,4.1
+RST00652,2025-10-29,Kukatpally,Hyderabad,Chinese,Takeaway,1,376.87,120.6,256.27,Completed,43,4.0
+RST00653,2025-07-30,Banjara Hills,Hyderabad,South Indian,Delivery,1,200.93,64.3,136.63,Completed,29,3.5
+RST00654,2025-05-15,Kukatpally,Hyderabad,Biryani,Delivery,1,358.0,114.56,243.44,Completed,45,3.6
+RST00655,2025-08-20,Madhapur,Hyderabad,North Indian,Dine-in,4,1691.83,541.39,1150.44,Completed,45,3.5
+RST00656,2025-09-20,Secunderabad,Hyderabad,Fast Food,Takeaway,4,1179.47,377.43,802.04,Completed,23,3.8
+RST00657,2025-04-28,Madhapur,Hyderabad,Chinese,Dine-in,3,959.13,306.92,652.21,Completed,34,3.5
+RST00658,2025-03-22,Madhapur,Hyderabad,Biryani,Delivery,1,495.86,158.68,337.18,Completed,19,4.2
+RST00659,2025-10-08,Kukatpally,Hyderabad,Biryani,Delivery,3,1054.41,337.41,717.0,Completed,36,3.9
+RST00660,2025-10-23,Kukatpally,Hyderabad,Fast Food,Dine-in,3,741.29,237.21,504.08,Completed,34,2.6
+RST00661,2025-05-07,Madhapur,Hyderabad,Fast Food,Delivery,2,516.54,165.29,351.25,Completed,44,4.6
+RST00662,2025-04-04,Secunderabad,Hyderabad,Chinese,Delivery,1,466.34,149.23,317.11,Completed,43,3.7
+RST00663,2025-08-23,Gachibowli,Hyderabad,Biryani,Takeaway,1,552.49,176.8,375.69,Completed,33,3.9
+RST00664,2025-07-23,Gachibowli,Hyderabad,Chinese,Delivery,4,1297.58,415.23,882.35,Completed,12,4.5
+RST00665,2025-12-11,Banjara Hills,Hyderabad,North Indian,Delivery,3,1312.4,419.97,892.43,Completed,32,4.2
+RST00666,2025-11-20,Gachibowli,Hyderabad,Biryani,Dine-in,4,1889.53,604.65,1284.88,Completed,25,4.5
+RST00667,2025-07-05,Madhapur,Hyderabad,Biryani,Takeaway,3,1290.17,412.85,877.32,Completed,19,3.8
+RST00668,2025-07-05,Kukatpally,Hyderabad,Biryani,Delivery,2,719.76,230.32,489.44,Completed,37,3.4
+RST00669,2025-01-25,Secunderabad,Hyderabad,Fast Food,Dine-in,4,985.32,315.3,670.02,Completed,22,3.9
+RST00670,2025-07-01,Madhapur,Hyderabad,Biryani,Delivery,1,281.72,90.15,191.57,Completed,28,3.9
+RST00671,2025-06-01,Secunderabad,Hyderabad,Biryani,Takeaway,1,442.33,141.55,300.78,Completed,34,4.4
+RST00672,2025-09-29,Kukatpally,Hyderabad,Chinese,Dine-in,4,1202.72,384.87,817.85,Completed,12,4.4
+RST00673,2025-09-26,Banjara Hills,Hyderabad,South Indian,Dine-in,3,910.6,291.39,619.21,Completed,27,4.5
+RST00674,2025-02-12,Kukatpally,Hyderabad,North Indian,Delivery,3,1453.76,465.2,988.56,Cancelled,39,2.4
+RST00675,2025-02-16,Gachibowli,Hyderabad,Chinese,Takeaway,3,1167.37,373.56,793.81,Cancelled,11,3.1
+RST00676,2025-01-18,Madhapur,Hyderabad,Biryani,Dine-in,4,2304.89,737.56,1567.33,Completed,35,3.7
+RST00677,2025-11-09,Madhapur,Hyderabad,Chinese,Delivery,4,1600.52,512.17,1088.35,Completed,30,5.0
+RST00678,2025-11-02,Gachibowli,Hyderabad,Chinese,Dine-in,1,463.19,148.22,314.97,Completed,12,3.1
+RST00679,2025-07-09,Gachibowli,Hyderabad,Biryani,Dine-in,4,1309.34,418.99,890.35,Completed,13,4.2
+RST00680,2025-03-23,Madhapur,Hyderabad,South Indian,Dine-in,4,1388.29,444.25,944.04,Completed,38,4.1
+RST00681,2025-07-23,Gachibowli,Hyderabad,South Indian,Dine-in,3,828.6,265.15,563.45,Completed,43,2.7
+RST00682,2025-02-11,Madhapur,Hyderabad,Chinese,Delivery,4,1406.27,450.01,956.26,Completed,29,4.2
+RST00683,2025-09-11,Madhapur,Hyderabad,South Indian,Delivery,3,746.29,238.81,507.48,Completed,39,4.3
+RST00684,2025-08-10,Madhapur,Hyderabad,North Indian,Dine-in,1,621.84,198.99,422.85,Completed,33,3.6
+RST00685,2025-08-28,Madhapur,Hyderabad,South Indian,Dine-in,1,266.48,85.27,181.21,Completed,34,3.1
+RST00686,2025-09-13,Banjara Hills,Hyderabad,South Indian,Delivery,3,909.26,290.96,618.3,Completed,25,3.1
+RST00687,2025-04-15,Kukatpally,Hyderabad,Chinese,Dine-in,3,1020.31,326.5,693.81,Completed,25,4.9
+RST00688,2025-06-16,Secunderabad,Hyderabad,North Indian,Dine-in,1,449.8,143.94,305.86,Completed,43,4.6
+RST00689,2025-09-01,Madhapur,Hyderabad,South Indian,Dine-in,2,446.64,142.92,303.72,Completed,37,4.8
+RST00690,2025-04-17,Secunderabad,Hyderabad,Fast Food,Takeaway,4,854.89,273.56,581.33,Completed,35,4.8
+RST00691,2025-11-06,Banjara Hills,Hyderabad,South Indian,Dine-in,2,551.9,176.61,375.29,Completed,22,5.0
+RST00692,2025-10-09,Banjara Hills,Hyderabad,South Indian,Delivery,1,233.11,74.6,158.51,Completed,35,3.4
+RST00693,2025-01-22,Banjara Hills,Hyderabad,South Indian,Delivery,1,295.89,94.68,201.21,Completed,12,3.5
+RST00694,2025-03-06,Secunderabad,Hyderabad,Biryani,Dine-in,4,1414.47,452.63,961.84,Completed,35,4.6
+RST00695,2025-01-26,Madhapur,Hyderabad,Fast Food,Dine-in,2,706.78,226.17,480.61,Completed,40,4.8
+RST00696,2025-05-30,Gachibowli,Hyderabad,South Indian,Dine-in,3,1003.81,321.22,682.59,Completed,12,3.7
+RST00697,2025-12-15,Secunderabad,Hyderabad,Biryani,Delivery,4,1584.0,506.88,1077.12,Completed,14,4.3
+RST00698,2025-08-02,Secunderabad,Hyderabad,Fast Food,Takeaway,4,1354.22,433.35,920.87,Completed,38,5.0
+RST00699,2025-10-12,Secunderabad,Hyderabad,Biryani,Delivery,1,484.57,155.06,329.51,Completed,21,3.3
+RST00700,2025-12-31,Secunderabad,Hyderabad,Biryani,Dine-in,3,1331.69,426.14,905.55,Completed,31,4.2
+RST00701,2025-11-07,Secunderabad,Hyderabad,Chinese,Dine-in,3,1423.72,455.59,968.13,Completed,31,4.3
+RST00702,2025-07-21,Kukatpally,Hyderabad,Fast Food,Delivery,1,237.38,75.96,161.42,Completed,31,4.2
+RST00703,2025-04-22,Secunderabad,Hyderabad,South Indian,Dine-in,2,592.24,189.52,402.72,Completed,16,4.5
+RST00704,2025-05-10,Banjara Hills,Hyderabad,Chinese,Dine-in,4,1956.28,626.01,1330.27,Completed,16,4.0
+RST00705,2025-06-11,Kukatpally,Hyderabad,South Indian,Takeaway,2,590.68,189.02,401.66,Completed,25,5.0
+RST00706,2025-04-27,Secunderabad,Hyderabad,South Indian,Delivery,2,602.19,192.7,409.49,Completed,38,4.1
+RST00707,2025-11-05,Kukatpally,Hyderabad,Biryani,Delivery,1,376.48,120.47,256.01,Completed,28,4.6
+RST00708,2025-11-15,Madhapur,Hyderabad,South Indian,Delivery,1,335.83,107.47,228.36,Completed,24,4.1
+RST00709,2025-08-30,Kukatpally,Hyderabad,Biryani,Dine-in,1,383.72,122.79,260.93,Completed,21,3.9
+RST00710,2025-03-24,Banjara Hills,Hyderabad,Fast Food,Dine-in,2,475.95,152.3,323.65,Completed,27,3.7
+RST00711,2025-12-21,Gachibowli,Hyderabad,South Indian,Dine-in,4,1251.28,400.41,850.87,Completed,19,4.0
+RST00712,2025-05-31,Madhapur,Hyderabad,South Indian,Delivery,3,1122.29,359.13,763.16,Completed,10,3.1
+RST00713,2025-11-03,Secunderabad,Hyderabad,North Indian,Dine-in,4,1838.24,588.24,1250.0,Completed,45,4.0
+RST00714,2025-10-26,Banjara Hills,Hyderabad,Chinese,Delivery,3,1239.18,396.54,842.64,Completed,31,4.1
+RST00715,2025-08-29,Secunderabad,Hyderabad,Chinese,Dine-in,2,888.42,284.29,604.13,Completed,20,3.4
+RST00716,2025-05-23,Gachibowli,Hyderabad,South Indian,Takeaway,2,518.26,165.84,352.42,Completed,23,4.5
+RST00717,2025-02-03,Gachibowli,Hyderabad,Biryani,Delivery,3,1394.39,446.2,948.19,Completed,41,3.5
+RST00718,2025-09-16,Secunderabad,Hyderabad,Biryani,Delivery,3,996.15,318.77,677.38,Completed,38,4.1
+RST00719,2025-07-14,Secunderabad,Hyderabad,Biryani,Dine-in,3,1141.87,365.4,776.47,Completed,12,4.0
+RST00720,2025-09-03,Banjara Hills,Hyderabad,Chinese,Dine-in,4,1437.68,460.06,977.62,Completed,37,4.8
+RST00721,2025-12-21,Banjara Hills,Hyderabad,Biryani,Delivery,4,2130.65,681.81,1448.84,Completed,12,4.1
+RST00722,2025-08-16,Gachibowli,Hyderabad,Biryani,Takeaway,2,852.47,272.79,579.68,Completed,21,3.9
+RST00723,2025-07-06,Gachibowli,Hyderabad,South Indian,Takeaway,2,730.82,233.86,496.96,Completed,31,4.4
+RST00724,2025-11-23,Secunderabad,Hyderabad,Biryani,Delivery,3,1671.74,534.96,1136.78,Completed,21,4.4
+RST00725,2025-01-22,Secunderabad,Hyderabad,Chinese,Dine-in,4,1471.71,470.95,1000.76,Completed,16,3.9
+RST00726,2025-05-17,Gachibowli,Hyderabad,South Indian,Delivery,3,1045.25,334.48,710.77,Completed,24,4.1
+RST00727,2025-10-16,Secunderabad,Hyderabad,Fast Food,Dine-in,2,498.2,159.42,338.78,Completed,11,4.4
+RST00728,2025-11-24,Banjara Hills,Hyderabad,Biryani,Dine-in,4,1273.56,407.54,866.02,Completed,44,3.6
+RST00729,2025-08-27,Gachibowli,Hyderabad,Biryani,Dine-in,1,474.39,151.8,322.59,Completed,38,4.0
+RST00730,2025-06-24,Banjara Hills,Hyderabad,Biryani,Dine-in,4,1720.63,550.6,1170.03,Completed,17,3.8
+RST00731,2025-04-02,Gachibowli,Hyderabad,South Indian,Delivery,3,919.01,294.08,624.93,Completed,18,4.6
+RST00732,2025-09-17,Secunderabad,Hyderabad,North Indian,Dine-in,1,504.06,161.3,342.76,Completed,10,4.6
+RST00733,2025-06-18,Secunderabad,Hyderabad,Biryani,Dine-in,2,771.92,247.01,524.91,Completed,24,4.3
+RST00734,2025-09-26,Madhapur,Hyderabad,North Indian,Delivery,3,1599.2,511.74,1087.46,Completed,35,4.1
+RST00735,2025-10-30,Madhapur,Hyderabad,Biryani,Takeaway,3,1218.36,389.88,828.48,Completed,23,4.0
+RST00736,2025-10-05,Gachibowli,Hyderabad,Biryani,Dine-in,4,2247.6,719.23,1528.37,Completed,40,2.9
+RST00737,2025-10-12,Madhapur,Hyderabad,North Indian,Dine-in,3,1525.09,488.03,1037.06,Completed,45,4.2
+RST00738,2025-03-07,Gachibowli,Hyderabad,Biryani,Dine-in,1,578.3,185.06,393.24,Completed,38,4.2
+RST00739,2025-01-11,Gachibowli,Hyderabad,South Indian,Takeaway,4,1072.47,343.19,729.28,Cancelled,31,2.8
+RST00740,2025-04-08,Kukatpally,Hyderabad,Chinese,Dine-in,3,1306.24,418.0,888.24,Completed,36,5.0
+RST00741,2025-05-14,Banjara Hills,Hyderabad,Chinese,Delivery,2,652.49,208.8,443.69,Completed,29,4.4
+RST00742,2025-03-19,Kukatpally,Hyderabad,South Indian,Dine-in,3,683.73,218.79,464.94,Completed,44,4.4
+RST00743,2025-06-05,Secunderabad,Hyderabad,South Indian,Takeaway,1,235.0,75.2,159.8,Completed,25,4.2
+RST00744,2025-01-07,Secunderabad,Hyderabad,South Indian,Takeaway,2,518.35,165.87,352.48,Completed,29,5.0
+RST00745,2025-08-24,Madhapur,Hyderabad,Fast Food,Dine-in,2,685.76,219.44,466.32,Completed,11,4.4
+RST00746,2025-11-16,Banjara Hills,Hyderabad,Biryani,Dine-in,3,1309.41,419.01,890.4,Completed,42,4.1
+RST00747,2025-07-25,Gachibowli,Hyderabad,Fast Food,Delivery,2,528.87,169.24,359.63,Completed,14,3.8
+RST00748,2025-12-02,Madhapur,Hyderabad,Biryani,Dine-in,3,1222.85,391.31,831.54,Completed,30,4.9
+RST00749,2025-09-27,Gachibowli,Hyderabad,Chinese,Delivery,4,1969.33,630.19,1339.14,Completed,21,5.0
+RST00750,2025-06-01,Kukatpally,Hyderabad,Biryani,Dine-in,3,1726.86,552.6,1174.26,Completed,32,4.2
+RST00751,2025-11-22,Banjara Hills,Hyderabad,South Indian,Dine-in,3,1172.43,375.18,797.25,Completed,13,3.3
+RST00752,2025-07-25,Madhapur,Hyderabad,Fast Food,Dine-in,3,977.25,312.72,664.53,Completed,36,5.0
+RST00753,2025-02-24,Secunderabad,Hyderabad,Chinese,Dine-in,3,1053.46,337.11,716.35,Completed,19,4.4
+RST00754,2025-02-08,Kukatpally,Hyderabad,Fast Food,Delivery,4,1228.79,393.21,835.58,Completed,35,4.7
+RST00755,2025-11-16,Gachibowli,Hyderabad,North Indian,Delivery,3,1903.97,609.27,1294.7,Completed,26,4.5
+RST00756,2025-05-09,Kukatpally,Hyderabad,Fast Food,Takeaway,1,281.64,90.12,191.52,Completed,10,5.0
+RST00757,2025-06-21,Madhapur,Hyderabad,North Indian,Delivery,3,1213.8,388.42,825.38,Completed,39,3.5
+RST00758,2025-05-16,Madhapur,Hyderabad,North Indian,Dine-in,2,1025.62,328.2,697.42,Completed,32,4.1
+RST00759,2025-11-18,Madhapur,Hyderabad,Fast Food,Dine-in,2,513.96,164.47,349.49,Completed,26,3.9
+RST00760,2025-04-29,Banjara Hills,Hyderabad,Biryani,Delivery,2,900.39,288.12,612.27,Completed,45,4.0
+RST00761,2025-02-14,Kukatpally,Hyderabad,Biryani,Dine-in,4,2154.8,689.54,1465.26,Completed,42,3.7
+RST00762,2025-09-17,Banjara Hills,Hyderabad,Chinese,Delivery,4,1360.73,435.43,925.3,Completed,28,4.7
+RST00763,2025-01-17,Banjara Hills,Hyderabad,Biryani,Dine-in,2,799.41,255.81,543.6,Completed,16,4.1
+RST00764,2025-05-05,Banjara Hills,Hyderabad,Biryani,Delivery,4,1341.19,429.18,912.01,Completed,26,4.1
+RST00765,2025-02-05,Secunderabad,Hyderabad,North Indian,Delivery,4,1499.29,479.77,1019.52,Completed,28,4.6
+RST00766,2025-06-20,Madhapur,Hyderabad,Biryani,Delivery,1,402.92,128.93,273.99,Cancelled,10,4.4
+RST00767,2025-06-17,Kukatpally,Hyderabad,Fast Food,Delivery,1,203.52,65.13,138.39,Completed,27,4.4
+RST00768,2025-08-03,Gachibowli,Hyderabad,Chinese,Dine-in,3,1053.61,337.16,716.45,Completed,20,3.8
+RST00769,2025-06-03,Gachibowli,Hyderabad,North Indian,Dine-in,1,363.97,116.47,247.5,Completed,12,4.2
+RST00770,2025-11-28,Secunderabad,Hyderabad,Biryani,Delivery,1,445.15,142.45,302.7,Completed,19,4.1
+RST00771,2025-06-12,Kukatpally,Hyderabad,North Indian,Dine-in,1,342.08,109.47,232.61,Completed,15,4.2
+RST00772,2025-09-04,Secunderabad,Hyderabad,Biryani,Dine-in,4,1335.33,427.31,908.02,Completed,31,3.6
+RST00773,2025-12-25,Gachibowli,Hyderabad,Biryani,Dine-in,4,1855.91,593.89,1262.02,Completed,18,4.2
+RST00774,2025-07-23,Banjara Hills,Hyderabad,South Indian,Delivery,3,599.61,191.88,407.73,Completed,42,4.8
+RST00775,2025-06-11,Kukatpally,Hyderabad,Biryani,Takeaway,2,833.89,266.84,567.05,Completed,31,5.0
+RST00776,2025-07-05,Kukatpally,Hyderabad,South Indian,Delivery,3,709.29,226.97,482.32,Completed,12,4.4
+RST00777,2025-10-06,Banjara Hills,Hyderabad,Chinese,Dine-in,2,599.45,191.82,407.63,Completed,41,2.7
+RST00778,2025-10-19,Banjara Hills,Hyderabad,Biryani,Dine-in,2,911.84,291.79,620.05,Completed,10,4.1
+RST00779,2025-10-30,Secunderabad,Hyderabad,Chinese,Delivery,3,959.66,307.09,652.57,Completed,20,4.2
+RST00780,2025-08-23,Banjara Hills,Hyderabad,South Indian,Delivery,4,1274.68,407.9,866.78,Completed,40,4.4
+RST00781,2025-11-24,Gachibowli,Hyderabad,Fast Food,Dine-in,3,777.05,248.66,528.39,Completed,25,3.6
+RST00782,2025-10-01,Madhapur,Hyderabad,Chinese,Delivery,4,1183.81,378.82,804.99,Completed,35,4.4
+RST00783,2025-05-21,Kukatpally,Hyderabad,South Indian,Takeaway,1,282.82,90.5,192.32,Completed,34,3.5
+RST00784,2025-12-27,Gachibowli,Hyderabad,Fast Food,Delivery,3,1042.53,333.61,708.92,Completed,43,4.1
+RST00785,2025-11-08,Banjara Hills,Hyderabad,Chinese,Dine-in,3,1495.98,478.71,1017.27,Completed,30,3.6
+RST00786,2025-10-07,Madhapur,Hyderabad,South Indian,Delivery,4,848.16,271.41,576.75,Completed,29,4.3
+RST00787,2025-05-14,Madhapur,Hyderabad,Biryani,Delivery,3,1319.17,422.13,897.04,Completed,33,3.0
+RST00788,2025-05-29,Kukatpally,Hyderabad,Biryani,Dine-in,4,1488.88,476.44,1012.44,Completed,27,3.9
+RST00789,2025-12-13,Secunderabad,Hyderabad,Fast Food,Dine-in,1,314.5,100.64,213.86,Completed,29,4.3
+RST00790,2025-04-06,Secunderabad,Hyderabad,Chinese,Delivery,3,1319.69,422.3,897.39,Completed,25,4.0
+RST00791,2025-01-20,Gachibowli,Hyderabad,Chinese,Delivery,1,323.23,103.43,219.8,Completed,27,3.5
+RST00792,2025-04-17,Gachibowli,Hyderabad,North Indian,Takeaway,2,848.18,271.42,576.76,Completed,35,3.4
+RST00793,2025-01-10,Madhapur,Hyderabad,Fast Food,Takeaway,1,307.68,98.46,209.22,Completed,39,3.6
+RST00794,2025-03-06,Gachibowli,Hyderabad,Chinese,Dine-in,4,1385.46,443.35,942.11,Completed,15,4.0
+RST00795,2025-04-16,Secunderabad,Hyderabad,North Indian,Dine-in,1,453.0,144.96,308.04,Completed,13,4.3
+RST00796,2025-12-16,Madhapur,Hyderabad,South Indian,Dine-in,1,257.97,82.55,175.42,Completed,43,4.5
+RST00797,2025-06-29,Banjara Hills,Hyderabad,Fast Food,Delivery,3,896.74,286.96,609.78,Completed,28,3.4
+RST00798,2025-07-25,Banjara Hills,Hyderabad,Chinese,Delivery,1,390.49,124.96,265.53,Completed,37,3.7
+RST00799,2025-05-18,Banjara Hills,Hyderabad,North Indian,Dine-in,3,1607.38,514.36,1093.02,Completed,44,3.8
+RST00800,2025-07-02,Gachibowli,Hyderabad,Fast Food,Delivery,1,165.61,53.0,112.61,Cancelled,34,2.8
+RST00801,2025-07-06,Gachibowli,Hyderabad,South Indian,Delivery,2,481.93,154.22,327.71,Cancelled,21,2.4
+RST00802,2025-06-01,Madhapur,Hyderabad,Biryani,Dine-in,2,815.95,261.1,554.85,Completed,24,5.0
+RST00803,2025-06-10,Gachibowli,Hyderabad,Biryani,Dine-in,1,364.61,116.68,247.93,Completed,44,4.0
+RST00804,2025-03-07,Madhapur,Hyderabad,Biryani,Dine-in,2,847.75,271.28,576.47,Completed,41,4.7
+RST00805,2025-01-28,Kukatpally,Hyderabad,North Indian,Takeaway,3,1200.61,384.2,816.41,Completed,19,3.4
+RST00806,2025-03-05,Madhapur,Hyderabad,South Indian,Dine-in,3,723.93,231.66,492.27,Completed,31,4.7
+RST00807,2025-12-26,Secunderabad,Hyderabad,North Indian,Dine-in,4,2313.56,740.34,1573.22,Completed,41,3.6
+RST00808,2025-06-23,Banjara Hills,Hyderabad,Biryani,Dine-in,2,960.73,307.43,653.3,Completed,25,4.1
+RST00809,2025-11-23,Kukatpally,Hyderabad,Fast Food,Dine-in,2,533.51,170.72,362.79,Completed,29,4.7
+RST00810,2025-09-09,Madhapur,Hyderabad,South Indian,Delivery,4,1119.35,358.19,761.16,Completed,24,4.4
+RST00811,2025-11-03,Banjara Hills,Hyderabad,Biryani,Dine-in,4,1259.9,403.17,856.73,Completed,13,3.9
+RST00812,2025-05-17,Madhapur,Hyderabad,North Indian,Dine-in,1,614.65,196.69,417.96,Completed,23,3.5
+RST00813,2025-10-02,Madhapur,Hyderabad,South Indian,Takeaway,3,849.84,271.95,577.89,Completed,22,4.7
+RST00814,2025-04-20,Gachibowli,Hyderabad,Fast Food,Dine-in,2,499.48,159.83,339.65,Completed,13,4.5
+RST00815,2025-01-21,Secunderabad,Hyderabad,Fast Food,Delivery,1,222.65,71.25,151.4,Completed,35,3.9
+RST00816,2025-03-01,Kukatpally,Hyderabad,Chinese,Dine-in,4,1931.5,618.08,1313.42,Completed,10,4.0
+RST00817,2025-09-24,Gachibowli,Hyderabad,North Indian,Dine-in,4,1521.2,486.78,1034.42,Completed,23,4.8
+RST00818,2025-01-29,Secunderabad,Hyderabad,North Indian,Takeaway,1,491.4,157.25,334.15,Completed,14,4.1
+RST00819,2025-06-02,Kukatpally,Hyderabad,North Indian,Delivery,3,888.68,284.38,604.3,Completed,34,3.1
+RST00820,2025-04-11,Kukatpally,Hyderabad,Chinese,Dine-in,3,1474.0,471.68,1002.32,Completed,42,3.5
+RST00821,2025-04-28,Secunderabad,Hyderabad,South Indian,Delivery,2,561.74,179.76,381.98,Completed,10,3.7
+RST00822,2025-12-20,Secunderabad,Hyderabad,South Indian,Delivery,3,871.19,278.78,592.41,Completed,12,4.8
+RST00823,2025-08-13,Madhapur,Hyderabad,Biryani,Delivery,1,472.75,151.28,321.47,Completed,25,4.0
+RST00824,2025-08-19,Secunderabad,Hyderabad,Biryani,Dine-in,1,385.9,123.49,262.41,Completed,12,3.6
+RST00825,2025-05-14,Banjara Hills,Hyderabad,North Indian,Delivery,4,1823.17,583.41,1239.76,Completed,42,4.1
+RST00826,2025-06-24,Kukatpally,Hyderabad,South Indian,Dine-in,2,560.47,179.35,381.12,Completed,19,4.0
+RST00827,2025-02-28,Madhapur,Hyderabad,Biryani,Delivery,1,560.39,179.32,381.07,Completed,40,4.7
+RST00828,2025-08-16,Banjara Hills,Hyderabad,Chinese,Delivery,4,1489.02,476.49,1012.53,Completed,38,3.7
+RST00829,2025-04-14,Madhapur,Hyderabad,North Indian,Dine-in,2,1015.24,324.88,690.36,Completed,35,3.8
+RST00830,2025-09-15,Madhapur,Hyderabad,North Indian,Delivery,3,1499.7,479.9,1019.8,Completed,14,3.9
+RST00831,2025-04-16,Secunderabad,Hyderabad,Biryani,Takeaway,4,1402.59,448.83,953.76,Completed,45,4.2
+RST00832,2025-10-31,Gachibowli,Hyderabad,South Indian,Dine-in,3,838.51,268.32,570.19,Completed,36,4.2
+RST00833,2025-01-10,Banjara Hills,Hyderabad,Chinese,Takeaway,4,1654.84,529.55,1125.29,Completed,29,3.8
+RST00834,2025-12-13,Gachibowli,Hyderabad,Biryani,Delivery,3,1495.75,478.64,1017.11,Completed,45,4.3
+RST00835,2025-03-03,Madhapur,Hyderabad,Fast Food,Takeaway,2,562.86,180.12,382.74,Completed,17,4.0
+RST00836,2025-09-13,Kukatpally,Hyderabad,South Indian,Takeaway,2,723.07,231.38,491.69,Completed,14,5.0
+RST00837,2025-05-22,Madhapur,Hyderabad,Biryani,Delivery,4,1348.09,431.39,916.7,Completed,10,4.6
+RST00838,2025-09-06,Gachibowli,Hyderabad,South Indian,Takeaway,4,1227.7,392.86,834.84,Completed,44,4.3
+RST00839,2025-09-29,Madhapur,Hyderabad,Biryani,Delivery,3,1209.39,387.0,822.39,Completed,32,4.6
+RST00840,2025-01-05,Madhapur,Hyderabad,South Indian,Delivery,1,392.28,125.53,266.75,Completed,14,3.8
+RST00841,2025-12-09,Kukatpally,Hyderabad,Biryani,Dine-in,4,1779.16,569.33,1209.83,Completed,45,4.0
+RST00842,2025-10-16,Banjara Hills,Hyderabad,North Indian,Takeaway,4,1578.27,505.05,1073.22,Completed,15,4.3
+RST00843,2025-06-03,Gachibowli,Hyderabad,Chinese,Delivery,2,570.02,182.41,387.61,Completed,28,3.8
+RST00844,2025-06-25,Banjara Hills,Hyderabad,South Indian,Dine-in,3,950.32,304.1,646.22,Completed,39,4.4
+RST00845,2025-09-03,Gachibowli,Hyderabad,Biryani,Delivery,2,724.59,231.87,492.72,Completed,40,5.0
+RST00846,2025-06-16,Madhapur,Hyderabad,Biryani,Dine-in,4,1920.12,614.44,1305.68,Completed,18,4.1
+RST00847,2025-03-20,Gachibowli,Hyderabad,Chinese,Dine-in,3,906.47,290.07,616.4,Completed,45,4.0
+RST00848,2025-09-07,Banjara Hills,Hyderabad,Chinese,Delivery,2,976.81,312.58,664.23,Cancelled,27,3.5
+RST00849,2025-09-21,Kukatpally,Hyderabad,South Indian,Dine-in,2,638.73,204.39,434.34,Completed,26,3.2
+RST00850,2025-08-23,Madhapur,Hyderabad,South Indian,Dine-in,4,1057.44,338.38,719.06,Completed,23,4.6
+RST00851,2025-03-30,Madhapur,Hyderabad,Chinese,Dine-in,2,1063.83,340.43,723.4,Completed,29,4.3
+RST00852,2025-09-07,Secunderabad,Hyderabad,North Indian,Delivery,4,2205.94,705.9,1500.04,Completed,30,3.1
+RST00853,2025-12-08,Kukatpally,Hyderabad,Biryani,Dine-in,4,1766.34,565.23,1201.11,Completed,15,4.7
+RST00854,2025-06-15,Secunderabad,Hyderabad,Biryani,Delivery,1,423.6,135.55,288.05,Completed,38,5.0
+RST00855,2025-03-04,Banjara Hills,Hyderabad,North Indian,Delivery,2,1005.94,321.9,684.04,Completed,19,4.4
+RST00856,2025-07-12,Kukatpally,Hyderabad,Chinese,Delivery,1,449.8,143.94,305.86,Completed,29,4.3
+RST00857,2025-04-24,Gachibowli,Hyderabad,North Indian,Delivery,2,741.9,237.41,504.49,Cancelled,32,2.1
+RST00858,2025-02-19,Banjara Hills,Hyderabad,Chinese,Takeaway,4,1243.68,397.98,845.7,Completed,16,4.6
+RST00859,2025-09-10,Madhapur,Hyderabad,Chinese,Delivery,4,1618.5,517.92,1100.58,Completed,45,3.9
+RST00860,2025-10-18,Gachibowli,Hyderabad,South Indian,Dine-in,2,634.43,203.02,431.41,Completed,17,3.5
+RST00861,2025-05-23,Gachibowli,Hyderabad,North Indian,Dine-in,4,1894.96,606.39,1288.57,Completed,31,5.0
+RST00862,2025-09-06,Secunderabad,Hyderabad,South Indian,Delivery,4,1501.33,480.43,1020.9,Completed,15,3.4
+RST00863,2025-04-05,Banjara Hills,Hyderabad,South Indian,Dine-in,4,1560.56,499.38,1061.18,Completed,26,4.2
+RST00864,2025-12-31,Secunderabad,Hyderabad,South Indian,Dine-in,1,234.34,74.99,159.35,Completed,44,4.7
+RST00865,2025-04-20,Banjara Hills,Hyderabad,Biryani,Dine-in,2,775.56,248.18,527.38,Completed,26,4.1
+RST00866,2025-03-18,Secunderabad,Hyderabad,Chinese,Delivery,3,1304.81,417.54,887.27,Completed,12,4.1
+RST00867,2025-10-19,Kukatpally,Hyderabad,South Indian,Takeaway,2,618.65,197.97,420.68,Completed,40,4.3
+RST00868,2025-12-02,Secunderabad,Hyderabad,North Indian,Dine-in,4,1737.44,555.98,1181.46,Completed,13,4.3
+RST00869,2025-12-08,Kukatpally,Hyderabad,Fast Food,Dine-in,3,653.8,209.22,444.58,Completed,25,4.1
+RST00870,2025-02-15,Madhapur,Hyderabad,South Indian,Dine-in,3,990.2,316.86,673.34,Completed,13,4.5
+RST00871,2025-01-12,Madhapur,Hyderabad,Chinese,Delivery,4,1477.45,472.78,1004.67,Completed,19,3.4
+RST00872,2025-04-12,Gachibowli,Hyderabad,Fast Food,Takeaway,1,360.28,115.29,244.99,Completed,11,3.9
+RST00873,2025-01-25,Madhapur,Hyderabad,Biryani,Delivery,1,583.7,186.78,396.92,Completed,41,2.4
+RST00874,2025-07-07,Kukatpally,Hyderabad,South Indian,Dine-in,2,437.15,139.89,297.26,Completed,29,4.0
+RST00875,2025-01-25,Kukatpally,Hyderabad,Chinese,Delivery,2,853.1,272.99,580.11,Completed,25,3.5
+RST00876,2025-08-01,Madhapur,Hyderabad,North Indian,Delivery,4,1885.22,603.27,1281.95,Completed,17,3.6
+RST00877,2025-11-27,Gachibowli,Hyderabad,Biryani,Dine-in,1,419.39,134.2,285.19,Completed,35,3.5
+RST00878,2025-11-23,Gachibowli,Hyderabad,North Indian,Takeaway,2,1108.47,354.71,753.76,Completed,39,4.0
+RST00879,2025-05-17,Gachibowli,Hyderabad,North Indian,Dine-in,3,1384.68,443.1,941.58,Completed,20,4.6
+RST00880,2025-01-11,Gachibowli,Hyderabad,Fast Food,Dine-in,1,285.49,91.36,194.13,Completed,20,3.3
+RST00881,2025-06-02,Secunderabad,Hyderabad,Chinese,Delivery,1,276.21,88.39,187.82,Cancelled,17,2.6
+RST00882,2025-10-22,Gachibowli,Hyderabad,Biryani,Dine-in,1,416.7,133.34,283.36,Completed,34,4.5
+RST00883,2025-03-17,Kukatpally,Hyderabad,Fast Food,Dine-in,4,1040.16,332.85,707.31,Completed,14,3.9
+RST00884,2025-03-16,Banjara Hills,Hyderabad,Chinese,Delivery,1,500.71,160.23,340.48,Completed,14,3.5
+RST00885,2025-07-29,Gachibowli,Hyderabad,Biryani,Takeaway,4,1388.43,444.3,944.13,Completed,34,4.3
+RST00886,2025-05-17,Banjara Hills,Hyderabad,South Indian,Dine-in,4,1450.76,464.24,986.52,Completed,26,3.8
+RST00887,2025-08-26,Banjara Hills,Hyderabad,South Indian,Takeaway,1,268.77,86.01,182.76,Completed,11,3.5
+RST00888,2025-12-12,Madhapur,Hyderabad,South Indian,Dine-in,1,301.91,96.61,205.3,Completed,25,3.7
+RST00889,2025-10-29,Secunderabad,Hyderabad,North Indian,Dine-in,2,963.08,308.19,654.89,Completed,37,5.0
+RST00890,2025-03-30,Gachibowli,Hyderabad,Biryani,Dine-in,3,1309.41,419.01,890.4,Completed,28,4.1
+RST00891,2025-08-13,Gachibowli,Hyderabad,Biryani,Delivery,4,1382.62,442.44,940.18,Completed,33,3.7
+RST00892,2025-01-25,Madhapur,Hyderabad,South Indian,Delivery,1,352.09,112.67,239.42,Completed,30,3.7
+RST00893,2025-06-25,Gachibowli,Hyderabad,Chinese,Delivery,3,1059.51,339.04,720.47,Completed,41,4.3
+RST00894,2025-06-23,Banjara Hills,Hyderabad,North Indian,Dine-in,2,748.04,239.37,508.67,Completed,41,4.3
+RST00895,2025-08-10,Banjara Hills,Hyderabad,South Indian,Takeaway,3,805.37,257.72,547.65,Completed,18,3.8
+RST00896,2025-04-05,Madhapur,Hyderabad,South Indian,Dine-in,3,772.95,247.34,525.61,Completed,16,3.4
+RST00897,2025-08-28,Kukatpally,Hyderabad,Fast Food,Dine-in,3,817.59,261.63,555.96,Completed,41,4.4
+RST00898,2025-02-15,Gachibowli,Hyderabad,Chinese,Delivery,3,1161.99,371.84,790.15,Completed,18,4.5
+RST00899,2025-06-29,Madhapur,Hyderabad,South Indian,Delivery,3,722.11,231.08,491.03,Cancelled,15,2.6
+RST00900,2025-03-10,Banjara Hills,Hyderabad,South Indian,Dine-in,3,819.33,262.19,557.14,Completed,28,4.3
+RST00901,2025-06-30,Secunderabad,Hyderabad,Biryani,Delivery,3,811.77,259.77,552.0,Completed,39,4.1
+RST00902,2025-12-13,Secunderabad,Hyderabad,North Indian,Dine-in,1,541.45,173.26,368.19,Completed,43,4.6
+RST00903,2025-05-07,Gachibowli,Hyderabad,Fast Food,Delivery,4,1150.35,368.11,782.24,Completed,16,3.7
+RST00904,2025-03-13,Madhapur,Hyderabad,Fast Food,Delivery,2,503.68,161.18,342.5,Completed,45,3.8
+RST00905,2025-09-19,Secunderabad,Hyderabad,South Indian,Delivery,4,1177.41,376.77,800.64,Completed,10,4.2
+RST00906,2025-03-30,Banjara Hills,Hyderabad,South Indian,Delivery,1,318.98,102.07,216.91,Completed,14,3.9
+RST00907,2025-08-30,Madhapur,Hyderabad,Chinese,Dine-in,1,393.24,125.84,267.4,Completed,45,4.6
+RST00908,2025-04-24,Secunderabad,Hyderabad,North Indian,Takeaway,1,495.09,158.43,336.66,Completed,30,3.7
+RST00909,2025-04-01,Kukatpally,Hyderabad,South Indian,Delivery,4,984.51,315.04,669.47,Completed,17,3.9
+RST00910,2025-05-07,Secunderabad,Hyderabad,Fast Food,Delivery,1,263.65,84.37,179.28,Completed,17,3.7
+RST00911,2025-08-30,Banjara Hills,Hyderabad,Biryani,Delivery,3,1500.6,480.19,1020.41,Completed,44,3.9
+RST00912,2025-12-26,Madhapur,Hyderabad,North Indian,Dine-in,4,2335.87,747.48,1588.39,Completed,14,4.3
+RST00913,2025-02-09,Banjara Hills,Hyderabad,South Indian,Dine-in,2,700.64,224.2,476.44,Completed,44,2.9
+RST00914,2025-06-09,Madhapur,Hyderabad,Fast Food,Dine-in,4,1191.33,381.23,810.1,Completed,23,4.3
+RST00915,2025-10-02,Kukatpally,Hyderabad,South Indian,Dine-in,1,223.34,71.47,151.87,Completed,11,4.6
+RST00916,2025-07-25,Gachibowli,Hyderabad,Chinese,Delivery,1,296.28,94.81,201.47,Completed,12,3.9
+RST00917,2025-04-30,Gachibowli,Hyderabad,Biryani,Takeaway,4,1810.88,579.48,1231.4,Completed,28,3.6
+RST00918,2025-06-01,Secunderabad,Hyderabad,Chinese,Delivery,4,1224.79,391.93,832.86,Completed,36,4.4
+RST00919,2025-11-05,Madhapur,Hyderabad,Fast Food,Delivery,1,282.08,90.27,191.81,Completed,38,3.9
+RST00920,2025-02-13,Secunderabad,Hyderabad,South Indian,Delivery,2,603.8,193.22,410.58,Completed,42,4.5
+RST00921,2025-08-29,Kukatpally,Hyderabad,Fast Food,Dine-in,1,346.75,110.96,235.79,Completed,18,4.3
+RST00922,2025-02-18,Madhapur,Hyderabad,Biryani,Delivery,2,664.2,212.54,451.66,Completed,10,4.8
+RST00923,2025-08-08,Secunderabad,Hyderabad,Fast Food,Delivery,4,1363.14,436.2,926.94,Cancelled,30,2.8
+RST00924,2025-03-30,Kukatpally,Hyderabad,Biryani,Delivery,1,425.67,136.21,289.46,Cancelled,29,2.6
+RST00925,2025-04-08,Secunderabad,Hyderabad,Fast Food,Delivery,3,848.94,271.66,577.28,Completed,44,3.1
+RST00926,2025-05-21,Secunderabad,Hyderabad,South Indian,Dine-in,1,236.36,75.64,160.72,Completed,18,4.4
+RST00927,2025-04-25,Banjara Hills,Hyderabad,North Indian,Dine-in,4,2263.26,724.24,1539.02,Completed,13,4.8
+RST00928,2025-09-07,Gachibowli,Hyderabad,Biryani,Dine-in,4,1709.47,547.03,1162.44,Completed,32,4.4
+RST00929,2025-01-05,Banjara Hills,Hyderabad,Fast Food,Takeaway,4,1215.94,389.1,826.84,Completed,43,4.3
+RST00930,2025-03-22,Kukatpally,Hyderabad,Fast Food,Dine-in,2,516.62,165.32,351.3,Completed,11,3.8
+RST00931,2025-03-01,Banjara Hills,Hyderabad,Fast Food,Dine-in,4,961.81,307.78,654.03,Completed,43,4.3
+RST00932,2025-02-26,Banjara Hills,Hyderabad,North Indian,Takeaway,3,1505.53,481.77,1023.76,Completed,28,3.5
+RST00933,2025-03-05,Banjara Hills,Hyderabad,South Indian,Dine-in,1,292.99,93.76,199.23,Completed,32,3.4
+RST00934,2025-10-06,Banjara Hills,Hyderabad,South Indian,Delivery,1,247.0,79.04,167.96,Completed,44,4.4
+RST00935,2025-04-12,Gachibowli,Hyderabad,Biryani,Delivery,4,2241.0,717.12,1523.88,Completed,44,4.2
+RST00936,2025-03-20,Kukatpally,Hyderabad,Chinese,Dine-in,4,1576.15,504.37,1071.78,Completed,25,3.5
+RST00937,2025-10-25,Madhapur,Hyderabad,Fast Food,Takeaway,3,941.81,301.38,640.43,Completed,21,4.6
+RST00938,2025-04-05,Banjara Hills,Hyderabad,North Indian,Takeaway,2,974.19,311.74,662.45,Completed,25,3.8
+RST00939,2025-10-23,Madhapur,Hyderabad,Chinese,Dine-in,2,614.74,196.72,418.02,Completed,44,5.0
+RST00940,2025-10-23,Gachibowli,Hyderabad,Biryani,Delivery,4,1435.43,459.34,976.09,Completed,36,4.1
+RST00941,2025-10-27,Secunderabad,Hyderabad,Biryani,Dine-in,4,1258.72,402.79,855.93,Completed,42,4.2
+RST00942,2025-02-23,Banjara Hills,Hyderabad,Fast Food,Dine-in,1,362.54,116.01,246.53,Completed,13,4.0
+RST00943,2025-11-19,Gachibowli,Hyderabad,North Indian,Delivery,1,342.49,109.6,232.89,Completed,22,4.2
+RST00944,2025-09-08,Madhapur,Hyderabad,Biryani,Dine-in,3,1428.1,456.99,971.11,Completed,30,3.6
+RST00945,2025-08-04,Kukatpally,Hyderabad,Chinese,Dine-in,4,1538.86,492.44,1046.42,Completed,21,2.9
+RST00946,2025-07-08,Kukatpally,Hyderabad,North Indian,Takeaway,1,357.98,114.55,243.43,Completed,32,4.6
+RST00947,2025-12-11,Secunderabad,Hyderabad,North Indian,Delivery,1,456.11,145.96,310.15,Completed,16,4.6
+RST00948,2025-09-29,Madhapur,Hyderabad,South Indian,Delivery,3,676.95,216.62,460.33,Completed,38,4.1
+RST00949,2025-12-10,Secunderabad,Hyderabad,Biryani,Delivery,1,378.53,121.13,257.4,Completed,20,5.0
+RST00950,2025-09-10,Secunderabad,Hyderabad,Biryani,Dine-in,3,1143.78,366.01,777.77,Completed,38,4.3
+RST00951,2025-02-05,Kukatpally,Hyderabad,South Indian,Takeaway,4,1058.91,338.85,720.06,Completed,35,4.1
+RST00952,2025-07-03,Banjara Hills,Hyderabad,North Indian,Dine-in,4,1850.71,592.23,1258.48,Completed,35,5.0
+RST00953,2025-03-17,Madhapur,Hyderabad,North Indian,Dine-in,2,987.59,316.03,671.56,Completed,43,4.7
+RST00954,2025-01-12,Gachibowli,Hyderabad,Biryani,Delivery,2,913.72,292.39,621.33,Completed,29,3.3
+RST00955,2025-07-03,Secunderabad,Hyderabad,North Indian,Delivery,1,355.91,113.89,242.02,Completed,32,4.3
+RST00956,2025-11-05,Secunderabad,Hyderabad,Chinese,Delivery,4,1417.33,453.55,963.78,Completed,37,3.7
+RST00957,2025-03-31,Kukatpally,Hyderabad,Chinese,Delivery,4,1244.63,398.28,846.35,Completed,40,4.1
+RST00958,2025-01-28,Banjara Hills,Hyderabad,Biryani,Dine-in,2,908.63,290.76,617.87,Completed,21,4.5
+RST00959,2025-02-21,Banjara Hills,Hyderabad,Biryani,Takeaway,2,1094.73,350.31,744.42,Completed,31,4.0
+RST00960,2025-11-19,Secunderabad,Hyderabad,Biryani,Dine-in,4,1792.73,573.67,1219.06,Completed,32,4.5
+RST00961,2025-11-29,Madhapur,Hyderabad,Chinese,Delivery,2,727.48,232.79,494.69,Completed,41,5.0
+RST00962,2025-05-23,Madhapur,Hyderabad,South Indian,Delivery,4,1321.26,422.8,898.46,Completed,34,3.7
+RST00963,2025-05-20,Gachibowli,Hyderabad,North Indian,Delivery,4,1573.39,503.48,1069.91,Completed,26,3.1
+RST00964,2025-03-13,Secunderabad,Hyderabad,North Indian,Takeaway,3,1131.28,362.01,769.27,Completed,35,4.7
+RST00965,2025-07-28,Madhapur,Hyderabad,South Indian,Dine-in,4,1108.47,354.71,753.76,Completed,18,3.9
+RST00966,2025-06-21,Secunderabad,Hyderabad,Biryani,Delivery,2,905.22,289.67,615.55,Completed,41,3.1
+RST00967,2025-10-30,Secunderabad,Hyderabad,Chinese,Delivery,1,426.88,136.6,290.28,Completed,25,3.8
+RST00968,2025-06-30,Kukatpally,Hyderabad,Biryani,Delivery,3,1136.83,363.79,773.04,Completed,42,3.6
+RST00969,2025-09-24,Madhapur,Hyderabad,South Indian,Dine-in,3,773.5,247.52,525.98,Completed,27,3.0
+RST00970,2025-02-09,Madhapur,Hyderabad,Fast Food,Delivery,2,697.89,223.32,474.57,Completed,36,4.8
+RST00971,2025-08-11,Gachibowli,Hyderabad,Biryani,Dine-in,4,1808.74,578.8,1229.94,Completed,33,3.8
+RST00972,2025-06-01,Banjara Hills,Hyderabad,Biryani,Takeaway,3,1775.07,568.02,1207.05,Completed,36,4.2
+RST00973,2025-08-20,Secunderabad,Hyderabad,Biryani,Delivery,4,1558.92,498.85,1060.07,Completed,41,4.9
+RST00974,2025-05-30,Kukatpally,Hyderabad,South Indian,Takeaway,3,963.67,308.37,655.3,Completed,12,3.7
+RST00975,2025-06-15,Secunderabad,Hyderabad,South Indian,Delivery,2,484.67,155.09,329.58,Completed,29,3.6
+RST00976,2025-10-17,Gachibowli,Hyderabad,North Indian,Delivery,1,551.49,176.48,375.01,Completed,40,4.2
+RST00977,2025-04-05,Madhapur,Hyderabad,Biryani,Dine-in,2,1014.18,324.54,689.64,Completed,45,4.6
+RST00978,2025-12-29,Secunderabad,Hyderabad,Biryani,Delivery,4,1375.21,440.07,935.14,Completed,14,4.8
+RST00979,2025-12-02,Secunderabad,Hyderabad,Biryani,Delivery,1,434.75,139.12,295.63,Completed,42,3.6
+RST00980,2025-07-07,Gachibowli,Hyderabad,Biryani,Delivery,1,312.36,99.96,212.4,Cancelled,30,3.4
+RST00981,2025-05-05,Banjara Hills,Hyderabad,Chinese,Delivery,4,1694.52,542.25,1152.27,Completed,37,5.0
+RST00982,2025-06-04,Banjara Hills,Hyderabad,South Indian,Delivery,3,762.12,243.88,518.24,Completed,26,4.0
+RST00983,2025-11-26,Gachibowli,Hyderabad,Biryani,Delivery,1,333.33,106.67,226.66,Completed,36,3.8
+RST00984,2025-05-29,Madhapur,Hyderabad,South Indian,Dine-in,4,1023.48,327.51,695.97,Completed,41,4.7
+RST00985,2025-08-23,Gachibowli,Hyderabad,Biryani,Dine-in,2,1123.52,359.53,763.99,Completed,38,3.9
+RST00986,2025-07-08,Gachibowli,Hyderabad,Chinese,Delivery,1,248.17,79.41,168.76,Completed,23,3.6
+RST00987,2025-03-17,Madhapur,Hyderabad,Chinese,Delivery,2,670.56,214.58,455.98,Completed,11,4.4
+RST00988,2025-10-29,Banjara Hills,Hyderabad,South Indian,Dine-in,2,593.39,189.88,403.51,Completed,11,2.7
+RST00989,2025-01-10,Gachibowli,Hyderabad,South Indian,Dine-in,2,519.51,166.24,353.27,Completed,45,3.9
+RST00990,2025-06-05,Madhapur,Hyderabad,South Indian,Delivery,4,769.75,246.32,523.43,Completed,15,2.9
+RST00991,2025-08-14,Gachibowli,Hyderabad,North Indian,Takeaway,1,494.43,158.22,336.21,Completed,13,4.3
+RST00992,2025-06-12,Banjara Hills,Hyderabad,Chinese,Dine-in,3,1026.36,328.44,697.92,Completed,35,4.8
+RST00993,2025-05-07,Secunderabad,Hyderabad,Biryani,Delivery,2,638.65,204.37,434.28,Completed,45,4.3
+RST00994,2025-10-28,Secunderabad,Hyderabad,Biryani,Delivery,1,351.85,112.59,239.26,Completed,32,4.2
+RST00995,2025-08-04,Gachibowli,Hyderabad,South Indian,Delivery,3,909.47,291.03,618.44,Completed,14,4.3
+RST00996,2025-05-10,Banjara Hills,Hyderabad,South Indian,Takeaway,3,889.37,284.6,604.77,Completed,34,4.1
+RST00997,2025-01-26,Secunderabad,Hyderabad,Chinese,Dine-in,4,1468.46,469.91,998.55,Completed,44,3.8
+RST00998,2025-07-27,Secunderabad,Hyderabad,South Indian,Delivery,4,945.89,302.68,643.21,Completed,37,4.2
+RST00999,2025-03-23,Banjara Hills,Hyderabad,Biryani,Delivery,1,540.3,172.9,367.4,Completed,44,2.9
+RST01000,2025-07-12,Gachibowli,Hyderabad,Biryani,Dine-in,1,558.86,178.84,380.02,Completed,44,4.7
+RST01001,2025-07-09,Banjara Hills,Hyderabad,Fast Food,Delivery,2,462.52,148.01,314.51,Completed,31,4.6
+RST01002,2025-11-19,Gachibowli,Hyderabad,North Indian,Dine-in,1,463.59,148.35,315.24,Completed,12,5.0
+RST01003,2025-06-09,Secunderabad,Hyderabad,South Indian,Dine-in,3,888.77,284.41,604.36,Completed,15,4.7
+RST01004,2025-07-14,Kukatpally,Hyderabad,Fast Food,Delivery,1,225.24,72.08,153.16,Completed,35,4.6
+RST01005,2025-05-12,Madhapur,Hyderabad,Biryani,Dine-in,1,368.67,117.97,250.7,Completed,35,4.3
+RST01006,2025-04-04,Banjara Hills,Hyderabad,Chinese,Delivery,2,812.1,259.87,552.23,Completed,45,3.6
+RST01007,2025-09-10,Secunderabad,Hyderabad,South Indian,Delivery,3,689.98,220.79,469.19,Completed,33,3.3
+RST01008,2025-07-10,Gachibowli,Hyderabad,Biryani,Delivery,2,689.44,220.62,468.82,Completed,10,4.9
+RST01009,2025-09-01,Gachibowli,Hyderabad,North Indian,Dine-in,3,1238.29,396.25,842.04,Completed,20,3.3
+RST01010,2025-09-14,Kukatpally,Hyderabad,South Indian,Dine-in,1,320.82,102.66,218.16,Completed,38,4.6
+RST01011,2025-04-07,Gachibowli,Hyderabad,Chinese,Dine-in,4,1235.97,395.51,840.46,Completed,23,3.8
+RST01012,2025-07-10,Secunderabad,Hyderabad,Biryani,Dine-in,4,1409.29,450.97,958.32,Completed,30,4.8
+RST01013,2025-10-08,Kukatpally,Hyderabad,Chinese,Dine-in,3,887.46,283.99,603.47,Completed,17,3.8
+RST01014,2025-08-16,Kukatpally,Hyderabad,South Indian,Dine-in,2,778.83,249.23,529.6,Completed,38,3.1
+RST01015,2025-06-15,Banjara Hills,Hyderabad,South Indian,Dine-in,4,1361.07,435.54,925.53,Completed,45,3.9
+RST01016,2025-08-05,Gachibowli,Hyderabad,Chinese,Takeaway,2,685.4,219.33,466.07,Completed,44,3.9
+RST01017,2025-06-26,Madhapur,Hyderabad,South Indian,Delivery,4,735.69,235.42,500.27,Completed,27,4.4
+RST01018,2025-05-29,Gachibowli,Hyderabad,Biryani,Dine-in,2,833.78,266.81,566.97,Completed,28,4.2
+RST01019,2025-07-15,Secunderabad,Hyderabad,South Indian,Delivery,3,648.55,207.54,441.01,Cancelled,34,2.1
+RST01020,2025-10-10,Madhapur,Hyderabad,South Indian,Delivery,1,393.96,126.07,267.89,Completed,26,3.4
+RST01021,2025-09-29,Banjara Hills,Hyderabad,Biryani,Delivery,3,1327.06,424.66,902.4,Completed,20,3.6
+RST01022,2025-05-31,Madhapur,Hyderabad,Biryani,Takeaway,3,1736.17,555.57,1180.6,Completed,20,3.6
+RST01023,2025-08-22,Madhapur,Hyderabad,South Indian,Dine-in,1,387.52,124.01,263.51,Completed,25,4.5
+RST01024,2025-04-30,Secunderabad,Hyderabad,Biryani,Delivery,2,699.86,223.96,475.9,Completed,39,4.1
+RST01025,2025-07-22,Banjara Hills,Hyderabad,North Indian,Delivery,2,901.75,288.56,613.19,Completed,24,4.2
+RST01026,2025-01-03,Secunderabad,Hyderabad,Biryani,Takeaway,3,1724.2,551.74,1172.46,Completed,19,4.2
+RST01027,2025-08-26,Madhapur,Hyderabad,Chinese,Dine-in,4,1387.42,443.97,943.45,Completed,40,3.9
+RST01028,2025-08-11,Secunderabad,Hyderabad,Chinese,Delivery,1,350.63,112.2,238.43,Completed,31,3.6
+RST01029,2025-09-30,Banjara Hills,Hyderabad,North Indian,Delivery,3,1553.83,497.23,1056.6,Completed,18,5.0
+RST01030,2025-12-31,Gachibowli,Hyderabad,Biryani,Dine-in,2,842.26,269.52,572.74,Cancelled,36,3.1
+RST01031,2025-08-22,Secunderabad,Hyderabad,Biryani,Dine-in,2,830.82,265.86,564.96,Cancelled,39,4.0
+RST01032,2025-07-06,Secunderabad,Hyderabad,Fast Food,Dine-in,2,599.82,191.94,407.88,Completed,25,4.6
+RST01033,2025-08-20,Madhapur,Hyderabad,Fast Food,Delivery,2,494.06,158.1,335.96,Completed,40,4.1
+RST01034,2025-09-05,Kukatpally,Hyderabad,North Indian,Delivery,4,2482.32,794.34,1687.98,Completed,14,4.1
+RST01035,2025-01-12,Banjara Hills,Hyderabad,South Indian,Delivery,2,578.52,185.13,393.39,Completed,38,4.2
+RST01036,2025-06-12,Kukatpally,Hyderabad,South Indian,Delivery,1,186.23,59.59,126.64,Completed,22,3.8
+RST01037,2025-05-26,Secunderabad,Hyderabad,Fast Food,Takeaway,3,665.85,213.07,452.78,Completed,11,3.9
+RST01038,2025-01-14,Gachibowli,Hyderabad,North Indian,Delivery,2,1024.62,327.88,696.74,Completed,24,4.6
+RST01039,2025-05-26,Madhapur,Hyderabad,Fast Food,Takeaway,1,270.18,86.46,183.72,Completed,21,3.7
+RST01040,2025-02-25,Gachibowli,Hyderabad,South Indian,Delivery,2,473.47,151.51,321.96,Completed,40,3.7
+RST01041,2025-03-01,Madhapur,Hyderabad,Fast Food,Delivery,2,547.69,175.26,372.43,Completed,43,3.8
+RST01042,2025-05-31,Kukatpally,Hyderabad,South Indian,Delivery,1,375.07,120.02,255.05,Completed,21,4.9
+RST01043,2025-03-20,Kukatpally,Hyderabad,North Indian,Delivery,1,471.28,150.81,320.47,Completed,10,4.4
+RST01044,2025-11-13,Kukatpally,Hyderabad,Chinese,Dine-in,4,1474.57,471.86,1002.71,Completed,27,4.2
+RST01045,2025-10-18,Kukatpally,Hyderabad,Biryani,Dine-in,4,2276.13,728.36,1547.77,Completed,28,3.3
+RST01046,2025-12-16,Secunderabad,Hyderabad,Biryani,Dine-in,2,901.9,288.61,613.29,Completed,37,4.7
+RST01047,2025-02-11,Madhapur,Hyderabad,Biryani,Dine-in,4,1656.47,530.07,1126.4,Completed,19,4.3
+RST01048,2025-07-17,Banjara Hills,Hyderabad,Biryani,Delivery,4,1550.99,496.32,1054.67,Completed,25,3.8
+RST01049,2025-12-04,Banjara Hills,Hyderabad,Chinese,Delivery,1,345.12,110.44,234.68,Completed,11,4.4
+RST01050,2025-07-07,Kukatpally,Hyderabad,Chinese,Dine-in,1,425.78,136.25,289.53,Completed,35,3.7
+RST01051,2025-03-24,Madhapur,Hyderabad,South Indian,Delivery,3,814.89,260.76,554.13,Completed,30,4.4
+RST01052,2025-05-30,Kukatpally,Hyderabad,Chinese,Delivery,3,1112.15,355.89,756.26,Completed,15,4.2
+RST01053,2025-09-12,Gachibowli,Hyderabad,Biryani,Takeaway,4,1781.28,570.01,1211.27,Completed,45,4.4
+RST01054,2025-04-28,Banjara Hills,Hyderabad,North Indian,Dine-in,1,454.09,145.31,308.78,Completed,12,4.0
+RST01055,2025-07-31,Kukatpally,Hyderabad,Chinese,Dine-in,2,789.75,252.72,537.03,Completed,12,5.0
+RST01056,2025-07-12,Secunderabad,Hyderabad,Chinese,Delivery,1,421.27,134.81,286.46,Completed,18,3.6
+RST01057,2025-05-12,Kukatpally,Hyderabad,Biryani,Delivery,3,1105.6,353.79,751.81,Completed,15,4.6
+RST01058,2025-06-19,Banjara Hills,Hyderabad,Chinese,Delivery,3,979.61,313.48,666.13,Completed,31,5.0
+RST01059,2025-01-29,Madhapur,Hyderabad,North Indian,Delivery,4,2008.22,642.63,1365.59,Completed,43,3.9
+RST01060,2025-01-14,Banjara Hills,Hyderabad,North Indian,Dine-in,4,1709.98,547.19,1162.79,Completed,25,3.9
+RST01061,2025-12-29,Secunderabad,Hyderabad,North Indian,Dine-in,4,1739.07,556.5,1182.57,Completed,36,4.3
+RST01062,2025-07-04,Madhapur,Hyderabad,Fast Food,Delivery,1,269.61,86.28,183.33,Completed,38,3.7
+RST01063,2025-03-28,Gachibowli,Hyderabad,Biryani,Delivery,4,2181.77,698.17,1483.6,Completed,26,4.1
+RST01064,2025-09-16,Secunderabad,Hyderabad,Biryani,Delivery,3,1025.85,328.27,697.58,Completed,37,3.3
+RST01065,2025-05-04,Secunderabad,Hyderabad,Biryani,Delivery,4,1956.36,626.04,1330.32,Cancelled,31,2.3
+RST01066,2025-06-03,Secunderabad,Hyderabad,South Indian,Delivery,2,410.74,131.44,279.3,Completed,16,4.1
+RST01067,2025-01-26,Madhapur,Hyderabad,Fast Food,Takeaway,3,894.72,286.31,608.41,Completed,38,4.6
+RST01068,2025-01-18,Madhapur,Hyderabad,Chinese,Delivery,2,1028.53,329.13,699.4,Completed,29,4.7
+RST01069,2025-12-02,Kukatpally,Hyderabad,Fast Food,Takeaway,2,556.48,178.07,378.41,Completed,20,4.0
+RST01070,2025-07-26,Banjara Hills,Hyderabad,South Indian,Delivery,4,1043.09,333.79,709.3,Completed,44,3.9
+RST01071,2025-10-29,Kukatpally,Hyderabad,South Indian,Dine-in,2,516.76,165.36,351.4,Completed,30,3.6
+RST01072,2025-09-13,Banjara Hills,Hyderabad,South Indian,Dine-in,1,344.11,110.12,233.99,Completed,26,3.8
+RST01073,2025-02-20,Secunderabad,Hyderabad,Biryani,Dine-in,3,1030.93,329.9,701.03,Completed,23,4.3
+RST01074,2025-07-17,Gachibowli,Hyderabad,South Indian,Takeaway,4,1230.14,393.64,836.5,Completed,44,3.8
+RST01075,2025-07-21,Kukatpally,Hyderabad,Chinese,Delivery,1,248.18,79.42,168.76,Completed,11,4.0
+RST01076,2025-03-21,Banjara Hills,Hyderabad,Biryani,Takeaway,1,559.25,178.96,380.29,Completed,42,4.8
+RST01077,2025-08-04,Banjara Hills,Hyderabad,Biryani,Dine-in,1,433.21,138.63,294.58,Completed,34,3.2
+RST01078,2025-11-19,Secunderabad,Hyderabad,Fast Food,Dine-in,1,245.49,78.56,166.93,Completed,33,4.9
+RST01079,2025-05-30,Gachibowli,Hyderabad,Fast Food,Dine-in,4,1036.39,331.64,704.75,Completed,30,3.5
+RST01080,2025-10-01,Madhapur,Hyderabad,Biryani,Delivery,3,1183.24,378.64,804.6,Completed,26,3.8
+RST01081,2025-02-16,Madhapur,Hyderabad,Chinese,Dine-in,3,1167.26,373.52,793.74,Completed,38,3.3
+RST01082,2025-12-28,Banjara Hills,Hyderabad,Fast Food,Delivery,2,470.71,150.63,320.08,Completed,34,3.2
+RST01083,2025-03-08,Gachibowli,Hyderabad,South Indian,Delivery,4,1119.6,358.27,761.33,Completed,23,3.4
+RST01084,2025-12-08,Madhapur,Hyderabad,Fast Food,Dine-in,4,986.34,315.63,670.71,Completed,21,3.6
+RST01085,2025-03-02,Gachibowli,Hyderabad,North Indian,Delivery,1,609.07,194.9,414.17,Completed,22,4.3
+RST01086,2025-10-03,Kukatpally,Hyderabad,Chinese,Dine-in,2,920.18,294.46,625.72,Completed,18,4.4
+RST01087,2025-03-26,Madhapur,Hyderabad,South Indian,Dine-in,4,1278.41,409.09,869.32,Completed,19,4.5
+RST01088,2025-12-08,Banjara Hills,Hyderabad,Chinese,Delivery,2,753.66,241.17,512.49,Completed,20,4.2
+RST01089,2025-12-17,Kukatpally,Hyderabad,Biryani,Delivery,3,1066.47,341.27,725.2,Completed,32,4.1
+RST01090,2025-10-29,Gachibowli,Hyderabad,Biryani,Delivery,2,904.3,289.38,614.92,Completed,37,3.3
+RST01091,2025-02-26,Banjara Hills,Hyderabad,Chinese,Delivery,3,1110.93,355.5,755.43,Completed,45,5.0
+RST01092,2025-09-15,Gachibowli,Hyderabad,Biryani,Dine-in,4,1498.1,479.39,1018.71,Completed,29,3.5
+RST01093,2025-03-16,Gachibowli,Hyderabad,Chinese,Dine-in,2,962.69,308.06,654.63,Completed,22,3.7
+RST01094,2025-12-23,Banjara Hills,Hyderabad,North Indian,Delivery,1,449.09,143.71,305.38,Cancelled,13,2.8
+RST01095,2025-08-21,Gachibowli,Hyderabad,North Indian,Takeaway,3,1109.68,355.1,754.58,Completed,24,4.5
+RST01096,2025-07-21,Madhapur,Hyderabad,South Indian,Dine-in,1,290.75,93.04,197.71,Cancelled,41,3.2
+RST01097,2025-10-20,Kukatpally,Hyderabad,Fast Food,Takeaway,4,1107.19,354.3,752.89,Completed,26,3.9
+RST01098,2025-11-22,Gachibowli,Hyderabad,Chinese,Takeaway,3,1422.21,455.11,967.1,Completed,41,4.3
+RST01099,2025-01-13,Secunderabad,Hyderabad,North Indian,Dine-in,4,1396.38,446.84,949.54,Completed,17,3.6
+RST01100,2025-02-28,Kukatpally,Hyderabad,South Indian,Delivery,1,331.05,105.94,225.11,Completed,30,5.0
+RST01101,2025-06-25,Gachibowli,Hyderabad,North Indian,Delivery,3,973.94,311.66,662.28,Cancelled,15,2.6
+RST01102,2025-02-23,Gachibowli,Hyderabad,Biryani,Dine-in,1,456.43,146.06,310.37,Completed,26,3.6
+RST01103,2025-03-18,Banjara Hills,Hyderabad,Chinese,Dine-in,4,1501.07,480.34,1020.73,Completed,44,4.6
+RST01104,2025-09-26,Kukatpally,Hyderabad,North Indian,Dine-in,3,1600.48,512.15,1088.33,Completed,26,4.9
+RST01105,2025-09-17,Kukatpally,Hyderabad,North Indian,Dine-in,1,448.71,143.59,305.12,Completed,14,3.8
+RST01106,2025-07-28,Gachibowli,Hyderabad,Chinese,Delivery,2,715.19,228.86,486.33,Completed,44,4.2
+RST01107,2025-02-09,Banjara Hills,Hyderabad,North Indian,Delivery,4,2269.6,726.27,1543.33,Completed,43,3.8
+RST01108,2025-12-06,Banjara Hills,Hyderabad,Fast Food,Dine-in,1,238.64,76.36,162.28,Completed,41,4.0
+RST01109,2025-06-19,Kukatpally,Hyderabad,Biryani,Dine-in,4,1659.4,531.01,1128.39,Completed,29,4.0
+RST01110,2025-08-21,Madhapur,Hyderabad,Chinese,Delivery,4,1436.06,459.54,976.52,Completed,12,4.3
+RST01111,2025-08-12,Banjara Hills,Hyderabad,Fast Food,Delivery,1,247.02,79.05,167.97,Completed,31,2.9
+RST01112,2025-07-15,Madhapur,Hyderabad,South Indian,Delivery,2,449.64,143.88,305.76,Completed,12,4.0
+RST01113,2025-11-30,Banjara Hills,Hyderabad,Biryani,Delivery,4,2355.74,753.84,1601.9,Completed,26,3.7
+RST01114,2025-09-27,Banjara Hills,Hyderabad,Biryani,Delivery,3,1588.77,508.41,1080.36,Completed,35,3.2
+RST01115,2025-11-23,Banjara Hills,Hyderabad,Chinese,Delivery,4,1455.3,465.7,989.6,Completed,37,4.1
+RST01116,2025-11-25,Banjara Hills,Hyderabad,Chinese,Dine-in,3,957.96,306.55,651.41,Completed,20,4.2
+RST01117,2025-06-27,Secunderabad,Hyderabad,South Indian,Dine-in,3,1043.37,333.88,709.49,Completed,31,3.9
+RST01118,2025-01-27,Banjara Hills,Hyderabad,Fast Food,Delivery,3,803.2,257.02,546.18,Completed,21,4.2
+RST01119,2025-11-23,Banjara Hills,Hyderabad,North Indian,Delivery,2,1147.24,367.12,780.12,Completed,40,4.7
+RST01120,2025-03-26,Kukatpally,Hyderabad,Chinese,Delivery,1,335.33,107.31,228.02,Completed,29,4.5
+RST01121,2025-01-29,Madhapur,Hyderabad,Biryani,Delivery,3,1004.26,321.36,682.9,Completed,41,3.7
+RST01122,2025-03-28,Banjara Hills,Hyderabad,Chinese,Delivery,3,1043.31,333.86,709.45,Completed,12,3.7
+RST01123,2025-12-01,Banjara Hills,Hyderabad,Chinese,Takeaway,3,982.18,314.3,667.88,Completed,10,3.3
+RST01124,2025-02-17,Gachibowli,Hyderabad,Chinese,Dine-in,3,1243.55,397.94,845.61,Completed,19,3.8
+RST01125,2025-04-26,Madhapur,Hyderabad,North Indian,Takeaway,1,502.99,160.96,342.03,Completed,43,3.7
+RST01126,2025-05-21,Kukatpally,Hyderabad,North Indian,Delivery,1,441.1,141.15,299.95,Completed,15,4.7
+RST01127,2025-03-27,Banjara Hills,Hyderabad,Fast Food,Delivery,2,538.71,172.39,366.32,Completed,27,4.2
+RST01128,2025-08-13,Secunderabad,Hyderabad,South Indian,Delivery,1,300.24,96.08,204.16,Completed,22,4.7
+RST01129,2025-11-12,Secunderabad,Hyderabad,Chinese,Takeaway,4,1182.22,378.31,803.91,Completed,34,4.2
+RST01130,2025-12-10,Banjara Hills,Hyderabad,South Indian,Dine-in,1,254.54,81.45,173.09,Completed,39,3.4
+RST01131,2025-02-02,Gachibowli,Hyderabad,Chinese,Dine-in,4,2064.7,660.7,1404.0,Completed,33,3.5
+RST01132,2025-05-06,Gachibowli,Hyderabad,Chinese,Dine-in,1,411.48,131.67,279.81,Completed,26,4.4
+RST01133,2025-07-03,Madhapur,Hyderabad,Biryani,Delivery,4,1215.24,388.88,826.36,Completed,25,5.0
+RST01134,2025-09-06,Secunderabad,Hyderabad,Chinese,Dine-in,2,779.28,249.37,529.91,Completed,31,3.7
+RST01135,2025-12-27,Madhapur,Hyderabad,South Indian,Delivery,3,970.84,310.67,660.17,Completed,14,4.1
+RST01136,2025-02-09,Kukatpally,Hyderabad,South Indian,Dine-in,2,676.28,216.41,459.87,Completed,17,4.0
+RST01137,2025-12-25,Madhapur,Hyderabad,South Indian,Dine-in,3,763.22,244.23,518.99,Completed,10,4.6
+RST01138,2025-04-28,Secunderabad,Hyderabad,Biryani,Takeaway,1,440.88,141.08,299.8,Completed,36,4.1
+RST01139,2025-04-30,Banjara Hills,Hyderabad,Biryani,Dine-in,2,807.72,258.47,549.25,Completed,28,4.7
+RST01140,2025-02-10,Banjara Hills,Hyderabad,South Indian,Dine-in,2,460.29,147.29,313.0,Completed,26,3.6
+RST01141,2025-09-24,Gachibowli,Hyderabad,Biryani,Delivery,3,1315.59,420.99,894.6,Completed,14,3.8
+RST01142,2025-12-18,Banjara Hills,Hyderabad,Fast Food,Delivery,1,286.89,91.8,195.09,Completed,18,4.4
+RST01143,2025-04-13,Gachibowli,Hyderabad,Biryani,Takeaway,4,2375.91,760.29,1615.62,Completed,27,4.6
+RST01144,2025-04-12,Gachibowli,Hyderabad,Biryani,Takeaway,1,549.07,175.7,373.37,Completed,26,4.5
+RST01145,2025-08-27,Gachibowli,Hyderabad,Chinese,Dine-in,4,1696.08,542.75,1153.33,Completed,43,3.7
+RST01146,2025-12-25,Gachibowli,Hyderabad,Chinese,Delivery,4,1396.99,447.04,949.95,Completed,40,3.9
+RST01147,2025-04-27,Gachibowli,Hyderabad,Biryani,Takeaway,2,854.21,273.35,580.86,Completed,40,4.7
+RST01148,2025-02-28,Banjara Hills,Hyderabad,South Indian,Dine-in,3,1073.47,343.51,729.96,Completed,42,4.3
+RST01149,2025-04-10,Madhapur,Hyderabad,North Indian,Takeaway,3,1227.31,392.74,834.57,Completed,24,4.2
+RST01150,2025-08-14,Banjara Hills,Hyderabad,North Indian,Dine-in,2,1008.95,322.86,686.09,Completed,40,3.8
+RST01151,2025-03-03,Secunderabad,Hyderabad,Chinese,Takeaway,4,1711.68,547.74,1163.94,Completed,20,3.7
+RST01152,2025-01-08,Gachibowli,Hyderabad,Biryani,Takeaway,3,1274.71,407.91,866.8,Completed,23,5.0
+RST01153,2025-11-11,Madhapur,Hyderabad,Biryani,Dine-in,1,338.03,108.17,229.86,Completed,32,3.4
+RST01154,2025-06-20,Banjara Hills,Hyderabad,Biryani,Dine-in,4,1785.54,571.37,1214.17,Completed,20,4.5
+RST01155,2025-08-10,Madhapur,Hyderabad,South Indian,Dine-in,3,791.29,253.21,538.08,Completed,19,4.4
+RST01156,2025-01-25,Madhapur,Hyderabad,Biryani,Delivery,4,2364.78,756.73,1608.05,Completed,19,4.4
+RST01157,2025-03-31,Kukatpally,Hyderabad,Chinese,Delivery,4,1709.56,547.06,1162.5,Completed,13,4.3
+RST01158,2025-12-28,Gachibowli,Hyderabad,North Indian,Takeaway,4,2237.95,716.14,1521.81,Completed,10,4.3
+RST01159,2025-02-07,Secunderabad,Hyderabad,North Indian,Dine-in,2,1091.74,349.36,742.38,Completed,34,3.5
+RST01160,2025-05-25,Banjara Hills,Hyderabad,Fast Food,Dine-in,3,708.19,226.62,481.57,Completed,21,4.6
+RST01161,2025-06-06,Banjara Hills,Hyderabad,North Indian,Delivery,3,1060.18,339.26,720.92,Completed,12,2.9
+RST01162,2025-12-21,Madhapur,Hyderabad,Biryani,Delivery,2,804.02,257.29,546.73,Completed,27,4.2
+RST01163,2025-08-10,Gachibowli,Hyderabad,North Indian,Takeaway,2,919.33,294.19,625.14,Completed,17,3.5
+RST01164,2025-02-11,Secunderabad,Hyderabad,Chinese,Dine-in,2,810.11,259.24,550.87,Completed,31,3.9
+RST01165,2025-01-29,Secunderabad,Hyderabad,Biryani,Dine-in,3,1353.29,433.05,920.24,Completed,37,3.5
+RST01166,2025-09-26,Kukatpally,Hyderabad,North Indian,Delivery,2,1242.06,397.46,844.6,Completed,45,4.1
+RST01167,2025-04-04,Madhapur,Hyderabad,North Indian,Dine-in,3,1284.38,411.0,873.38,Completed,35,4.4
+RST01168,2025-10-15,Kukatpally,Hyderabad,North Indian,Delivery,1,470.51,150.56,319.95,Completed,23,3.5
+RST01169,2025-05-23,Madhapur,Hyderabad,South Indian,Delivery,4,1150.39,368.12,782.27,Completed,39,4.1
+RST01170,2025-10-30,Gachibowli,Hyderabad,Chinese,Delivery,3,1222.43,391.18,831.25,Completed,40,4.3
+RST01171,2025-12-08,Gachibowli,Hyderabad,North Indian,Dine-in,3,1255.66,401.81,853.85,Completed,45,3.4
+RST01172,2025-02-06,Madhapur,Hyderabad,South Indian,Dine-in,1,313.12,100.2,212.92,Completed,33,3.8
+RST01173,2025-10-19,Secunderabad,Hyderabad,South Indian,Dine-in,1,327.87,104.92,222.95,Completed,35,4.0
+RST01174,2025-11-13,Banjara Hills,Hyderabad,Biryani,Delivery,3,1321.48,422.87,898.61,Completed,37,5.0
+RST01175,2025-10-20,Banjara Hills,Hyderabad,North Indian,Dine-in,1,486.31,155.62,330.69,Completed,43,4.0
+RST01176,2025-08-08,Secunderabad,Hyderabad,North Indian,Dine-in,4,2185.46,699.35,1486.11,Completed,17,4.7
+RST01177,2025-08-07,Kukatpally,Hyderabad,North Indian,Dine-in,1,458.88,146.84,312.04,Completed,26,3.7
+RST01178,2025-06-25,Kukatpally,Hyderabad,North Indian,Delivery,4,1331.2,425.98,905.22,Completed,42,3.4
+RST01179,2025-12-19,Kukatpally,Hyderabad,Biryani,Dine-in,4,2191.02,701.13,1489.89,Completed,42,3.5
+RST01180,2025-06-10,Banjara Hills,Hyderabad,North Indian,Delivery,2,877.56,280.82,596.74,Completed,14,3.5
+RST01181,2025-11-30,Kukatpally,Hyderabad,Biryani,Dine-in,3,1319.73,422.31,897.42,Completed,30,4.0
+RST01182,2025-01-03,Secunderabad,Hyderabad,South Indian,Dine-in,1,308.66,98.77,209.89,Completed,22,3.9
+RST01183,2025-01-23,Kukatpally,Hyderabad,Fast Food,Delivery,2,533.25,170.64,362.61,Completed,41,4.4
+RST01184,2025-12-13,Madhapur,Hyderabad,Chinese,Takeaway,4,1370.53,438.57,931.96,Completed,41,4.3
+RST01185,2025-01-18,Gachibowli,Hyderabad,Biryani,Delivery,4,1724.43,551.82,1172.61,Completed,41,4.1
+RST01186,2025-08-01,Kukatpally,Hyderabad,North Indian,Dine-in,4,1997.41,639.17,1358.24,Completed,16,3.2
+RST01187,2025-10-31,Madhapur,Hyderabad,Chinese,Delivery,3,1523.74,487.6,1036.14,Completed,15,4.8
+RST01188,2025-01-09,Gachibowli,Hyderabad,South Indian,Delivery,1,318.08,101.79,216.29,Completed,43,3.0
+RST01189,2025-12-02,Gachibowli,Hyderabad,Chinese,Takeaway,1,314.59,100.67,213.92,Completed,13,4.2
+RST01190,2025-04-15,Secunderabad,Hyderabad,North Indian,Dine-in,4,2073.78,663.61,1410.17,Completed,41,4.2
+RST01191,2025-06-02,Madhapur,Hyderabad,Fast Food,Dine-in,4,1100.84,352.27,748.57,Completed,41,4.0
+RST01192,2025-12-03,Gachibowli,Hyderabad,Chinese,Delivery,4,1312.86,420.12,892.74,Completed,13,5.0
+RST01193,2025-05-16,Banjara Hills,Hyderabad,Biryani,Delivery,2,781.45,250.06,531.39,Completed,31,4.1
+RST01194,2025-12-10,Madhapur,Hyderabad,North Indian,Delivery,2,975.03,312.01,663.02,Completed,25,4.5
+RST01195,2025-12-19,Secunderabad,Hyderabad,Biryani,Delivery,2,956.32,306.02,650.3,Completed,10,3.9
+RST01196,2025-01-04,Secunderabad,Hyderabad,Fast Food,Delivery,2,668.14,213.8,454.34,Completed,33,4.4
+RST01197,2025-05-14,Kukatpally,Hyderabad,Fast Food,Dine-in,4,869.91,278.37,591.54,Completed,19,4.4
+RST01198,2025-01-08,Kukatpally,Hyderabad,Chinese,Delivery,2,668.03,213.77,454.26,Completed,10,4.9
+RST01199,2025-06-17,Madhapur,Hyderabad,Fast Food,Dine-in,2,453.06,144.98,308.08,Completed,38,3.8
+RST01200,2025-03-05,Gachibowli,Hyderabad,South Indian,Takeaway,2,628.8,201.22,427.58,Completed,45,4.3

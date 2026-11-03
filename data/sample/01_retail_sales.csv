@@ -1,0 +1,1201 @@
+Transaction_ID,Date,City,Region,Product,Category,Customer_Segment,Quantity,Unit_Price,Discount_Rate,Revenue,Cost,Profit,Sales_Channel
+RTL00001,2025-02-02,Bhubaneswar,East,Smartwatch,Wearables,Returning,1,6386.93,0.1,5748.24,4626.4,1121.84,Store
+RTL00002,2025-10-10,Mumbai,West,Headphones,Accessories,New,3,2445.42,0.05,8223.95,5921.46,2302.49,Website
+RTL00003,2025-08-27,Nagpur,Central,Mobile,Mobiles,Returning,4,22241.81,0.15,75622.17,61773.93,13848.24,Website
+RTL00004,2025-06-10,Pune,West,Accessories,Accessories,Returning,2,1197.64,0.15,2035.99,1605.09,430.9,Store
+RTL00005,2025-06-08,Indore,Central,Headphones,Accessories,VIP,3,2753.01,0.05,7846.08,6032.31,1813.77,Website
+RTL00006,2025-11-10,Mumbai,West,Mobile,Mobiles,New,2,20505.32,0.0,48392.55,32911.88,15480.67,Website
+RTL00007,2025-02-01,Bhopal,Central,Tablet,Computers,New,3,18302.33,0.0,54906.98,38861.57,16045.41,Website
+RTL00008,2025-09-12,Chandigarh,North,Mobile,Mobiles,New,4,22747.44,0.05,86440.29,70598.88,15841.41,Mobile App
+RTL00009,2025-03-15,Ahmedabad,West,Headphones,Accessories,New,1,2709.84,0.15,2487.64,2138.85,348.79,Store
+RTL00010,2025-02-04,Chennai,South,Mobile,Mobiles,Returning,1,22435.31,0.15,19070.01,16366.84,2703.17,Website
+RTL00011,2025-07-12,Patna,East,Accessories,Accessories,New,2,1114.71,0.15,1895.01,1468.89,426.12,Store
+RTL00012,2025-12-23,Ahmedabad,West,Accessories,Accessories,New,4,1339.69,0.15,5374.85,4427.38,947.47,Store
+RTL00013,2025-09-26,Indore,Central,Headphones,Accessories,Returning,1,2503.3,0.1,2252.97,1790.21,462.76,Store
+RTL00014,2025-10-05,Bhopal,Central,Mobile,Mobiles,New,2,20031.75,0.05,44911.19,37415.23,7495.96,Store
+RTL00015,2025-09-19,Hyderabad,South,Tablet,Computers,Returning,4,15931.39,0.1,44735.35,32967.5,11767.85,Store
+RTL00016,2025-10-14,Pune,West,Laptop,Computers,Returning,1,58056.99,0.15,58231.15,39824.88,18406.27,Store
+RTL00017,2025-07-07,Pune,West,Headphones,Accessories,Returning,1,2465.71,0.05,2342.42,1623.12,719.3,Store
+RTL00018,2025-02-16,Bengaluru,South,Mobile,Mobiles,New,4,24132.61,0.05,91703.94,64835.34,26868.6,Website
+RTL00019,2025-11-03,Chandigarh,North,Smartwatch,Wearables,New,1,7761.29,0.1,8242.49,6337.91,1904.58,Store
+RTL00020,2025-06-14,Chandigarh,North,Mobile,Mobiles,New,2,19602.69,0.0,39205.37,31680.04,7525.33,Store
+RTL00021,2025-07-02,Mumbai,West,Smartwatch,Wearables,New,1,7464.77,0.1,6718.29,5548.59,1169.7,Website
+RTL00022,2025-05-16,Kolkata,East,Headphones,Accessories,New,3,2347.34,0.0,7042.02,5071.99,1970.03,Store
+RTL00023,2025-03-08,Indore,Central,Mobile,Mobiles,New,1,24247.63,0.15,22259.32,15943.08,6316.24,Mobile App
+RTL00024,2025-12-05,Patna,East,Accessories,Accessories,VIP,4,1059.47,0.15,4250.59,3632.71,617.88,Mobile App
+RTL00025,2025-10-13,Nagpur,Central,Headphones,Accessories,New,4,2709.87,0.0,12790.6,10110.83,2679.77,Website
+RTL00026,2025-08-24,Hyderabad,South,Mobile,Mobiles,Returning,3,23265.99,0.1,62818.16,50968.18,11849.98,Website
+RTL00027,2025-05-27,Mumbai,West,Headphones,Accessories,New,3,2781.68,0.05,7927.78,6437.06,1490.72,Store
+RTL00028,2025-10-28,Jaipur,North,Headphones,Accessories,Returning,2,2765.54,0.1,5874.01,4221.91,1652.1,Store
+RTL00029,2025-07-19,Kolkata,East,Accessories,Accessories,Returning,4,1234.17,0.0,4936.7,4180.4,756.3,Mobile App
+RTL00030,2025-06-11,Ahmedabad,West,Mobile,Mobiles,New,2,19826.76,0.1,35688.18,26450.38,9237.8,Website
+RTL00031,2025-06-14,Nagpur,Central,Tablet,Computers,Returning,1,17287.4,0.05,16423.03,13667.67,2755.36,Store
+RTL00032,2025-03-24,Mumbai,West,Accessories,Accessories,Returning,3,1243.43,0.0,4028.71,3381.36,647.35,Store
+RTL00033,2025-02-03,Chandigarh,North,Mobile,Mobiles,New,1,19610.13,0.1,17649.12,12911.86,4737.26,Store
+RTL00034,2025-07-22,Hyderabad,South,Headphones,Accessories,New,1,2367.78,0.05,2249.39,1778.34,471.05,Website
+RTL00035,2025-11-21,Delhi,North,Laptop,Computers,Returning,2,61073.39,0.0,144133.2,109855.23,34277.97,Store
+RTL00036,2025-01-24,Delhi,North,Headphones,Accessories,New,2,2556.11,0.0,5112.22,3950.34,1161.88,Store
+RTL00037,2025-11-10,Ahmedabad,West,Laptop,Computers,Returning,1,71901.51,0.15,72117.21,49328.78,22788.43,Store
+RTL00038,2025-10-30,Ahmedabad,West,Tablet,Computers,New,3,18571.77,0.05,62456.88,53499.37,8957.51,Store
+RTL00039,2025-04-12,Mumbai,West,Headphones,Accessories,New,3,2401.77,0.0,7781.74,6674.99,1106.75,Mobile App
+RTL00040,2025-08-19,Nagpur,Central,Mobile,Mobiles,New,1,21893.34,0.0,21893.34,16758.87,5134.47,Store
+RTL00041,2025-03-02,Pune,West,Accessories,Accessories,VIP,4,1201.17,0.05,4929.61,3432.62,1496.99,Website
+RTL00042,2025-10-04,Pune,West,Accessories,Accessories,New,2,1130.54,0.15,2267.88,1893.03,374.85,Store
+RTL00043,2025-09-13,Delhi,North,Accessories,Accessories,New,4,1208.85,0.05,4593.62,3931.1,662.52,Store
+RTL00044,2025-05-10,Chennai,South,Mobile,Mobiles,Returning,1,20416.97,0.1,18375.27,13094.91,5280.36,Store
+RTL00045,2025-01-25,Pune,West,Mobile,Mobiles,Returning,2,23144.45,0.05,43974.46,33595.24,10379.22,Website
+RTL00046,2025-12-21,Indore,Central,Mobile,Mobiles,Returning,2,24112.48,0.05,54060.19,37140.23,16919.96,Store
+RTL00047,2025-06-12,Jaipur,North,Mobile,Mobiles,Returning,3,20050.37,0.1,54136.0,44675.73,9460.27,Website
+RTL00048,2025-11-22,Bhubaneswar,East,Smartwatch,Wearables,Returning,4,7827.92,0.05,35100.38,24897.2,10203.18,Website
+RTL00049,2025-09-05,Pune,West,Mobile,Mobiles,New,2,19434.58,0.1,34982.24,29629.27,5352.97,Store
+RTL00050,2025-10-12,Delhi,North,Mobile,Mobiles,New,2,20806.22,0.15,41737.29,30480.07,11257.22,Store
+RTL00051,2025-10-05,Bengaluru,South,Mobile,Mobiles,New,4,21091.44,0.05,94574.01,65837.85,28736.16,Website
+RTL00052,2025-03-13,Indore,Central,Accessories,Accessories,New,1,1323.42,0.0,1429.29,1108.74,320.55,Website
+RTL00053,2025-05-13,Mumbai,West,Tablet,Computers,Returning,3,19708.58,0.15,50256.88,38103.91,12152.97,Store
+RTL00054,2025-06-20,Chennai,South,Accessories,Accessories,New,4,1083.17,0.15,3682.78,3014.78,668.0,Website
+RTL00055,2025-07-01,Indore,Central,Laptop,Computers,New,3,69667.88,0.15,177653.09,140067.71,37585.38,Store
+RTL00056,2025-01-16,Bengaluru,South,Mobile,Mobiles,New,4,19584.18,0.1,70503.04,51307.77,19195.27,Store
+RTL00057,2025-07-19,Nagpur,Central,Accessories,Accessories,Returning,1,1313.4,0.05,1247.73,944.13,303.6,Store
+RTL00058,2025-02-26,Hyderabad,South,Mobile,Mobiles,Returning,2,22014.15,0.0,44028.29,32728.31,11299.98,Store
+RTL00059,2025-09-29,Bhubaneswar,East,Tablet,Computers,Returning,4,20029.41,0.05,59367.18,48755.29,10611.89,Store
+RTL00060,2025-09-07,Chennai,South,Headphones,Accessories,New,4,2301.99,0.0,9207.95,7229.61,1978.34,Mobile App
+RTL00061,2025-12-03,Bengaluru,South,Laptop,Computers,Returning,2,68448.23,0.1,145384.05,100401.17,44982.88,Store
+RTL00062,2025-09-29,Indore,Central,Headphones,Accessories,VIP,3,2355.13,0.0,7065.4,4955.4,2110.0,Mobile App
+RTL00063,2025-05-14,Chandigarh,North,Mobile,Mobiles,New,2,22462.71,0.05,42679.16,34538.16,8141.0,Store
+RTL00064,2025-12-20,Jaipur,North,Accessories,Accessories,VIP,2,1187.14,0.05,2661.57,2040.97,620.6,Store
+RTL00065,2025-05-30,Hyderabad,South,Laptop,Computers,New,3,71980.89,0.15,183551.27,135212.89,48338.38,Store
+RTL00066,2025-04-29,Mumbai,West,Mobile,Mobiles,New,2,24103.42,0.15,44253.88,35710.63,8543.25,Store
+RTL00067,2025-11-27,Ahmedabad,West,Smartwatch,Wearables,Returning,1,7261.17,0.05,8139.77,5672.8,2466.97,Mobile App
+RTL00068,2025-05-16,Indore,Central,Laptop,Computers,New,4,62194.51,0.15,211461.33,164240.13,47221.2,Store
+RTL00069,2025-01-28,Chennai,South,Mobile,Mobiles,Returning,3,21397.66,0.05,60983.34,43630.7,17352.64,Store
+RTL00070,2025-06-21,Chennai,South,Mobile,Mobiles,Returning,2,22179.02,0.15,37704.33,28210.24,9494.09,Mobile App
+RTL00071,2025-10-18,Jaipur,North,Headphones,Accessories,Returning,1,2676.2,0.15,2684.23,1853.65,830.58,Mobile App
+RTL00072,2025-03-11,Bhubaneswar,East,Headphones,Accessories,Returning,2,2255.67,0.05,4628.64,3252.92,1375.72,Website
+RTL00073,2025-06-18,Indore,Central,Smartwatch,Wearables,Returning,4,7216.63,0.15,24536.55,19389.74,5146.81,Mobile App
+RTL00074,2025-02-17,Mumbai,West,Laptop,Computers,Returning,4,65876.57,0.1,237155.64,197992.29,39163.35,Store
+RTL00075,2025-09-08,Patna,East,Mobile,Mobiles,Returning,4,23075.95,0.05,87688.59,62853.84,24834.75,Website
+RTL00076,2025-06-23,Chennai,South,Mobile,Mobiles,Returning,1,20903.4,0.0,20903.4,16878.94,4024.46,Store
+RTL00077,2025-05-01,Nagpur,Central,Mobile,Mobiles,Returning,3,23206.38,0.0,69619.15,47882.07,21737.08,Mobile App
+RTL00078,2025-03-24,Bhubaneswar,East,Tablet,Computers,New,1,17877.49,0.0,19307.68,14644.96,4662.72,Website
+RTL00079,2025-07-26,Jaipur,North,Headphones,Accessories,New,2,2738.87,0.1,4929.97,4235.35,694.62,Store
+RTL00080,2025-09-02,Hyderabad,South,Mobile,Mobiles,Returning,1,20877.86,0.05,19833.97,16214.94,3619.03,Mobile App
+RTL00081,2025-12-10,Delhi,North,Laptop,Computers,VIP,4,63491.07,0.0,299677.84,208111.25,91566.59,Store
+RTL00082,2025-06-09,Bengaluru,South,Mobile,Mobiles,New,2,22388.82,0.05,42538.77,33370.77,9168.0,Mobile App
+RTL00083,2025-02-28,Jaipur,North,Laptop,Computers,Returning,3,67960.28,0.05,193686.81,161976.9,31709.91,Store
+RTL00084,2025-10-31,Patna,East,Mobile,Mobiles,Returning,2,19725.05,0.1,41896.01,30661.63,11234.38,Store
+RTL00085,2025-08-18,Ahmedabad,West,Accessories,Accessories,Returning,3,1081.61,0.15,2758.11,1887.31,870.8,Store
+RTL00086,2025-09-13,Chennai,South,Headphones,Accessories,Returning,1,2455.75,0.05,2332.96,1791.72,541.24,Mobile App
+RTL00087,2025-02-05,Hyderabad,South,Mobile,Mobiles,Returning,3,19633.24,0.15,50064.76,38348.44,11716.32,Website
+RTL00088,2025-04-25,Indore,Central,Mobile,Mobiles,New,4,21570.07,0.0,93182.72,72110.36,21072.36,Store
+RTL00089,2025-10-08,Ahmedabad,West,Mobile,Mobiles,Returning,4,21287.45,0.05,95452.92,67484.21,27968.71,Store
+RTL00090,2025-10-31,Kolkata,East,Smartwatch,Wearables,New,4,7584.08,0.0,35796.86,25312.25,10484.61,Store
+RTL00091,2025-06-08,Hyderabad,South,Tablet,Computers,Returning,1,16033.88,0.15,13628.8,11102.74,2526.06,Website
+RTL00092,2025-10-21,Indore,Central,Mobile,Mobiles,New,1,19417.74,0.05,21767.28,18685.56,3081.72,Store
+RTL00093,2025-11-04,Chennai,South,Laptop,Computers,Returning,2,66504.54,0.1,141255.65,116198.13,25057.52,Mobile App
+RTL00094,2025-05-22,Hyderabad,South,Mobile,Mobiles,VIP,4,22295.03,0.1,80262.12,59342.71,20919.41,Website
+RTL00095,2025-11-24,Indore,Central,Accessories,Accessories,New,2,1210.78,0.05,2714.58,2083.93,630.65,Website
+RTL00096,2025-04-16,Kolkata,East,Laptop,Computers,Returning,1,71730.81,0.15,65848.88,47123.86,18725.02,Store
+RTL00097,2025-03-29,Ahmedabad,West,Accessories,Accessories,Returning,4,1075.76,0.1,4182.57,3365.01,817.56,Mobile App
+RTL00098,2025-09-07,Kolkata,East,Smartwatch,Wearables,VIP,3,7144.78,0.05,20362.61,16402.27,3960.34,Website
+RTL00099,2025-08-21,Pune,West,Smartwatch,Wearables,New,2,7430.28,0.05,14117.54,12135.16,1982.38,Website
+RTL00100,2025-02-21,Hyderabad,South,Headphones,Accessories,Returning,1,2542.94,0.0,2542.94,1914.25,628.69,Website
+RTL00101,2025-10-31,Chennai,South,Smartwatch,Wearables,Returning,3,7237.8,0.1,23059.63,18960.64,4098.99,Website
+RTL00102,2025-03-14,Bengaluru,South,Laptop,Computers,Returning,3,61461.24,0.15,169264.26,141697.49,27566.77,Store
+RTL00103,2025-10-21,Chandigarh,North,Headphones,Accessories,Returning,1,2640.41,0.0,3115.68,2582.71,532.97,Store
+RTL00104,2025-01-03,Nagpur,Central,Headphones,Accessories,New,3,2718.47,0.0,8155.4,6308.66,1846.74,Store
+RTL00105,2025-10-18,Bengaluru,South,Laptop,Computers,New,2,63024.78,0.0,148738.49,126419.66,22318.83,Store
+RTL00106,2025-10-15,Bhubaneswar,East,Mobile,Mobiles,Returning,3,23667.06,0.15,71214.17,58328.04,12886.13,Store
+RTL00107,2025-10-12,Ahmedabad,West,Headphones,Accessories,Returning,4,2441.28,0.15,9794.43,6750.03,3044.4,Website
+RTL00108,2025-08-31,Ahmedabad,West,Headphones,Accessories,New,4,2327.04,0.1,8377.36,6448.46,1928.9,Website
+RTL00109,2025-06-22,Bengaluru,South,Accessories,Accessories,VIP,2,1135.83,0.15,1930.92,1331.56,599.36,Website
+RTL00110,2025-09-15,Bhubaneswar,East,Smartwatch,Wearables,New,4,6937.17,0.1,24973.8,17519.14,7454.66,Store
+RTL00111,2025-04-12,Nagpur,Central,Tablet,Computers,New,2,16819.34,0.0,36329.77,28291.83,8037.94,Website
+RTL00112,2025-10-12,Ahmedabad,West,Mobile,Mobiles,VIP,1,22666.12,0.05,25408.72,17968.51,7440.21,Mobile App
+RTL00113,2025-07-22,Pune,West,Tablet,Computers,New,2,18519.03,0.1,33334.26,26502.68,6831.58,Mobile App
+RTL00114,2025-06-17,Indore,Central,Headphones,Accessories,Returning,3,2668.88,0.0,8006.64,5462.38,2544.26,Website
+RTL00115,2025-07-04,Ahmedabad,West,Headphones,Accessories,VIP,3,2349.9,0.05,6697.21,5190.06,1507.15,Store
+RTL00116,2025-07-27,Chandigarh,North,Mobile,Mobiles,Returning,2,20912.11,0.1,37641.8,28979.31,8662.49,Mobile App
+RTL00117,2025-01-14,Kolkata,East,Mobile,Mobiles,New,3,19492.21,0.1,52628.98,38273.37,14355.61,Website
+RTL00118,2025-02-21,Chandigarh,North,Smartwatch,Wearables,New,2,7414.51,0.0,14829.02,11695.8,3133.22,Store
+RTL00119,2025-03-31,Pune,West,Laptop,Computers,Returning,2,72730.66,0.1,141388.41,96546.31,44842.1,Mobile App
+RTL00120,2025-02-11,Nagpur,Central,Headphones,Accessories,New,3,2571.95,0.05,7330.06,6117.77,1212.29,Mobile App
+RTL00121,2025-06-10,Bhubaneswar,East,Laptop,Computers,New,2,58397.15,0.15,99275.15,70985.02,28290.13,Store
+RTL00122,2025-09-01,Bengaluru,South,Mobile,Mobiles,Returning,1,21741.76,0.0,21741.76,17788.65,3953.11,Website
+RTL00123,2025-08-27,Chandigarh,North,Laptop,Computers,VIP,4,71447.77,0.05,211771.18,147386.86,64384.32,Mobile App
+RTL00124,2025-06-21,Indore,Central,Mobile,Mobiles,New,2,22883.86,0.1,41190.94,33596.27,7594.67,Store
+RTL00125,2025-11-09,Delhi,North,Smartwatch,Wearables,Returning,4,7278.97,0.0,34356.73,25534.61,8822.12,Website
+RTL00126,2025-07-26,Chandigarh,North,Tablet,Computers,Returning,4,17011.32,0.0,68045.26,48689.57,19355.69,Mobile App
+RTL00127,2025-01-29,Bengaluru,South,Accessories,Accessories,Returning,2,1332.36,0.15,2265.02,1633.31,631.71,Store
+RTL00128,2025-10-07,Delhi,North,Headphones,Accessories,New,4,2405.56,0.0,11354.25,8214.08,3140.17,Website
+RTL00129,2025-07-29,Kolkata,East,Accessories,Accessories,New,3,1206.04,0.1,3256.31,2465.5,790.81,Mobile App
+RTL00130,2025-08-20,Patna,East,Mobile,Mobiles,Returning,2,23143.77,0.15,39344.41,30825.42,8518.99,Store
+RTL00131,2025-07-26,Hyderabad,South,Accessories,Accessories,VIP,2,1286.04,0.1,2314.87,1851.03,463.84,Store
+RTL00132,2025-07-22,Chandigarh,North,Tablet,Computers,New,4,19056.58,0.0,76226.34,64552.34,11674.0,Website
+RTL00133,2025-02-03,Jaipur,North,Laptop,Computers,New,4,70314.86,0.0,281259.44,211332.57,69926.87,Website
+RTL00134,2025-07-24,Hyderabad,South,Tablet,Computers,New,2,19707.11,0.1,35472.8,27791.79,7681.01,Website
+RTL00135,2025-10-18,Delhi,North,Headphones,Accessories,New,2,2483.13,0.05,5567.17,4368.89,1198.28,Mobile App
+RTL00136,2025-04-21,Ahmedabad,West,Tablet,Computers,New,3,17314.76,0.1,50489.83,42091.21,8398.62,Website
+RTL00137,2025-08-09,Hyderabad,South,Mobile,Mobiles,Returning,4,20620.79,0.1,74234.83,59451.16,14783.67,Mobile App
+RTL00138,2025-01-12,Chennai,South,Mobile,Mobiles,New,2,23983.9,0.0,47967.8,40171.74,7796.06,Mobile App
+RTL00139,2025-05-07,Chennai,South,Laptop,Computers,New,4,70783.44,0.05,268977.07,216250.95,52726.12,Mobile App
+RTL00140,2025-06-09,Chennai,South,Smartwatch,Wearables,New,3,6946.92,0.1,18756.68,13530.89,5225.79,Website
+RTL00141,2025-12-25,Delhi,North,Accessories,Accessories,New,1,1127.91,0.0,1330.93,938.45,392.48,Website
+RTL00142,2025-03-20,Chandigarh,North,Accessories,Accessories,Returning,4,1059.5,0.05,4348.18,3357.72,990.46,Store
+RTL00143,2025-04-11,Bhopal,Central,Mobile,Mobiles,New,2,23271.5,0.0,50266.45,41281.2,8985.25,Mobile App
+RTL00144,2025-05-30,Chandigarh,North,Laptop,Computers,New,1,61860.64,0.0,61860.64,45785.34,16075.3,Website
+RTL00145,2025-12-29,Patna,East,Mobile,Mobiles,Returning,1,23091.35,0.1,24523.02,19215.09,5307.93,Store
+RTL00146,2025-11-08,Patna,East,Tablet,Computers,New,1,17397.64,0.05,19502.76,13986.0,5516.76,Website
+RTL00147,2025-01-13,Hyderabad,South,Laptop,Computers,Returning,4,68494.59,0.0,273978.36,227601.78,46376.58,Website
+RTL00148,2025-03-27,Chennai,South,Accessories,Accessories,Returning,1,1257.15,0.1,1221.95,946.42,275.53,Mobile App
+RTL00149,2025-10-27,Pune,West,Laptop,Computers,Returning,3,58330.3,0.05,196164.79,166752.81,29411.98,Mobile App
+RTL00150,2025-01-22,Ahmedabad,West,Accessories,Accessories,New,2,1102.59,0.05,2094.93,1759.19,335.74,Website
+RTL00151,2025-11-09,Bengaluru,South,Mobile,Mobiles,New,3,22074.17,0.1,70328.32,51111.36,19216.96,Store
+RTL00152,2025-04-13,Hyderabad,South,Smartwatch,Wearables,Returning,1,6750.37,0.05,6925.88,5572.14,1353.74,Website
+RTL00153,2025-12-01,Bengaluru,South,Accessories,Accessories,VIP,2,1296.73,0.05,2907.27,2016.26,891.01,Mobile App
+RTL00154,2025-04-18,Bhubaneswar,East,Headphones,Accessories,Returning,3,2576.06,0.15,7094.47,5691.95,1402.52,Mobile App
+RTL00155,2025-06-08,Mumbai,West,Headphones,Accessories,New,3,2557.51,0.0,7672.54,5381.71,2290.83,Website
+RTL00156,2025-08-30,Hyderabad,South,Mobile,Mobiles,Returning,1,20235.18,0.0,20235.18,16940.55,3294.63,Store
+RTL00157,2025-02-16,Hyderabad,South,Laptop,Computers,VIP,2,61607.54,0.1,110893.56,87318.78,23574.78,Store
+RTL00158,2025-07-23,Nagpur,Central,Smartwatch,Wearables,Returning,2,6250.81,0.15,10626.38,9101.88,1524.5,Website
+RTL00159,2025-07-04,Jaipur,North,Mobile,Mobiles,New,4,23247.95,0.15,79043.03,56907.17,22135.86,Mobile App
+RTL00160,2025-10-14,Bhubaneswar,East,Smartwatch,Wearables,New,2,7240.52,0.15,14524.49,10583.77,3940.72,Store
+RTL00161,2025-12-30,Ahmedabad,West,Tablet,Computers,Returning,2,17733.19,0.05,39757.81,28791.18,10966.63,Store
+RTL00162,2025-08-31,Chandigarh,North,Laptop,Computers,New,1,69173.12,0.1,48559.53,36344.01,12215.52,Mobile App
+RTL00163,2025-05-30,Jaipur,North,Mobile,Mobiles,Returning,3,24320.8,0.15,62018.03,49549.69,12468.34,Website
+RTL00164,2025-05-29,Delhi,North,Mobile,Mobiles,New,2,22133.5,0.0,44266.99,30932.22,13334.77,Store
+RTL00165,2025-06-02,Nagpur,Central,Mobile,Mobiles,New,3,24274.16,0.1,65540.22,44994.67,20545.55,Store
+RTL00166,2025-10-25,Delhi,North,Mobile,Mobiles,New,3,19985.6,0.15,60136.68,43865.06,16271.62,Website
+RTL00167,2025-04-28,Delhi,North,Laptop,Computers,Returning,1,58659.64,0.0,63352.41,49347.8,14004.61,Store
+RTL00168,2025-03-02,Delhi,North,Laptop,Computers,New,2,71885.32,0.05,147508.68,103674.2,43834.48,Mobile App
+RTL00169,2025-05-03,Chandigarh,North,Smartwatch,Wearables,New,3,7817.65,0.1,21107.66,14689.22,6418.44,Website
+RTL00170,2025-01-09,Ahmedabad,West,Mobile,Mobiles,VIP,4,21387.27,0.05,81271.61,57447.73,23823.88,Store
+RTL00171,2025-02-08,Bengaluru,South,Smartwatch,Wearables,Returning,2,6256.77,0.15,10636.51,8999.72,1636.79,Store
+RTL00172,2025-02-02,Bhubaneswar,East,Headphones,Accessories,New,3,2604.11,0.0,7812.32,5530.32,2282.0,Mobile App
+RTL00173,2025-10-09,Patna,East,Laptop,Computers,Returning,2,72790.48,0.1,154606.99,105341.0,49265.99,Store
+RTL00174,2025-09-21,Pune,West,Headphones,Accessories,Returning,1,2610.4,0.05,2479.88,1849.33,630.55,Website
+RTL00175,2025-09-12,Jaipur,North,Mobile,Mobiles,New,4,24016.47,0.1,86459.29,69170.03,17289.26,Store
+RTL00176,2025-06-18,Nagpur,Central,Mobile,Mobiles,Returning,2,19419.07,0.0,38838.13,27965.27,10872.86,Store
+RTL00177,2025-09-19,Mumbai,West,Mobile,Mobiles,Returning,3,21072.86,0.05,60057.66,49469.68,10587.98,Store
+RTL00178,2025-02-28,Jaipur,North,Tablet,Computers,New,4,16479.13,0.05,62620.69,48419.45,14201.24,Store
+RTL00179,2025-11-25,Pune,West,Laptop,Computers,New,2,71458.71,0.0,168642.56,138878.36,29764.2,Website
+RTL00180,2025-07-02,Bhopal,Central,Mobile,Mobiles,Returning,4,22226.73,0.05,84461.58,61743.43,22718.15,Store
+RTL00181,2025-12-09,Chennai,South,Headphones,Accessories,Returning,1,2276.91,0.1,2418.08,2049.34,368.74,Website
+RTL00182,2025-02-25,Nagpur,Central,Smartwatch,Wearables,New,3,7363.1,0.1,19880.37,15714.42,4165.95,Store
+RTL00183,2025-07-01,Patna,East,Headphones,Accessories,New,1,2344.78,0.0,2344.78,1620.07,724.71,Website
+RTL00184,2025-09-12,Mumbai,West,Tablet,Computers,Returning,3,19390.52,0.0,45373.83,35337.67,10036.16,Website
+RTL00185,2025-06-30,Indore,Central,Smartwatch,Wearables,Returning,1,7805.13,0.0,7805.13,5445.28,2359.85,Store
+RTL00186,2025-06-12,Chennai,South,Tablet,Computers,New,4,16204.96,0.05,61578.84,48413.12,13165.72,Store
+RTL00187,2025-03-02,Pune,West,Tablet,Computers,New,2,19681.78,0.05,40387.02,33003.19,7383.83,Website
+RTL00188,2025-05-20,Hyderabad,South,Accessories,Accessories,New,3,1082.37,0.1,2922.4,2110.68,811.72,Website
+RTL00189,2025-03-29,Pune,West,Headphones,Accessories,Returning,1,2388.49,0.1,2321.61,1637.74,683.87,Website
+RTL00190,2025-04-21,Mumbai,West,Mobile,Mobiles,New,2,23530.7,0.05,48285.0,35040.44,13244.56,Mobile App
+RTL00191,2025-09-07,Bengaluru,South,Smartwatch,Wearables,New,3,6168.37,0.1,16654.61,11877.66,4776.95,Mobile App
+RTL00192,2025-08-19,Chennai,South,Tablet,Computers,New,3,17772.7,0.05,39508.71,33802.58,5706.13,Website
+RTL00193,2025-08-10,Chennai,South,Accessories,Accessories,Returning,4,1311.33,0.0,5245.31,3658.91,1586.4,Website
+RTL00194,2025-05-13,Delhi,North,Headphones,Accessories,New,3,2570.41,0.0,7711.22,5542.85,2168.37,Website
+RTL00195,2025-12-17,Delhi,North,Headphones,Accessories,New,1,2729.69,0.0,3221.03,2407.09,813.94,Store
+RTL00196,2025-02-01,Hyderabad,South,Tablet,Computers,Returning,2,17777.34,0.05,33776.95,28829.39,4947.56,Website
+RTL00197,2025-05-06,Delhi,North,Accessories,Accessories,New,1,1153.2,0.15,980.22,774.35,205.87,Store
+RTL00198,2025-02-13,Jaipur,North,Laptop,Computers,New,3,67485.3,0.05,192333.1,157130.67,35202.43,Store
+RTL00199,2025-05-04,Mumbai,West,Headphones,Accessories,Returning,3,2751.45,0.1,7428.92,6221.48,1207.44,Mobile App
+RTL00200,2025-12-18,Mumbai,West,Headphones,Accessories,New,4,2228.48,0.05,9992.52,7496.89,2495.63,Store
+RTL00201,2025-05-14,Mumbai,West,Accessories,Accessories,Returning,1,1332.3,0.0,1332.3,1088.42,243.88,Store
+RTL00202,2025-11-28,Chennai,South,Smartwatch,Wearables,New,3,6473.64,0.0,22916.7,16828.26,6088.44,Website
+RTL00203,2025-06-30,Nagpur,Central,Smartwatch,Wearables,New,1,7222.51,0.05,6861.38,4862.72,1998.66,Store
+RTL00204,2025-09-13,Kolkata,East,Mobile,Mobiles,New,3,21114.95,0.15,53843.12,41015.12,12828.0,Store
+RTL00205,2025-06-16,Delhi,North,Headphones,Accessories,VIP,2,2613.34,0.0,5226.68,4442.21,784.47,Store
+RTL00206,2025-04-08,Jaipur,North,Laptop,Computers,New,2,68453.35,0.1,133073.33,110683.81,22389.52,Website
+RTL00207,2025-10-06,Mumbai,West,Mobile,Mobiles,Returning,1,20273.57,0.05,22726.67,19528.64,3198.03,Website
+RTL00208,2025-12-20,Jaipur,North,Tablet,Computers,New,1,18914.62,0.0,22319.25,15915.47,6403.78,Website
+RTL00209,2025-04-07,Kolkata,East,Mobile,Mobiles,New,4,20342.81,0.0,87880.95,65006.85,22874.1,Mobile App
+RTL00210,2025-10-12,Nagpur,Central,Mobile,Mobiles,Returning,1,24546.18,0.0,28964.49,20439.16,8525.33,Website
+RTL00211,2025-04-06,Jaipur,North,Smartwatch,Wearables,VIP,1,6476.78,0.0,6994.92,4853.04,2141.88,Website
+RTL00212,2025-09-19,Jaipur,North,Smartwatch,Wearables,Returning,3,7814.1,0.05,22270.19,15304.8,6965.39,Store
+RTL00213,2025-10-15,Nagpur,Central,Laptop,Computers,New,1,71817.43,0.1,76270.11,55396.47,20873.64,Store
+RTL00214,2025-06-14,Patna,East,Laptop,Computers,New,2,68541.37,0.0,137082.74,96752.15,40330.59,Store
+RTL00215,2025-09-26,Jaipur,North,Laptop,Computers,Returning,1,68118.79,0.1,47819.39,38093.78,9725.61,Store
+RTL00216,2025-04-10,Nagpur,Central,Mobile,Mobiles,VIP,2,24279.88,0.1,47200.08,39935.66,7264.42,Website
+RTL00217,2025-01-29,Bhopal,Central,Accessories,Accessories,New,4,1057.04,0.05,4016.76,2776.64,1240.12,Store
+RTL00218,2025-02-05,Bhubaneswar,East,Smartwatch,Wearables,Returning,1,7488.29,0.15,6365.05,4496.01,1869.04,Store
+RTL00219,2025-06-13,Pune,West,Laptop,Computers,Returning,4,62357.37,0.05,236958.0,172828.68,64129.32,Website
+RTL00220,2025-11-26,Chennai,South,Laptop,Computers,Returning,4,69802.21,0.15,280046.47,200253.05,79793.42,Website
+RTL00221,2025-02-16,Chandigarh,North,Headphones,Accessories,New,1,2510.98,0.0,2510.98,1752.63,758.35,Mobile App
+RTL00222,2025-06-16,Kolkata,East,Mobile,Mobiles,Returning,1,21235.48,0.1,19111.93,16086.23,3025.7,Mobile App
+RTL00223,2025-09-14,Hyderabad,South,Mobile,Mobiles,Returning,1,22296.83,0.0,22296.83,16548.63,5748.2,Website
+RTL00224,2025-03-15,Mumbai,West,Accessories,Accessories,New,4,1215.27,0.05,4987.46,3830.45,1157.01,Mobile App
+RTL00225,2025-09-21,Mumbai,West,Laptop,Computers,Returning,4,66018.94,0.05,195680.14,134576.18,61103.96,Store
+RTL00226,2025-04-22,Delhi,North,Headphones,Accessories,Returning,1,2403.22,0.0,2595.47,1853.11,742.36,Mobile App
+RTL00227,2025-10-23,Patna,East,Laptop,Computers,Returning,4,66478.3,0.15,266710.92,212168.24,54542.68,Mobile App
+RTL00228,2025-07-31,Hyderabad,South,Headphones,Accessories,Returning,3,2520.02,0.0,7560.05,5284.07,2275.98,Store
+RTL00229,2025-07-19,Bhopal,Central,Mobile,Mobiles,New,1,20367.04,0.0,20367.04,16191.22,4175.82,Store
+RTL00230,2025-03-06,Chennai,South,Headphones,Accessories,Returning,3,2411.65,0.1,7032.37,5514.96,1517.41,Website
+RTL00231,2025-06-19,Mumbai,West,Accessories,Accessories,VIP,2,1199.13,0.15,2038.52,1562.04,476.48,Store
+RTL00232,2025-11-09,Patna,East,Mobile,Mobiles,New,1,24636.88,0.0,29071.52,20016.48,9055.04,Store
+RTL00233,2025-01-08,Bengaluru,South,Headphones,Accessories,Returning,2,2760.03,0.0,5520.07,4684.57,835.5,Store
+RTL00234,2025-10-04,Mumbai,West,Laptop,Computers,New,3,68704.38,0.15,206731.49,143761.16,62970.33,Store
+RTL00235,2025-06-29,Mumbai,West,Headphones,Accessories,New,4,2680.81,0.1,9650.92,7612.41,2038.51,Mobile App
+RTL00236,2025-09-20,Patna,East,Headphones,Accessories,New,4,2333.82,0.0,9335.29,6810.05,2525.24,Store
+RTL00237,2025-08-31,Ahmedabad,West,Mobile,Mobiles,Returning,1,22130.24,0.05,21023.73,17638.13,3385.6,Store
+RTL00238,2025-06-07,Bhopal,Central,Tablet,Computers,Returning,2,16520.84,0.0,33041.68,25459.91,7581.77,Website
+RTL00239,2025-04-23,Bengaluru,South,Headphones,Accessories,New,4,2435.63,0.15,8943.61,6134.57,2809.04,Store
+RTL00240,2025-08-17,Bhubaneswar,East,Headphones,Accessories,Returning,1,2413.79,0.1,2172.41,1665.17,507.24,Website
+RTL00241,2025-02-21,Delhi,North,Mobile,Mobiles,New,1,22449.58,0.05,21327.1,16792.06,4535.04,Website
+RTL00242,2025-08-02,Pune,West,Smartwatch,Wearables,New,2,6386.89,0.05,12135.08,10201.81,1933.27,Mobile App
+RTL00243,2025-02-04,Bhubaneswar,East,Mobile,Mobiles,New,2,21600.5,0.1,38880.89,26509.9,12370.99,Mobile App
+RTL00244,2025-08-26,Chennai,South,Mobile,Mobiles,New,4,23933.94,0.05,90948.95,70961.08,19987.87,Website
+RTL00245,2025-08-18,Jaipur,North,Headphones,Accessories,Returning,4,2463.56,0.15,8376.11,6100.59,2275.52,Mobile App
+RTL00246,2025-01-31,Nagpur,Central,Laptop,Computers,New,1,68750.95,0.15,58438.31,40524.67,17913.64,Website
+RTL00247,2025-10-04,Bengaluru,South,Smartwatch,Wearables,Returning,4,7561.83,0.0,35691.84,27633.2,8058.64,Mobile App
+RTL00248,2025-06-01,Pune,West,Headphones,Accessories,Returning,4,2351.03,0.15,7993.49,5580.62,2412.87,Store
+RTL00249,2025-10-15,Chandigarh,North,Headphones,Accessories,Returning,3,2379.71,0.0,8424.16,6080.34,2343.82,Store
+RTL00250,2025-01-16,Indore,Central,Accessories,Accessories,New,3,1303.9,0.05,3716.11,2967.76,748.35,Store
+RTL00251,2025-03-07,Chandigarh,North,Headphones,Accessories,Returning,3,2727.08,0.0,8835.75,7478.33,1357.42,Website
+RTL00252,2025-06-30,Delhi,North,Accessories,Accessories,New,4,1127.4,0.1,4058.62,3170.39,888.23,Store
+RTL00253,2025-03-10,Bhopal,Central,Laptop,Computers,New,3,61318.93,0.1,178805.99,127634.32,51171.67,Mobile App
+RTL00254,2025-05-01,Nagpur,Central,Mobile,Mobiles,Returning,1,22945.51,0.1,20650.96,15262.26,5388.7,Website
+RTL00255,2025-08-30,Bengaluru,South,Headphones,Accessories,VIP,3,2221.05,0.0,6663.16,5719.36,943.8,Mobile App
+RTL00256,2025-02-22,Bhubaneswar,East,Laptop,Computers,New,4,69552.82,0.05,264300.71,217287.03,47013.68,Store
+RTL00257,2025-09-05,Pune,West,Tablet,Computers,VIP,1,18517.17,0.15,12276.88,9014.01,3262.87,Store
+RTL00258,2025-02-07,Indore,Central,Headphones,Accessories,New,2,2531.4,0.05,4809.66,3749.04,1060.62,Mobile App
+RTL00259,2025-03-05,Bengaluru,South,Accessories,Accessories,Returning,1,1218.52,0.15,1118.6,849.67,268.93,Website
+RTL00260,2025-08-03,Patna,East,Smartwatch,Wearables,New,3,7419.55,0.0,22258.64,18125.3,4133.34,Website
+RTL00261,2025-10-17,Pune,West,Headphones,Accessories,Returning,4,2713.58,0.0,12808.09,10115.89,2692.2,Website
+RTL00262,2025-03-04,Ahmedabad,West,Tablet,Computers,Returning,1,17533.62,0.05,17989.49,13573.52,4415.97,Store
+RTL00263,2025-04-20,Pune,West,Smartwatch,Wearables,Returning,4,7112.74,0.1,27654.35,21276.72,6377.63,Store
+RTL00264,2025-12-04,Patna,East,Accessories,Accessories,VIP,4,1259.69,0.0,5945.75,5082.59,863.16,Website
+RTL00265,2025-12-28,Chandigarh,North,Headphones,Accessories,Returning,4,2526.01,0.0,11922.77,9750.06,2172.71,Store
+RTL00266,2025-08-01,Indore,Central,Mobile,Mobiles,New,3,22031.49,0.15,56180.31,39300.69,16879.62,Mobile App
+RTL00267,2025-06-13,Bhopal,Central,Headphones,Accessories,Returning,2,2209.89,0.0,4419.79,3382.14,1037.65,Website
+RTL00268,2025-05-07,Mumbai,West,Mobile,Mobiles,Returning,1,22486.69,0.15,19113.69,14041.77,5071.92,Website
+RTL00269,2025-08-12,Chandigarh,North,Accessories,Accessories,VIP,2,1151.05,0.0,2302.09,1760.57,541.52,Store
+RTL00270,2025-08-04,Bengaluru,South,Accessories,Accessories,Returning,2,1304.74,0.1,2348.53,1742.44,606.09,Store
+RTL00271,2025-04-18,Pune,West,Tablet,Computers,Returning,4,19839.64,0.05,81421.88,64493.0,16928.88,Website
+RTL00272,2025-01-09,Jaipur,North,Accessories,Accessories,Returning,3,1109.12,0.05,3160.99,2611.59,549.4,Website
+RTL00273,2025-02-25,Bhopal,Central,Tablet,Computers,New,1,19131.62,0.05,18175.04,12818.51,5356.53,Store
+RTL00274,2025-12-16,Hyderabad,South,Mobile,Mobiles,New,2,23690.15,0.05,53113.32,43242.24,9871.08,Website
+RTL00275,2025-06-02,Ahmedabad,West,Tablet,Computers,New,3,18961.1,0.05,54039.14,45648.21,8390.93,Website
+RTL00276,2025-06-26,Nagpur,Central,Tablet,Computers,Returning,4,17104.01,0.05,64995.23,48034.91,16960.32,Store
+RTL00277,2025-06-20,Hyderabad,South,Laptop,Computers,New,2,70763.53,0.15,120298.0,100919.5,19378.5,Store
+RTL00278,2025-10-13,Hyderabad,South,Laptop,Computers,New,4,65018.86,0.15,260855.68,221309.74,39545.94,Store
+RTL00279,2025-01-24,Pune,West,Mobile,Mobiles,Returning,3,20552.11,0.0,61656.33,49207.21,12449.12,Mobile App
+RTL00280,2025-01-31,Bhubaneswar,East,Headphones,Accessories,New,2,2616.72,0.05,4971.77,3523.76,1448.01,Mobile App
+RTL00281,2025-04-11,Bengaluru,South,Smartwatch,Wearables,Returning,1,6917.54,0.05,7097.39,5893.62,1203.77,Mobile App
+RTL00282,2025-06-27,Mumbai,West,Smartwatch,Wearables,VIP,3,7239.79,0.0,21719.36,15185.09,6534.27,Website
+RTL00283,2025-09-02,Bhopal,Central,Mobile,Mobiles,Returning,2,19686.37,0.1,35435.46,29339.96,6095.5,Website
+RTL00284,2025-06-29,Patna,East,Mobile,Mobiles,New,1,19519.51,0.0,19519.51,13893.26,5626.25,Website
+RTL00285,2025-06-11,Jaipur,North,Mobile,Mobiles,New,1,20664.52,0.05,19631.29,16385.3,3245.99,Store
+RTL00286,2025-12-09,Hyderabad,South,Mobile,Mobiles,New,2,21037.22,0.15,42200.66,29900.66,12300.0,Mobile App
+RTL00287,2025-02-28,Hyderabad,South,Laptop,Computers,New,1,71370.19,0.0,71370.19,59965.42,11404.77,Store
+RTL00288,2025-07-28,Chandigarh,North,Mobile,Mobiles,New,3,20038.95,0.15,51099.31,40043.87,11055.44,Website
+RTL00289,2025-07-17,Chandigarh,North,Mobile,Mobiles,Returning,1,23534.76,0.05,22358.02,18738.18,3619.84,Store
+RTL00290,2025-06-22,Mumbai,West,Laptop,Computers,Returning,2,68710.57,0.0,137421.14,103976.72,33444.42,Store
+RTL00291,2025-10-22,Bengaluru,South,Laptop,Computers,New,3,72055.66,0.05,242323.19,191610.86,50712.33,Website
+RTL00292,2025-04-08,Nagpur,Central,Laptop,Computers,New,2,65663.69,0.0,141833.57,107260.98,34572.59,Store
+RTL00293,2025-12-15,Bengaluru,South,Laptop,Computers,Returning,1,70980.19,0.05,79568.79,57602.34,21966.45,Store
+RTL00294,2025-05-02,Jaipur,North,Mobile,Mobiles,Returning,3,21109.14,0.0,63327.42,48067.18,15260.24,Mobile App
+RTL00295,2025-07-18,Ahmedabad,West,Tablet,Computers,Returning,4,19098.84,0.15,64936.06,54117.21,10818.85,Mobile App
+RTL00296,2025-07-10,Indore,Central,Accessories,Accessories,Returning,4,1192.86,0.0,4771.44,3686.84,1084.6,Store
+RTL00297,2025-11-07,Bengaluru,South,Tablet,Computers,Returning,4,19995.35,0.15,80221.33,58144.88,22076.45,Mobile App
+RTL00298,2025-06-10,Bengaluru,South,Accessories,Accessories,VIP,3,1221.18,0.1,3297.18,2341.37,955.81,Store
+RTL00299,2025-04-14,Chandigarh,North,Smartwatch,Wearables,Returning,4,6901.24,0.15,25341.36,18195.47,7145.89,Website
+RTL00300,2025-01-08,Kolkata,East,Laptop,Computers,New,1,68385.5,0.0,68385.5,57290.02,11095.48,Store
+RTL00301,2025-05-13,Bhubaneswar,East,Laptop,Computers,New,3,64231.51,0.1,173425.07,141382.39,32042.68,Store
+RTL00302,2025-10-29,Hyderabad,South,Mobile,Mobiles,New,2,24259.04,0.0,57251.33,49114.3,8137.03,Store
+RTL00303,2025-01-04,Delhi,North,Mobile,Mobiles,Returning,4,23531.36,0.0,94125.43,72689.26,21436.17,Website
+RTL00304,2025-11-24,Patna,East,Accessories,Accessories,Returning,2,1332.84,0.05,2988.23,2471.88,516.35,Website
+RTL00305,2025-07-18,Indore,Central,Smartwatch,Wearables,Returning,3,7433.48,0.0,22300.43,19025.16,3275.27,Mobile App
+RTL00306,2025-02-21,Ahmedabad,West,Mobile,Mobiles,New,1,22131.0,0.1,19917.9,16986.8,2931.1,Store
+RTL00307,2025-04-21,Patna,East,Smartwatch,Wearables,Returning,1,6705.61,0.0,7242.06,4954.96,2287.1,Website
+RTL00308,2025-07-22,Chandigarh,North,Smartwatch,Wearables,New,1,7467.65,0.1,6720.89,4901.06,1819.83,Store
+RTL00309,2025-04-26,Bengaluru,South,Mobile,Mobiles,Returning,3,19466.36,0.0,63071.02,44675.76,18395.26,Mobile App
+RTL00310,2025-02-09,Hyderabad,South,Tablet,Computers,New,3,18292.71,0.15,46646.4,36455.7,10190.7,Store
+RTL00311,2025-09-01,Ahmedabad,West,Mobile,Mobiles,Returning,4,20837.48,0.05,79182.42,63619.07,15563.35,Website
+RTL00312,2025-09-03,Nagpur,Central,Headphones,Accessories,New,4,2218.65,0.1,7987.14,6214.77,1772.37,Store
+RTL00313,2025-02-13,Nagpur,Central,Accessories,Accessories,New,3,1193.06,0.1,3221.27,2550.49,670.78,Store
+RTL00314,2025-04-13,Bhopal,Central,Headphones,Accessories,New,2,2611.36,0.15,4794.45,3946.34,848.11,Website
+RTL00315,2025-03-31,Nagpur,Central,Smartwatch,Wearables,Returning,3,7181.66,0.1,20941.71,17855.7,3086.01,Website
+RTL00316,2025-08-29,Indore,Central,Mobile,Mobiles,New,3,20855.85,0.1,56310.8,41106.07,15204.73,Store
+RTL00317,2025-09-24,Jaipur,North,Headphones,Accessories,New,2,2682.58,0.0,5365.15,4070.84,1294.31,Website
+RTL00318,2025-09-23,Chandigarh,North,Laptop,Computers,New,3,67744.2,0.0,158521.42,134880.41,23641.01,Website
+RTL00319,2025-12-09,Chennai,South,Mobile,Mobiles,New,1,21825.98,0.1,23179.19,17308.2,5870.99,Store
+RTL00320,2025-10-08,Kolkata,East,Accessories,Accessories,New,1,1174.75,0.0,1386.2,1180.39,205.81,Store
+RTL00321,2025-04-28,Delhi,North,Smartwatch,Wearables,New,3,7357.65,0.15,20262.96,15469.81,4793.15,Mobile App
+RTL00322,2025-02-09,Mumbai,West,Tablet,Computers,Returning,4,19852.98,0.05,75441.31,53234.59,22206.72,Website
+RTL00323,2025-08-13,Mumbai,West,Headphones,Accessories,New,4,2572.05,0.15,8744.96,6436.22,2308.74,Store
+RTL00324,2025-12-01,Patna,East,Laptop,Computers,New,2,69840.54,0.15,140100.14,108642.35,31457.79,Website
+RTL00325,2025-12-22,Delhi,North,Tablet,Computers,New,2,18203.11,0.15,36515.44,30219.42,6296.02,Mobile App
+RTL00326,2025-03-26,Hyderabad,South,Mobile,Mobiles,Returning,3,21450.42,0.0,69499.36,53748.46,15750.9,Website
+RTL00327,2025-03-28,Delhi,North,Headphones,Accessories,New,2,2720.11,0.0,5875.43,4361.22,1514.21,Website
+RTL00328,2025-01-14,Bhopal,Central,Headphones,Accessories,Returning,4,2697.19,0.0,10788.75,9103.43,1685.32,Website
+RTL00329,2025-02-21,Bhubaneswar,East,Headphones,Accessories,Returning,3,2498.25,0.0,7494.76,5451.98,2042.78,Website
+RTL00330,2025-07-22,Mumbai,West,Laptop,Computers,Returning,2,58339.44,0.15,99177.06,70848.06,28329.0,Store
+RTL00331,2025-07-19,Chennai,South,Accessories,Accessories,New,2,1082.25,0.0,2164.49,1813.05,351.44,Mobile App
+RTL00332,2025-05-16,Hyderabad,South,Accessories,Accessories,VIP,2,1261.9,0.0,2523.79,1985.72,538.07,Mobile App
+RTL00333,2025-04-24,Hyderabad,South,Laptop,Computers,New,1,62122.37,0.05,63737.55,44829.87,18907.68,Store
+RTL00334,2025-10-30,Mumbai,West,Laptop,Computers,New,3,64968.29,0.1,206988.98,156851.34,50137.64,Mobile App
+RTL00335,2025-06-17,Pune,West,Laptop,Computers,New,4,60272.89,0.1,216982.39,150530.48,66451.91,Store
+RTL00336,2025-10-23,Hyderabad,South,Headphones,Accessories,Returning,1,2591.09,0.05,2904.62,2205.72,698.9,Store
+RTL00337,2025-12-18,Bhopal,Central,Mobile,Mobiles,VIP,1,20522.29,0.0,24216.3,18501.63,5714.67,Mobile App
+RTL00338,2025-04-26,Delhi,North,Mobile,Mobiles,New,4,19785.99,0.15,72654.17,52513.6,20140.57,Store
+RTL00339,2025-03-15,Bhopal,Central,Headphones,Accessories,Returning,3,2308.21,0.05,7104.68,5746.96,1357.72,Store
+RTL00340,2025-12-14,Chandigarh,North,Headphones,Accessories,New,2,2310.48,0.0,5452.74,3857.51,1595.23,Website
+RTL00341,2025-08-20,Bengaluru,South,Mobile,Mobiles,Returning,4,24269.18,0.0,97076.71,66763.59,30313.12,Store
+RTL00342,2025-04-17,Ahmedabad,West,Headphones,Accessories,New,3,2252.64,0.05,6933.63,4991.56,1942.07,Store
+RTL00343,2025-08-15,Jaipur,North,Accessories,Accessories,Returning,3,1328.7,0.15,3388.19,2701.58,686.61,Mobile App
+RTL00344,2025-07-07,Bengaluru,South,Headphones,Accessories,New,3,2413.04,0.15,6153.24,4789.1,1364.14,Store
+RTL00345,2025-11-27,Chennai,South,Mobile,Mobiles,Returning,4,21360.29,0.15,85697.48,70947.22,14750.26,Store
+RTL00346,2025-04-04,Hyderabad,South,Accessories,Accessories,New,2,1194.4,0.1,2321.92,1679.84,642.08,Store
+RTL00347,2025-12-28,Pune,West,Smartwatch,Wearables,Returning,2,7283.98,0.15,14611.67,11375.04,3236.63,Mobile App
+RTL00348,2025-12-08,Indore,Central,Mobile,Mobiles,VIP,2,24394.06,0.0,57569.98,47438.47,10131.51,Website
+RTL00349,2025-03-07,Indore,Central,Mobile,Mobiles,Returning,2,19987.14,0.1,38855.01,31940.59,6914.42,Mobile App
+RTL00350,2025-03-02,Bengaluru,South,Mobile,Mobiles,New,2,21434.29,0.05,43983.17,33230.98,10752.19,Store
+RTL00351,2025-07-14,Patna,East,Mobile,Mobiles,New,2,22390.64,0.1,40303.14,28539.6,11763.54,Store
+RTL00352,2025-01-17,Bengaluru,South,Smartwatch,Wearables,Returning,2,6680.22,0.05,12692.41,10740.07,1952.34,Website
+RTL00353,2025-04-20,Bengaluru,South,Laptop,Computers,New,3,58774.84,0.0,190430.48,155708.59,34721.89,Store
+RTL00354,2025-06-08,Chandigarh,North,Mobile,Mobiles,VIP,4,22480.89,0.0,89923.56,72263.99,17659.57,Store
+RTL00355,2025-12-20,Nagpur,Central,Smartwatch,Wearables,Returning,2,6673.81,0.1,14175.16,11954.4,2220.76,Website
+RTL00356,2025-12-29,Bhopal,Central,Accessories,Accessories,Returning,1,1205.35,0.05,1351.19,1120.13,231.06,Website
+RTL00357,2025-02-25,Ahmedabad,West,Tablet,Computers,Returning,2,18386.67,0.05,34934.66,29196.05,5738.61,Mobile App
+RTL00358,2025-11-22,Bhubaneswar,East,Tablet,Computers,New,2,19672.01,0.05,44104.64,37902.25,6202.39,Website
+RTL00359,2025-02-03,Patna,East,Headphones,Accessories,New,3,2745.17,0.15,7000.18,5681.38,1318.8,Website
+RTL00360,2025-10-01,Bhubaneswar,East,Headphones,Accessories,Returning,3,2212.22,0.0,7831.26,6531.86,1299.4,Website
+RTL00361,2025-11-05,Bhubaneswar,East,Mobile,Mobiles,New,1,19536.79,0.1,20748.08,15539.06,5209.02,Store
+RTL00362,2025-11-22,Bengaluru,South,Smartwatch,Wearables,Returning,2,6890.95,0.0,16262.64,11790.38,4472.26,Store
+RTL00363,2025-03-23,Delhi,North,Headphones,Accessories,New,3,2203.79,0.1,6426.27,5419.82,1006.45,Store
+RTL00364,2025-11-23,Jaipur,North,Headphones,Accessories,Returning,1,2368.14,0.1,2514.96,1889.6,625.36,Store
+RTL00365,2025-02-12,Nagpur,Central,Laptop,Computers,Returning,4,65569.19,0.05,249162.92,190041.17,59121.75,Mobile App
+RTL00366,2025-07-09,Bhubaneswar,East,Mobile,Mobiles,VIP,4,23526.2,0.0,94104.81,74353.8,19751.01,Website
+RTL00367,2025-06-21,Indore,Central,Accessories,Accessories,VIP,1,1092.69,0.1,983.42,792.53,190.89,Mobile App
+RTL00368,2025-04-26,Delhi,North,Laptop,Computers,New,2,59289.08,0.0,128064.42,98453.89,29610.53,Website
+RTL00369,2025-01-09,Patna,East,Headphones,Accessories,Returning,3,2367.88,0.15,6038.09,4670.13,1367.96,Store
+RTL00370,2025-10-09,Chennai,South,Laptop,Computers,Returning,1,60398.79,0.0,71270.57,49821.45,21449.12,Website
+RTL00371,2025-05-03,Chennai,South,Tablet,Computers,Returning,1,16106.22,0.0,16106.22,12253.37,3852.85,Store
+RTL00372,2025-08-30,Chandigarh,North,Headphones,Accessories,Returning,1,2268.09,0.1,2041.28,1456.24,585.04,Store
+RTL00373,2025-05-30,Jaipur,North,Accessories,Accessories,New,2,1108.34,0.1,1995.01,1361.67,633.34,Store
+RTL00374,2025-05-17,Bhopal,Central,Accessories,Accessories,New,2,1229.72,0.15,2090.53,1631.03,459.5,Mobile App
+RTL00375,2025-11-20,Bengaluru,South,Laptop,Computers,New,2,69258.75,0.1,147105.59,101810.2,45295.39,Mobile App
+RTL00376,2025-02-04,Ahmedabad,West,Headphones,Accessories,New,1,2593.18,0.1,2333.86,1934.91,398.95,Website
+RTL00377,2025-09-26,Patna,East,Smartwatch,Wearables,Returning,2,7595.54,0.05,14431.54,9867.44,4564.1,Store
+RTL00378,2025-09-30,Bengaluru,South,Laptop,Computers,New,1,60113.37,0.05,44544.01,37074.54,7469.47,Store
+RTL00379,2025-05-19,Patna,East,Headphones,Accessories,New,3,2367.41,0.15,6036.89,5147.36,889.53,Mobile App
+RTL00380,2025-04-06,Chandigarh,North,Smartwatch,Wearables,Returning,4,7019.86,0.05,28809.51,23819.43,4990.08,Website
+RTL00381,2025-01-02,Bhopal,Central,Accessories,Accessories,New,2,1288.39,0.05,2447.95,2044.64,403.31,Store
+RTL00382,2025-12-08,Ahmedabad,West,Accessories,Accessories,New,1,1139.26,0.1,1209.9,824.33,385.57,Website
+RTL00383,2025-12-12,Ahmedabad,West,Laptop,Computers,VIP,1,59637.87,0.15,59816.79,50471.18,9345.61,Website
+RTL00384,2025-03-29,Kolkata,East,Laptop,Computers,Returning,1,58218.32,0.0,62875.79,49431.73,13444.06,Store
+RTL00385,2025-01-12,Jaipur,North,Headphones,Accessories,Returning,1,2519.82,0.1,2267.84,1823.01,444.83,Mobile App
+RTL00386,2025-02-14,Bhopal,Central,Mobile,Mobiles,New,2,19424.5,0.0,38849.0,30287.95,8561.05,Mobile App
+RTL00387,2025-01-25,Chennai,South,Smartwatch,Wearables,New,1,7500.71,0.1,6750.64,4904.65,1845.99,Website
+RTL00388,2025-10-31,Jaipur,North,Accessories,Accessories,Returning,4,1282.9,0.0,6055.31,4550.27,1505.04,Website
+RTL00389,2025-11-22,Hyderabad,South,Smartwatch,Wearables,Returning,3,6498.61,0.0,23005.07,17924.94,5080.13,Mobile App
+RTL00390,2025-02-25,Ahmedabad,West,Accessories,Accessories,New,1,1085.31,0.1,976.78,676.1,300.68,Mobile App
+RTL00391,2025-09-30,Pune,West,Laptop,Computers,New,2,57589.18,0.0,89839.13,69358.38,20480.75,Store
+RTL00392,2025-03-07,Ahmedabad,West,Headphones,Accessories,Returning,4,2340.58,0.1,9100.16,7743.64,1356.52,Mobile App
+RTL00393,2025-05-15,Ahmedabad,West,Headphones,Accessories,New,2,2309.74,0.15,3926.56,2718.37,1208.19,Mobile App
+RTL00394,2025-08-07,Hyderabad,South,Smartwatch,Wearables,Returning,3,7759.7,0.1,20951.18,16080.21,4870.97,Store
+RTL00395,2025-09-20,Indore,Central,Headphones,Accessories,New,4,2787.29,0.1,10034.23,8168.33,1865.9,Website
+RTL00396,2025-11-16,Hyderabad,South,Laptop,Computers,Returning,1,63938.67,0.0,75447.63,52918.13,22529.5,Store
+RTL00397,2025-01-17,Ahmedabad,West,Headphones,Accessories,New,1,2634.16,0.0,2634.16,1883.8,750.36,Website
+RTL00398,2025-03-13,Chandigarh,North,Mobile,Mobiles,VIP,4,20548.4,0.0,88769.11,73817.15,14951.96,Store
+RTL00399,2025-04-13,Bhopal,Central,Mobile,Mobiles,Returning,4,22432.95,0.1,87219.32,62464.99,24754.33,Website
+RTL00400,2025-04-24,Hyderabad,South,Mobile,Mobiles,New,4,21678.44,0.1,84285.76,68791.75,15494.01,Website
+RTL00401,2025-12-31,Jaipur,North,Tablet,Computers,Returning,4,15923.91,0.1,67644.76,49324.12,18320.64,Mobile App
+RTL00402,2025-10-11,Kolkata,East,Mobile,Mobiles,New,2,23980.12,0.15,48104.13,35925.63,12178.5,Website
+RTL00403,2025-04-27,Jaipur,North,Mobile,Mobiles,New,3,23453.23,0.05,72189.05,56036.68,16152.37,Website
+RTL00404,2025-12-21,Chandigarh,North,Mobile,Mobiles,Returning,1,20312.04,0.1,21571.39,15555.53,6015.86,Store
+RTL00405,2025-07-02,Ahmedabad,West,Mobile,Mobiles,VIP,3,20610.62,0.0,61831.87,42377.7,19454.17,Mobile App
+RTL00406,2025-07-02,Bengaluru,South,Mobile,Mobiles,New,2,22400.4,0.0,44800.8,37147.6,7653.2,Store
+RTL00407,2025-06-08,Nagpur,Central,Mobile,Mobiles,New,2,21021.55,0.0,42043.1,35233.15,6809.95,Website
+RTL00408,2025-02-22,Bengaluru,South,Mobile,Mobiles,Returning,4,21943.82,0.05,83386.51,57006.9,26379.61,Mobile App
+RTL00409,2025-12-08,Ahmedabad,West,Smartwatch,Wearables,Returning,4,7047.01,0.1,29935.68,22157.47,7778.21,Store
+RTL00410,2025-01-06,Bhubaneswar,East,Tablet,Computers,VIP,1,17658.34,0.1,15892.51,11742.83,4149.68,Store
+RTL00411,2025-03-05,Ahmedabad,West,Mobile,Mobiles,VIP,3,22837.03,0.0,73991.96,63525.14,10466.82,Store
+RTL00412,2025-03-25,Bhubaneswar,East,Smartwatch,Wearables,Returning,1,6228.04,0.15,5717.34,4561.42,1155.92,Store
+RTL00413,2025-04-12,Patna,East,Tablet,Computers,New,2,17823.73,0.15,32724.36,25998.37,6725.99,Mobile App
+RTL00414,2025-02-18,Bhopal,Central,Mobile,Mobiles,Returning,4,23456.39,0.0,93825.55,68671.82,25153.73,Website
+RTL00415,2025-01-07,Hyderabad,South,Accessories,Accessories,New,1,1086.88,0.15,923.85,673.35,250.5,Website
+RTL00416,2025-09-05,Delhi,North,Accessories,Accessories,Returning,2,1277.92,0.05,2428.05,1849.94,578.11,Website
+RTL00417,2025-12-20,Pune,West,Laptop,Computers,New,2,63621.83,0.05,142640.14,101814.94,40825.2,Website
+RTL00418,2025-02-14,Mumbai,West,Headphones,Accessories,New,4,2726.46,0.15,9269.95,6494.22,2775.73,Store
+RTL00419,2025-04-19,Chandigarh,North,Mobile,Mobiles,Returning,3,20655.0,0.15,56883.88,39549.06,17334.82,Mobile App
+RTL00420,2025-07-04,Chennai,South,Tablet,Computers,New,2,18250.07,0.0,36500.14,29296.84,7203.3,Website
+RTL00421,2025-12-05,Indore,Central,Tablet,Computers,New,3,18665.16,0.05,62770.95,48124.38,14646.57,Website
+RTL00422,2025-09-11,Pune,West,Accessories,Accessories,New,3,1096.73,0.0,3290.2,2266.16,1024.04,Mobile App
+RTL00423,2025-10-07,Bhopal,Central,Headphones,Accessories,Returning,1,2364.93,0.05,2651.08,2270.39,380.69,Store
+RTL00424,2025-08-01,Kolkata,East,Laptop,Computers,New,2,67859.12,0.0,105860.22,84861.23,20998.99,Website
+RTL00425,2025-06-02,Pune,West,Tablet,Computers,New,3,15945.77,0.1,43053.58,34730.14,8323.44,Store
+RTL00426,2025-03-14,Bengaluru,South,Tablet,Computers,New,4,16532.91,0.1,64279.97,52446.33,11833.64,Website
+RTL00427,2025-11-12,Nagpur,Central,Headphones,Accessories,Returning,3,2725.81,0.05,9166.89,6502.03,2664.86,Store
+RTL00428,2025-10-21,Bengaluru,South,Tablet,Computers,Returning,2,16181.58,0.15,32460.25,22513.12,9947.13,Website
+RTL00429,2025-01-10,Mumbai,West,Tablet,Computers,VIP,3,18743.11,0.15,47794.92,39116.85,8678.07,Website
+RTL00430,2025-09-19,Bengaluru,South,Accessories,Accessories,New,3,1123.81,0.15,2865.72,2325.15,540.57,Store
+RTL00431,2025-01-31,Kolkata,East,Accessories,Accessories,Returning,4,1108.36,0.05,4211.78,3115.3,1096.48,Mobile App
+RTL00432,2025-09-27,Ahmedabad,West,Accessories,Accessories,Returning,2,1243.69,0.05,2363.01,1743.73,619.28,Store
+RTL00433,2025-10-29,Kolkata,East,Laptop,Computers,New,1,70680.56,0.15,70892.6,52081.68,18810.92,Store
+RTL00434,2025-02-17,Indore,Central,Mobile,Mobiles,Returning,3,20078.22,0.05,57222.94,43511.6,13711.34,Store
+RTL00435,2025-06-08,Bengaluru,South,Accessories,Accessories,Returning,4,1315.08,0.1,4734.31,3312.45,1421.86,Store
+RTL00436,2025-02-15,Mumbai,West,Mobile,Mobiles,New,3,20759.31,0.05,59164.04,44994.0,14170.04,Store
+RTL00437,2025-07-27,Hyderabad,South,Smartwatch,Wearables,New,4,6731.81,0.0,26927.24,21653.68,5273.56,Store
+RTL00438,2025-12-05,Hyderabad,South,Laptop,Computers,VIP,1,64590.78,0.05,72406.26,52793.52,19612.74,Mobile App
+RTL00439,2025-01-30,Bengaluru,South,Mobile,Mobiles,New,4,21808.36,0.05,82871.77,68948.85,13922.92,Store
+RTL00440,2025-05-26,Jaipur,North,Mobile,Mobiles,Returning,4,23954.1,0.05,91025.59,63656.55,27369.04,Store
+RTL00441,2025-12-22,Chandigarh,North,Smartwatch,Wearables,New,4,6924.01,0.15,27779.14,19305.25,8473.89,Mobile App
+RTL00442,2025-04-20,Mumbai,West,Mobile,Mobiles,New,3,23979.46,0.1,69924.1,49530.96,20393.14,Store
+RTL00443,2025-02-18,Pune,West,Mobile,Mobiles,New,1,20111.25,0.1,18100.12,12670.91,5429.21,Mobile App
+RTL00444,2025-06-28,Ahmedabad,West,Accessories,Accessories,VIP,1,1069.41,0.05,1015.94,825.64,190.3,Store
+RTL00445,2025-07-05,Delhi,North,Mobile,Mobiles,New,2,23882.72,0.05,45377.16,36807.54,8569.62,Website
+RTL00446,2025-08-30,Chennai,South,Accessories,Accessories,New,2,1171.19,0.05,2225.25,1673.47,551.78,Website
+RTL00447,2025-04-25,Jaipur,North,Tablet,Computers,New,2,17759.66,0.15,32606.74,24181.7,8425.04,Store
+RTL00448,2025-12-15,Mumbai,West,Laptop,Computers,Returning,2,63875.15,0.05,143208.09,106310.99,36897.1,Store
+RTL00449,2025-07-10,Nagpur,Central,Smartwatch,Wearables,Returning,2,7112.44,0.15,12091.15,8643.75,3447.4,Website
+RTL00450,2025-04-15,Bengaluru,South,Laptop,Computers,Returning,2,64170.02,0.0,138607.25,100922.7,37684.55,Store
+RTL00451,2025-12-17,Ahmedabad,West,Mobile,Mobiles,New,3,20729.02,0.15,62373.63,49208.54,13165.09,Mobile App
+RTL00452,2025-12-04,Jaipur,North,Mobile,Mobiles,Returning,2,20609.65,0.15,41342.95,33664.32,7678.63,Store
+RTL00453,2025-07-02,Bengaluru,South,Laptop,Computers,New,2,60467.15,0.1,108840.87,78432.35,30408.52,Store
+RTL00454,2025-01-10,Chandigarh,North,Laptop,Computers,New,4,64113.58,0.1,230808.88,193048.4,37760.48,Store
+RTL00455,2025-08-06,Hyderabad,South,Headphones,Accessories,New,1,2489.52,0.05,2365.04,2001.63,363.41,Mobile App
+RTL00456,2025-07-22,Pune,West,Laptop,Computers,VIP,3,71740.97,0.05,204461.76,157573.8,46887.96,Website
+RTL00457,2025-02-24,Nagpur,Central,Headphones,Accessories,Returning,3,2595.29,0.05,7396.58,5788.09,1608.49,Website
+RTL00458,2025-08-20,Bengaluru,South,Mobile,Mobiles,New,1,19383.24,0.0,19383.24,13201.74,6181.5,Store
+RTL00459,2025-11-03,Bhubaneswar,East,Laptop,Computers,VIP,4,67425.67,0.05,302336.68,222383.98,79952.7,Website
+RTL00460,2025-02-08,Mumbai,West,Accessories,Accessories,New,4,1305.99,0.0,5223.96,4257.15,966.81,Website
+RTL00461,2025-09-22,Indore,Central,Headphones,Accessories,New,4,2364.54,0.0,9458.15,8058.05,1400.1,Store
+RTL00462,2025-02-21,Ahmedabad,West,Headphones,Accessories,New,2,2705.59,0.1,4870.06,3694.59,1175.47,Store
+RTL00463,2025-10-01,Chennai,South,Headphones,Accessories,New,2,2637.81,0.15,5291.45,3987.36,1304.09,Website
+RTL00464,2025-06-02,Pune,West,Headphones,Accessories,New,3,2608.58,0.15,6651.88,5649.51,1002.37,Store
+RTL00465,2025-01-03,Bengaluru,South,Mobile,Mobiles,New,3,22214.22,0.1,59978.39,46748.91,13229.48,Website
+RTL00466,2025-12-19,Indore,Central,Smartwatch,Wearables,New,3,6850.95,0.05,23039.75,16409.06,6630.69,Website
+RTL00467,2025-03-02,Bengaluru,South,Accessories,Accessories,New,1,1142.22,0.1,1110.24,891.31,218.93,Mobile App
+RTL00468,2025-08-06,Mumbai,West,Laptop,Computers,Returning,3,57367.76,0.15,114104.47,80795.26,33309.21,Store
+RTL00469,2025-03-08,Chandigarh,North,Mobile,Mobiles,Returning,3,21444.76,0.05,66006.97,48466.48,17540.49,Store
+RTL00470,2025-12-07,Chennai,South,Tablet,Computers,New,1,16711.29,0.05,18733.35,15455.12,3278.23,Store
+RTL00471,2025-09-27,Indore,Central,Accessories,Accessories,Returning,3,1237.51,0.05,3526.89,2413.05,1113.84,Mobile App
+RTL00472,2025-10-21,Pune,West,Mobile,Mobiles,New,2,23453.01,0.15,47046.74,32967.94,14078.8,Store
+RTL00473,2025-06-07,Bengaluru,South,Headphones,Accessories,Returning,4,2460.05,0.1,8856.19,6412.03,2444.16,Website
+RTL00474,2025-06-20,Nagpur,Central,Headphones,Accessories,New,3,2333.14,0.1,6299.48,4723.04,1576.44,Store
+RTL00475,2025-08-20,Bhopal,Central,Headphones,Accessories,New,4,2404.18,0.1,8655.05,7225.0,1430.05,Website
+RTL00476,2025-10-14,Hyderabad,South,Mobile,Mobiles,New,4,24638.49,0.05,110479.01,80704.29,29774.72,Store
+RTL00477,2025-11-06,Bhubaneswar,East,Smartwatch,Wearables,Returning,1,6531.08,0.05,7321.34,5645.83,1675.51,Website
+RTL00478,2025-01-07,Patna,East,Mobile,Mobiles,Returning,4,20309.8,0.15,69053.32,55783.35,13269.97,Mobile App
+RTL00479,2025-08-31,Mumbai,West,Laptop,Computers,New,1,60580.71,0.1,42527.66,29841.83,12685.83,Mobile App
+RTL00480,2025-02-09,Chennai,South,Mobile,Mobiles,VIP,2,23662.68,0.05,44959.1,35977.45,8981.65,Store
+RTL00481,2025-04-16,Bengaluru,South,Mobile,Mobiles,New,3,20816.02,0.0,67443.92,56542.27,10901.65,Store
+RTL00482,2025-10-30,Bhopal,Central,Headphones,Accessories,Returning,2,2630.0,0.05,5896.46,4813.8,1082.66,Website
+RTL00483,2025-04-02,Nagpur,Central,Mobile,Mobiles,Returning,2,20171.72,0.1,39213.83,29233.26,9980.57,Store
+RTL00484,2025-10-18,Pune,West,Accessories,Accessories,Returning,3,1071.37,0.0,3792.63,3250.62,542.01,Mobile App
+RTL00485,2025-06-18,Indore,Central,Headphones,Accessories,Returning,2,2593.36,0.15,4408.7,3546.37,862.33,Store
+RTL00486,2025-03-26,Mumbai,West,Accessories,Accessories,New,1,1121.6,0.15,1029.63,859.29,170.34,Store
+RTL00487,2025-05-02,Pune,West,Smartwatch,Wearables,New,1,6427.24,0.0,6427.24,4933.19,1494.05,Store
+RTL00488,2025-07-13,Mumbai,West,Mobile,Mobiles,Returning,1,21040.36,0.1,18936.32,14994.19,3942.13,Store
+RTL00489,2025-10-07,Kolkata,East,Mobile,Mobiles,New,3,22433.84,0.15,67503.43,50908.08,16595.35,Mobile App
+RTL00490,2025-08-10,Kolkata,East,Accessories,Accessories,New,2,1318.27,0.15,2241.06,1649.27,591.79,Store
+RTL00491,2025-12-07,Hyderabad,South,Mobile,Mobiles,New,3,20361.33,0.1,64871.21,54848.05,10023.16,Mobile App
+RTL00492,2025-11-13,Pune,West,Smartwatch,Wearables,New,1,6757.0,0.1,7175.94,5168.38,2007.56,Website
+RTL00493,2025-10-02,Hyderabad,South,Mobile,Mobiles,New,3,20511.83,0.1,65350.68,52236.56,13114.12,Store
+RTL00494,2025-08-09,Bengaluru,South,Headphones,Accessories,New,4,2664.41,0.1,9591.89,7734.31,1857.58,Store
+RTL00495,2025-04-16,Kolkata,East,Headphones,Accessories,Returning,1,2635.74,0.0,2846.6,2036.61,809.99,Website
+RTL00496,2025-05-31,Chennai,South,Headphones,Accessories,Returning,2,2462.47,0.1,4432.44,3684.19,748.25,Website
+RTL00497,2025-02-13,Chennai,South,Smartwatch,Wearables,New,2,6890.61,0.1,12403.09,9153.22,3249.87,Store
+RTL00498,2025-05-17,Pune,West,Accessories,Accessories,New,3,1069.37,0.15,2726.89,2156.15,570.74,Mobile App
+RTL00499,2025-12-05,Bhopal,Central,Mobile,Mobiles,New,3,23388.59,0.15,70376.26,50905.52,19470.74,Store
+RTL00500,2025-06-05,Delhi,North,Mobile,Mobiles,New,1,24634.15,0.1,22170.74,18390.95,3779.79,Mobile App
+RTL00501,2025-02-11,Chandigarh,North,Mobile,Mobiles,New,4,22309.22,0.05,84775.03,59482.52,25292.51,Website
+RTL00502,2025-08-26,Hyderabad,South,Headphones,Accessories,New,4,2561.58,0.1,9221.71,6550.65,2671.06,Store
+RTL00503,2025-12-18,Mumbai,West,Laptop,Computers,New,1,65202.09,0.15,65397.7,51810.9,13586.8,Website
+RTL00504,2025-11-13,Pune,West,Mobile,Mobiles,VIP,2,21174.45,0.0,49971.7,38529.78,11441.92,Store
+RTL00505,2025-04-11,Jaipur,North,Headphones,Accessories,Returning,2,2410.0,0.0,5205.6,4211.93,993.67,Store
+RTL00506,2025-06-15,Pune,West,Laptop,Computers,New,1,71755.97,0.0,71755.97,58919.31,12836.66,Mobile App
+RTL00507,2025-07-13,Chandigarh,North,Mobile,Mobiles,VIP,4,23366.8,0.05,88793.85,65872.62,22921.23,Website
+RTL00508,2025-04-01,Chennai,South,Smartwatch,Wearables,Returning,2,7241.02,0.1,14076.54,11755.72,2320.82,Store
+RTL00509,2025-04-09,Nagpur,Central,Laptop,Computers,New,4,70077.31,0.1,272460.6,207368.99,65091.61,Website
+RTL00510,2025-03-28,Chandigarh,North,Tablet,Computers,VIP,1,16581.97,0.05,17013.1,13875.99,3137.11,Store
+RTL00511,2025-12-30,Chandigarh,North,Accessories,Accessories,Returning,1,1276.81,0.1,1355.98,935.19,420.79,Store
+RTL00512,2025-09-30,Bengaluru,South,Headphones,Accessories,New,3,2532.58,0.15,6458.08,4440.16,2017.92,Store
+RTL00513,2025-11-03,Pune,West,Accessories,Accessories,New,3,1142.3,0.15,3437.18,2445.67,991.51,Mobile App
+RTL00514,2025-10-26,Bhopal,Central,Headphones,Accessories,Returning,1,2233.24,0.0,2635.22,1899.81,735.41,Website
+RTL00515,2025-12-17,Bhopal,Central,Headphones,Accessories,Returning,3,2757.66,0.05,9274.0,6859.16,2414.84,Website
+RTL00516,2025-02-08,Chandigarh,North,Accessories,Accessories,New,4,1135.72,0.0,4542.88,3161.09,1381.79,Store
+RTL00517,2025-11-18,Delhi,North,Laptop,Computers,New,2,62266.13,0.0,146948.07,115518.16,31429.91,Mobile App
+RTL00518,2025-01-25,Pune,West,Accessories,Accessories,Returning,2,1092.19,0.15,1856.72,1479.42,377.3,Store
+RTL00519,2025-06-23,Chennai,South,Tablet,Computers,Returning,1,17273.43,0.0,17273.43,13973.48,3299.95,Store
+RTL00520,2025-08-05,Bhopal,Central,Mobile,Mobiles,Returning,3,19616.05,0.0,58848.15,40062.11,18786.04,Website
+RTL00521,2025-05-11,Pune,West,Smartwatch,Wearables,Returning,3,6165.39,0.05,17571.36,14079.94,3491.42,Store
+RTL00522,2025-02-23,Chandigarh,North,Headphones,Accessories,Returning,1,2736.95,0.05,2600.1,2052.82,547.28,Store
+RTL00523,2025-03-12,Mumbai,West,Smartwatch,Wearables,Returning,1,7796.69,0.15,7157.37,5437.81,1719.56,Website
+RTL00524,2025-10-29,Delhi,North,Mobile,Mobiles,New,2,20268.99,0.15,40659.6,31009.12,9650.48,Store
+RTL00525,2025-04-27,Chennai,South,Laptop,Computers,New,2,58338.2,0.15,107108.93,74244.97,32863.96,Mobile App
+RTL00526,2025-04-24,Bhubaneswar,East,Accessories,Accessories,New,2,1172.57,0.1,2279.47,1703.95,575.52,Store
+RTL00527,2025-12-04,Bhubaneswar,East,Laptop,Computers,Returning,2,65949.44,0.0,155640.68,108602.59,47038.09,Store
+RTL00528,2025-02-22,Mumbai,West,Laptop,Computers,Returning,1,57269.4,0.05,54405.93,39306.14,15099.79,Mobile App
+RTL00529,2025-12-01,Ahmedabad,West,Mobile,Mobiles,New,2,23121.9,0.05,51839.31,41100.59,10738.72,Store
+RTL00530,2025-12-03,Bhopal,Central,Headphones,Accessories,New,1,2283.22,0.15,2290.07,1683.36,606.71,Website
+RTL00531,2025-08-07,Nagpur,Central,Smartwatch,Wearables,New,1,6498.45,0.1,5848.6,4085.42,1763.18,Store
+RTL00532,2025-03-02,Patna,East,Mobile,Mobiles,Returning,4,23605.3,0.05,96876.15,81148.02,15728.13,Store
+RTL00533,2025-02-26,Chandigarh,North,Mobile,Mobiles,Returning,3,22796.22,0.0,68388.66,53706.46,14682.2,Store
+RTL00534,2025-04-14,Ahmedabad,West,Laptop,Computers,Returning,1,62314.94,0.15,57205.12,48341.31,8863.81,Mobile App
+RTL00535,2025-07-30,Nagpur,Central,Accessories,Accessories,Returning,3,1303.6,0.15,3324.17,2488.93,835.24,Website
+RTL00536,2025-02-26,Chennai,South,Mobile,Mobiles,VIP,4,23221.76,0.15,78953.98,57990.07,20963.91,Store
+RTL00537,2025-06-16,Patna,East,Mobile,Mobiles,Returning,4,23504.6,0.0,94018.4,73322.0,20696.4,Store
+RTL00538,2025-02-12,Chennai,South,Headphones,Accessories,Returning,2,2717.6,0.05,5163.44,4219.73,943.71,Mobile App
+RTL00539,2025-07-17,Delhi,North,Mobile,Mobiles,Returning,2,19848.71,0.05,37712.55,29405.36,8307.19,Store
+RTL00540,2025-01-08,Ahmedabad,West,Laptop,Computers,New,3,67062.78,0.0,201188.34,147474.85,53713.49,Store
+RTL00541,2025-09-16,Chennai,South,Mobile,Mobiles,New,4,21191.95,0.05,80529.41,64010.99,16518.42,Store
+RTL00542,2025-01-21,Mumbai,West,Accessories,Accessories,Returning,2,1173.18,0.15,1994.41,1387.25,607.16,Mobile App
+RTL00543,2025-03-13,Mumbai,West,Laptop,Computers,New,2,59483.68,0.0,128484.75,101298.59,27186.16,Store
+RTL00544,2025-03-05,Mumbai,West,Tablet,Computers,New,4,19047.9,0.05,78172.57,55420.35,22752.22,Website
+RTL00545,2025-10-31,Chennai,South,Smartwatch,Wearables,New,3,7553.44,0.1,24065.26,17564.84,6500.42,Mobile App
+RTL00546,2025-01-20,Hyderabad,South,Headphones,Accessories,Returning,2,2378.87,0.05,4519.86,3662.05,857.81,Website
+RTL00547,2025-06-06,Pune,West,Mobile,Mobiles,VIP,2,23336.67,0.15,39672.35,31674.25,7998.1,Mobile App
+RTL00548,2025-08-04,Pune,West,Headphones,Accessories,Returning,3,2450.0,0.1,6615.0,5473.48,1141.52,Store
+RTL00549,2025-07-08,Kolkata,East,Laptop,Computers,Returning,4,70998.17,0.15,241393.78,205505.73,35888.05,Mobile App
+RTL00550,2025-09-06,Nagpur,Central,Mobile,Mobiles,Returning,2,20127.38,0.05,38242.03,26212.6,12029.43,Website
+RTL00551,2025-10-21,Chandigarh,North,Smartwatch,Wearables,New,2,7372.25,0.05,16528.59,11883.26,4645.33,Website
+RTL00552,2025-05-24,Bhopal,Central,Tablet,Computers,New,4,16656.25,0.05,63293.73,51915.97,11377.76,Store
+RTL00553,2025-10-30,Jaipur,North,Headphones,Accessories,New,2,2537.13,0.15,5089.48,3816.0,1273.48,Store
+RTL00554,2025-04-27,Delhi,North,Mobile,Mobiles,New,4,21008.31,0.05,86218.1,69303.03,16915.07,Website
+RTL00555,2025-12-26,Bhubaneswar,East,Mobile,Mobiles,New,3,20133.73,0.05,67709.72,52779.4,14930.32,Store
+RTL00556,2025-07-04,Delhi,North,Mobile,Mobiles,New,3,23679.64,0.15,60383.07,49480.69,10902.38,Store
+RTL00557,2025-09-26,Chandigarh,North,Smartwatch,Wearables,New,2,6212.55,0.05,11803.84,10066.19,1737.65,Store
+RTL00558,2025-11-16,Delhi,North,Headphones,Accessories,Returning,1,2671.27,0.0,3152.09,2672.48,479.61,Mobile App
+RTL00559,2025-10-17,Hyderabad,South,Tablet,Computers,Returning,3,18436.32,0.15,55474.89,41290.83,14184.06,Store
+RTL00560,2025-11-07,Ahmedabad,West,Tablet,Computers,VIP,2,16236.78,0.1,34486.93,24718.64,9768.29,Store
+RTL00561,2025-07-15,Delhi,North,Laptop,Computers,New,2,69971.75,0.15,118951.97,96705.18,22246.79,Mobile App
+RTL00562,2025-01-16,Pune,West,Mobile,Mobiles,Returning,4,22197.46,0.1,79910.87,54423.54,25487.33,Website
+RTL00563,2025-06-29,Mumbai,West,Mobile,Mobiles,New,4,22160.51,0.15,75345.73,53652.51,21693.22,Store
+RTL00564,2025-03-08,Delhi,North,Smartwatch,Wearables,New,3,6345.97,0.0,20560.93,16719.94,3840.99,Mobile App
+RTL00565,2025-11-21,Chandigarh,North,Tablet,Computers,New,2,18079.4,0.0,42667.39,29755.92,12911.47,Mobile App
+RTL00566,2025-03-28,Bhopal,Central,Mobile,Mobiles,New,3,22965.68,0.0,74408.82,53405.25,21003.57,Website
+RTL00567,2025-03-25,Ahmedabad,West,Accessories,Accessories,Returning,4,1056.09,0.0,4562.31,3390.1,1172.21,Mobile App
+RTL00568,2025-04-02,Bhubaneswar,East,Accessories,Accessories,New,2,1097.24,0.1,2133.03,1736.84,396.19,Website
+RTL00569,2025-08-23,Ahmedabad,West,Mobile,Mobiles,New,4,23903.07,0.05,90831.66,65861.28,24970.38,Store
+RTL00570,2025-07-28,Chandigarh,North,Mobile,Mobiles,Returning,4,20263.96,0.1,72950.27,51086.26,21864.01,Mobile App
+RTL00571,2025-12-13,Hyderabad,South,Mobile,Mobiles,New,1,21472.13,0.0,25337.12,20813.79,4523.33,Website
+RTL00572,2025-06-01,Mumbai,West,Headphones,Accessories,New,3,2396.27,0.05,6829.36,5850.03,979.33,Store
+RTL00573,2025-04-14,Hyderabad,South,Laptop,Computers,Returning,3,64121.25,0.1,186977.55,135543.82,51433.73,Store
+RTL00574,2025-01-18,Mumbai,West,Accessories,Accessories,Returning,2,1144.23,0.0,2288.46,1949.36,339.1,Store
+RTL00575,2025-01-03,Bhubaneswar,East,Tablet,Computers,New,4,17337.97,0.1,62416.69,51876.39,10540.3,Website
+RTL00576,2025-05-17,Ahmedabad,West,Mobile,Mobiles,Returning,4,19365.55,0.0,77462.22,60337.9,17124.32,Website
+RTL00577,2025-12-04,Patna,East,Headphones,Accessories,New,3,2782.95,0.05,9359.05,7411.43,1947.62,Store
+RTL00578,2025-07-11,Hyderabad,South,Laptop,Computers,Returning,3,62663.59,0.1,169191.69,135213.92,33977.77,Store
+RTL00579,2025-11-23,Hyderabad,South,Mobile,Mobiles,New,2,20148.15,0.1,42794.68,36259.88,6534.8,Store
+RTL00580,2025-02-07,Bengaluru,South,Accessories,Accessories,New,2,1127.17,0.1,2028.91,1436.69,592.22,Mobile App
+RTL00581,2025-02-04,Ahmedabad,West,Laptop,Computers,New,4,65019.24,0.0,260076.95,217239.89,42837.06,Mobile App
+RTL00582,2025-11-01,Jaipur,North,Smartwatch,Wearables,New,2,7589.16,0.1,16119.38,12987.12,3132.26,Store
+RTL00583,2025-02-08,Delhi,North,Smartwatch,Wearables,Returning,3,7756.99,0.1,20943.87,16385.62,4558.25,Website
+RTL00584,2025-01-19,Chandigarh,North,Mobile,Mobiles,Returning,2,23537.18,0.05,44720.65,30486.0,14234.65,Website
+RTL00585,2025-05-28,Jaipur,North,Accessories,Accessories,New,1,1221.45,0.05,1160.38,888.27,272.11,Mobile App
+RTL00586,2025-12-04,Pune,West,Accessories,Accessories,Returning,3,1213.84,0.05,4082.15,2818.15,1264.0,Store
+RTL00587,2025-09-09,Chennai,South,Smartwatch,Wearables,Returning,3,7354.29,0.0,22062.87,16142.1,5920.77,Store
+RTL00588,2025-02-06,Indore,Central,Headphones,Accessories,New,3,2701.38,0.15,6888.52,4769.42,2119.1,Store
+RTL00589,2025-11-02,Chandigarh,North,Smartwatch,Wearables,Returning,1,6177.47,0.1,6560.47,5178.74,1381.73,Store
+RTL00590,2025-11-04,Mumbai,West,Mobile,Mobiles,New,3,21584.32,0.1,68767.66,51969.93,16797.73,Store
+RTL00591,2025-10-20,Hyderabad,South,Smartwatch,Wearables,New,3,7355.16,0.05,24735.41,17034.28,7701.13,Website
+RTL00592,2025-11-26,Bengaluru,South,Tablet,Computers,Returning,3,17462.42,0.05,58726.11,42339.11,16387.0,Store
+RTL00593,2025-03-29,Nagpur,Central,Headphones,Accessories,New,2,2730.03,0.0,5896.86,4482.1,1414.76,Store
+RTL00594,2025-12-24,Nagpur,Central,Mobile,Mobiles,Returning,3,24174.68,0.15,72741.61,51209.15,21532.46,Store
+RTL00595,2025-04-28,Nagpur,Central,Laptop,Computers,New,2,59228.72,0.1,115140.64,82646.59,32494.05,Mobile App
+RTL00596,2025-10-20,Chandigarh,North,Smartwatch,Wearables,New,3,7558.24,0.15,22742.74,19021.87,3720.87,Website
+RTL00597,2025-07-31,Hyderabad,South,Headphones,Accessories,New,3,2298.95,0.15,5862.32,4596.36,1265.96,Mobile App
+RTL00598,2025-10-12,Pune,West,Mobile,Mobiles,New,4,20275.07,0.1,86128.5,65087.5,21041.0,Store
+RTL00599,2025-08-18,Hyderabad,South,Mobile,Mobiles,Returning,4,24069.97,0.15,81837.89,63687.5,18150.39,Mobile App
+RTL00600,2025-08-23,Mumbai,West,Tablet,Computers,Returning,1,17097.54,0.0,13336.08,11230.62,2105.46,Store
+RTL00601,2025-08-13,Bhubaneswar,East,Tablet,Computers,New,1,16113.39,0.0,12568.44,10262.74,2305.7,Mobile App
+RTL00602,2025-10-12,Bhubaneswar,East,Tablet,Computers,Returning,3,16088.93,0.1,51259.34,41981.82,9277.52,Mobile App
+RTL00603,2025-09-27,Mumbai,West,Smartwatch,Wearables,New,3,6493.14,0.0,19479.42,16143.07,3336.35,Store
+RTL00604,2025-02-19,Mumbai,West,Tablet,Computers,Returning,4,16118.01,0.05,61248.44,51447.89,9800.55,Mobile App
+RTL00605,2025-10-29,Delhi,North,Smartwatch,Wearables,Returning,4,7682.61,0.05,34448.81,25277.51,9171.3,Website
+RTL00606,2025-07-15,Jaipur,North,Accessories,Accessories,Returning,2,1100.9,0.05,2091.71,1653.07,438.64,Mobile App
+RTL00607,2025-04-28,Mumbai,West,Mobile,Mobiles,Returning,1,22741.0,0.1,22104.25,18165.17,3939.08,Store
+RTL00608,2025-07-07,Patna,East,Mobile,Mobiles,New,4,24397.0,0.05,92708.62,79185.62,13523.0,Store
+RTL00609,2025-12-19,Hyderabad,South,Tablet,Computers,Returning,2,16211.13,0.15,32519.52,25680.93,6838.59,Store
+RTL00610,2025-11-10,Chennai,South,Laptop,Computers,VIP,1,58448.3,0.0,68969.0,56143.27,12825.73,Website
+RTL00611,2025-11-01,Ahmedabad,West,Mobile,Mobiles,Returning,4,22614.1,0.05,101401.63,75369.87,26031.76,Mobile App
+RTL00612,2025-06-18,Mumbai,West,Mobile,Mobiles,Returning,3,22142.68,0.05,63106.63,43339.11,19767.52,Website
+RTL00613,2025-10-14,Kolkata,East,Smartwatch,Wearables,Returning,4,7832.48,0.0,36969.32,31756.01,5213.31,Store
+RTL00614,2025-05-21,Chennai,South,Tablet,Computers,New,2,19638.26,0.15,33385.03,27580.02,5805.01,Mobile App
+RTL00615,2025-09-08,Hyderabad,South,Smartwatch,Wearables,Returning,2,6351.83,0.0,12703.66,10403.61,2300.05,Mobile App
+RTL00616,2025-08-22,Bhubaneswar,East,Smartwatch,Wearables,Returning,3,6825.53,0.15,17405.09,13731.64,3673.45,Website
+RTL00617,2025-04-02,Bengaluru,South,Headphones,Accessories,Returning,2,2623.16,0.1,5099.42,4229.78,869.64,Website
+RTL00618,2025-04-08,Patna,East,Laptop,Computers,Returning,1,67792.56,0.1,65894.36,51018.9,14875.46,Store
+RTL00619,2025-01-23,Mumbai,West,Mobile,Mobiles,Returning,2,21525.07,0.05,40897.62,32933.55,7964.07,Store
+RTL00620,2025-02-21,Jaipur,North,Mobile,Mobiles,Returning,4,20196.42,0.05,76746.41,55615.89,21130.52,Website
+RTL00621,2025-06-08,Chandigarh,North,Smartwatch,Wearables,New,4,6719.22,0.05,25533.02,20365.28,5167.74,Mobile App
+RTL00622,2025-06-24,Hyderabad,South,Headphones,Accessories,New,3,2484.02,0.0,7452.05,5573.08,1878.97,Store
+RTL00623,2025-03-02,Nagpur,Central,Headphones,Accessories,New,1,2733.52,0.05,2804.59,2382.34,422.25,Website
+RTL00624,2025-06-02,Mumbai,West,Accessories,Accessories,New,1,1304.72,0.0,1304.72,946.22,358.5,Mobile App
+RTL00625,2025-08-09,Chandigarh,North,Headphones,Accessories,New,3,2532.67,0.1,6838.21,4960.72,1877.49,Website
+RTL00626,2025-03-26,Bhopal,Central,Tablet,Computers,Returning,3,18747.47,0.1,54667.63,45304.56,9363.07,Store
+RTL00627,2025-05-04,Bhubaneswar,East,Mobile,Mobiles,New,3,20888.12,0.1,56397.92,39563.02,16834.9,Website
+RTL00628,2025-05-15,Patna,East,Headphones,Accessories,New,1,2305.84,0.0,2305.84,1684.61,621.23,Store
+RTL00629,2025-07-04,Indore,Central,Tablet,Computers,New,3,17967.6,0.15,45817.38,31502.45,14314.93,Mobile App
+RTL00630,2025-05-14,Chandigarh,North,Laptop,Computers,Returning,2,72277.03,0.15,122870.95,95002.98,27867.97,Store
+RTL00631,2025-09-26,Chennai,South,Tablet,Computers,Returning,2,19472.16,0.0,30376.57,23549.49,6827.08,Store
+RTL00632,2025-04-30,Bhubaneswar,East,Laptop,Computers,Returning,1,69646.06,0.15,63935.09,53619.16,10315.93,Website
+RTL00633,2025-06-08,Chandigarh,North,Mobile,Mobiles,New,4,24434.99,0.0,97739.96,68306.9,29433.06,Store
+RTL00634,2025-05-19,Ahmedabad,West,Headphones,Accessories,New,3,2678.76,0.15,6830.84,5713.21,1117.63,Website
+RTL00635,2025-03-08,Bengaluru,South,Laptop,Computers,Returning,1,61916.55,0.1,60182.89,47006.98,13175.91,Mobile App
+RTL00636,2025-09-08,Jaipur,North,Accessories,Accessories,New,1,1069.23,0.0,1069.23,774.76,294.47,Store
+RTL00637,2025-03-27,Bengaluru,South,Mobile,Mobiles,Returning,1,20626.2,0.1,20048.67,15054.12,4994.55,Website
+RTL00638,2025-04-19,Chennai,South,Headphones,Accessories,New,3,2288.64,0.05,7044.42,4837.47,2206.95,Store
+RTL00639,2025-10-17,Delhi,North,Smartwatch,Wearables,New,3,7255.44,0.05,24400.05,18116.2,6283.85,Store
+RTL00640,2025-12-13,Chandigarh,North,Headphones,Accessories,Returning,2,2584.64,0.15,5184.79,3595.92,1588.87,Store
+RTL00641,2025-09-02,Nagpur,Central,Laptop,Computers,New,1,64961.93,0.0,50670.31,37286.88,13383.43,Website
+RTL00642,2025-12-01,Chennai,South,Mobile,Mobiles,New,3,22638.16,0.1,72125.18,54050.62,18074.56,Website
+RTL00643,2025-11-08,Bengaluru,South,Accessories,Accessories,New,1,1119.65,0.15,1123.01,916.4,206.61,Website
+RTL00644,2025-06-25,Jaipur,North,Headphones,Accessories,Returning,2,2523.54,0.05,4794.73,3550.87,1243.86,Store
+RTL00645,2025-10-09,Bengaluru,South,Laptop,Computers,Returning,2,72020.54,0.05,161470.05,123845.47,37624.58,Mobile App
+RTL00646,2025-04-30,Bengaluru,South,Accessories,Accessories,Returning,1,1220.72,0.0,1318.38,1034.3,284.08,Mobile App
+RTL00647,2025-06-18,Pune,West,Tablet,Computers,New,3,16353.47,0.05,46607.38,36468.0,10139.38,Website
+RTL00648,2025-07-15,Chennai,South,Smartwatch,Wearables,Returning,1,7594.97,0.05,7215.22,6019.68,1195.54,Website
+RTL00649,2025-12-17,Nagpur,Central,Laptop,Computers,Returning,1,59079.52,0.1,62742.45,43327.43,19415.02,Website
+RTL00650,2025-11-06,Nagpur,Central,Accessories,Accessories,Returning,1,1337.95,0.1,1420.9,1000.21,420.69,Mobile App
+RTL00651,2025-06-28,Delhi,North,Accessories,Accessories,New,4,1089.64,0.0,4358.54,3688.57,669.97,Website
+RTL00652,2025-08-27,Jaipur,North,Laptop,Computers,VIP,1,57521.89,0.15,38137.02,31951.13,6185.89,Store
+RTL00653,2025-03-15,Jaipur,North,Mobile,Mobiles,VIP,4,21753.53,0.05,89276.47,60797.98,28478.49,Website
+RTL00654,2025-10-21,Mumbai,West,Mobile,Mobiles,Returning,4,21433.73,0.1,91050.49,66276.48,24774.01,Store
+RTL00655,2025-07-21,Chandigarh,North,Headphones,Accessories,New,1,2335.15,0.15,1984.88,1359.6,625.28,Website
+RTL00656,2025-07-14,Indore,Central,Tablet,Computers,New,1,19671.0,0.1,17703.9,13323.35,4380.55,Store
+RTL00657,2025-10-07,Mumbai,West,Mobile,Mobiles,New,4,21929.88,0.15,87982.68,63410.46,24572.22,Mobile App
+RTL00658,2025-08-20,Mumbai,West,Laptop,Computers,Returning,2,57400.4,0.0,89544.63,73960.04,15584.59,Website
+RTL00659,2025-01-27,Kolkata,East,Mobile,Mobiles,Returning,4,23880.52,0.0,95522.06,68254.43,27267.63,Store
+RTL00660,2025-04-16,Indore,Central,Laptop,Computers,New,1,69685.88,0.1,67734.68,49004.11,18730.57,Website
+RTL00661,2025-03-06,Delhi,North,Laptop,Computers,New,1,66813.69,0.0,72158.78,56951.67,15207.11,Store
+RTL00662,2025-09-26,Hyderabad,South,Headphones,Accessories,New,4,2583.01,0.05,9815.43,7651.28,2164.15,Mobile App
+RTL00663,2025-01-13,Hyderabad,South,Tablet,Computers,New,3,20016.33,0.05,57046.54,48852.33,8194.21,Website
+RTL00664,2025-03-15,Bhopal,Central,Laptop,Computers,New,1,63169.43,0.05,64811.83,55178.79,9633.04,Website
+RTL00665,2025-08-07,Kolkata,East,Mobile,Mobiles,New,3,23917.44,0.0,71752.32,48796.96,22955.36,Website
+RTL00666,2025-09-11,Mumbai,West,Mobile,Mobiles,New,1,19710.13,0.0,19710.13,14272.04,5438.09,Website
+RTL00667,2025-07-03,Delhi,North,Laptop,Computers,New,1,67202.56,0.05,63842.43,51745.62,12096.81,Store
+RTL00668,2025-11-11,Bhopal,Central,Accessories,Accessories,New,2,1110.87,0.15,2228.4,1693.82,534.58,Store
+RTL00669,2025-12-02,Bhubaneswar,East,Laptop,Computers,New,2,66748.48,0.1,141773.78,112997.86,28775.92,Mobile App
+RTL00670,2025-02-18,Patna,East,Tablet,Computers,New,4,19316.34,0.05,73402.09,54649.47,18752.62,Store
+RTL00671,2025-12-14,Bhopal,Central,Laptop,Computers,Returning,3,57873.0,0.05,194626.9,132484.53,62142.37,Website
+RTL00672,2025-08-13,Chennai,South,Mobile,Mobiles,Returning,4,22372.44,0.05,85015.27,67793.59,17221.68,Website
+RTL00673,2025-08-21,Bengaluru,South,Mobile,Mobiles,New,1,24539.58,0.1,22085.62,16706.81,5378.81,Store
+RTL00674,2025-02-04,Bhubaneswar,East,Accessories,Accessories,New,2,1259.55,0.1,2267.19,1693.3,573.89,Store
+RTL00675,2025-08-15,Delhi,North,Headphones,Accessories,Returning,2,2596.34,0.15,4413.78,3159.01,1254.77,Store
+RTL00676,2025-09-22,Chennai,South,Smartwatch,Wearables,New,3,7186.39,0.0,21559.18,15188.29,6370.89,Website
+RTL00677,2025-07-31,Jaipur,North,Laptop,Computers,VIP,1,69496.22,0.05,66021.41,46661.86,19359.55,Website
+RTL00678,2025-01-31,Delhi,North,Headphones,Accessories,Returning,2,2535.28,0.05,4817.02,3403.17,1413.85,Store
+RTL00679,2025-07-10,Indore,Central,Mobile,Mobiles,New,4,23827.15,0.0,95308.59,65364.46,29944.13,Website
+RTL00680,2025-12-08,Bhubaneswar,East,Mobile,Mobiles,New,3,20180.51,0.1,64295.11,51771.14,12523.97,Store
+RTL00681,2025-09-22,Bengaluru,South,Headphones,Accessories,New,4,2539.03,0.0,10156.12,7172.95,2983.17,Website
+RTL00682,2025-02-20,Bengaluru,South,Mobile,Mobiles,Returning,3,21747.86,0.05,61981.4,52276.85,9704.55,Mobile App
+RTL00683,2025-12-17,Chennai,South,Mobile,Mobiles,Returning,2,19756.47,0.05,44294.01,33474.52,10819.49,Website
+RTL00684,2025-12-16,Mumbai,West,Smartwatch,Wearables,New,3,6457.81,0.05,21717.61,17862.82,3854.79,Store
+RTL00685,2025-03-03,Bhopal,Central,Accessories,Accessories,New,3,1233.48,0.15,3397.01,2541.49,855.52,Store
+RTL00686,2025-10-20,Nagpur,Central,Mobile,Mobiles,New,4,24179.06,0.1,102712.63,81878.35,20834.28,Website
+RTL00687,2025-05-29,Bengaluru,South,Mobile,Mobiles,New,1,20090.77,0.15,17077.15,11779.41,5297.74,Mobile App
+RTL00688,2025-08-05,Hyderabad,South,Laptop,Computers,New,3,69696.79,0.05,154935.96,106139.28,48796.68,Store
+RTL00689,2025-06-12,Bhubaneswar,East,Headphones,Accessories,Returning,4,2221.23,0.0,8884.93,7204.67,1680.26,Website
+RTL00690,2025-10-13,Kolkata,East,Laptop,Computers,New,1,69208.16,0.1,73499.07,55133.0,18366.07,Mobile App
+RTL00691,2025-12-30,Bhubaneswar,East,Headphones,Accessories,Returning,4,2781.13,0.1,11814.26,8745.05,3069.21,Mobile App
+RTL00692,2025-10-18,Mumbai,West,Accessories,Accessories,Returning,4,1341.42,0.1,5698.34,4691.35,1006.99,Website
+RTL00693,2025-12-06,Patna,East,Mobile,Mobiles,New,2,20439.35,0.15,41001.33,31567.89,9433.44,Website
+RTL00694,2025-12-12,Chennai,South,Laptop,Computers,Returning,3,68012.33,0.05,228725.45,169918.16,58807.29,Store
+RTL00695,2025-02-02,Hyderabad,South,Tablet,Computers,Returning,1,16499.64,0.15,14024.69,11283.35,2741.34,Website
+RTL00696,2025-04-03,Hyderabad,South,Headphones,Accessories,Returning,3,2560.2,0.15,7050.78,5274.91,1775.87,Store
+RTL00697,2025-09-21,Delhi,North,Headphones,Accessories,New,2,2707.92,0.0,5415.85,4247.26,1168.59,Store
+RTL00698,2025-08-04,Chandigarh,North,Accessories,Accessories,New,2,1202.65,0.05,2285.03,1860.77,424.26,Store
+RTL00699,2025-01-19,Ahmedabad,West,Mobile,Mobiles,Returning,2,23128.91,0.0,46257.83,38724.54,7533.29,Website
+RTL00700,2025-02-04,Chennai,South,Mobile,Mobiles,Returning,4,22728.24,0.15,77276.01,62660.73,14615.28,Website
+RTL00701,2025-07-09,Chennai,South,Tablet,Computers,Returning,3,19137.09,0.15,48799.59,36988.84,11810.75,Store
+RTL00702,2025-08-13,Bhubaneswar,East,Accessories,Accessories,Returning,2,1202.29,0.15,2043.9,1517.95,525.95,Website
+RTL00703,2025-03-03,Mumbai,West,Laptop,Computers,Returning,4,62800.6,0.15,230603.8,174766.35,55837.45,Website
+RTL00704,2025-03-04,Chennai,South,Accessories,Accessories,New,1,1070.86,0.05,1098.7,886.31,212.39,Store
+RTL00705,2025-02-17,Pune,West,Mobile,Mobiles,Returning,3,20898.54,0.15,53291.28,40677.65,12613.63,Website
+RTL00706,2025-07-26,Nagpur,Central,Tablet,Computers,New,3,16588.77,0.0,49766.32,36310.97,13455.35,Mobile App
+RTL00707,2025-01-03,Kolkata,East,Mobile,Mobiles,Returning,2,22665.39,0.0,45330.78,33426.71,11904.07,Website
+RTL00708,2025-07-28,Pune,West,Tablet,Computers,New,1,16511.81,0.0,16511.81,13646.39,2865.42,Store
+RTL00709,2025-06-23,Chandigarh,North,Laptop,Computers,New,1,60237.03,0.1,54213.33,43932.51,10280.82,Website
+RTL00710,2025-06-20,Nagpur,Central,Mobile,Mobiles,VIP,4,19455.08,0.05,73929.29,56047.34,17881.95,Website
+RTL00711,2025-09-05,Bengaluru,South,Mobile,Mobiles,New,1,20431.27,0.05,19409.71,16266.22,3143.49,Website
+RTL00712,2025-07-10,Bhopal,Central,Smartwatch,Wearables,New,3,7475.2,0.05,21304.32,14573.29,6731.03,Store
+RTL00713,2025-09-23,Kolkata,East,Headphones,Accessories,VIP,4,2446.69,0.0,9786.77,7432.97,2353.8,Website
+RTL00714,2025-10-06,Delhi,North,Mobile,Mobiles,Returning,1,22036.47,0.15,22102.58,18428.68,3673.9,Website
+RTL00715,2025-12-02,Delhi,North,Accessories,Accessories,Returning,3,1290.09,0.15,3881.87,2797.31,1084.56,Website
+RTL00716,2025-10-19,Mumbai,West,Smartwatch,Wearables,Returning,1,7437.85,0.0,8776.67,6417.83,2358.84,Store
+RTL00717,2025-07-08,Patna,East,Smartwatch,Wearables,Returning,4,6953.03,0.1,25030.89,20282.13,4748.76,Store
+RTL00718,2025-06-29,Delhi,North,Tablet,Computers,Returning,3,18929.34,0.1,51109.21,39869.01,11240.2,Store
+RTL00719,2025-03-28,Mumbai,West,Tablet,Computers,VIP,3,19582.17,0.15,53929.28,40569.57,13359.71,Website
+RTL00720,2025-08-07,Nagpur,Central,Laptop,Computers,New,3,57908.72,0.15,115180.44,87105.56,28074.88,Store
+RTL00721,2025-02-20,Kolkata,East,Tablet,Computers,Returning,1,19591.92,0.05,18612.32,15118.54,3493.78,Store
+RTL00722,2025-12-06,Patna,East,Smartwatch,Wearables,Returning,4,6194.51,0.05,27776.19,20192.77,7583.42,Mobile App
+RTL00723,2025-11-05,Delhi,North,Mobile,Mobiles,New,2,19424.66,0.15,38965.86,29596.75,9369.11,Website
+RTL00724,2025-02-13,Pune,West,Accessories,Accessories,Returning,2,1150.17,0.05,2185.33,1831.18,354.15,Store
+RTL00725,2025-10-14,Chennai,South,Accessories,Accessories,New,2,1225.56,0.0,2892.33,2266.32,626.01,Store
+RTL00726,2025-02-12,Indore,Central,Tablet,Computers,Returning,4,16485.86,0.0,65943.44,53526.07,12417.37,Store
+RTL00727,2025-09-21,Chennai,South,Mobile,Mobiles,New,1,21728.98,0.15,18469.63,12707.15,5762.48,Mobile App
+RTL00728,2025-02-02,Bhubaneswar,East,Mobile,Mobiles,New,1,19499.37,0.0,19499.37,13553.02,5946.35,Mobile App
+RTL00729,2025-06-28,Bengaluru,South,Smartwatch,Wearables,Returning,4,6913.79,0.0,27655.17,19659.92,7995.25,Website
+RTL00730,2025-08-29,Delhi,North,Tablet,Computers,Returning,1,19694.76,0.0,15361.92,12998.31,2363.61,Store
+RTL00731,2025-09-24,Ahmedabad,West,Tablet,Computers,Returning,4,18257.08,0.0,56962.09,46133.13,10828.96,Store
+RTL00732,2025-06-02,Kolkata,East,Tablet,Computers,Returning,2,16179.31,0.15,27504.84,20589.5,6915.34,Store
+RTL00733,2025-12-03,Kolkata,East,Accessories,Accessories,VIP,3,1186.32,0.0,4199.58,3122.35,1077.23,Store
+RTL00734,2025-10-10,Indore,Central,Smartwatch,Wearables,Returning,1,7126.45,0.15,7147.83,5653.82,1494.01,Website
+RTL00735,2025-03-18,Bhopal,Central,Headphones,Accessories,New,4,2563.84,0.1,9968.19,7555.51,2412.68,Website
+RTL00736,2025-09-02,Nagpur,Central,Accessories,Accessories,Returning,3,1332.44,0.05,3797.45,2993.59,803.86,Store
+RTL00737,2025-09-24,Jaipur,North,Headphones,Accessories,Returning,3,2202.1,0.05,6275.98,5359.77,916.21,Store
+RTL00738,2025-05-02,Patna,East,Smartwatch,Wearables,New,4,6890.47,0.05,26183.77,22515.77,3668.0,Store
+RTL00739,2025-09-27,Nagpur,Central,Mobile,Mobiles,New,2,21440.56,0.0,42881.13,29293.67,13587.46,Store
+RTL00740,2025-11-24,Chennai,South,Tablet,Computers,New,1,16296.21,0.1,17306.58,12457.29,4849.29,Store
+RTL00741,2025-10-26,Delhi,North,Smartwatch,Wearables,New,2,7015.96,0.05,15729.78,11012.28,4717.5,Store
+RTL00742,2025-10-06,Mumbai,West,Accessories,Accessories,New,4,1126.53,0.0,5317.21,4389.52,927.69,Store
+RTL00743,2025-08-20,Bhubaneswar,East,Mobile,Mobiles,New,3,24163.7,0.0,72491.11,57668.59,14822.52,Website
+RTL00744,2025-04-09,Patna,East,Smartwatch,Wearables,Returning,3,6261.58,0.1,18258.77,14320.25,3938.52,Store
+RTL00745,2025-10-18,Indore,Central,Laptop,Computers,Returning,4,69584.57,0.1,295595.25,221544.51,74050.74,Store
+RTL00746,2025-05-13,Mumbai,West,Mobile,Mobiles,New,1,22677.06,0.0,22677.06,15714.28,6962.78,Mobile App
+RTL00747,2025-07-14,Bengaluru,South,Mobile,Mobiles,Returning,3,24583.16,0.1,66374.54,53132.9,13241.64,Store
+RTL00748,2025-04-25,Chennai,South,Headphones,Accessories,New,3,2775.27,0.1,8092.7,6121.0,1971.7,Mobile App
+RTL00749,2025-04-25,Chennai,South,Laptop,Computers,New,4,61179.2,0.15,224650.01,181699.91,42950.1,Store
+RTL00750,2025-02-27,Delhi,North,Tablet,Computers,New,4,17427.64,0.0,69710.54,53802.8,15907.74,Website
+RTL00751,2025-12-17,Mumbai,West,Laptop,Computers,Returning,2,71110.55,0.05,159429.85,109447.2,49982.65,Mobile App
+RTL00752,2025-02-23,Mumbai,West,Headphones,Accessories,VIP,2,2694.69,0.1,4850.44,3606.33,1244.11,Mobile App
+RTL00753,2025-02-01,Hyderabad,South,Headphones,Accessories,Returning,2,2470.64,0.05,4694.22,3241.74,1452.48,Website
+RTL00754,2025-12-08,Hyderabad,South,Mobile,Mobiles,Returning,4,21170.62,0.05,94929.06,76885.15,18043.91,Store
+RTL00755,2025-07-22,Nagpur,Central,Smartwatch,Wearables,New,2,6365.62,0.15,10821.56,8251.73,2569.83,Website
+RTL00756,2025-06-09,Delhi,North,Headphones,Accessories,New,2,2294.41,0.0,4588.81,3827.72,761.09,Website
+RTL00757,2025-09-27,Bhubaneswar,East,Smartwatch,Wearables,New,2,7403.02,0.15,12585.14,10462.07,2123.07,Store
+RTL00758,2025-05-20,Kolkata,East,Mobile,Mobiles,New,3,21569.12,0.0,64707.35,48938.98,15768.37,Store
+RTL00759,2025-02-16,Pune,West,Mobile,Mobiles,Returning,1,22411.55,0.15,19049.82,15718.2,3331.62,Website
+RTL00760,2025-09-24,Delhi,North,Laptop,Computers,Returning,3,72441.3,0.0,169512.64,133479.48,36033.16,Store
+RTL00761,2025-03-06,Ahmedabad,West,Headphones,Accessories,New,1,2236.37,0.05,2294.52,1563.77,730.75,Website
+RTL00762,2025-07-21,Chennai,South,Headphones,Accessories,New,1,2473.28,0.0,2473.28,1689.32,783.96,Website
+RTL00763,2025-12-13,Mumbai,West,Accessories,Accessories,New,2,1079.47,0.05,2420.16,1993.66,426.5,Store
+RTL00764,2025-12-08,Jaipur,North,Laptop,Computers,New,4,66420.89,0.1,282155.95,226294.67,55861.28,Website
+RTL00765,2025-05-12,Kolkata,East,Tablet,Computers,Returning,2,19381.31,0.05,36824.5,27638.4,9186.1,Website
+RTL00766,2025-10-12,Bhubaneswar,East,Accessories,Accessories,Returning,2,1204.72,0.1,2558.83,1921.91,636.92,Store
+RTL00767,2025-08-12,Hyderabad,South,Smartwatch,Wearables,Returning,2,6805.36,0.05,12930.19,10228.49,2701.7,Website
+RTL00768,2025-06-24,Jaipur,North,Headphones,Accessories,New,1,2631.55,0.1,2368.4,1971.28,397.12,Store
+RTL00769,2025-02-21,Chandigarh,North,Smartwatch,Wearables,New,3,7221.43,0.1,19497.85,15208.21,4289.64,Website
+RTL00770,2025-05-18,Bengaluru,South,Mobile,Mobiles,New,4,21510.29,0.05,81739.1,62837.17,18901.93,Mobile App
+RTL00771,2025-08-26,Jaipur,North,Tablet,Computers,New,4,19944.23,0.1,56003.4,42360.17,13643.23,Store
+RTL00772,2025-12-27,Indore,Central,Mobile,Mobiles,Returning,4,19918.73,0.1,84614.78,60466.3,24148.48,Store
+RTL00773,2025-01-02,Hyderabad,South,Laptop,Computers,New,1,67468.55,0.15,57348.27,48663.51,8684.76,Website
+RTL00774,2025-09-19,Ahmedabad,West,Headphones,Accessories,Returning,2,2208.99,0.1,3976.17,3147.52,828.65,Website
+RTL00775,2025-11-05,Nagpur,Central,Smartwatch,Wearables,New,1,7795.91,0.05,8739.22,6573.03,2166.19,Website
+RTL00776,2025-12-14,Jaipur,North,Accessories,Accessories,Returning,1,1313.99,0.1,1395.46,1197.73,197.73,Store
+RTL00777,2025-06-04,Pune,West,Headphones,Accessories,VIP,4,2333.01,0.0,9332.04,7047.16,2284.88,Mobile App
+RTL00778,2025-02-13,Indore,Central,Mobile,Mobiles,New,1,23104.73,0.05,21949.49,15476.84,6472.65,Store
+RTL00779,2025-04-09,Ahmedabad,West,Mobile,Mobiles,New,3,19953.18,0.0,64648.31,46491.0,18157.31,Store
+RTL00780,2025-11-07,Bengaluru,South,Headphones,Accessories,Returning,4,2412.71,0.05,10818.58,7441.19,3377.39,Website
+RTL00781,2025-11-17,Hyderabad,South,Smartwatch,Wearables,Returning,2,6895.68,0.1,14646.42,10882.66,3763.76,Store
+RTL00782,2025-08-21,Delhi,North,Mobile,Mobiles,Returning,1,22939.17,0.15,19498.29,13479.57,6018.72,Store
+RTL00783,2025-02-14,Patna,East,Tablet,Computers,Returning,3,19974.41,0.15,50934.75,38537.57,12397.18,Website
+RTL00784,2025-02-14,Bhopal,Central,Smartwatch,Wearables,New,2,6700.59,0.15,11391.0,8176.47,3214.53,Store
+RTL00785,2025-06-24,Indore,Central,Accessories,Accessories,Returning,3,1229.34,0.0,3688.01,3136.82,551.19,Website
+RTL00786,2025-08-03,Jaipur,North,Mobile,Mobiles,Returning,2,21882.0,0.1,39387.6,32067.97,7319.63,Mobile App
+RTL00787,2025-01-12,Pune,West,Mobile,Mobiles,Returning,2,22542.7,0.1,40576.87,32461.04,8115.83,Mobile App
+RTL00788,2025-09-08,Hyderabad,South,Mobile,Mobiles,Returning,3,22810.38,0.0,68431.14,53856.84,14574.3,Website
+RTL00789,2025-07-18,Indore,Central,Mobile,Mobiles,VIP,2,21122.73,0.1,38020.9,27011.06,11009.84,Store
+RTL00790,2025-01-05,Jaipur,North,Accessories,Accessories,Returning,2,1125.55,0.05,2138.54,1675.12,463.42,Website
+RTL00791,2025-02-04,Nagpur,Central,Smartwatch,Wearables,Returning,1,7106.63,0.15,6040.64,4181.41,1859.23,Website
+RTL00792,2025-06-15,Pune,West,Headphones,Accessories,Returning,2,2557.95,0.15,4348.51,3562.74,785.77,Website
+RTL00793,2025-09-21,Chandigarh,North,Smartwatch,Wearables,Returning,4,7160.26,0.15,24344.88,20792.3,3552.58,Website
+RTL00794,2025-10-29,Chandigarh,North,Headphones,Accessories,VIP,1,2372.93,0.15,2380.04,1774.69,605.35,Store
+RTL00795,2025-06-07,Ahmedabad,West,Mobile,Mobiles,Returning,4,21450.84,0.1,77223.02,53844.65,23378.37,Store
+RTL00796,2025-04-18,Jaipur,North,Headphones,Accessories,New,3,2540.42,0.1,7407.86,5519.47,1888.39,Mobile App
+RTL00797,2025-12-20,Patna,East,Headphones,Accessories,Returning,4,2692.43,0.0,12708.26,9091.7,3616.56,Mobile App
+RTL00798,2025-06-17,Nagpur,Central,Accessories,Accessories,Returning,4,1135.03,0.05,4313.11,3178.91,1134.2,Website
+RTL00799,2025-04-26,Kolkata,East,Laptop,Computers,VIP,1,58101.12,0.0,62749.21,44114.55,18634.66,Website
+RTL00800,2025-06-11,Chennai,South,Tablet,Computers,Returning,2,19461.51,0.15,33084.56,24828.29,8256.27,Website
+RTL00801,2025-01-05,Hyderabad,South,Tablet,Computers,New,1,18426.23,0.15,15662.3,12140.53,3521.77,Mobile App
+RTL00802,2025-04-21,Chandigarh,North,Laptop,Computers,VIP,4,57220.12,0.1,222471.84,154228.63,68243.21,Store
+RTL00803,2025-07-08,Indore,Central,Smartwatch,Wearables,New,3,7785.49,0.0,23356.46,17486.46,5870.0,Website
+RTL00804,2025-12-02,Bengaluru,South,Accessories,Accessories,New,1,1338.17,0.15,1342.19,1029.31,312.88,Website
+RTL00805,2025-09-27,Jaipur,North,Headphones,Accessories,New,1,2567.27,0.05,2438.91,2053.43,385.48,Store
+RTL00806,2025-10-13,Bengaluru,South,Laptop,Computers,Returning,1,59791.18,0.1,63498.23,44352.56,19145.67,Mobile App
+RTL00807,2025-07-18,Indore,Central,Accessories,Accessories,VIP,1,1112.85,0.1,1001.56,696.44,305.12,Mobile App
+RTL00808,2025-02-10,Chandigarh,North,Mobile,Mobiles,VIP,1,21080.18,0.05,20026.17,14669.25,5356.92,Store
+RTL00809,2025-05-23,Bhopal,Central,Mobile,Mobiles,New,4,20020.34,0.05,76077.28,56974.92,19102.36,Website
+RTL00810,2025-12-30,Mumbai,West,Mobile,Mobiles,New,4,20260.43,0.15,81284.86,59273.07,22011.79,Store
+RTL00811,2025-01-17,Mumbai,West,Tablet,Computers,Returning,4,19932.7,0.1,71757.71,54310.74,17446.97,Store
+RTL00812,2025-11-17,Nagpur,Central,Mobile,Mobiles,New,3,22157.5,0.0,78437.55,59857.76,18579.79,Mobile App
+RTL00813,2025-09-07,Pune,West,Laptop,Computers,New,2,69821.12,0.15,92582.81,76936.39,15646.42,Website
+RTL00814,2025-04-14,Bhopal,Central,Tablet,Computers,New,4,19061.36,0.0,82345.09,58679.23,23665.86,Website
+RTL00815,2025-10-11,Delhi,North,Headphones,Accessories,New,3,2661.42,0.15,8008.22,6420.25,1587.97,Store
+RTL00816,2025-11-02,Pune,West,Mobile,Mobiles,Returning,2,19414.1,0.15,38944.68,28277.77,10666.91,Store
+RTL00817,2025-01-16,Kolkata,East,Mobile,Mobiles,New,2,22746.69,0.0,45493.37,35588.29,9905.08,Mobile App
+RTL00818,2025-02-08,Bhubaneswar,East,Headphones,Accessories,Returning,2,2607.47,0.0,5214.94,4303.24,911.7,Store
+RTL00819,2025-08-31,Indore,Central,Smartwatch,Wearables,VIP,4,7255.12,0.0,29020.47,21818.98,7201.49,Mobile App
+RTL00820,2025-12-31,Bhopal,Central,Mobile,Mobiles,Returning,1,24628.16,0.15,24702.05,18837.58,5864.47,Store
+RTL00821,2025-01-09,Mumbai,West,Headphones,Accessories,Returning,2,2278.28,0.1,4100.9,3100.37,1000.53,Store
+RTL00822,2025-08-31,Kolkata,East,Mobile,Mobiles,Returning,2,23116.07,0.15,39297.31,29707.33,9589.98,Website
+RTL00823,2025-02-19,Bhubaneswar,East,Laptop,Computers,Returning,4,68493.97,0.15,232879.49,172580.71,60298.78,Website
+RTL00824,2025-08-26,Chennai,South,Headphones,Accessories,Returning,4,2640.82,0.0,10563.29,8283.09,2280.2,Website
+RTL00825,2025-08-16,Chennai,South,Accessories,Accessories,New,4,1111.61,0.15,3779.47,2682.6,1096.87,Website
+RTL00826,2025-02-03,Bengaluru,South,Tablet,Computers,New,3,19865.01,0.0,59595.02,48225.95,11369.07,Website
+RTL00827,2025-09-06,Delhi,North,Laptop,Computers,New,1,65707.25,0.1,46126.49,37472.25,8654.24,Store
+RTL00828,2025-11-24,Jaipur,North,Laptop,Computers,New,3,72379.75,0.15,217790.65,160842.05,56948.6,Store
+RTL00829,2025-11-12,Ahmedabad,West,Smartwatch,Wearables,New,2,6273.05,0.05,14064.19,10583.35,3480.84,Store
+RTL00830,2025-01-11,Hyderabad,South,Smartwatch,Wearables,Returning,2,7044.74,0.05,13385.01,10436.23,2948.78,Website
+RTL00831,2025-03-31,Nagpur,Central,Accessories,Accessories,New,3,1310.57,0.0,4246.24,3426.14,820.1,Store
+RTL00832,2025-03-29,Pune,West,Laptop,Computers,Returning,3,72522.4,0.15,199726.68,150278.18,49448.5,Store
+RTL00833,2025-06-15,Jaipur,North,Mobile,Mobiles,Returning,2,22075.3,0.1,39735.54,32649.64,7085.9,Mobile App
+RTL00834,2025-02-22,Jaipur,North,Laptop,Computers,New,3,67977.83,0.15,173343.48,126459.17,46884.31,Store
+RTL00835,2025-11-08,Chennai,South,Mobile,Mobiles,New,1,20076.11,0.1,21320.83,17028.34,4292.49,Store
+RTL00836,2025-10-11,Bhopal,Central,Mobile,Mobiles,New,1,24580.14,0.15,24653.88,17750.09,6903.79,Store
+RTL00837,2025-10-23,Chennai,South,Headphones,Accessories,Returning,3,2418.75,0.15,7278.01,5769.09,1508.92,Website
+RTL00838,2025-03-14,Patna,East,Mobile,Mobiles,VIP,2,23074.94,0.1,44857.68,34261.37,10596.31,Mobile App
+RTL00839,2025-01-06,Indore,Central,Mobile,Mobiles,Returning,4,22533.02,0.15,76612.28,59471.51,17140.77,Website
+RTL00840,2025-11-29,Indore,Central,Headphones,Accessories,Returning,3,2229.32,0.05,7497.19,6323.49,1173.7,Store
+RTL00841,2025-04-16,Chennai,South,Accessories,Accessories,New,2,1213.45,0.15,2227.88,1523.94,703.94,Store
+RTL00842,2025-08-28,Chandigarh,North,Smartwatch,Wearables,VIP,3,7693.69,0.1,20772.97,17341.36,3431.61,Store
+RTL00843,2025-11-28,Chandigarh,North,Mobile,Mobiles,Returning,4,23356.13,0.1,99216.85,74475.64,24741.21,Website
+RTL00844,2025-01-14,Delhi,North,Smartwatch,Wearables,VIP,3,6304.26,0.1,17021.51,11981.29,5040.22,Mobile App
+RTL00845,2025-01-02,Delhi,North,Tablet,Computers,New,4,18320.85,0.0,73283.41,52302.48,20980.93,Mobile App
+RTL00846,2025-01-02,Patna,East,Laptop,Computers,New,2,67280.4,0.1,121104.71,97328.2,23776.51,Mobile App
+RTL00847,2025-02-27,Nagpur,Central,Smartwatch,Wearables,Returning,1,7268.28,0.05,6904.87,5787.86,1117.01,Website
+RTL00848,2025-01-19,Kolkata,East,Laptop,Computers,New,2,69478.29,0.15,118113.1,88705.61,29407.49,Store
+RTL00849,2025-10-27,Ahmedabad,West,Mobile,Mobiles,VIP,3,21004.13,0.1,66919.14,47583.0,19336.14,Website
+RTL00850,2025-08-10,Hyderabad,South,Mobile,Mobiles,VIP,4,19610.71,0.1,70598.54,52999.65,17598.89,Website
+RTL00851,2025-12-24,Pune,West,Mobile,Mobiles,New,1,21623.84,0.15,21688.71,15828.91,5859.8,Mobile App
+RTL00852,2025-10-20,Pune,West,Mobile,Mobiles,Returning,2,22834.08,0.1,48499.58,40851.76,7647.82,Website
+RTL00853,2025-12-18,Indore,Central,Laptop,Computers,New,3,65730.34,0.15,197782.6,144640.3,53142.3,Store
+RTL00854,2025-03-29,Indore,Central,Headphones,Accessories,New,4,2403.89,0.1,9346.32,6800.17,2546.15,Store
+RTL00855,2025-04-16,Chennai,South,Mobile,Mobiles,Returning,3,22398.13,0.15,61684.45,47374.45,14310.0,Store
+RTL00856,2025-11-07,Chandigarh,North,Mobile,Mobiles,Returning,2,22823.16,0.1,48476.4,39683.59,8792.81,Mobile App
+RTL00857,2025-03-31,Bengaluru,South,Mobile,Mobiles,VIP,1,20254.65,0.0,21875.02,17960.17,3914.85,Store
+RTL00858,2025-01-21,Chennai,South,Tablet,Computers,New,4,18156.54,0.0,72626.15,56554.39,16071.76,Store
+RTL00859,2025-09-02,Indore,Central,Accessories,Accessories,VIP,2,1156.95,0.05,2198.2,1635.76,562.44,Store
+RTL00860,2025-10-20,Bengaluru,South,Laptop,Computers,New,2,69518.56,0.05,155860.62,109591.31,46269.31,Store
+RTL00861,2025-12-20,Ahmedabad,West,Mobile,Mobiles,Returning,1,20500.96,0.0,24191.13,19664.91,4526.22,Store
+RTL00862,2025-12-05,Patna,East,Mobile,Mobiles,New,4,24639.27,0.0,116297.33,90330.85,25966.48,Store
+RTL00863,2025-02-13,Jaipur,North,Headphones,Accessories,Returning,1,2208.21,0.1,1987.39,1694.63,292.76,Store
+RTL00864,2025-10-09,Hyderabad,South,Tablet,Computers,Returning,3,19024.98,0.1,60613.6,47708.9,12904.7,Mobile App
+RTL00865,2025-11-05,Mumbai,West,Mobile,Mobiles,New,1,21796.62,0.15,21862.01,15246.0,6616.01,Store
+RTL00866,2025-09-12,Mumbai,West,Headphones,Accessories,New,1,2649.25,0.05,2516.79,2161.11,355.68,Website
+RTL00867,2025-10-27,Bengaluru,South,Accessories,Accessories,New,4,1242.59,0.15,4985.28,4032.04,953.24,Store
+RTL00868,2025-11-02,Hyderabad,South,Laptop,Computers,Returning,1,62780.94,0.0,74081.51,62594.61,11486.9,Mobile App
+RTL00869,2025-06-12,Ahmedabad,West,Smartwatch,Wearables,New,3,6241.26,0.0,18723.77,14935.95,3787.82,Website
+RTL00870,2025-01-15,Delhi,North,Headphones,Accessories,Returning,3,2343.96,0.1,6328.68,4780.12,1548.56,Mobile App
+RTL00871,2025-06-16,Indore,Central,Headphones,Accessories,Returning,3,2684.2,0.1,7247.34,5076.26,2171.08,Website
+RTL00872,2025-03-15,Jaipur,North,Laptop,Computers,New,3,71336.97,0.1,208018.59,141583.02,66435.57,Store
+RTL00873,2025-02-11,Chandigarh,North,Tablet,Computers,New,2,16606.08,0.1,29890.94,24705.3,5185.64,Store
+RTL00874,2025-02-15,Kolkata,East,Headphones,Accessories,VIP,2,2488.09,0.05,4727.36,3575.87,1151.49,Website
+RTL00875,2025-09-12,Kolkata,East,Accessories,Accessories,New,1,1277.42,0.1,1149.68,842.54,307.14,Store
+RTL00876,2025-07-04,Patna,East,Mobile,Mobiles,Returning,4,19474.33,0.0,77897.31,66991.36,10905.95,Store
+RTL00877,2025-07-17,Bengaluru,South,Accessories,Accessories,New,3,1151.69,0.1,3109.55,2395.63,713.92,Website
+RTL00878,2025-09-29,Indore,Central,Tablet,Computers,Returning,3,16653.13,0.05,37019.91,28722.1,8297.81,Mobile App
+RTL00879,2025-07-20,Patna,East,Tablet,Computers,New,3,18361.33,0.1,49575.58,39093.99,10481.59,Website
+RTL00880,2025-08-18,Patna,East,Smartwatch,Wearables,New,3,7020.97,0.0,21062.9,16872.2,4190.7,Store
+RTL00881,2025-02-01,Hyderabad,South,Laptop,Computers,New,3,64408.84,0.05,183565.2,130338.05,53227.15,Website
+RTL00882,2025-11-07,Delhi,North,Tablet,Computers,New,1,17494.3,0.15,17546.78,12282.11,5264.67,Store
+RTL00883,2025-06-13,Bhubaneswar,East,Laptop,Computers,New,2,72199.92,0.05,137179.85,105813.79,31366.06,Store
+RTL00884,2025-02-26,Bengaluru,South,Accessories,Accessories,Returning,4,1166.46,0.0,4665.85,3992.58,673.27,Store
+RTL00885,2025-10-24,Mumbai,West,Headphones,Accessories,Returning,2,2267.42,0.0,5351.12,3645.67,1705.45,Store
+RTL00886,2025-09-26,Jaipur,North,Mobile,Mobiles,New,4,22966.64,0.15,78086.59,57303.46,20783.13,Mobile App
+RTL00887,2025-01-20,Bhopal,Central,Accessories,Accessories,New,4,1140.43,0.15,3877.45,2720.64,1156.81,Mobile App
+RTL00888,2025-03-12,Patna,East,Laptop,Computers,Returning,2,67088.54,0.0,144911.24,124015.14,20896.1,Mobile App
+RTL00889,2025-01-06,Indore,Central,Laptop,Computers,New,1,57335.95,0.05,54469.15,46658.99,7810.16,Store
+RTL00890,2025-04-09,Patna,East,Mobile,Mobiles,Returning,4,20725.08,0.1,80579.12,57121.51,23457.61,Website
+RTL00891,2025-02-06,Delhi,North,Mobile,Mobiles,New,1,24627.81,0.0,24627.81,19486.45,5141.36,Mobile App
+RTL00892,2025-09-17,Pune,West,Tablet,Computers,New,2,19344.32,0.0,30177.14,25343.73,4833.41,Website
+RTL00893,2025-07-10,Mumbai,West,Mobile,Mobiles,Returning,2,24630.25,0.1,44334.45,38004.13,6330.32,Mobile App
+RTL00894,2025-12-24,Mumbai,West,Accessories,Accessories,Returning,3,1280.24,0.0,4532.05,3344.99,1187.06,Website
+RTL00895,2025-10-01,Chennai,South,Tablet,Computers,New,1,17633.94,0.1,18727.24,14093.81,4633.43,Website
+RTL00896,2025-08-12,Mumbai,West,Smartwatch,Wearables,New,4,7578.85,0.1,27283.88,22196.53,5087.35,Store
+RTL00897,2025-07-05,Nagpur,Central,Mobile,Mobiles,Returning,2,24363.85,0.0,48727.69,41045.34,7682.35,Website
+RTL00898,2025-01-20,Pune,West,Smartwatch,Wearables,New,1,7650.04,0.1,6885.04,4825.99,2059.05,Website
+RTL00899,2025-01-26,Chennai,South,Accessories,Accessories,New,3,1163.41,0.1,3141.2,2153.5,987.7,Website
+RTL00900,2025-08-13,Mumbai,West,Smartwatch,Wearables,New,4,6586.52,0.05,25028.79,18754.07,6274.72,Website
+RTL00901,2025-01-02,Pune,West,Tablet,Computers,Returning,4,18121.96,0.0,72487.83,49821.57,22666.26,Website
+RTL00902,2025-01-16,Indore,Central,Tablet,Computers,VIP,1,16455.12,0.05,15632.36,11819.43,3812.93,Website
+RTL00903,2025-03-21,Bengaluru,South,Accessories,Accessories,Returning,2,1185.85,0.0,2561.44,2097.54,463.9,Website
+RTL00904,2025-11-19,Chennai,South,Accessories,Accessories,New,2,1106.08,0.15,2218.79,1669.16,549.63,Website
+RTL00905,2025-06-17,Pune,West,Mobile,Mobiles,Returning,3,24172.65,0.15,61640.27,52710.01,8930.26,Website
+RTL00906,2025-09-16,Patna,East,Accessories,Accessories,Returning,4,1062.86,0.1,3826.28,2944.37,881.91,Store
+RTL00907,2025-05-31,Ahmedabad,West,Mobile,Mobiles,New,1,21597.61,0.0,21597.61,16273.88,5323.73,Website
+RTL00908,2025-03-05,Kolkata,East,Mobile,Mobiles,New,1,23743.73,0.0,25643.23,20103.68,5539.55,Website
+RTL00909,2025-05-16,Hyderabad,South,Headphones,Accessories,New,4,2456.45,0.1,8843.24,6824.38,2018.86,Store
+RTL00910,2025-02-03,Ahmedabad,West,Smartwatch,Wearables,New,1,6890.5,0.05,6545.97,4953.2,1592.77,Store
+RTL00911,2025-10-09,Chandigarh,North,Laptop,Computers,New,1,70161.74,0.1,74511.77,60983.42,13528.35,Mobile App
+RTL00912,2025-03-08,Jaipur,North,Laptop,Computers,New,2,63427.87,0.15,116453.58,87430.06,29023.52,Store
+RTL00913,2025-05-18,Mumbai,West,Headphones,Accessories,New,2,2592.96,0.0,5185.92,3935.43,1250.49,Mobile App
+RTL00914,2025-12-24,Pune,West,Mobile,Mobiles,New,2,23259.17,0.0,54891.64,38234.01,16657.63,Website
+RTL00915,2025-08-05,Nagpur,Central,Headphones,Accessories,Returning,3,2746.51,0.15,7003.6,5754.3,1249.3,Website
+RTL00916,2025-06-17,Chennai,South,Mobile,Mobiles,VIP,3,23646.55,0.05,67392.67,49068.54,18324.13,Mobile App
+RTL00917,2025-07-18,Delhi,North,Mobile,Mobiles,Returning,1,19995.92,0.15,16996.53,11643.26,5353.27,Store
+RTL00918,2025-10-14,Bhopal,Central,Accessories,Accessories,New,2,1129.36,0.1,2398.75,1905.25,493.5,Website
+RTL00919,2025-04-03,Delhi,North,Mobile,Mobiles,New,2,23010.68,0.15,42247.62,29125.45,13122.17,Mobile App
+RTL00920,2025-08-21,Delhi,North,Smartwatch,Wearables,New,1,6878.38,0.05,6534.46,5471.01,1063.45,Website
+RTL00921,2025-11-15,Hyderabad,South,Tablet,Computers,VIP,1,18021.23,0.05,20201.8,14548.09,5653.71,Website
+RTL00922,2025-07-28,Kolkata,East,Tablet,Computers,Returning,2,18175.39,0.15,30898.16,24975.55,5922.61,Store
+RTL00923,2025-06-12,Nagpur,Central,Mobile,Mobiles,New,4,23242.55,0.1,83673.19,60560.96,23112.23,Store
+RTL00924,2025-02-22,Pune,West,Mobile,Mobiles,New,4,23606.02,0.15,80260.49,61560.74,18699.75,Website
+RTL00925,2025-04-01,Ahmedabad,West,Tablet,Computers,Returning,3,19922.74,0.05,61322.21,42036.98,19285.23,Website
+RTL00926,2025-12-12,Delhi,North,Mobile,Mobiles,Returning,1,22285.5,0.1,23667.19,18454.16,5213.03,Mobile App
+RTL00927,2025-07-17,Bengaluru,South,Headphones,Accessories,VIP,3,2546.82,0.1,6876.42,5069.02,1807.4,Store
+RTL00928,2025-04-20,Patna,East,Tablet,Computers,VIP,2,16473.26,0.05,33803.13,24116.2,9686.93,Website
+RTL00929,2025-06-02,Delhi,North,Laptop,Computers,Returning,2,66616.48,0.1,119909.67,88824.09,31085.58,Website
+RTL00930,2025-07-30,Hyderabad,South,Mobile,Mobiles,Returning,2,23986.48,0.05,45574.31,31563.65,14010.66,Store
+RTL00931,2025-07-16,Hyderabad,South,Mobile,Mobiles,Returning,1,20871.98,0.1,18784.78,13500.61,5284.17,Mobile App
+RTL00932,2025-09-13,Delhi,North,Headphones,Accessories,New,3,2490.07,0.0,7470.2,6144.78,1325.42,Store
+RTL00933,2025-04-04,Patna,East,Tablet,Computers,Returning,1,18487.61,0.1,17969.96,12345.46,5624.5,Website
+RTL00934,2025-08-25,Mumbai,West,Headphones,Accessories,Returning,1,2210.38,0.15,1878.82,1476.71,402.11,Store
+RTL00935,2025-06-11,Jaipur,North,Laptop,Computers,Returning,4,58502.63,0.05,222309.98,172857.2,49452.78,Website
+RTL00936,2025-12-10,Kolkata,East,Accessories,Accessories,New,1,1329.14,0.0,1568.39,1074.81,493.58,Website
+RTL00937,2025-02-27,Mumbai,West,Laptop,Computers,Returning,3,61849.34,0.05,176270.62,126823.58,49447.04,Website
+RTL00938,2025-02-24,Mumbai,West,Accessories,Accessories,Returning,3,1085.7,0.1,2931.4,2195.68,735.72,Website
+RTL00939,2025-06-18,Ahmedabad,West,Laptop,Computers,VIP,4,61959.01,0.15,210660.63,156861.08,53799.55,Website
+RTL00940,2025-07-05,Bengaluru,South,Accessories,Accessories,Returning,3,1110.03,0.05,3163.58,2623.23,540.35,Store
+RTL00941,2025-09-10,Ahmedabad,West,Accessories,Accessories,VIP,1,1174.35,0.0,1174.35,983.17,191.18,Mobile App
+RTL00942,2025-05-28,Bengaluru,South,Laptop,Computers,New,4,71704.36,0.05,272476.56,217243.23,55233.33,Mobile App
+RTL00943,2025-11-30,Chennai,South,Headphones,Accessories,New,1,2316.26,0.15,2323.21,1657.14,666.07,Website
+RTL00944,2025-06-23,Delhi,North,Mobile,Mobiles,Returning,2,22302.54,0.15,37914.32,26946.31,10968.01,Store
+RTL00945,2025-02-17,Patna,East,Mobile,Mobiles,New,4,20494.25,0.0,81976.98,64935.05,17041.93,Website
+RTL00946,2025-02-13,Hyderabad,South,Headphones,Accessories,New,1,2558.37,0.0,2558.37,2169.21,389.16,Store
+RTL00947,2025-12-22,Hyderabad,South,Accessories,Accessories,Returning,4,1232.82,0.1,5237.0,4397.05,839.95,Website
+RTL00948,2025-02-18,Mumbai,West,Mobile,Mobiles,New,1,20713.54,0.05,19677.86,16714.24,2963.62,Store
+RTL00949,2025-12-12,Chennai,South,Smartwatch,Wearables,Returning,4,6430.09,0.1,27315.03,22577.06,4737.97,Store
+RTL00950,2025-04-12,Hyderabad,South,Laptop,Computers,New,3,67137.05,0.0,217524.04,168470.37,49053.67,Website
+RTL00951,2025-02-04,Chandigarh,North,Accessories,Accessories,New,4,1332.01,0.15,4528.82,3815.79,713.03,Mobile App
+RTL00952,2025-04-22,Chennai,South,Accessories,Accessories,VIP,2,1336.18,0.1,2597.53,1860.76,736.77,Mobile App
+RTL00953,2025-08-13,Hyderabad,South,Smartwatch,Wearables,Returning,2,7102.78,0.15,12074.72,10262.82,1811.9,Store
+RTL00954,2025-06-06,Bengaluru,South,Mobile,Mobiles,VIP,1,20074.52,0.05,19070.79,13765.38,5305.41,Website
+RTL00955,2025-10-14,Hyderabad,South,Accessories,Accessories,Returning,4,1063.48,0.05,4768.65,3908.47,860.18,Mobile App
+RTL00956,2025-08-12,Ahmedabad,West,Tablet,Computers,Returning,3,18379.74,0.05,40858.17,33076.66,7781.51,Store
+RTL00957,2025-05-27,Bhopal,Central,Laptop,Computers,Returning,3,69117.16,0.0,207351.48,167493.72,39857.76,Store
+RTL00958,2025-08-20,Bhubaneswar,East,Mobile,Mobiles,Returning,2,24362.31,0.0,48724.63,35281.4,13443.23,Store
+RTL00959,2025-12-21,Ahmedabad,West,Smartwatch,Wearables,Returning,2,7154.12,0.15,14351.16,11285.85,3065.31,Store
+RTL00960,2025-05-31,Indore,Central,Laptop,Computers,New,2,70711.1,0.15,120208.87,92389.64,27819.23,Mobile App
+RTL00961,2025-02-26,Indore,Central,Mobile,Mobiles,New,1,23796.6,0.05,22606.77,17235.42,5371.35,Website
+RTL00962,2025-05-30,Ahmedabad,West,Accessories,Accessories,Returning,4,1214.29,0.05,4614.29,3464.32,1149.97,Mobile App
+RTL00963,2025-11-03,Indore,Central,Smartwatch,Wearables,Returning,4,7148.94,0.15,28681.53,22483.01,6198.52,Mobile App
+RTL00964,2025-03-21,Indore,Central,Smartwatch,Wearables,VIP,2,6551.51,0.0,14151.25,11548.39,2602.86,Store
+RTL00965,2025-12-13,Mumbai,West,Laptop,Computers,Returning,2,59159.53,0.05,132635.67,113599.43,19036.24,Store
+RTL00966,2025-08-03,Bhubaneswar,East,Headphones,Accessories,New,2,2790.82,0.0,5581.63,3804.37,1777.26,Mobile App
+RTL00967,2025-08-08,Chandigarh,North,Accessories,Accessories,New,3,1233.2,0.0,3699.59,2566.94,1132.65,Mobile App
+RTL00968,2025-04-26,Chandigarh,North,Accessories,Accessories,New,3,1105.82,0.1,3224.57,2251.94,972.63,Store
+RTL00969,2025-12-02,Bhubaneswar,East,Mobile,Mobiles,Returning,4,19595.51,0.15,78617.16,65615.01,13002.15,Website
+RTL00970,2025-01-14,Kolkata,East,Accessories,Accessories,Returning,1,1113.33,0.1,1002.0,816.4,185.6,Website
+RTL00971,2025-04-20,Bengaluru,South,Laptop,Computers,New,4,70302.36,0.05,288520.91,227399.04,61121.87,Store
+RTL00972,2025-06-02,Kolkata,East,Accessories,Accessories,Returning,3,1265.59,0.15,3227.26,2739.26,488.0,Store
+RTL00973,2025-06-24,Patna,East,Mobile,Mobiles,New,2,21346.72,0.1,38424.1,30131.18,8292.92,Mobile App
+RTL00974,2025-06-23,Ahmedabad,West,Mobile,Mobiles,New,3,21574.3,0.15,55014.46,43438.39,11576.07,Website
+RTL00975,2025-02-23,Delhi,North,Accessories,Accessories,Returning,1,1293.39,0.15,1099.38,798.71,300.67,Store
+RTL00976,2025-03-24,Hyderabad,South,Tablet,Computers,New,2,17237.36,0.0,37232.7,27055.98,10176.72,Store
+RTL00977,2025-02-04,Mumbai,West,Headphones,Accessories,New,3,2353.43,0.1,6354.25,4556.99,1797.26,Website
+RTL00978,2025-07-28,Ahmedabad,West,Headphones,Accessories,VIP,4,2544.48,0.1,9160.14,7257.62,1902.52,Mobile App
+RTL00979,2025-05-09,Indore,Central,Mobile,Mobiles,New,4,21180.41,0.0,84721.63,63581.26,21140.37,Store
+RTL00980,2025-07-26,Nagpur,Central,Mobile,Mobiles,New,3,22908.28,0.15,58416.12,49986.73,8429.39,Store
+RTL00981,2025-08-04,Bhopal,Central,Accessories,Accessories,Returning,3,1226.58,0.1,3311.76,2573.69,738.07,Website
+RTL00982,2025-09-14,Bengaluru,South,Headphones,Accessories,Returning,1,2523.7,0.05,2397.51,1740.21,657.3,Website
+RTL00983,2025-07-19,Chennai,South,Laptop,Computers,Returning,3,71686.22,0.05,204305.72,152677.87,51627.85,Mobile App
+RTL00984,2025-08-25,Hyderabad,South,Smartwatch,Wearables,VIP,2,7588.09,0.0,15176.18,12845.52,2330.66,Website
+RTL00985,2025-08-03,Mumbai,West,Smartwatch,Wearables,VIP,4,6912.55,0.0,27650.21,19811.01,7839.2,Store
+RTL00986,2025-08-27,Indore,Central,Headphones,Accessories,New,1,2380.15,0.15,2023.13,1520.58,502.55,Website
+RTL00987,2025-08-14,Chennai,South,Accessories,Accessories,New,3,1336.32,0.05,3808.5,3047.58,760.92,Store
+RTL00988,2025-04-26,Bhubaneswar,East,Accessories,Accessories,New,3,1221.31,0.0,3957.03,3269.12,687.91,Website
+RTL00989,2025-03-31,Chennai,South,Mobile,Mobiles,New,1,20774.87,0.15,19071.32,13440.7,5630.62,Mobile App
+RTL00990,2025-10-15,Delhi,North,Smartwatch,Wearables,Returning,3,6547.85,0.1,20861.43,17654.98,3206.45,Mobile App
+RTL00991,2025-05-06,Jaipur,North,Laptop,Computers,New,4,65312.77,0.15,222063.42,177720.9,44342.52,Mobile App
+RTL00992,2025-07-20,Jaipur,North,Accessories,Accessories,New,2,1160.99,0.0,2321.98,1649.05,672.93,Store
+RTL00993,2025-03-13,Nagpur,Central,Mobile,Mobiles,Returning,1,21443.79,0.0,23159.29,16325.22,6834.07,Website
+RTL00994,2025-06-07,Hyderabad,South,Mobile,Mobiles,Returning,3,23408.96,0.1,63204.19,51619.36,11584.83,Store
+RTL00995,2025-07-13,Pune,West,Laptop,Computers,VIP,4,71858.59,0.15,244319.19,195422.42,48896.77,Store
+RTL00996,2025-08-17,Pune,West,Tablet,Computers,VIP,4,17349.0,0.15,46009.54,32586.43,13423.11,Website
+RTL00997,2025-07-12,Jaipur,North,Mobile,Mobiles,New,3,21590.71,0.05,61533.52,50122.5,11411.02,Website
+RTL00998,2025-05-12,Chandigarh,North,Headphones,Accessories,New,4,2436.01,0.0,9744.03,6811.34,2932.69,Store
+RTL00999,2025-12-18,Ahmedabad,West,Accessories,Accessories,New,1,1127.94,0.05,1264.42,1028.88,235.54,Store
+RTL01000,2025-07-07,Chennai,South,Smartwatch,Wearables,New,4,6857.3,0.15,23314.83,17019.57,6295.26,Store
+RTL01001,2025-10-23,Nagpur,Central,Smartwatch,Wearables,New,1,6528.21,0.05,7318.13,5587.55,1730.58,Website
+RTL01002,2025-09-26,Jaipur,North,Smartwatch,Wearables,New,4,6782.84,0.0,27131.36,22818.75,4312.61,Store
+RTL01003,2025-07-23,Mumbai,West,Mobile,Mobiles,New,4,22249.49,0.0,88997.96,75236.56,13761.4,Store
+RTL01004,2025-11-20,Mumbai,West,Laptop,Computers,Returning,4,65688.95,0.15,263544.07,223735.5,39808.57,Store
+RTL01005,2025-02-16,Hyderabad,South,Smartwatch,Wearables,Returning,1,7506.28,0.1,6755.65,5172.24,1583.41,Store
+RTL01006,2025-12-03,Chennai,South,Headphones,Accessories,New,1,2327.62,0.05,2609.27,2163.21,446.06,Store
+RTL01007,2025-11-07,Nagpur,Central,Tablet,Computers,Returning,2,18287.38,0.0,43158.22,34566.76,8591.46,Website
+RTL01008,2025-07-03,Hyderabad,South,Smartwatch,Wearables,VIP,2,6396.67,0.0,12793.33,8816.33,3977.0,Mobile App
+RTL01009,2025-09-25,Hyderabad,South,Tablet,Computers,New,3,18109.98,0.0,42377.36,34889.33,7488.03,Mobile App
+RTL01010,2025-07-09,Chennai,South,Mobile,Mobiles,New,3,20267.08,0.1,54721.12,41983.74,12737.38,Website
+RTL01011,2025-04-09,Hyderabad,South,Accessories,Accessories,New,4,1274.0,0.0,5503.69,4073.71,1429.98,Website
+RTL01012,2025-10-19,Pune,West,Mobile,Mobiles,Returning,1,21499.82,0.05,24101.3,18889.65,5211.65,Mobile App
+RTL01013,2025-03-31,Mumbai,West,Mobile,Mobiles,New,2,21982.53,0.05,45108.16,35272.04,9836.12,Store
+RTL01014,2025-04-25,Bengaluru,South,Mobile,Mobiles,Returning,1,24499.31,0.05,25136.29,19035.43,6100.86,Website
+RTL01015,2025-07-09,Mumbai,West,Headphones,Accessories,Returning,2,2620.84,0.05,4979.6,3440.68,1538.92,Website
+RTL01016,2025-11-02,Bengaluru,South,Accessories,Accessories,Returning,3,1285.18,0.05,4322.05,3070.82,1251.23,Mobile App
+RTL01017,2025-05-21,Jaipur,North,Accessories,Accessories,Returning,4,1110.42,0.15,3775.44,3051.55,723.89,Website
+RTL01018,2025-06-30,Kolkata,East,Headphones,Accessories,Returning,4,2582.19,0.1,9295.87,6469.79,2826.08,Mobile App
+RTL01019,2025-01-16,Bhopal,Central,Accessories,Accessories,Returning,1,1082.94,0.05,1028.79,751.45,277.34,Mobile App
+RTL01020,2025-02-12,Jaipur,North,Mobile,Mobiles,VIP,4,22271.77,0.1,80178.38,57898.3,22280.08,Website
+RTL01021,2025-01-21,Chennai,South,Laptop,Computers,Returning,1,70962.57,0.0,70962.57,56496.9,14465.67,Store
+RTL01022,2025-01-27,Kolkata,East,Tablet,Computers,New,4,19890.14,0.0,79560.56,65044.3,14516.26,Store
+RTL01023,2025-11-14,Pune,West,Mobile,Mobiles,New,4,19476.46,0.15,78139.54,59238.11,18901.43,Website
+RTL01024,2025-11-04,Delhi,North,Accessories,Accessories,New,3,1082.19,0.15,3256.31,2785.24,471.07,Store
+RTL01025,2025-10-27,Hyderabad,South,Accessories,Accessories,Returning,2,1244.85,0.15,2497.16,1945.93,551.23,Website
+RTL01026,2025-01-21,Pune,West,Tablet,Computers,Returning,4,18662.02,0.1,67183.28,50397.53,16785.75,Website
+RTL01027,2025-01-29,Chennai,South,Mobile,Mobiles,New,2,23593.88,0.05,44828.38,33844.19,10984.19,Store
+RTL01028,2025-04-13,Delhi,North,Tablet,Computers,New,1,17780.95,0.0,19203.42,15860.62,3342.8,Store
+RTL01029,2025-07-26,Chandigarh,North,Tablet,Computers,New,4,19182.17,0.1,69055.8,57376.51,11679.29,Website
+RTL01030,2025-05-02,Chennai,South,Smartwatch,Wearables,Returning,4,6507.8,0.1,23428.09,17635.64,5792.45,Website
+RTL01031,2025-06-27,Bhubaneswar,East,Headphones,Accessories,New,1,2748.6,0.0,2748.6,2144.46,604.14,Website
+RTL01032,2025-03-05,Nagpur,Central,Mobile,Mobiles,Returning,1,22521.34,0.05,23106.9,16874.64,6232.26,Store
+RTL01033,2025-09-24,Ahmedabad,West,Accessories,Accessories,VIP,3,1138.96,0.15,2904.34,2251.41,652.93,Store
+RTL01034,2025-04-25,Mumbai,West,Headphones,Accessories,New,3,2757.22,0.0,8933.41,6959.91,1973.5,Website
+RTL01035,2025-01-25,Bhopal,Central,Mobile,Mobiles,Returning,3,21553.36,0.15,54961.07,38720.83,16240.24,Website
+RTL01036,2025-09-29,Bengaluru,South,Tablet,Computers,New,4,16983.57,0.1,47689.87,32755.48,14934.39,Mobile App
+RTL01037,2025-11-26,Chennai,South,Tablet,Computers,New,3,16321.17,0.0,57776.96,49156.96,8620.0,Store
+RTL01038,2025-01-06,Nagpur,Central,Laptop,Computers,Returning,1,62100.5,0.15,52785.42,39142.64,13642.78,Website
+RTL01039,2025-06-09,Bengaluru,South,Headphones,Accessories,Returning,4,2596.98,0.1,9349.14,7381.53,1967.61,Website
+RTL01040,2025-10-29,Ahmedabad,West,Tablet,Computers,New,3,16468.98,0.05,55385.19,45009.55,10375.64,Mobile App
+RTL01041,2025-09-15,Pune,West,Mobile,Mobiles,New,2,23938.27,0.0,47876.54,34684.81,13191.73,Mobile App
+RTL01042,2025-11-09,Jaipur,North,Headphones,Accessories,VIP,2,2616.59,0.0,6175.14,4897.03,1278.11,Mobile App
+RTL01043,2025-06-01,Bhubaneswar,East,Mobile,Mobiles,Returning,2,22129.76,0.15,37620.58,25734.88,11885.7,Store
+RTL01044,2025-05-16,Bengaluru,South,Headphones,Accessories,Returning,2,2416.96,0.05,4592.22,3124.26,1467.96,Store
+RTL01045,2025-09-16,Delhi,North,Laptop,Computers,New,1,64784.37,0.05,48005.22,38151.31,9853.91,Mobile App
+RTL01046,2025-02-26,Patna,East,Headphones,Accessories,Returning,3,2246.19,0.05,6401.65,5113.82,1287.83,Store
+RTL01047,2025-03-29,Bengaluru,South,Mobile,Mobiles,Returning,4,19627.14,0.1,76310.32,55997.46,20312.86,Store
+RTL01048,2025-08-08,Mumbai,West,Mobile,Mobiles,New,4,23294.71,0.1,83860.94,59476.41,24384.53,Website
+RTL01049,2025-09-01,Nagpur,Central,Smartwatch,Wearables,Returning,4,6353.27,0.0,25413.09,20180.34,5232.75,Store
+RTL01050,2025-02-13,Pune,West,Smartwatch,Wearables,Returning,3,7732.64,0.0,23197.93,16593.56,6604.37,Store
+RTL01051,2025-07-05,Chennai,South,Laptop,Computers,Returning,4,71327.13,0.05,271043.08,204367.86,66675.22,Website
+RTL01052,2025-05-14,Hyderabad,South,Laptop,Computers,New,4,67138.82,0.05,255127.53,195472.26,59655.27,Store
+RTL01053,2025-07-03,Hyderabad,South,Headphones,Accessories,New,1,2370.75,0.0,2370.75,2034.41,336.34,Store
+RTL01054,2025-12-16,Delhi,North,Mobile,Mobiles,Returning,1,22975.64,0.0,27111.26,20681.78,6429.48,Store
+RTL01055,2025-01-28,Bhopal,Central,Accessories,Accessories,New,4,1090.47,0.15,3707.58,2750.61,956.97,Website
+RTL01056,2025-12-30,Hyderabad,South,Headphones,Accessories,VIP,1,2455.39,0.05,2752.49,2009.74,742.75,Mobile App
+RTL01057,2025-06-14,Hyderabad,South,Laptop,Computers,Returning,2,64327.29,0.1,115789.12,93092.89,22696.23,Store
+RTL01058,2025-10-09,Mumbai,West,Mobile,Mobiles,Returning,3,24563.41,0.05,82606.75,58065.94,24540.81,Website
+RTL01059,2025-06-04,Bengaluru,South,Smartwatch,Wearables,Returning,4,7325.45,0.15,24906.54,17545.13,7361.41,Mobile App
+RTL01060,2025-04-24,Jaipur,North,Mobile,Mobiles,New,3,20032.83,0.05,61661.06,44776.95,16884.11,Mobile App
+RTL01061,2025-10-09,Delhi,North,Headphones,Accessories,Returning,3,2206.86,0.05,7421.67,5093.93,2327.74,Store
+RTL01062,2025-09-08,Mumbai,West,Mobile,Mobiles,Returning,4,20232.81,0.0,80931.24,59058.39,21872.85,Store
+RTL01063,2025-02-22,Pune,West,Mobile,Mobiles,New,2,21577.76,0.05,40997.73,28827.68,12170.05,Store
+RTL01064,2025-09-15,Chennai,South,Smartwatch,Wearables,New,1,6380.51,0.05,6061.48,4902.65,1158.83,Store
+RTL01065,2025-10-02,Indore,Central,Mobile,Mobiles,Returning,3,22165.49,0.0,78465.84,53916.46,24549.38,Website
+RTL01066,2025-05-22,Nagpur,Central,Tablet,Computers,New,4,18029.22,0.05,68511.04,58799.14,9711.9,Store
+RTL01067,2025-12-04,Ahmedabad,West,Mobile,Mobiles,Returning,1,22163.71,0.0,26153.18,19565.45,6587.73,Store
+RTL01068,2025-08-22,Chennai,South,Headphones,Accessories,New,2,2401.1,0.0,4802.19,3818.3,983.89,Website
+RTL01069,2025-05-02,Jaipur,North,Mobile,Mobiles,Returning,3,22355.55,0.1,60359.98,45406.81,14953.17,Website
+RTL01070,2025-01-04,Indore,Central,Headphones,Accessories,Returning,3,2633.62,0.05,7505.81,6169.96,1335.85,Store
+RTL01071,2025-09-04,Hyderabad,South,Mobile,Mobiles,Returning,1,20236.91,0.05,19225.06,14431.41,4793.65,Store
+RTL01072,2025-03-18,Pune,West,Mobile,Mobiles,Returning,1,22873.95,0.15,20998.28,15871.83,5126.45,Mobile App
+RTL01073,2025-10-04,Pune,West,Headphones,Accessories,Returning,3,2261.74,0.0,8006.57,6840.25,1166.32,Website
+RTL01074,2025-07-11,Jaipur,North,Mobile,Mobiles,New,3,21727.35,0.0,65182.06,54488.64,10693.42,Website
+RTL01075,2025-06-20,Mumbai,West,Mobile,Mobiles,Returning,3,20691.64,0.15,52763.68,42780.49,9983.19,Website
+RTL01076,2025-03-01,Nagpur,Central,Mobile,Mobiles,New,1,23683.44,0.15,21741.4,18130.43,3610.97,Website
+RTL01077,2025-09-17,Mumbai,West,Headphones,Accessories,New,2,2486.46,0.1,4475.62,3527.0,948.62,Store
+RTL01078,2025-03-02,Hyderabad,South,Mobile,Mobiles,Returning,1,20034.86,0.15,18392.0,15095.18,3296.82,Store
+RTL01079,2025-06-02,Indore,Central,Tablet,Computers,Returning,2,19643.45,0.15,33393.87,27654.9,5738.97,Mobile App
+RTL01080,2025-11-02,Patna,East,Accessories,Accessories,Returning,4,1146.21,0.1,4869.11,4005.55,863.56,Mobile App
+RTL01081,2025-12-02,Ahmedabad,West,Mobile,Mobiles,Returning,1,22739.48,0.05,25490.95,20719.17,4771.78,Website
+RTL01082,2025-12-28,Ahmedabad,West,Accessories,Accessories,Returning,4,1107.45,0.1,4704.43,3253.37,1451.06,Store
+RTL01083,2025-12-16,Mumbai,West,Headphones,Accessories,New,4,2248.97,0.05,10084.36,8033.82,2050.54,Website
+RTL01084,2025-07-22,Hyderabad,South,Mobile,Mobiles,Returning,3,20085.45,0.05,57243.54,45098.41,12145.13,Website
+RTL01085,2025-03-15,Delhi,North,Tablet,Computers,New,1,19284.43,0.1,18744.46,16041.02,2703.44,Store
+RTL01086,2025-11-03,Hyderabad,South,Headphones,Accessories,VIP,2,2528.26,0.1,5370.03,4504.27,865.76,Store
+RTL01087,2025-10-20,Bhubaneswar,East,Mobile,Mobiles,New,3,21405.59,0.0,75775.77,63165.23,12610.54,Website
+RTL01088,2025-12-28,Bhubaneswar,East,Laptop,Computers,Returning,3,63536.94,0.05,213674.73,170235.4,43439.33,Mobile App
+RTL01089,2025-08-26,Patna,East,Laptop,Computers,Returning,1,57553.47,0.15,38157.95,28037.4,10120.55,Store
+RTL01090,2025-02-21,Chennai,South,Headphones,Accessories,New,4,2633.14,0.05,10005.94,7946.5,2059.44,Website
+RTL01091,2025-07-03,Pune,West,Mobile,Mobiles,Returning,3,22520.14,0.0,67560.41,55389.13,12171.28,Website
+RTL01092,2025-06-13,Indore,Central,Tablet,Computers,New,1,16897.23,0.0,16897.23,11854.34,5042.89,Store
+RTL01093,2025-11-04,Hyderabad,South,Mobile,Mobiles,New,4,20356.4,0.0,96082.2,80926.64,15155.56,Mobile App
+RTL01094,2025-05-24,Ahmedabad,West,Mobile,Mobiles,New,4,21508.01,0.0,86032.05,65360.23,20671.82,Store
+RTL01095,2025-04-30,Ahmedabad,West,Headphones,Accessories,Returning,2,2443.36,0.1,4749.9,3598.69,1151.21,Store
+RTL01096,2025-01-30,Bhubaneswar,East,Accessories,Accessories,New,2,1271.24,0.05,2415.36,1967.31,448.05,Store
+RTL01097,2025-11-01,Jaipur,North,Headphones,Accessories,New,3,2649.24,0.05,8909.39,7602.43,1306.96,Website
+RTL01098,2025-10-03,Ahmedabad,West,Mobile,Mobiles,VIP,2,20106.33,0.1,42705.85,35262.88,7442.97,Store
+RTL01099,2025-01-16,Bhopal,Central,Laptop,Computers,New,3,71764.3,0.05,204528.25,144171.67,60356.58,Website
+RTL01100,2025-06-08,Mumbai,West,Tablet,Computers,New,1,18844.02,0.15,16017.42,12977.18,3040.24,Store
+RTL01101,2025-06-25,Nagpur,Central,Mobile,Mobiles,New,1,21100.56,0.1,18990.5,16228.42,2762.08,Website
+RTL01102,2025-06-21,Indore,Central,Smartwatch,Wearables,New,2,6164.1,0.1,11095.38,8031.71,3063.67,Website
+RTL01103,2025-12-02,Bengaluru,South,Headphones,Accessories,VIP,3,2300.45,0.05,7736.4,5964.66,1771.74,Website
+RTL01104,2025-02-24,Ahmedabad,West,Accessories,Accessories,New,2,1168.37,0.15,1986.23,1370.85,615.38,Store
+RTL01105,2025-04-22,Patna,East,Laptop,Computers,Returning,1,68383.15,0.15,62775.73,49751.01,13024.72,Website
+RTL01106,2025-03-08,Nagpur,Central,Tablet,Computers,VIP,3,18418.56,0.15,50724.71,37058.26,13666.45,Store
+RTL01107,2025-03-31,Jaipur,North,Mobile,Mobiles,New,1,20313.16,0.15,18647.48,13154.69,5492.79,Mobile App
+RTL01108,2025-11-28,Chennai,South,Tablet,Computers,Returning,2,17844.87,0.0,42113.89,33506.24,8607.65,Store
+RTL01109,2025-12-10,Nagpur,Central,Headphones,Accessories,Returning,2,2205.33,0.0,5204.57,4199.99,1004.58,Website
+RTL01110,2025-01-17,Chennai,South,Laptop,Computers,New,1,64200.37,0.15,54570.31,45847.33,8722.98,Mobile App
+RTL01111,2025-08-19,Ahmedabad,West,Tablet,Computers,New,1,17533.12,0.1,12308.25,9945.06,2363.19,Mobile App
+RTL01112,2025-03-26,Chennai,South,Accessories,Accessories,Returning,4,1195.82,0.15,4391.07,3400.1,990.97,Mobile App
+RTL01113,2025-03-12,Indore,Central,Laptop,Computers,Returning,3,62448.89,0.0,202334.41,171007.07,31327.34,Website
+RTL01114,2025-04-17,Indore,Central,Mobile,Mobiles,New,2,24115.41,0.05,49484.82,36860.61,12624.21,Store
+RTL01115,2025-03-12,Hyderabad,South,Laptop,Computers,New,3,66674.39,0.05,205223.79,150914.64,54309.15,Store
+RTL01116,2025-06-28,Mumbai,West,Accessories,Accessories,VIP,1,1169.18,0.05,1110.72,871.47,239.25,Website
+RTL01117,2025-12-30,Hyderabad,South,Tablet,Computers,Returning,2,18589.87,0.15,37291.28,32036.42,5254.86,Mobile App
+RTL01118,2025-08-03,Ahmedabad,West,Accessories,Accessories,Returning,1,1193.71,0.0,1193.71,853.64,340.07,Store
+RTL01119,2025-09-21,Mumbai,West,Headphones,Accessories,Returning,3,2408.24,0.1,6502.25,4674.62,1827.63,Website
+RTL01120,2025-06-30,Ahmedabad,West,Tablet,Computers,New,2,16386.64,0.05,31134.62,25028.08,6106.54,Store
+RTL01121,2025-01-06,Jaipur,North,Headphones,Accessories,New,3,2270.45,0.05,6470.78,4641.63,1829.15,Store
+RTL01122,2025-01-31,Bengaluru,South,Tablet,Computers,Returning,1,18115.07,0.1,16303.56,13029.63,3273.93,Store
+RTL01123,2025-04-09,Mumbai,West,Mobile,Mobiles,Returning,1,22527.75,0.0,24329.97,18566.01,5763.96,Mobile App
+RTL01124,2025-03-30,Bhubaneswar,East,Mobile,Mobiles,Returning,2,22106.63,0.0,47750.32,38629.81,9120.51,Website
+RTL01125,2025-11-03,Patna,East,Mobile,Mobiles,New,3,23643.0,0.05,79511.42,59528.25,19983.17,Website
+RTL01126,2025-11-04,Jaipur,North,Headphones,Accessories,Returning,4,2460.2,0.05,11031.53,7809.77,3221.76,Website
+RTL01127,2025-11-08,Chennai,South,Accessories,Accessories,Returning,3,1332.49,0.1,4245.3,3553.27,692.03,Mobile App
+RTL01128,2025-08-21,Bhopal,Central,Mobile,Mobiles,New,2,22581.9,0.05,42905.61,34192.43,8713.18,Website
+RTL01129,2025-07-23,Delhi,North,Mobile,Mobiles,Returning,1,19496.55,0.1,17546.9,14128.4,3418.5,Store
+RTL01130,2025-08-25,Chennai,South,Laptop,Computers,Returning,2,63992.69,0.0,99828.6,71976.71,27851.89,Store
+RTL01131,2025-05-29,Bhopal,Central,Smartwatch,Wearables,New,2,6918.55,0.0,13837.1,10325.18,3511.92,Store
+RTL01132,2025-09-02,Chandigarh,North,Headphones,Accessories,New,1,2783.41,0.1,2505.07,2115.77,389.3,Store
+RTL01133,2025-10-17,Mumbai,West,Mobile,Mobiles,Returning,1,21077.95,0.05,23628.38,19749.76,3878.62,Website
+RTL01134,2025-10-06,Hyderabad,South,Mobile,Mobiles,New,3,22592.38,0.05,75978.16,53887.96,22090.2,Store
+RTL01135,2025-08-13,Nagpur,Central,Smartwatch,Wearables,Returning,2,6429.1,0.0,12858.2,10832.64,2025.56,Website
+RTL01136,2025-01-22,Pune,West,Tablet,Computers,New,4,15996.34,0.05,60786.09,42426.81,18359.28,Mobile App
+RTL01137,2025-09-22,Indore,Central,Tablet,Computers,Returning,1,19062.93,0.15,12638.73,9977.77,2660.96,Website
+RTL01138,2025-05-14,Hyderabad,South,Mobile,Mobiles,New,4,22106.54,0.1,79583.54,61088.46,18495.08,Website
+RTL01139,2025-09-29,Bhubaneswar,East,Mobile,Mobiles,New,2,21994.87,0.05,41790.25,29639.93,12150.32,Store
+RTL01140,2025-07-16,Pune,West,Laptop,Computers,New,4,70354.77,0.15,239206.21,180589.43,58616.78,Website
+RTL01141,2025-11-18,Hyderabad,South,Accessories,Accessories,Returning,4,1094.84,0.05,4909.29,3434.81,1474.48,Mobile App
+RTL01142,2025-05-04,Hyderabad,South,Accessories,Accessories,New,1,1281.85,0.1,1153.66,987.52,166.14,Store
+RTL01143,2025-12-06,Delhi,North,Smartwatch,Wearables,Returning,2,7547.29,0.0,17811.61,15309.32,2502.29,Store
+RTL01144,2025-11-05,Indore,Central,Laptop,Computers,New,4,69565.61,0.15,279097.24,235469.03,43628.21,Store
+RTL01145,2025-05-01,Mumbai,West,Mobile,Mobiles,Returning,1,23519.29,0.1,21167.36,18055.41,3111.95,Store
+RTL01146,2025-06-26,Pune,West,Mobile,Mobiles,New,2,21334.74,0.0,42669.48,32631.58,10037.9,Website
+RTL01147,2025-07-13,Ahmedabad,West,Tablet,Computers,Returning,1,17321.22,0.0,17321.22,13976.25,3344.97,Store
+RTL01148,2025-10-08,Bhubaneswar,East,Headphones,Accessories,VIP,4,2740.01,0.05,12286.19,9305.3,2980.89,Store
+RTL01149,2025-09-09,Kolkata,East,Smartwatch,Wearables,Returning,1,6413.33,0.15,5451.33,4407.95,1043.38,Mobile App
+RTL01150,2025-11-07,Chennai,South,Accessories,Accessories,Returning,2,1074.54,0.1,2282.33,1930.57,351.76,Website
+RTL01151,2025-05-16,Ahmedabad,West,Laptop,Computers,VIP,3,57923.9,0.15,147705.94,108775.34,38930.6,Mobile App
+RTL01152,2025-07-04,Bengaluru,South,Headphones,Accessories,Returning,4,2306.46,0.0,9225.83,6443.47,2782.36,Website
+RTL01153,2025-06-07,Nagpur,Central,Mobile,Mobiles,New,1,21499.67,0.0,21499.67,17971.89,3527.78,Store
+RTL01154,2025-11-28,Ahmedabad,West,Mobile,Mobiles,New,3,19895.26,0.1,63386.3,50545.03,12841.27,Website
+RTL01155,2025-04-22,Chennai,South,Mobile,Mobiles,Returning,1,22369.52,0.0,24159.08,16486.32,7672.76,Mobile App
+RTL01156,2025-08-03,Kolkata,East,Mobile,Mobiles,New,2,22752.07,0.15,38678.51,30201.66,8476.85,Website
+RTL01157,2025-02-13,Jaipur,North,Mobile,Mobiles,New,1,24042.92,0.15,20436.48,15136.18,5300.3,Website
+RTL01158,2025-11-07,Nagpur,Central,Mobile,Mobiles,Returning,4,20076.19,0.05,90021.63,68827.41,21194.22,Website
+RTL01159,2025-05-21,Indore,Central,Laptop,Computers,New,3,66578.21,0.0,199734.64,158248.88,41485.76,Website
+RTL01160,2025-05-05,Indore,Central,Smartwatch,Wearables,Returning,1,7551.5,0.05,7173.92,5586.23,1587.69,Store
+RTL01161,2025-08-01,Chennai,South,Laptop,Computers,Returning,4,70243.56,0.0,219159.9,156927.63,62232.27,Store
+RTL01162,2025-07-02,Delhi,North,Tablet,Computers,Returning,3,18857.09,0.1,50914.15,41739.67,9174.48,Store
+RTL01163,2025-11-06,Hyderabad,South,Smartwatch,Wearables,Returning,1,6681.79,0.1,7096.06,6080.95,1015.11,Store
+RTL01164,2025-07-13,Chandigarh,North,Mobile,Mobiles,Returning,3,21720.02,0.0,65160.07,50322.96,14837.11,Store
+RTL01165,2025-07-08,Delhi,North,Smartwatch,Wearables,New,2,7445.28,0.15,12656.98,10362.93,2294.05,Website
+RTL01166,2025-02-08,Delhi,North,Accessories,Accessories,New,4,1221.21,0.15,4152.12,3569.89,582.23,Store
+RTL01167,2025-01-09,Indore,Central,Mobile,Mobiles,New,4,21571.67,0.05,81972.33,62989.45,18982.88,Website
+RTL01168,2025-05-26,Delhi,North,Accessories,Accessories,Returning,4,1291.51,0.0,5166.06,3524.94,1641.12,Mobile App
+RTL01169,2025-12-31,Chandigarh,North,Headphones,Accessories,Returning,1,2644.81,0.0,3120.88,2498.32,622.56,Website
+RTL01170,2025-12-01,Pune,West,Smartwatch,Wearables,New,3,7276.79,0.1,23183.86,17956.59,5227.27,Website
+RTL01171,2025-08-18,Patna,East,Smartwatch,Wearables,New,4,6372.79,0.05,24216.6,19526.99,4689.61,Store
+RTL01172,2025-08-19,Ahmedabad,West,Mobile,Mobiles,New,3,24438.91,0.05,69650.9,54396.57,15254.33,Website
+RTL01173,2025-05-23,Pune,West,Headphones,Accessories,New,2,2233.07,0.15,3796.23,2604.86,1191.37,Website
+RTL01174,2025-03-06,Indore,Central,Tablet,Computers,Returning,3,16436.63,0.0,53254.69,42814.64,10440.05,Website
+RTL01175,2025-01-04,Mumbai,West,Mobile,Mobiles,New,4,21759.85,0.1,78335.46,64152.56,14182.9,Website
+RTL01176,2025-05-04,Bhubaneswar,East,Headphones,Accessories,Returning,3,2306.53,0.0,6919.58,5886.47,1033.11,Store
+RTL01177,2025-04-26,Mumbai,West,Smartwatch,Wearables,New,2,7071.72,0.05,14511.16,11243.06,3268.1,Mobile App
+RTL01178,2025-03-11,Chennai,South,Mobile,Mobiles,New,1,23589.42,0.05,24202.75,18778.27,5424.48,Store
+RTL01179,2025-04-05,Bengaluru,South,Mobile,Mobiles,New,4,24499.46,0.1,95253.91,79813.54,15440.37,Store
+RTL01180,2025-01-10,Kolkata,East,Accessories,Accessories,Returning,1,1123.86,0.15,955.28,756.35,198.93,Store
+RTL01181,2025-08-10,Jaipur,North,Smartwatch,Wearables,VIP,4,6192.54,0.0,24770.16,17211.17,7558.99,Website
+RTL01182,2025-12-05,Ahmedabad,West,Tablet,Computers,New,2,17228.86,0.15,34561.09,29512.15,5048.94,Mobile App
+RTL01183,2025-09-10,Hyderabad,South,Smartwatch,Wearables,VIP,3,6583.64,0.1,17775.83,14145.23,3630.6,Mobile App
+RTL01184,2025-06-13,Jaipur,North,Mobile,Mobiles,New,3,24359.47,0.0,73078.42,57459.3,15619.12,Store
+RTL01185,2025-06-03,Bengaluru,South,Laptop,Computers,Returning,3,72440.46,0.0,217321.37,156078.06,61243.31,Website
+RTL01186,2025-04-23,Pune,West,Mobile,Mobiles,New,3,22418.95,0.15,61741.79,48323.63,13418.16,Website
+RTL01187,2025-02-21,Hyderabad,South,Laptop,Computers,New,1,64005.65,0.1,57605.08,41766.65,15838.43,Mobile App
+RTL01188,2025-08-07,Mumbai,West,Accessories,Accessories,VIP,4,1159.85,0.05,4407.43,3106.13,1301.3,Website
+RTL01189,2025-07-26,Bhopal,Central,Laptop,Computers,New,4,58538.46,0.1,210738.46,165066.19,45672.27,Mobile App
+RTL01190,2025-01-03,Chandigarh,North,Mobile,Mobiles,Returning,3,22219.04,0.0,66657.11,56872.83,9784.28,Mobile App
+RTL01191,2025-06-01,Mumbai,West,Mobile,Mobiles,VIP,2,20605.16,0.15,35028.77,28280.35,6748.42,Mobile App
+RTL01192,2025-04-12,Bengaluru,South,Headphones,Accessories,Returning,1,2514.36,0.0,2715.51,1980.98,734.53,Website
+RTL01193,2025-03-04,Hyderabad,South,Headphones,Accessories,New,3,2751.51,0.0,8914.9,6246.74,2668.16,Store
+RTL01194,2025-09-14,Pune,West,Laptop,Computers,Returning,3,62868.48,0.05,139756.63,108154.58,31602.05,Website
+RTL01195,2025-07-11,Nagpur,Central,Laptop,Computers,New,3,66955.59,0.0,200866.76,160207.39,40659.37,Mobile App
+RTL01196,2025-08-20,Hyderabad,South,Laptop,Computers,New,3,67064.06,0.1,141236.92,112678.9,28558.02,Website
+RTL01197,2025-09-18,Bhubaneswar,East,Laptop,Computers,New,1,59460.1,0.1,41740.98,33510.86,8230.12,Website
+RTL01198,2025-12-25,Chennai,South,Laptop,Computers,Returning,1,60702.68,0.1,64466.24,53232.6,11233.64,Store
+RTL01199,2025-10-21,Bhubaneswar,East,Headphones,Accessories,VIP,4,2282.19,0.15,9156.15,7420.06,1736.09,Website
+RTL01200,2025-08-15,Mumbai,West,Headphones,Accessories,Returning,1,2490.84,0.0,2490.84,1848.86,641.98,Website
